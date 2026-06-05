@@ -26,36 +26,53 @@ Be careful to distinguish gymnosperms (seed‑bearing but non‑flowering) from 
 
 常見錯誤是誤以為所有有種子的植物皆會開花。  
 A common mistake is thinking that all seed‑bearing plants must produce flowers.",
-9002,"📌 **參考答案**  
-C  
-(3) 染色質集中成染色體。  
-The chromatin condenses to form chromosomes.  
+9002,"下圖顯示細胞分裂的四個不同階段：
+The diagram below shows four different stages of cell division:
 
-(1) 染色體複製，每條染色體含有兩個完全相同的染色單體。  
-The chromosomes replicate, with each chromosome consisting of two identical chromatids.  
 
-(2) 染色體排列於赤道板。  
-The chromosomes line up in the middle (on the equatorial plate).  
 
-(4) 每條染色體的兩條染色單體分離。  
-The two chromatids of each chromosome separate.  
 
-📖 **詳細解釋**  
-「染色質濃縮→染色體複製→排列於赤道板→染色單體分離」為細胞分裂中期的典型過程。  
-""The sequence of chromatin condensation → chromosome replication → alignment on equatorial plate → chromatid separation"" represents a standard mitotic cycle.  
 
-圖(3)顯示間期結束時染色質濃縮開始；圖(1)表示染色體完成複製；圖(2)為中期染色體排列；圖(4)為後期，姐妹染色單體分離。  
-Figure (3) shows late interphase as chromatin condenses; Figure (1) shows replicated chromosomes; Figure (2) represents metaphase alignment; Figure (4) shows anaphase chromatid separation.  
+📌 **參考答案**
 
-這順序符合細胞分裂四主要階段：前期 → 中期 → 後期 → 末期。  
-This order matches the four main phases of mitosis: prophase → metaphase → anaphase → telophase.  
+C  (3) → (1) → (2) → (4)
 
-⚠ **考試提醒**  
-常見錯誤是以為染色體在複製後立即分離，應記住**分離發生於後期（anaphase）**。  
-A common mistake is thinking chromosomes separate right after replication; remember separation occurs during **anaphase**.  
+📌 **詳細解釋**
 
-回答圖序題時要根據**染色體形態及位置**判斷，而非只看圖中細胞形狀。  
-When identifying sequence diagrams, focus on **chromosome structure and position**, not general cell shape.",
+這是一題考核有絲分裂（Mitosis）過程順序的典型題目。
+This is a typical question testing the sequence of the process of mitosis.
+
+正確的順序應基於染色體的行為與位置變化：
+The correct sequence should be based on the behavior and positional changes of the chromosomes:
+
+1. **圖 (3) [前期 Prophase]**：染色質縮短並增粗成為清晰可見的染色體，此時核膜正在消失，染色體仍散佈在原細胞核區域。
+**Stage (3) [Prophase]**: Chromatin shortens and thickens to become clearly visible chromosomes; at this time, the nuclear membrane is disappearing, and chromosomes are still scattered within the original nuclear region.
+
+2. **圖 (1) [前期末期 Late Prophase]**：核膜完全消失，染色體散亂分佈在細胞質中。
+**Stage (1) [Late Prophase]**: The nuclear membrane has completely disappeared, and chromosomes are randomly distributed in the cytoplasm.
+
+3. **圖 (2) [中期 Metaphase]**：所有染色體的著絲點整齊排列在細胞中央的赤道板上。
+**Stage (2) [Metaphase]**: The centromeres of all chromosomes are aligned neatly on the equatorial plate in the center of the cell.
+
+4. **圖 (4) [後期 Anaphase]**：著絲點分裂，姊妹染色單體分離並在紡錘絲的牽引下移向細胞兩極。
+**Stage (4) [Anaphase]**: Centromeres divide, and sister chromatids separate, moving toward opposite poles of the cell, pulled by spindle fibers.
+
+**為什麼不是其他答案？**
+**Why not other answers?**
+
+選項 A 與 B 將 (1) 置於 (3) 之前是錯誤的，因為 (3) 顯示染色體仍較為集中，反映了剛從染色質濃縮而成的初期狀態。
+Options A and B are incorrect because they place (1) before (3); (3) shows chromosomes more concentrated, reflecting the initial state just after condensing from chromatin.
+
+選項 D 將 (4) 置於 (2) 之前是錯誤的，因為染色體必須先在中央排列（中期），然後才能分離（後期）。
+Option D is incorrect because chromosomes must first align in the center (metaphase) before they can separate (anaphase).
+
+📌 **考試提醒**
+
+學生常混淆「前期」與「中期」的界線，關鍵點在於觀察染色體是否已經整齊排成直線。
+Students often confuse the boundary between prophase and metaphase; the key is to observe whether the chromosomes are neatly aligned in a straight line.
+
+此外，必須記得 DNA 複製是在「間期」完成的，當我們在圖 (3) 看到染色體時，它們已經是由兩條染色單體組成的複製狀態了。
+Furthermore, remember that DNA replication is completed during ""interphase""; by the time we see chromosomes in stage (3), they are already in a replicated state consisting of two chromatids.",
 9003,"📌 **參考答案**  
 D    都沒有葉綠體。  
 Both have no chloroplasts.  
@@ -80,8 +97,7 @@ The only common feature between them is the absence of chloroplasts.
 題目常以「洋蔥表皮細胞」混淆考生，須記住洋蔥雖是植物細胞，但其表皮不含葉綠體。  
 A common trick in exams is “onion epidermal cells”; remember they are plant cells **without chloroplasts**.  
 
-答案選D，不能選C，因為洋蔥表皮細胞有細胞核。  
-Choose D, not C, since onion epidermal cells **do have a nucleus**.",
+",
 9004,"📌 **參考答案**  
 答案：A  
 
@@ -914,8 +930,8 @@ The nitrogen cycle includes: putrefaction → nitrification → denitrification 
 Remember: ammonia → nitrate increases nitrate content.",
 9034,"💪第 34 題
 📌參考答案
-答案：A　P 收縮，Q 關閉。
-Answer: A　P contracts, Q closes.
+答案：A
+
 
 📘詳細解釋
 當骨骼肌收縮時，靜脈被壓迫。
@@ -1356,20 +1372,65 @@ The ratio of Aa (normal phenotype) to aa (albino) is 1:1.
 
 因此，他們的子女有 ½ 的機率是白化病患者。
 Therefore, the probability of them having an albino child is 1/2.",
-9055,,
+9055,"📘 Question 55
+
+📌 **參考答案**  
+C　尿量多但尿液含鹽量高。  
+C Urine volume increases but its salt concentration is high.
+
+📌 **詳細解釋**  
+一個健康的人喝進大量濃湯後，會同時攝入大量水分和鹽分。  
+When a healthy person drinks a large amount of thick soup, he ingests both a large volume of water and a large amount of salt.
+
+身體需要排出多餘的水分和鹽分以維持體液平衡。  
+The body needs to excrete the excess water and salt to maintain fluid balance.
+
+水分過多會導致尿量增加，因為腎臟會將多餘的水分排出。  
+Excess water leads to an increase in urine volume because the kidneys excrete the surplus water.
+
+與此同時，濃湯中的大量鹽分也會被吸收進入血液，使血漿滲透壓升高。  
+At the same time, the large amount of salt in the soup is absorbed into the blood, raising the plasma osmotic pressure.
+
+為了排出過多的鹽分，腎臟會製造較高濃度的尿液，因此尿液的含鹽量仍然很高。  
+To excrete the excess salt, the kidneys produce a more concentrated urine, so the salt concentration in the urine remains high.
+
+因此，最終結果是尿量增多，且尿液含鹽量高。  
+Therefore, the final result is an increase in urine volume together with a high salt concentration in the urine.
+
+**為什麼不是其他答案？**  
+**Why are the other options incorrect?**
+
+- **A（尿量少但尿液含鹽量高）**：喝大量湯會攝入大量水分，身體不會減少尿量，反而會增加尿量以排出水分。  
+  A (Low urine volume but high salt concentration): Drinking a large amount of soup means a large water intake; the body will not reduce urine output but will increase it to excrete the excess water.
+
+- **B（尿量少但尿液含鹽量低）**：鹽分攝入增加，身體必須排出鹽分，尿液含鹽量不可能低；同時水分過多也不會導致尿量減少。  
+  B (Low urine volume and low salt concentration): Salt intake increases, so the body must excrete salt; the urine salt concentration cannot be low. Also, excess water does not decrease urine volume.
+
+- **D（尿量多但尿液含鹽量低）**：鹽分攝入增加，腎臟會盡量保留水分以稀釋鹽分？事實上，身體需要排出多餘鹽分，尿液含鹽量會升高，而非降低。  
+  D (High urine volume but low salt concentration): When salt intake increases, the kidneys need to excrete the excess salt, so the urine salt concentration rises, not falls.
+
+📌 **考試提醒**  
+記住：攝入大量水分 → 尿量增加；攝入大量鹽分 → 尿液含鹽量增加。  
+Remember: Large water intake → increased urine volume; large salt intake → increased urine salt concentration.
+
+若同時攝入大量水分和鹽分（如濃湯），則尿量增多且尿液濃縮（高鹽）。  
+When both water and salt are taken in large amounts (e.g., thick soup), urine volume increases and the urine becomes concentrated (high salt).
+
+常見錯誤是誤以為喝湯後尿液會變稀，因為水多；但身體優先排出多餘鹽分，尿液仍可保持高滲透壓。  
+A common mistake is thinking that drinking soup dilutes urine because of the water; however, the body prioritises excreting the excess salt, so the urine can remain hypertonic.",
 9056,"📘 Question 56
 📌 參考答案
 答案：A
-Answer: A
+
 
 📌 詳細解釋
 (1) 圖 A 中身高介於 156–158 cm 的個體數最多。✅
-(2) 種群 B 的平均身高高於種群 A。✅
+(2) 種群 B 的平均身高高於種群 A。❌
 (3) 圖 A 的最高個體為 180 cm；圖 B 的最矮個體為 162 cm。❌
 (3) Incorrect.
 
-因此只有 (1) 和 (2) 正確 → 答案 A。
-Therefore, only (1) and (2) are correct → Answer A.
+因此只有 (1)  正確 → 答案 A。
+Therefore, only (1) correct → Answer A.
 ",
 9057,"📘 第 57 題
 📌 參考答案
@@ -1451,3 +1512,410 @@ Remember: Blood flows into the lungs from the right heart and out to the body fr
 
 不要混淆心房（atrium）與心室（ventricle）的先后順序。
 Do not confuse the order of the atria and ventricles when tracing blood flow.",
+90p101a,"📌 參考答案
+
+(a)(i)
+細胞 A 和 D。
+Cells A and D.
+
+這兩種細胞都有細胞壁與大型液泡。
+Both of these cells possess a cell wall and a large vacuole.
+
+(a)(ii)(1)
+細胞 A 控制氣孔的開閉；細胞 B 傳遞神經衝動。
+Cell A controls the opening and closing of the stomatal pore, and Cell B conducts nerve impulses.
+
+(a)(ii)(2)
+細胞 A 的細胞壁厚薄不均，協助氣孔開關；細胞 B 具有長而細的神經纖維，以提高訊息傳遞速度。
+Cell A has an unevenly thickened cell wall, allowing the stomatal pore to open and close; Cell B has a long slender nerve fibre to facilitate rapid transmission of nerve impulses.
+
+(a)(iii)
+細胞 C 會爆裂，而細胞 D 會變得膨脹。
+Cell C will burst, whereas Cell D will become turgid.
+
+細胞 C 與 D 的水勢均低於蒸餾水，水分經滲透作用進入。
+The water potential of both Cells C and D is lower than that of distilled water, so water enters by osmosis.
+
+細胞 C 因沒有細胞壁而最終破裂；細胞 D 因有細胞壁支撐，所以不會破裂。
+Cell C bursts since it lacks a cell wall, while Cell D does not burst because the cell wall provides structural support.",
+90p101b,"""📌 參考答案
+
+(b)(i)
+由第 2 秒至第 4 秒。
+From 2 s to 4 s.
+
+在這段時間內，肺內氣壓高於大氣壓，因此空氣由肺排出。
+During this period, the air pressure inside the lungs is higher than atmospheric pressure, causing air to move out of the lungs (exhalation).
+
+(b)(ii)
+肋間肌鬆弛，使肋骨下降；橫膈膜也放鬆，恢復拱起狀態。
+The intercostal muscles relax, causing the ribs to move downward, and the diaphragm relaxes, curving upwards.
+
+這些動作令胸腔體積減少，肺內氣壓上升，導致呼氣發生。
+These actions reduce the volume of the thoracic cavity, thereby increasing the air pressure in the lungs and resulting in exhalation.
+
+(b)(iii)
+呼吸速率為每分鐘約 15 次。
+The rate of breathing is approximately 15 breaths per minute.
+
+這是由圖中一次完整呼吸歷時約 4 秒推算得出。
+This is deduced from the graph, since one full breathing cycle lasts about 4 seconds.
+
+(b)(iv)
+<img src='images/90p101b.png' />
+
+肺內空氣壓力 (mm Hg) 的變化如下：
+The variation in air pressure in the lungs (mm Hg) during breathing is as follows:
+
+運動時，吸氣及呼氣頻率加快，每次吸氣時氣壓下降幅度較大，而呼氣時上升幅度亦增加。
+During exercise, the frequency of inhalation and exhalation increases, the pressure drop during inhalation becomes greater, and the pressure rise during exhalation becomes steeper.
+
+這反映肺部氣體交換更迅速，以滿足較高的氧需求。
+This shows that gas exchange occurs more rapidly to meet the body’s higher oxygen demand during exercise."",""""",
+90p101c,"📌 參考答案
+
+(c)(i)(1)
+黃色籽粒：18；紫色籽粒：53。
+Yellow grains: 18; Purple grains: 53.
+
+(c)(i)(2)
+兩者比例約為 1 : 3。
+The approximate ratio between them is 1 : 3.
+
+(c)(ii)
+兩親本植物都是異型合子。
+Both parent plants are heterozygous.
+
+紫色為顯性性狀，因為紫色籽粒與黃色籽粒的比例為 3 : 1。
+Purple is the dominant trait, as the ratio of purple to yellow grains is 3 : 1.
+
+因此，兩親本植物的外表型均為紫色。
+Therefore, the phenotype of both parents is purple grain colour.
+
+(c)(iii)
+所得玉蜀黍籽粒為黃色。
+The resulting maize grains will be yellow.
+
+因為兩親本植物皆帶有同型結合的隱性基因。
+Because both parent plants carry homozygous recessive genes.",
+90p102a,"📌 參考答案
+
+(a)(i)
+蛋白立方塊消失的時間愈短，酶的反應速率愈快。
+The shorter the time for the egg white cube to disappear, the faster the rate of enzyme activity.
+
+(a)(ii)
+pH 2。
+
+
+(a)(iii)
+使用濃度較高的酶溶液，及使用體積較小的蛋白立方體。
+Use a more concentrated enzyme solution and smaller cubes of egg white.
+
+(a)(iv)
+以固定週期的時間量度蛋白立方體減少的重量。
+Measure the decrease in weight of the egg white cubes at fixed time intervals.
+
+(a)(v)
+胃。
+Stomach.
+
+(a)(vi)
+以蒸餾水（煮沸的酶）代替酶溶液，重覆整個實驗。
+Use distilled water (boiled enzyme) instead of enzyme solution and repeat the whole experiment.
+",
+90p102b,"""📌 參考答案
+
+(b)(i)
+用來比較胚根在不同部位生長的速率。
+To compare the rate of growth at different sections of the radicle.
+
+(b)(ii)(1)
+<img src='images/90p102b.png' />
+如圖所示，胚根向下彎曲生長。
+As shown in the diagram, the radicle bends downward in growth.
+
+(b)(ii)(2)
+根部可以深入泥土中生長，使它具有更好的錨地性，和吸引更多的水份。
+The roots can grow deeper into the soil for better anchorage and to absorb more water.
+
+(b)(iii)
+胚根不會向下生長，因為在太空中沒有重力作用。
+The radicle grows without bending because there is no gravitational force acting on it in space.."",""""",
+90p102c,"📌 參考答案
+
+(c)(i)
+A：後腔靜脈。
+A: Vena cava.
+
+它可以運送血液回心臟。
+It transports blood back to the heart.
+
+B：膀胱。
+B: Urinary bladder.
+
+它可以貯存尿液。
+It stores urine.
+
+(c)(ii)(1)
+X 是由構造 B 所收集到的。
+X is collected from structure B.
+
+Y 是由構造 C 所收集到的。
+Y is collected from structure C.
+
+(c)(ii)(2)(I)
+蛋白質分子太大了，無法通過腎小球。
+The molecules of protein are too large to pass through the glomerulus.
+
+(c)(ii)(2)(II)
+葡萄糖在腎小管中經過再吸收作用被吸收回血液之中。
+Glucose is reabsorbed into the blood through the kidney tubules.
+
+(c)(ii)(2)(III)
+尿素不會被再吸收，但是大量的水份會被再吸收，因此尿素的濃度變高。
+Urea is not reabsorbed, but a large amount of water is reabsorbed, so the concentration of urea increases.
+",
+90p103a,"📌 參考答案
+
+(a)(i)(1)
+爬行類。
+Reptile.
+
+它有乾燥的鱗片。
+It has dry scales.
+
+(a)(i)(2)
+鳥類。
+Bird.
+
+它有羽毛。
+It has feathers.
+
+(a)(ii)(1)
+毒蕈：腐生營養。
+Toadstool: saprophytic nutrition.
+
+樹：自養營養。
+Tree: autotrophic nutrition.
+
+(a)(ii)(2)
+毒蕈以孢子繁殖下一代。
+Toadstools reproduce by spores.
+
+樹以種子繁殖下一代。
+Trees reproduce by seeds.
+
+(a)(iii)(1)
+蟎、蜈蚣。
+Mite, centipede.
+
+(a)(iii)(2)
+烏鴉、蛇。
+Crow, snake.
+
+(a)(iv)(1)
+捕食。
+Predation.
+
+(a)(iv)(2)
+競爭。
+Competition.",
+90p103b,"📌 參考答案
+
+(i)
+化學藥物 Y
+Chemical Y.
+Y 能更有效地減少泥土中動物的總重量。
+Y is more effective because it causes a greater reduction in the total weight of soil animals.
+
+(ii)
+在區域 B，蟎的數量下降，使牠們所獵食的躍尾蟲的數量增加，因此躍尾蟲可迅速繁殖。
+In area B, fewer mites mean fewer predators feeding on springtails, allowing the springtail population to expand rapidly.
+
+(iii)
+農作物吸收少量 DDT，害蟲進食農作物後體內累積 DDT，食鳥再攝食大量害蟲，體內 DDT 濃度逐層上升。
+Crop plants absorb small amounts of DDT; pests feeding on those plants accumulate DDT, and birds consuming many pests build up even higher DDT levels.
+由於 DDT 無法從體內排出，其濃度便會沿食物鏈逐步上升。
+As DDT cannot be excreted, its concentration becomes magnified along the food chain.",
+90p103c,"📌 參考答案
+
+(i)
+兒童每公斤體重的能量需求 = 7560 ÷ 20 = 378 kJ/kg。
+Energy per unit body weight for children = 7560 ÷ 20 = 378 kJ/kg.
+
+男士每公斤體重的能量需求 = 11340 ÷ 70 = 162 kJ/kg。
+Energy per unit body weight for men = 11340 ÷ 70 = 162 kJ/kg.
+
+女士每公斤體重的能量需求 = 8400 ÷ 55 = 152.7 kJ/kg。
+Energy per unit body weight for women = 8400 ÷ 55 = 152.7 kJ/kg.
+
+孕婦每公斤體重的能量需求 = 9660 ÷ 65 = 148.6 kJ/kg。
+Energy per unit body weight for pregnant women = 9660 ÷ 65 = 148.6 kJ/kg.
+
+因此，以每單位體重計算，兒童的能量需求最高。
+Therefore, children require the highest energy per unit body weight.
+
+(2)
+兒童需要更多能量以維持較高的新陳代謝率，從而支持快速生長。
+Children need more energy to maintain a higher metabolic rate, supporting their rapid growth.
+
+(ii)
+兒童需要比男士更多的維生素 D，因為他們仍在發展骨骼。
+Children require more vitamin D than men, as they are developing their bones.
+
+(iii)
+孕婦需要更多的蛋白質，以供應胎兒的生長發育。
+Pregnant women need more protein to provide for the growth of the foetus.
+
+(iv)
+女性的鐵質需求高於男性，因為月經期間的失血會令鐵質流失，而鐵質是紅血球的重要成分。
+Women require more iron than men because menstrual blood loss depletes iron, which is essential for the formation of red blood cells.",
+90p104a,"""📌 參考答案
+
+(i)
+<img src='images/90p104a.png' />
+二氧化碳的吸收淨量（mg cm⁻³ h⁻¹）與光照強度（隨意單位）的關係如圖所示。
+The graph shows the relationship between the net uptake of carbon dioxide (mg cm⁻³ h⁻¹) and light intensity (arbitrary units).
+
+葉的曲線較高，表示葉的光合作用速率比莖高。
+The curve for the leaf is higher, indicating a higher rate of photosynthesis than the stem.
+
+(ii) (1)
+莖在光照強度 5 時，每小時吸收的二氧化碳量為 10.1 × 10 mg = 101 mg。
+At light intensity 5, the stem absorbs 10.1 × 10 mg = 101 mg of CO₂ per hour.
+
+(ii) (2)
+葉在相同條件下，每小時吸收的二氧化碳量為 (10.1 + 1) × 10 mg = 111 mg。
+Under the same condition, the leaf absorbs (10.1 + 1) × 10 mg = 111 mg of CO₂ per hour.
+
+(iii) (1)
+葉比莖吸收更多二氧化碳。
+The leaf absorbs more carbon dioxide than the stem.
+
+(iii) (2)
+葉含有較多的葉綠體與氣孔。
+The leaf has more chloroplasts and stomata than the stem. "",""""",
+90p104b,"📌 參考答案
+
+(i) (1)
+骨骼肌和皮膚。
+Skeletal muscle and skin.
+
+(i) (2)
+骨骼肌需要更多的氧氣和養分以進行呼吸作用，釋放能量以支持肌肉收縮。
+Skeletal muscles require more oxygen and nutrients for respiration to release energy for muscle contraction.
+
+皮膚表面的血液供應增加，有助加強散熱以維持體溫恒定。
+The increased blood supply to the skin surface enhances heat loss to maintain a stable body temperature.
+
+(ii)
+腦。當腦部血液供應不足時，它將無法正常運作。
+Brain. When the brain receives insufficient blood supply, it cannot function properly.",
+90p104c,"📌 參考答案
+
+(i)
+它會產生卵子並分泌性激素。
+It produces eggs and secretes sex hormones.
+
+(ii) (1)
+指雄性與雌性配子的融合。
+The fusion of male and female gametes.
+
+(ii) (2)
+B。
+
+
+(iii) (1)
+當構造 B 被阻塞時，卵子無法通過 B 到達 D，因而不會發生受精作用。
+When B is blocked, the egg cannot pass through B to D, so fertilization cannot occur.
+
+(iii) (2)
+使胚胎在子宮中能準備好著床。
+To ensure the embryo is ready for implantation.
+
+(iii) (3)
+它會形成胎盤以保護胚胎，避免受到震動或溫度突變。
+It allows the formation of a placenta that protects the embryo from shock and sudden temperature changes.
+
+胎盤同時也是胚胎進行氣體交換、吸收營養及排泄廢物的場所。
+The placenta is also the site for gaseous exchange, nutrient uptake, and excretion of wastes from the embryo.
+
+(iii) (4)
+因為嬰兒的大部分發育都在母親的子宮內完成，而非在試管中進行。
+Because most of the development of the baby takes place inside the mother's uterus, not in a test tube.
+",
+90p105a,"📘 第5(a)題
+(i)
+裝置 C 和 D
+Set-ups C and D
+
+在裝置 C 中，塗抹的凡士林封住了氣孔，蒸騰作用無法進行。
+In set-up C, the vaseline blocks the stomata, so transpiration cannot take place.
+
+在裝置 D 中，因為枝條上已沒有葉片，故沒有表面可進行蒸騰作用。
+In set-up D, there are no leaves remaining, hence no surface available for transpiration.
+
+(ii)
+(1)
+曲線 II：裝置 B
+Curve II: Set-up B
+
+曲線 III：裝置 A
+Curve III: Set-up A
+
+(2)
+葉片的下表皮具有比上表皮更多的氣孔，因此在裝置 B 中，當下表皮被凡士林塗抹後，水分散失速率大幅下降。
+The lower epidermis has more stomata than the upper epidermis; therefore, in set-up B, once the lower surface is covered with vaseline, the rate of water loss drops greatly.
+
+(iii)
+(1)
+若把裝置 A 放在密閉鐘罩內，失重速率會下降，因為水蒸氣困在罩內使濕度上升。
+If set-up A is placed inside a bell jar, the rate of weight loss decreases because the trapped water vapour increases humidity.
+
+(2)
+若把裝置 A 放在黑暗環境中，失重速率同樣會下降，因為黑暗中溫度較低。
+If set-up A is placed in darkness, the rate of weight loss also decreases because the temperature is lower.",
+90p105b,"📘 第5(b)題
+(i)
+指尖。
+Fingertip.
+
+(ii)
+針觸的位置沒有觸覺感受器存在。
+The place where the pin was applied has no touch receptor.
+
+(iii)
+針刺激觸覺感受器，感受器產生神經衝動；這個衝動經由感覺神經元和中樞聯絡神經元傳遞至大腦。
+The pin stimulates the touch receptor, which generates a nerve impulse; this impulse travels through sensory and relay neurones to the brain.
+
+因此產生觸覺的感覺，然後大腦發出脈衝經由運動神經元傳到控制說話的肌肉。
+As a result, the sensation of touch is perceived, and the brain sends impulses through motor neurones to the muscles responsible for speech.
+
+(iv)
+(1) 反射動作。
+(1) Reflex action.
+
+(2) 這樣可使身體迅速避開危險。
+(2) It occurs very rapidly to help avoid danger.
+
+(3) 這種反應是天生的，並不受意志控制。
+(3) This type of response is inborn and not under voluntary control.",
+90p105c,"📘 第5(c)題
+(i)
+脫水法 —— 奶粉和冬菇
+Dehydration — milk powder and dried mushroom
+
+罐藏法 —— 焗豆和奶粉
+Canning — baked beans and milk powder
+
+(ii)
+脫水法：由於水分被除去，微生物無法生長。
+Dehydration: As water is removed, micro-organisms cannot grow.
+
+罐藏法：罐內的氧氣被抽走，防止氧氣進入與食物接觸，使細菌無法生長。
+Canning: The can is sealed and oxygen-depleted, preventing oxygen from contacting the food, thus inhibiting bacterial growth.
+
+(iii)
+食物的氣味或味道可能已經改變，微生物也可能在食物表面生長。若食用這些食物，可能導致食物中毒。
+The smell and taste of food may have changed, and micro-organisms may have grown on the food. Eating such food may cause food poisoning.",

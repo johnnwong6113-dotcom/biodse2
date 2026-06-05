@@ -586,51 +586,20 @@ Nicotine raises blood pressure and increases heart workload.
 
 題目多以「吸煙影響呼吸系統」為重點，選擇與肺部功能有關的描述。
 When a question focuses on smoking and health, prioritize respiratory effects.",
-9121,"## 🌿 第21題  
+9121,"🚭 第21題
+📌 參考答案
+C 只有(2)和(3)
 
-📌 **參考答案**  
-答案：C — 只有 (1)和 (3)
 
+📌 詳細解釋
+(1) 錯誤。在光照強度為1時，曲線位於x軸下方，表示二氧化碳淨釋出，這是因為呼吸作用速率大於光合作用速率，但光合作用仍然發生，並非「只發生呼吸作用」。
+(1) Incorrect. At light intensity 1, the curve is below the x‑axis, indicating a net release of CO₂. This happens because respiration exceeds photosynthesis, but photosynthesis still occurs — it is not “only respiration”.
 
----
+(2) 正確。在光照強度為2時，曲線與x軸相交，二氧化碳淨交換為零，表示光合作用速率等於呼吸作用速率。
+(2) Correct. At light intensity 2, the curve crosses the x‑axis; net CO₂ exchange is zero, meaning the rates of photosynthesis and respiration are equal.
 
-📌 **詳細解釋**  
-
-**(1)** 在光照強度 = 1 時，呼吸速率高於光合作用速率，所以植物釋放二氧化碳。  
-At a light intensity of 1, the rate of respiration is greater than the rate of photosynthesis, thus there is a net release of carbon dioxide.  
-
-👉 曲線在該點下方（負值區），代表釋出多於吸收。  
-👉 The curve lies below the x‑axis (negative region), showing emission > absorption.  
-✅ 因此，(1) 正確。  
-✅ Hence, (1) is correct.  
-
----
-
-**(2)** 在光照強度 = 2 時，曲線與 x 軸相交，代表光合作用與呼吸作用速率相等。  
-At a light intensity of 2, the curve crosses the x‑axis, meaning photosynthesis equals respiration.  
-
-👉 此處為**補償點**（compensation point），植物吸收與釋放的二氧化碳量相等。  
-👉 This is the **compensation point**, where CO₂ uptake equals release.  
-✅ 因此，(2) 正確。  
-✅ So (2) is correct.  
-
----
-
-**(3)** 在光照強度 = 9 時，二氧化碳吸收量已達最大，光合作用速率遠大於呼吸作用。  
-At a light intensity of 9, CO₂ uptake reaches its maximum, and photosynthesis greatly exceeds respiration.  
-
-👉 曲線位於最上位置（正值區頂部），說明淨吸收二氧化碳最多。  
-👉 The curve is at its top (positive region), indicating the highest net CO₂ uptake.  
-✅ (3) 亦正確。  
-✅ Thus, (3) is also correct.  
-
----
-
-📌 ** but **題目要求**
-問問句：「根據曲線圖可獲得下列哪些結論？」  
-Options show combinations—正確的是 (1) 與 (3)。  
-Therefore, 答案為 C。  
-
+(3) 正確。在光照強度為9時，曲線位於x軸上方且接近水平，表示淨吸收二氧化碳，因此光合作用速率遠大於呼吸作用速率。
+(3) Correct. At light intensity 9, the curve is above the x‑axis and nearly flat, indicating net CO₂ uptake, so photosynthesis greatly exceeds respiration.
 ---
 
 📌 **考試提醒**  
@@ -1395,3 +1364,586 @@ Urea appears in both regions, as it remains dissolved in urine.
 健康人尿液中不應含糖或蛋白；出現者代表糖尿病或腎病。
 In healthy individuals, no glucose or protein should appear in urine; their presence signals diabetes or kidney disorder.
 ",
+91p101a,"""📘 第1(a)題
+(i)
+細胞A沒有細胞壁，但細胞C有細胞壁。
+Cell A has no cell wall, but cell C has a cell wall.
+
+細胞A有大的細胞核，但細胞C只有小的細胞核。
+Cell A has a large nucleus, but cell C has a small nucleus.
+
+細胞A沒有液泡，但細胞C含有液泡。
+Cell A has no vacuole, but cell C has a vacuole.
+
+細胞A呈圓形，而細胞C呈多邊形。
+Cell A is round in shape, but cell C is angular or polygonal in shape.
+
+(ii)
+(1) 由於細胞B是雙凹圓盤形，其中央含較少細胞質，因此顯得顏色較淺。
+(1) As cell B is a bi-concave disc, its central part contains less cytoplasm, appearing lighter in colour.
+
+(2) 這種形狀有較大的表面積與體積比，有助於氣體的擴散。
+(2) This shape provides a larger surface area to volume ratio to facilitate gas exchange.
+
+(iii)
+細胞A能吞噬或殺死病菌及清除死亡的細胞。
+Cell A kills or engulfs germs and removes dead cells.
+
+(iv)
+細胞B會收縮，因為水分會透過滲透作用流出細胞。
+The cell will shrink because water moves out by osmosis.
+
+(v)
+<img src='images/91p101a.png' />
+植物細胞發生質壁分離。
+Plant cell undergoing plasmolysis.
+
+標籤：細胞壁、細胞膜、細胞質、細胞核、液泡
+Labels: cell wall, cell membrane, cytoplasm, nucleus, vacuole."",""""
+",
+91p101b,"📌 參考答案
+
+(b)(i)(1)
+鐵質。
+Iron.
+
+(b)(i)(2)
+缺乏鐵質會導致貧血的症狀，如面色蒼白、容易疲倦、頭暈。
+A lack of iron leads to symptoms of anaemia such as pale skin, tiredness, and dizziness.
+
+(b)(ii)
+嬰兒每日需要能量為 5100 kJ。
+A one-year-old baby requires 5100 kJ of energy per day.
+
+人乳每 100 cm³ 提供 300 kJ 能量。
+Human milk provides 300 kJ of energy per 100 cm³.
+
+所需人乳量 = 5100 ÷ 300 × 100 = 1700 cm³。
+Required volume of human milk = 5100 ÷ 300 × 100 = 1700 cm³.
+
+📌 詳細解釋
+
+(b)(iii)
+人乳的維生素含量（特別是維生素A及C）高於牛乳，有助保持上皮組織健康與增強免疫力，能有效預防感染和各類維生素缺乏症。
+Human milk has higher levels of vitamins, especially vitamins A and C, which help maintain healthy epithelial tissues and strengthen the immune system, preventing infections and vitamin deficiency diseases.
+
+而且人乳還含有母體抗體，能為嬰兒提供被動免疫保護，這是牛乳所沒有的。
+Additionally, human milk provides maternal antibodies that give the baby passive immunity — a feature absent in cow’s milk.
+
+(b)(iv)
+牛乳中的蛋白質（3.4 g）明顯高於人乳（1.2 g），能提供更多胺基酸製造細胞質與體內結構，有助於成長期兒童增加體重與肌肉量。
+Cow’s milk contains 3.4 g of protein per 100 cm³, much higher than the 1.2 g in human milk. This provides more amino acids for producing protoplasm and body tissues, helping growing children increase muscle mass and body size.
+
+此外，牛乳中的鈣（0.126 g）與磷（0.100 g）亦遠高於人乳，能強化骨骼和牙齒，減少骨質流失與齒列問題。
+Furthermore, cow’s milk has much higher calcium (0.126 g) and phosphorus (0.100 g) contents than human milk, which strengthen bones and teeth and reduce risks of bone weakness or dental issues.
+
+因此，對於兒童與青少年的快速成長期，牛乳能提供更高的營養密度以支援體格發展。
+Therefore, cow’s milk provides a denser nutritional source that supports rapid physical development in children and adolescents.
+",
+91p101c,"""📌 參考答案
+
+(c)(i)
+白化性狀是隱性性狀。
+Albinism is a recessive character.
+
+因為白化表現只出現在個體10，而不出現在其父母（個體3及4）身上。
+This is because albinism appears only in individual 10 but not in her parents (individuals 3 and 4).
+
+她一定從父母雙方各獲得一個白化等位基因。
+She must have inherited one albino allele from each parent.
+
+因此她的父母均為異型合子。
+Therefore, both of her parents are heterozygous.
+
+在這種情況下，顯性等位基因會掩蓋隱性等位基因的表現。
+In this condition, the dominant allele masks the expression of the recessive allele.
+
+(c)(ii)(1)
+
+<img src='images/91p101b.png' />
+
+（個體6）為 Dd，與（個體10）dd 交配。
+Individual 6 (Dd) is crossed with individual 10 (dd).
+
+配子為 D、d 及 d。
+The gametes are D, d and d.
+
+子代表現型：Dd（正常）、dd（白化）。
+Offspring phenotypes: Dd (normal), dd (albino).
+
+因此，正常：白化 = 1 : 1。
+Therefore, the ratio of normal to albino = 1 : 1.
+
+(c)(ii)(2)
+他們第四個孩子為白化的機會是 50%。
+The probability that their fourth child will be albino is 50%. "",""""",
+91p102a,"""📌 參考答案
+
+2(a)(i)
+澱粉仍然存在於這些位置上，因為沒有發生消化作用。
+Starch is still present in these spots because there is no digestion.
+
+點A的唾液酶在酸性環境下不能發揮作用。
+The enzyme in spot A cannot work in an acidic medium.
+
+點B的唾液酶因被加熱而變性。
+The enzyme in spot B has been denatured by heat.
+
+2(a)(ii)
+點D呈現紅棕色，表示澱粉已被分解。
+The reddish‑brown colour in spot D shows that starch has been digested.
+
+這是由麵包霉分泌的酶所進行的消化作用。
+It is due to the enzyme secreted by the bread mould.
+
+2(a)(iii)
+這個溫度適合唾液中的酶發揮活性。
+This temperature is suitable for the enzyme activity in saliva.
+
+這個溫度也適合麵包霉的酶活動或生長。
+It is also suitable for the enzyme activity or growth of the bread mould.
+
+2(a)(iv)
+圖示 / Labelled diagram：
+<img src='images/91p102a.png' />
+
+標籤可包括以下任何四項：
+Labels (any four):
+
+孢囊 (sporangium)
+孢子 (spores)
+孢囊梗 (sporangiophore)
+菌絲或匍匐枝 (hyphae / stolons)
+假根 (rhizoids)
+接合孢子 (zygospores)
+2(a)(v)
+因為唾液可傳播疾病，例如肝炎。
+It is because saliva can transmit diseases such as hepatitis."",""""
+",
+91p102b,"""📌 參考答案
+
+2(b)(i)
+<img src='images/91p102b.png' />
+圖示顯示血液中尿素濃度隨時間的變化。
+The graph shows the change in blood urea concentration with time.
+
+縱軸標示為「血液中尿素濃度 (mg / 100 cm³)」，橫軸標示為「時間 (小時)」。
+The vertical axis is labeled “Blood urea concentration (mg / 100 cm³)” and the horizontal axis “Time (hours)”.
+
+各數據點分別為 07:00 = 7.0，08:00 = 7.0，11:00 = 3.6，14:00 = 2.6，17:00 = 2.0，20:00 = 1.6。
+The plotted data points are 07:00 = 7.0, 08:00 = 7.0, 11:00 = 3.6, 14:00 = 2.6, 17:00 = 2.0, 20:00 = 1.6.
+
+2(b)(ii)
+肝臟在 08:00 時被切除，因此不再有去氨作用來產生尿素。
+The liver was removed at 08:00 hours, therefore there was no deamination to produce urea.
+
+但血液中的尿素仍被腎臟持續排出尿液外。
+However, urea in the blood continued to be excreted by the kidneys in the urine.
+
+因此血液中尿素濃度逐漸下降。
+Therefore, the blood urea concentration decreased.
+
+2(b)(iii)
+血液中尿素濃度會上升。
+The blood urea concentration would increase.
+
+因為沒有腎臟可排出尿素。
+Because there is no kidney to remove the urea.
+
+而肝臟仍會持續產生尿素。
+And the liver continues to form urea continuously.
+
+2(b)(iv)
+肝臟負責膽汁的製造。
+The liver is responsible for the formation of bile.
+
+它亦負責調節血糖濃度。
+It also regulates blood sugar level.
+
+或肝臟用作儲存糖原。
+Or it serves as a store for glycogen.
+
+（以上三項任答其一即可）
+(Any one of the above points is acceptable.) "",""""",
+91p102c,"📌 參考答案
+
+(i) (1)
+綠色植物和分解者在呼吸作用中產生二氧化碳，而綠色植物在光合作用中產生氧氣。
+Green plants and decomposers produce carbon dioxide during respiration, while green plants produce oxygen during photosynthesis.
+
+(i) (2)
+植物表面的水分經蒸騰作用流失，水蒸氣冷凝後再回流到泥土中。
+Water is lost from the plant surface by transpiration, then the water vapour condenses and falls back to the soil.
+
+(i) (3)
+植物老化的部分會死亡或脫落，然後被分解者分解成無機養分，釋放回泥土中。
+The older parts of the plants die or fall off, and decomposers break them down to release inorganic nutrients back into the soil.
+
+(ii)
+動物 / 消費者。
+Animals / Consumers.
+
+由於在封閉系統中，植物與分解者之間的養分循環需要若干時間才能建立，因此在初期必須有養分來源。
+In a closed system, the cycle of nutrients between plants and decomposers takes time to establish, so an initial source of nutrients is required.",
+91p103a,"""📌 參考答案
+
+(a)(i)(1)
+防止空氣中的氧氣溶於溶液之中。
+To prevent oxygen in air from dissolving into the solution.
+
+(a)(i)(2)
+使在試管中能產生足夠的二氧化碳供光合作用使用。
+To provide sufficient carbon dioxide in the tube for photosynthesis.
+
+(a)(i)(3)
+相對光照強度與燈與試管間距離的平方成反比。
+The relative light intensity is inversely proportional to the square of the distance between the lamp and the test tube.
+
+(a)(i)(4)
+1 / T = 0.05 min⁻¹，因此 T = 1 / 0.05 = 20 分鐘。
+1 / T = 0.05 min⁻¹, therefore T = 1 / 0.05 = 20 minutes.
+
+(a)(i)(5)
+光合作用速率隨光照強度增加而上升，直至達到某一固定值後趨於平穩。
+The rate of photosynthesis increases with increasing light intensity up to a certain level, beyond which the rate levels off.
+
+(a)(ii)
+設計實驗裝置以證明染料變藍不是由二氧化碳引起
+Design an experimental set-up to show that the colour change is not caused by carbon dioxide.
+
+<img src='images/91p103a.png' />
+
+空氣先通過盛有濃氫氧化鈉溶液 / 濃氫氧化鉀溶液 / 石灰石粉 / 蘇打石灰的容器，以吸收空氣中的二氧化碳。
+Air is first passed through a container containing concentrated sodium hydroxide / potassium hydroxide / soda lime / calcium oxide to absorb carbon dioxide from the air.
+
+第二個連接的容器內放置石灰水 / 碳酸氫鹽指示劑，用以檢查是否仍有二氧化碳存在。
+A second connected container with lime water / hydrogencarbonate indicator is used to confirm the absence of carbon dioxide.
+
+第三個容器裝有無色染料溶液，並連接前述氣路，讓不含二氧化碳的空氣通入其中。
+A third container holding the colourless dye solution is connected to the air stream so that carbon dioxide–free air bubbles through it.
+
+若染料仍然因充入的空氣而變藍，則可證明顏色改變並非由二氧化碳引起，而是由氣體中的氧氣造成。
+If the dye changes to blue when carbon dioxide–free air is introduced, it shows that the colour change is due to oxygen, not carbon dioxide."",""""
+",
+91p103b,"📌 參考答案 Reference Answers 
+
+(b)(i)
+X：偽足。
+X: Pseudopodium.
+
+Y：伸縮泡。
+Y: Contractile vacuole.
+
+(b)(ii)
+偽足會伸出包圍著食物微粒，然後形成一個食物泡於細胞質內。
+The pseudopodia extend to surround the food particles, forming a food vacuole in the cytoplasm.
+
+(b)(iii)(1)
+排放速率 = 每分鐘 6 次。
+Rate of discharge = 6 discharges per minute.
+
+（計算：60 秒 ÷ 10 秒 = 6 次/分鐘）
+(Calculation: 60 seconds ÷ 10 seconds = 6 discharges/minute.)
+
+(b)(iii)(2)
+可行答案之一 Possible acceptable answers:
+
+1️⃣
+A 周圍培養液的水潛能高於 B 周圍的水潛能。
+The water potential of the medium around A is higher than that around B.
+
+因此水更快進入 A 的細胞質內，
+Therefore, water enters into the cytoplasm of A more quickly,
+
+而使伸縮泡（Y）的排放更頻密。
+causing the contractile vacuole (Y) to discharge more frequently.
+
+或 (OR)
+
+2️⃣
+A 的水潛能低於 B 的水潛能。
+The water potential of A is lower than that of B.
+
+因此水更快進入 A 的細胞質內，
+Therefore, water enters into the cytoplasm of A more quickly,
+
+而使伸縮泡（Y）的排放更頻密。
+causing the contractile vacuole (Y) to discharge more frequently.
+",
+91p103c,"📌 參考答案 Reference Answers 
+
+(c)(i)
+環狀軟骨。
+Cartilage ring.
+
+用來防止氣管塌陷。
+It is used to prevent the collapse of the trachea.
+
+或 (OR)
+用以保持氣管暢通以便空氣流通。
+To allow free passage of air through the trachea.
+
+(c)(ii)(1)
+胸膜。
+Pleural membrane / Pleura.
+
+(c)(ii)(2)
+若結構B被刺穿，空氣會漏入胸膜腔內，導致壓力上升。
+If structure B is punctured, air leaks into the pleural cavity, increasing the pressure inside.
+
+肺便會因自身的彈性而回縮或塌陷。
+The lung will recoil or collapse because of its own elasticity.
+
+(c)(iii)
+肌肉C會鬆弛。
+Muscle C relaxes.
+
+(c)(iv)(1)
+提供較短的擴散距離。
+It provides a short distance for diffusion.
+
+(c)(iv)(2)
+擴大氣體交換的表面積。
+It provides a large surface area for diffusion.
+
+(c)(iv)(3)
+呼吸氣體可先溶解於濕潤層，然後擴散通過肺泡壁。
+The respiratory gases can first dissolve in the moisture and then diffuse through the alveolar wall.
+
+(c)(v)
+呼吸道中的纖毛無法正常擺動以清除塵粒。
+The cilia in the respiratory tract cannot beat properly to remove dust particles.
+
+因此更多灰塵進入肺部，減少氣體交換的表面積。
+Hence, more dust particles enter the lungs, reducing the surface area for gaseous exchange.
+",
+91p104a,"📌 參考答案
+
+(a)(i)(1)
+這樣可令實驗過程中水位變化更清楚且容易觀察。
+Setting the initial water level near the middle makes any subsequent movement of the water column more visible and easier to detect.
+
+(a)(i)(2)
+可先輕輕吸入膠管內的水，令水柱升至適當高度，然後以螺旋夾固定膠管防止洩氣。
+Gently draw water upward through the rubber tubing until the column reaches the desired height, then secure the tubing with a screw clip to prevent air leakage.
+
+(a)(ii)
+發芽種子在呼吸作用中消耗氧氣並產生二氧化碳。
+During respiration, the germinating seeds consume oxygen and produce carbon dioxide.
+
+所產生的二氧化碳會被濃鉀氫氧化物（KOH）溶液吸收。
+The carbon dioxide released is absorbed by the concentrated potassium hydroxide solution.
+
+結果玻璃容器中的氣體體積減少，導致內部氣壓下降。
+As a result, the total gas volume in the container decreases, lowering the internal pressure.
+
+外界的大氣壓因而高於容器內壓。
+The atmospheric pressure outside then exceeds the pressure inside the container.
+
+外界壓力遂推動有色水進入玻璃管，使水位上升至位置A。
+This higher external pressure forces the colored water upward into the glass tubing, raising it to position A.
+
+(a)(iii)
+若以水取代KOH溶液，水位保持不變是因為二氧化碳並未被吸收。
+When water is used instead of KOH, the water level remains unchanged because carbon dioxide is not absorbed.
+
+發芽種子吸入的氧氣量與釋放的二氧化碳量相同。
+The volume of oxygen taken in equals the volume of carbon dioxide released.
+
+因此玻璃容器內的總氣體體積沒有改變，氣壓也未發生變化。
+Hence, the total gas volume and pressure in the container remain constant, causing no movement of the water column.
+",
+91p104b,"📌 參考答案
+
+(b)(i)
+心跳次數為每分鐘 75 次。
+The number of heartbeats per minute is 75.
+
+（計算：60 ÷ 1.6 × 2 = 75 次/分鐘）
+(Calculation: 60 ÷ 1.6 × 2 = 75 beats per minute.)
+
+(b)(ii)(1)
+心室 X 負責將血液輸送到除肺部以外的全身各部分。
+Ventricle X is responsible for supplying blood to all parts of the body except the lungs.
+
+(b)(ii)(2)
+心室 X 的壓力明顯高於心室 Y。
+The pressure in ventricle X is much higher than that in ventricle Y.
+
+因此它能產生較大的推力，把血液送往全身循環。
+Hence, it can generate greater force to pump blood around the whole body.
+
+(b)(iii)(1)
+心瓣膜能防止血液在收縮或舒張時倒流。
+The heart valves prevent the backflow of blood during contraction or relaxation.
+
+可行答案之一 (Any ONE set acceptable):
+
+防止血液在心室收縮時倒流回心房。
+To prevent blood from flowing back into the atria when the ventricles contract.
+防止血液在心室舒張時倒流回心室。
+To prevent blood from returning into the ventricles when they relax.
+(b)(iii)(2)(I)
+瓣膜在此時是關閉的。
+The valves are closed at this moment.
+
+(b)(iii)(2)(II)
+在時間 A，心室壓力正在上升，迫使瓣膜關閉以防倒流。
+At time A, the ventricular pressure is rising, which forces the valves to close and prevents backflow.
+
+(b)(iv)
+左心室的血液流入主動脈。
+Blood from the left ventricle flows into the aorta.
+
+右心室的血液流入肺動脈。
+Blood from the right ventricle flows into the pulmonary artery.
+
+主動脈中的血液含氧量高於肺動脈。
+The blood in the aorta contains more oxygen than that in the pulmonary artery.
+",
+91p104c,"📌 參考答案
+
+(c)(i)
+睪丸。
+Testis.
+
+(c)(ii)(1)
+減數分裂。
+Meiosis.
+
+(c)(ii)(2)
+減數分裂能使卵細胞的染色體數目減半。
+Meiosis reduces the chromosome number of the egg to half of that in the parent cell.
+
+在受精後，精子與卵子的染色體重新結合，恢復成正常的二倍體數目。
+After fertilization, the sperm and egg combine their chromosomes, restoring the normal diploid number in the zygote.
+
+(c)(iii)
+輸卵管。
+Oviduct / Fallopian tube.
+
+(c)(iv)
+有絲分裂。
+Mitosis.
+
+(c)(v)(1)
+臍帶。
+Umbilical cord.
+
+(c)(v)(2)
+臍帶內的靜脈運送氧氣與營養物質給胎兒。
+The vein inside the umbilical cord carries oxygen and nutrients to the foetus.
+
+(c)(vi)(1)
+血型／眼睛顏色／頭髮顏色（任答一均可）。
+Blood group / eye colour / hair colour (any one acceptable).
+
+這些屬於不連續變異。
+These features show discontinuous variation.
+
+(c)(vi)(2)
+體重／身高（任答一均可）。
+Weight / height (any one acceptable).
+
+這些屬於連續變異，可能受環境影響而有所不同。
+These are examples of continuous variation that may differ due to environmental factors.",
+91p105a,"第5題 (a)
+📌 (i) (1)
+效應肌肉在此反應中收縮。
+The effector muscle contracts in this response.
+
+📌 (2) (I)
+該動作發生在肘關節／鉸鏈關節。
+The movement occurs at the elbow joint / hinge joint.
+
+📌 (2) (II)
+此關節的特點是只允許在一個平面上活動（180°）。
+This joint allows movement in one plane only (180° movement).
+
+📌 (ii) 傷者 X：
+他的運動神經元受損，因此神經衝動無法傳遞至效應器肌肉以產生反應。
+His motor neurone was damaged, so impulses could not be transmitted to the effector muscle to produce the response.
+
+他能感覺疼痛但無法收縮肌肉，因此手未能收回。
+He could feel the pain but could not contract the muscle, so no withdrawal occurred.
+
+📌 (ii) 傷者 Y：
+他的感覺神經元或感受器受損，導致神經衝動無法從感受器傳至脊髓或大腦。
+His sensory neurone or receptor was damaged, preventing impulses from being transmitted to the spinal cord or brain.
+
+他因此感覺不到疼痛且未能反射性收手。
+As a result, he felt no pain and did not withdraw his hand reflexively.
+
+但他仍能主動移動手部，顯示運動神經元功能正常。
+However, he could move his hand voluntarily, showing his motor neurone was still functioning.
+
+📌 (ii) 傷者 Z：
+他的**聯絡神經元／中間神經元（連接脊髓至大腦部分）**受損。
+His relay neurone/intermediate neurone (between spinal cord and brain) was damaged.
+
+因此痛覺衝動無法傳到大腦，他無法意識到被刺痛與反射動作。
+Thus the impulse was not carried to the brain, so he was unaware of the pain or the reflex.
+
+但他的反射弧仍完整，所以他仍能自動把手收回。
+However, his reflex arc was intact, allowing involuntary withdrawal of his hand.
+",
+91p105b,"第5題 (b)
+📌 (i)
+浸種子的目的是活化胚內的酶及軟化種皮，使種子容易萌芽。
+It is because water activates the enzymes in the seed and softens the seed coat, facilitating germination.
+
+📌 (ii) (1)
+「乾重」是把所有水分完全除去後的重量。
+‘Dry weight’ refers to the weight of the plant after all water has been removed.
+
+📌 (ii) (2)
+用乾重較準確，因為它只反映有機物質的實際含量；鮮重會受環境水分影響而變化較大。
+Dry weight gives a more accurate measure of organic matter, while fresh weight varies more due to changing water content in different conditions.
+
+📌 (iii)
+使用大量樣本（每組100粒種子）是為了減少個體差異、死亡或萌芽失敗造成的誤差。
+Using a large sample size (100 seeds per batch) helps minimize errors caused by individual variation, death, or failed germination.
+
+📌 (iv) (1)
+在萌芽第4天去除子葉會減慢或抑制豆苗生長。
+Removing the cotyledons on the 4th day of germination slows down or retards the growth of the bean seedlings.
+
+📌 (iv) (2)
+在萌芽第13天去除子葉對豆苗的生長沒有顯著影響。
+Removing the cotyledons on the 13th day of germination has no significant effect on the growth of the seedlings.
+
+📌 (v) (1)
+子葉在萌芽初期作為種子內的食物貯藏器官，早期移除會使幼苗缺乏養分供應，導致生長緩慢。
+Cotyledons serve as food reserves for germination; early removal deprives the seedling of nutrients, resulting in slower growth.
+
+📌 (v) (2)
+到萌芽第13天時，子葉的儲糧已被耗盡，幼苗已長出葉片並能進行光合作用；因此除去子葉不再影響生長。
+By the 13th day, food in the cotyledons has been consumed, and the seedling has grown leaves capable of photosynthesis; therefore, removing the cotyledons no longer affects its growth.",
+91p105c,"第5題 (c)
+📌 (i)
+發電廠每年產生的污染物總質量是 2.8 × 10¹⁰ kg。
+The total amount of pollutants produced each year by the power stations is 2.8 × 10¹⁰ kg.
+
+📌 (ii)
+工業產生的主要污染物是 顆粒物（微粒）。
+The major type of pollutant produced by industries is particles (solid particulates).
+
+📌 (iii)
+應減少汽車的使用量，因為汽車每年排放的**污染物總量（包括一氧化碳及碳氫化合物）**是最多的。
+The number of motor vehicles should be reduced, as they produce the largest total amount of pollutants, including carbon monoxide and hydrocarbons, each year.
+
+📌 (iv) (1)
+顆粒物會刺激呼吸道黏膜並堵塞肺泡，降低氣體交換效率。
+Particles irritate the respiratory tract and block the alveoli, reducing the efficiency of gaseous exchange.
+
+📌 (iv) (2)
+一氧化碳會降低血液的攜氧能力。
+Carbon monoxide reduces the oxygen-carrying capacity of the blood.
+
+📌 (v)
+二氧化硫會溶於雨水中，使雨水酸化形成酸雨，從而影響池塘生物的生存。
+Sulphur dioxide dissolves in rainwater forming acid rain, which increases the acidity of pond water and affects aquatic life.
+
+📌 (vi)
+發電廠另一種可能造成污染的物質是二氧化碳或放射性廢料。
+Another pollutant that may be produced by power stations is carbon dioxide or radioactive wastes.",

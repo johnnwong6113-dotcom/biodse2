@@ -371,32 +371,55 @@ The Loop of Henle controls osmotic balance instead of most r
 
 若題幹問「最大比例的水再吸收」，答案可直接選 近曲小管。
 If the question asks “where most water is reabsorbed,” always choose proximal tubule.",
-9419,"🧫 第19題
+9419,"第 19 題
 📌 參考答案
-答案：A
-
+A（過濾作用、主動運輸、滲透作用）
+A (Filtration, active transport, osmosis)
 
 📌 詳細解釋
 
-超濾作用發生在區域 1 （鮑氏囊），血液在高壓下被過濾，產生腎小球濾液。
-Ultrafiltration takes place in region 1 (Bowman’s capsule), where high pressure forces blood plasma to filter through, forming glomerular filtrate.
+本題要求將腎元三個區域的程序配對：區域1（鮑氏囊）、區域2（近曲小管）、區域4（集合管）。
+This question asks to match the processes in three regions of the nephron: region 1 (Bowman’s capsule), region 2 (proximal convoluted tubule), and region 4 (collecting duct).
 
-在區域 2 （近曲小管），水通過滲透作用進行再吸收。
-In region 2 (proximal tubule), water is reabsorbed by osmosis.
+區域1（鮑氏囊）→ 過濾作用
+Region 1 (Bowman’s capsule) → Filtration
 
-在區域 4 （集尿管），礦物鹽與水經由主動運輸重新進入血液。
-In region 4 (collecting duct), mineral salts and water are reabsorbed by active transport.
+血液流經腎小球時，血壓將血漿中的水、葡萄糖、氨基酸、尿素等小分子物質壓入鮑氏囊腔，形成腎小球濾液。此過程稱為超濾作用，不消耗細胞能量，純粹靠壓力推動。
+When blood flows through the glomerulus, blood pressure forces water, glucose, amino acids, urea and other small molecules from the plasma into Bowman’s capsule, forming glomerular filtrate. This process is called ultrafiltration; it does not require cellular energy and is driven solely by pressure.
+
+區域2（近曲小管）→ 主動運輸
+Region 2 (proximal convoluted tubule) → Active transport
+
+濾液中的葡萄糖、氨基酸及大部分鈉離子等有價值物質，在此處經由主動運輸被重新吸收回血液。上皮細胞膜上的載體蛋白消耗ATP，將這些物質逆濃度梯度運出。水則隨後經滲透作用被動跟隨。
+Valuable substances in the filtrate such as glucose, amino acids and most sodium ions are reabsorbed into the blood here by active transport. Carrier proteins in the epithelial cell membranes consume ATP to move these substances against their concentration gradients. Water then follows passively by osmosis.
+
+區域4（集合管）→ 滲透作用
+Region 4 (collecting duct) → Osmosis
+
+集合管負責調節體內水分平衡。在抗利尿激素（ADH）控制下，管壁對水的通透性改變，水經滲透作用被重吸收進入周圍高滲透壓的組織液，從而濃縮尿液。鹽分的重吸收雖涉及主動運輸，但題目指定區域4的主要程序是水的重吸收，即滲透作用。
+The collecting duct regulates water balance in the body. Under the control of antidiuretic hormone (ADH), the permeability of the duct wall to water changes, and water is reabsorbed by osmosis into the surrounding hypertonic tissue fluid, thereby concentrating the urine. Although salt reabsorption also involves active transport, the main process specified for region 4 in this question is water reabsorption, i.e. osmosis.
+
+為什麼其他選項不正確？
+
+選項 B（主動運輸、滲透作用、過濾作用）：將過濾作用放在區域4，但集合管不進行過濾。
+Option B (active transport, osmosis, filtration) : It places filtration in region 4, but the collecting duct does not perform filtration.
+
+選項 C（滲透作用、主動運輸、過濾作用）：將滲透作用放在區域1，但鮑氏囊不進行滲透性重吸收。
+Option C (osmosis, active transport, filtration) : It places osmosis in region 1, but Bowman’s capsule does not carry out osmotic reabsorption.
+
+選項 D（過濾作用、滲透作用、主動運輸）：將主動運輸放在區域4，但集合管對水的主要機制是滲透作用，主動運輸並非其對水的主要程序。
+Option D (filtration, osmosis, active transport) : It places active transport in region 4, but the main mechanism for water in the collecting duct is osmosis; active transport is not the primary process for water.
 
 📌 考試提醒
 
-三大階段：過濾 → 再吸收 → 分泌。
-Three main nephron functions: filtration → reabsorption → secretion.
+腎元的三個基本程序各有其特定位置：過濾作用發生在鮑氏囊，由血壓驅動且不消耗能量；主動運輸主要發生在近曲小管，負責回收葡萄糖、氨基酸等有價值物質，需要消耗ATP並逆濃度梯度進行；滲透作用則在集合管主導水的重吸收，受ADH調節以維持體內水分平衡。
+The three basic processes of the nephron each occur at specific locations: filtration takes place in Bowman’s capsule, driven by blood pressure without energy consumption; active transport occurs mainly in the proximal convoluted tubule, reclaiming valuable substances such as glucose and amino acids, consuming ATP and moving against concentration gradients; osmosis dominates water reabsorption in the collecting duct, regulated by ADH to maintain body water balance.
 
-區域1：高壓過濾；區域2：選擇性再吸收；區域4：水鹽調節。
-Region 1 = High pressure filtration; Region 2 = Selective reabsorption; Region 4 = Water-salt regulation.
+常見考法包括將不同程序配對到正確的腎元區域，或描述各區域的主要功能。記住口訣：「鮑過濾、近主動、集滲透」，便能快速掌握三者對應關係。
+Common question styles include matching processes to correct nephron regions or describing the main function of each region. Remember the mnemonic: ""Bowman filters, proximal actively transports, collecting duct osmoses"" to quickly grasp the correspondence.
 
-若問「超濾」一定指鮑氏囊，「主動運輸」多見於集尿管。
-“Ultrafiltration” → Bowman’s capsule; “Active transport” → Collecting duct.",
+注意：近曲小管雖有大量水的滲透性重吸收，但該區域的標誌性特徵程序是主動運輸；集合管的水重吸收雖是滲透作用，但周圍組織的高滲透壓是藉由亨利氏環的主動運輸所建立的。
+Note: Although a large amount of water is reabsorbed osmotically in the proximal tubule, the hallmark process of that region is active transport; water reabsorption in the collecting duct is indeed osmosis, but the surrounding hypertonicity is established by active transport in the Loop of Henle.",
 9420,"💦 第20題
 📌 參考答案
 答案：B
@@ -424,37 +447,59 @@ If asked about “urine concentration,” it is higher in dry�
 注意：這一題考生理調節，不是皮膚結構題。
 Note: This question tests homeostasis, not skin anatomy.",
 9421,"🌿 第21題
+第 21 題
 📌 參考答案
-答案：B
-
+B（兩枝條的葉主要由硬膜細胞支持）
+B (The leaves of both shoots are mainly supported by sclerenchyma cells)
 
 📌 詳細解釋
 
-實驗中，兩段枝條皆去除了韌皮部，只留下負責輸水的木質部。
-In the experiment, the phloem was removed from both shoots, leaving only the xylem, which transports water.
+實驗中兩段枝條均切去一圈外層組織（韌皮部），只留下木質部。
+In the experiment, a ring of outer tissue (phloem) was removed from both shoots, leaving only the xylem.
 
-枝條 Y 的切口被蠟封住，阻止了水分進入，因此葉子枯萎。
-Shoot Y had its cut end sealed with wax, blocking water entry; hence the leaves wilted.
+枝條 X 下部浸入紅色染液，水分可經木質部正常上升，葉片保持挺立。
+Shoot X was placed with its cut end in red dye; water could still rise through the xylem, so the leaves remained turgid.
 
-枝條 X 仍可經由木質部吸收紅色染液，葉片維持膨脹狀態。
-Shoot X remained turgid because water transport through xylem continued, carrying the red dye.
+枝條 Y 的切口被蠟封住，水分無法進入木質部，葉片因失去膨壓而凋萎。
+The cut end of shoot Y was sealed with wax, preventing water from entering the xylem; the leaves lost turgor pressure and wilted.
 
-此實驗證明葉片的膨壓主要來自細胞吸收的水分，而非有機物運輸。
-This shows that leaf turgidity depends on water from xylem rather than nutrients from phloem.
+比較兩者可知：葉片能否挺立，取決於細胞是否充滿水分而產生膨壓。
+Comparing the two shows that whether leaves stay erect depends on whether their cells are filled with water and generate turgor pressure.
+
+但葉片本身並非僅靠水分支持；其內部有堅硬的厚壁細胞（硬膜細胞），提供永久性的機械支撐。
+However, leaves are not supported solely by water; they contain rigid sclerenchyma cells that provide permanent mechanical support.
+
+即使枝條 Y 的葉凋萎，其硬膜細胞仍然存在，只是因失水而整體塌陷。
+Even though the leaves of shoot Y wilted, their sclerenchyma cells still existed, but the whole leaf collapsed due to water loss.
+
+因此，此實驗間接證明：葉的直立形態需要硬膜細胞作為骨架，配合細胞膨壓共同維持。
+Therefore, this experiment indirectly demonstrates that the erect shape of leaves requires sclerenchyma cells as a framework, working together with cell turgor pressure.
+
+選項 A 錯誤：木質部並未除去，否則枝條 X 也無法吸水。
+Option A is wrong: the xylem was not removed; otherwise shoot X could not take up water.
+
+選項 C 錯誤：韌皮部已切去，有機物無法運輸，但葉凋萎的主因是缺水而非缺養分。
+Option C is wrong: the phloem was removed so organic nutrients could not be transported, but the main cause of wilting was water shortage, not lack of food.
+
+選項 D 錯誤：枝條 Y 的葉內水分並非經滲透作用移至染色液，而是根本沒有染色液進入。
+Option D is wrong: water in the leaves of shoot Y did not move into the dye by osmosis; rather, no dye entered at all.
 
 📌 考試提醒
 
-韌皮部移除 → 養分無法運輸。
-Removing phloem stops nutrient transport.
+植物葉片的挺立需要兩種支持：硬膜細胞（厚壁細胞）提供剛性骨架，細胞膨壓提供動態支撐。
+The erect posture of plant leaves requires two types of support: sclerenchyma cells provide a rigid framework, and cell turgor pressure provides dynamic support.
 
-木質部堵塞 → 水流阻斷 → 葉片萎縮。
-Blocking xylem stops water flow, causing wilting.
+韌皮部負責運輸有機養分，木質部負責運輸水分與無機鹽。
+The phloem transports organic nutrients, while the xylem transports water and minerals.
 
-若葉仍呈紅色且未枯萎 → 表示輸水正常。
-If the leaf is reddish and turgid → xylem is functional.
+切斷韌皮部不影響水分運輸，切斷木質部則會導致葉片萎蔫。
+Cutting the phloem does not affect water transport, but cutting the xylem causes leaves to wilt.
 
-此題常考「木質部 vs 韌皮部」的功能區別。
-This question commonly tests the difference between xylem and phloem functions.",
+實驗中「蠟封」是為了阻止水分進入，對照組則可正常吸水，從而推斷水分運輸路徑與葉片挺立的條件。
+In experiments, ""wax sealing"" is used to block water entry; the control group can absorb water normally, allowing inference of the water transport pathway and the conditions for leaf erectness.
+
+記法：「硬膜撐骨架，膨壓充水撐；蠟封斷水路，葉萎現真相。」
+Mnemonic: ""Sclerenchyma builds the frame, turgor fills with water; wax seals the water path, wilting reveals the truth.""",
 9422,"🌿 第22題
 📌 參考答案
 答案：A
@@ -841,44 +886,113 @@ Flexion → biceps contract
 Extension → triceps contract
 記法：「屈用二，伸用三」。
 Mnemonic: ""Flex with two, extend with three.""",
-9438,"🌬️ 第 38 題
-✅ 答案：C
+9438,"第 38 題
+📌 參考答案
+C（橫膈膜肌肉收縮 → 肺擴張 → 外間空氣衝入肺）
+C (Diaphragm muscle contracts → Lungs expand → Outside air rushes into the lungs)
 
-📌 詳細解釋：
-吸氣時，橫膈膜由拱形變平，使胸腔容積增加、肺部體積隨之擴張。
-When inhaling, the diaphragm flattens from a dome shape, increasing the thoracic volume and expanding the lungs.
-外肋間肌放鬆，但胸腔負壓增強，空氣自然被吸入肺中。
-The external intercostal muscles relax, creating negative pressure that draws air into the lungs.
-這是一種自動反射控制的動作，由延腦調節呼吸速度與節奏。
-This is an involuntary reflex controlled by the medulla oblongata, regulating breathing rhythm.
+📌 詳細解釋
 
-📌 考試提醒：
-呼吸肌動作總結：
-Summary of respiratory muscle actions:
-吸氣：橫膈膜收縮下降 → 胸腔擴大。
-Inhalation: diaphragm contracts and descends → thoracic cavity expands.
-呼氣：橫膈膜放鬆上升 → 胸腔縮小。
-Exhalation: diaphragm relaxes and rises → thoracic cavity reduces.
-記法：「吸氣縮橫膈，呼氣鬆橫膈」。
-Mnemonic: ""Inhale – diaphragm contracts; Exhale – diaphragm relaxes.""",
+吸氣是一個主動過程，主要由橫膈膜和肋間肌的收縮引起。
+Inhalation is an active process primarily driven by the contraction of the diaphragm and intercostal muscles.
+
+當橫膈膜收縮時，它會變平並向下移動，增加胸腔的上下直徑。
+When the diaphragm contracts, it flattens and moves downward, increasing the vertical diameter of the thoracic cavity.
+
+與此同時，外肋間肌收縮，將肋骨向上向外提，進一步擴大胸腔的前後及左右直徑。
+At the same time, the external intercostal muscles contract, lifting the ribs upward and outward, further expanding the anteroposterior and transverse diameters of the thoracic cavity.
+
+胸腔容積增加導致肺內壓力下降，低於大氣壓。
+The increase in thoracic volume causes the pressure inside the lungs to drop below atmospheric pressure.
+
+由於壓力差，外界空氣經由呼吸道被吸入肺中。
+Due to this pressure difference, outside air is drawn through the respiratory passages into the lungs.
+
+本題選項 C 正確描述了吸氣的關鍵順序：橫膈膜收縮使胸腔擴大，肺隨之擴張，然後空氣流入。
+Option C correctly describes the key sequence of inhalation: diaphragm contraction enlarges the thoracic cavity, the lungs expand accordingly, and then air flows in.
+
+選項 A 和 B 錯誤地將「空氣衝入肺」放在「肺擴張」之前，實際上肺擴張是因胸腔擴大而發生的被動過程，空氣流入是肺擴張的結果。
+Options A and B incorrectly place “air rushes into the lungs” before “lungs expand”; in fact, lung expansion is a passive result of thoracic enlargement, and airflow follows lung expansion.
+
+選項 D 以肋間肌收縮為起點，但吸氣並非必須由肋間肌開始，橫膈膜收縮是更主要且足夠的起始動作；且 D 同樣錯誤地將空氣流入置於肺擴張之前。
+Option D starts with intercostal contraction, but inhalation does not have to begin with intercostals; diaphragm contraction is the primary and sufficient initial action. Moreover, D also wrongly places airflow before lung expansion.
+
+📌 考試提醒
+
+吸氣的核心機制：橫膈膜收縮（下降）+ 外肋間肌收縮（提肋）→ 胸腔容積增加 → 肺擴張 → 肺內氣壓下降 → 空氣流入。
+Core mechanism of inhalation: diaphragm contraction (descends) + external intercostal contraction (lift ribs) → thoracic volume increases → lungs expand → intrapulmonary pressure drops → air flows in.
+
+呼氣則主要為被動過程：橫膈膜與外肋間肌放鬆 → 胸腔容積減少 → 肺回縮 → 氣壓上升 → 空氣排出。
+Exhalation is mainly passive: diaphragm and external intercostals relax → thoracic volume decreases → lungs recoil → pressure rises → air flows out.
+
+常見考點：吸氣時胸腔變化與氣壓變化的先後順序。切記：胸腔擴大 → 肺擴張 → 氣壓下降 → 空氣流入，順序不可顛倒。
+Common exam focus: the sequence of thoracic changes and pressure changes during inhalation. Remember: thoracic enlargement → lung expansion → pressure drop → air inflow; the order cannot be reversed.
+
+記法：「膈收胸擴肺跟脹，氣壓低降空氣入。」
+Mnemonic: “Diaphragm contracts, chest expands, lungs follow suit; pressure drops, air rushes in.”",
 9439,"👁️ 第 39 題
-✅ 答案：C
+第 39 題
+📌 參考答案
+C（第五個孩子是棕眼的機會是 1/2）
+C (The chance that the fifth child has brown eyes is 1/2)
 
-📌 詳細解釋：
-若父母生出棕色與藍色眼睛的孩子，表示父親必為雜合子（Bb），母親為隱性基因純合子（bb）。
-The appearance of both brown- and blue-eyed children means the father is heterozygous (Bb) and the mother is homozygous recessive (bb).
-依孟德爾定律，Bb × bb 的雜交結果為 1/2 棕眼（Bb）與 1/2 藍眼（bb），
-According to Mendelian genetics, crossing Bb × bb yields ½ heterozygous brown-eyed and ½ homozygous blue-eyed offspring.
-若以四個小孩的整體機率來看，其外顯型比例呈 3:1。
-If expressed statistically across four children, the expected phenotypic ratio is 3:1.
+📌 詳細解釋
 
-📌 考試提醒：
-褐眼屬於顯性基因（B），藍眼為隱性基因（b）。
-Brown eyes are dominant (B), while blue eyes are recessive (b).
-請用潘尼特方格（Punnett square）推演：Bb × bb → 1 Bb : 1 bb。
-Use a Punnett square to calculate: Bb × bb → 1 Bb : 1 bb.
-記法：顯性藏藍，隱性現藍。
-Mnemonic: Dominant hides blue, recessive shows blue.",
+題目中棕眼（B）對藍眼（b）為顯性。
+In the question, brown eye colour (B) is dominant over blue (b).
+
+父親棕眼、母親藍眼，他們已生有三個藍眼和一個棕眼的孩子。
+The father has brown eyes and the mother has blue eyes; they already have three blue‑eyed and one brown‑eyed child.
+
+藍眼是隱性性狀，所以母親的基因型必定是 bb。
+Blue eyes are recessive, so the mother’s genotype must be bb.
+
+父親是棕眼，但孩子中有藍眼（bb），因此父親必須攜帶一個隱性等位基因，即父親為 Bb（雜合子）。
+The father has brown eyes, but because they have a blue‑eyed (bb) child, the father must carry a recessive allele, i.e. he is Bb (heterozygous).
+
+遺傳交配：Bb（父）× bb（母）
+Genetic cross: Bb (father) × bb (mother)
+
+後代基因型比例：1/2 Bb（棕眼），1/2 bb（藍眼）。
+Offspring genotype ratio: 1/2 Bb (brown eyes), 1/2 bb (blue eyes).
+
+每一次懷孕都是獨立事件，已有孩子的性狀不影響未來孩子的機率。
+Each pregnancy is an independent event; the traits of existing children do not affect the probability for future children.
+
+所以第五個孩子是棕眼的機會 = 1/2。
+Therefore, the chance that the fifth child has brown eyes = 1/2.
+
+為什麼其他選項不正確？
+
+選項 A：「父親是純合的」錯誤。若父親是 BB（純合棕眼），則所有孩子都應是棕眼（Bb），不可能出現藍眼。
+Option A: “The father is homozygous” is wrong. If the father were BB (homozygous brown), then all children would be brown‑eyed (Bb), and no blue‑eyed child could appear.
+
+選項 B：「在孩子中，棕眼和藍眼的表现型比值是1比1」錯誤。此為理論期望比值，但題中四個孩子的實際比值是 1 棕 : 3 藍，與 1:1 不符。選項描述為「在孩子中」指已出生的孩子，實際比例並非 1:1。
+Option B: “In the children, the phenotypic ratio of brown to blue eyes is 1:1” is wrong. That is the expected theoretical ratio, but the actual ratio among the four existing children is 1 brown : 3 blue, not 1:1. The statement refers to “the children” already born.
+
+選項 D：「第五個孩子是藍眼的機會是 1/4」錯誤。正確機率應為 1/2，不是 1/4。1/4 通常出現在雜合子自交（Bb × Bb）的隱性後代機率。
+Option D: “The chance that the fifth child has blue eyes is 1/4” is wrong. The correct probability is 1/2, not 1/4. 1/4 typically appears as the probability of recessive offspring from a heterozygous self‑cross (Bb × Bb).
+
+📌 考試提醒
+
+顯隱性遺傳題的關鍵：從子代隱性性狀反推親本基因型。
+Key point in dominant‑recessive inheritance problems: deduce parental genotypes from the presence of recessive offspring.
+
+隱性性狀的個體必為純合隱性（如 bb）。
+An individual with a recessive trait must be homozygous recessive (e.g. bb).
+
+若顯性親本生出隱性子代，則該顯性親本必為雜合子（Bb）。
+If a dominant‑trait parent produces a recessive‑trait offspring, that dominant parent must be heterozygous (Bb).
+
+每次生育的性狀獨立，已出生孩子不影響未來孩子的機率。
+Each birth is independent; existing children do not affect the probabilities for future children.
+
+常見錯誤：將「已生四個孩子」的實際比例與「理論期望比例」混淆，或誤用 3:1 比例（那是 Bb × Bb 的結果）。
+Common mistakes: confusing the actual ratio among existing children with the expected theoretical ratio, or misapplying the 3:1 ratio (which results from Bb × Bb).
+
+記法：「隱現純合，顯生隱必雜；每次獨立算，機率不累加。」
+Mnemonic: ""Recessive shows homozygote; if dominant has recessive child, it must be heterozygote; each event independent, probabilities don't accumulate.""
+",
 9440,"🧬第 40 題
 📌參考答案
 答案：C　構造 1（前列腺）產生精液，構造 3（尿道）負責運送尿液與精液，構造 6（睪丸）製造精子。
