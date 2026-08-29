@@ -299,116 +299,46 @@ The light-independent reaction occurs in the stroma and uses ATP and NADPH to fi
 
 常見陷阱：有些學生誤以為氧氣是暗反應的產物，其實是光解水時釋放的。
 Common trap: Some students mistakenly think oxygen is produced in the dark reaction; it actually comes from photolysis of water in the light reaction.",
-1310,"答案：D（氧化磷酸化、克雷伯氏循環）
-Answer: D (Oxidative phosphorylation, Krebs cycle)
+1310,"📌 參考答案
+D. 需用氧：氧化磷酸化；釋放二氧化碳：克雷伯氏循環
+D. Requires oxygen: Oxidative phosphorylation; Releases carbon dioxide: Krebs cycle
 
 📌 詳細解釋
-Detailed explanation:
-
-題目要求找出最能描述呼吸作用各過程的組合——「需用氧」與「釋放二氧化碳」。
-The question asks which combination best describes the processes of respiration — one that requires oxygen and one that releases carbon dioxide.
-
-A 選項：把丙酮酸鹽轉化為乙酰輔酶 A；糖酵解
-Option A: Conversion of pyruvate to acetyl coenzyme A; glycolysis
-糖酵解不需要氧氣，而且在細胞質中進行，屬於無氧過程。
-Glycolysis does not require oxygen and takes place in the cytoplasm — it is an anaerobic process.
-因此「需用氧」部分錯誤。
-Therefore, the “requires oxygen” part is incorrect.
-
-B 選項：把丙酮酸鹽轉化為乙酰輔酶 A；克雷伯氏循環
-Option B: Conversion of pyruvate to acetyl coenzyme A; Krebs cycle
-這兩個過程都會釋放二氧化碳，但「轉化丙酮酸」只需少量氧氣間接參與，非真正「需用氧」階段。
-Both processes release CO₂, but pyruvate conversion only indirectly depends on oxygen, not a true oxygen-requiring stage.
-因此不完全正確。
-Hence, not the best choice.
-
-C 選項：氧化磷酸化；糖酵解
-Option C: Oxidative phosphorylation; glycolysis
-氧化磷酸化確實需要氧氣，但糖酵解不會釋放二氧化碳。
-Oxidative phosphorylation does require oxygen, but glycolysis does not release CO₂.
-因此此組合也不正確。
-Therefore, this combination is also incorrect.
-
-D 選項：氧化磷酸化；克雷伯氏循環
-Option D: Oxidative phosphorylation; Krebs cycle
-
-在氧化磷酸化過程中，需要氧氣作為最終電子受體，以生成水。
-In oxidative phosphorylation, oxygen is required as the final electron acceptor to form water.
-
-克雷伯氏循環中，丙酮酸轉化為乙酰輔酶 A 後與草乙酸結合，並釋放二氧化碳。
-In the Krebs cycle, acetyl-CoA combines with oxaloacetate, and CO₂ is released during the cycle.
-
-因此，這個組合最能準確對應呼吸作用的「需用氧」與「釋放二氧化碳」過程。
-Therefore, this combination most accurately matches the processes of “oxygen consumption” and “carbon dioxide release.”
-
-✅ 正確答案為 D。
-✅ The correct answer is D.
+氧化磷酸化直接需要氧氣作為最終電子受體，以生成大量 ATP。
+Oxidative phosphorylation directly requires oxygen as the final electron acceptor to generate a large amount of ATP.
+克雷伯氏循環中，碳水化合物衍生物會被氧化及脫羧，釋放出二氧化碳。
+In the Krebs cycle, carbohydrate derivatives are oxidized and decarboxylated, releasing carbon dioxide.
+選項 A 及 B 錯誤，因為糖酵解是在細胞質中發生的缺氧過程，不需要氧氣。
+Options A and B are incorrect because glycolysis is an anaerobic process occurring in the cytoplasm and does not require oxygen.
+選項 C 錯誤，因為糖酵解過程中葡萄糖只會分解成丙酮酸鹽，並不會釋放二氧化碳。
+Option C is incorrect because glucose is only broken down into pyruvate during glycolysis, without releasing carbon dioxide.
+另外，丙酮酸鹽轉化成乙酰輔酶A是獨立的連接反應，不屬於克雷伯氏循環。
+Additionally, the conversion of pyruvate to acetyl-CoA is the independent link reaction, not part of the Krebs cycle.
 
 📌 考試提醒
-Exam tips:
-
-糖酵解（glycolysis）：不需氧（在細胞質進行），不產生 CO₂。
-Glycolysis: Anaerobic, occurs in the cytoplasm, does not produce CO₂.
-
-丙酮酸氧化（pyruvate oxidation）與克雷伯氏循環（Krebs cycle）：產生 CO₂。
-Pyruvate oxidation and Krebs cycle: Produce CO₂.
-
-氧化磷酸化（oxidative phosphorylation）：需要氧氣，是呼吸鏈最後階段。
-Oxidative phosphorylation: Requires oxygen and is the final stage of the respiratory chain.
-
-考試常混淆「需氧階段」與「釋放 CO₂ 階段」，要特別注意對應。
-A common mistake is confusing the oxygen-requiring stage with the CO₂-releasing stage — be careful to distinguish them.",
+必須清楚區分細胞呼吸作用的三個主要階段：糖酵解、克雷伯氏循環及氧化磷酸化，並牢記各階段的產物及反應位置。
+You must clearly distinguish the three main stages of cellular respiration: glycolysis, Krebs cycle, and oxidative phosphorylation, and memorize the products and locations of each stage.
+常見錯誤：學生常將連接反應誤認為克雷伯氏循環的第一步，或誤以為克雷伯氏循環直接消耗氧氣。
+Common trap：Students often mistake the link reaction as the first step of the Krebs cycle, or falsely assume the Krebs cycle directly consumes oxygen.",
 1311,"📌 參考答案
-答案：C
+C. 大多數氨基酸由超過一個密碼子所編碼。
+C. Most amino acids are coded by more than one codon.
 
-📘 詳細解釋
-Detailed explanation:
+📌 詳細解釋
+遺傳密碼具有簡併性，這意味著大多數氨基酸可由多於一個密碼子（信使 RNA 上的鹼基三聯體）負責編碼。
+The genetic code is degenerate, meaning that most amino acids can be coded by more than one codon (base triplet on messenger RNA).
+選項 A 錯誤，因為 RNA 含有尿嘧啶（U）而沒有胸腺嘧啶（T），故密碼子不會由鹼基 T 組成。
+Option A is incorrect because RNA contains uracil (U) instead of thymine (T), so codons will not be composed of base T.
+選項 B 錯誤，因為轉移 RNA（tRNA）上的鹼基三聯體應被稱為反密碼子，而非密碼子。
+Option B is incorrect because the base triplet on transfer RNA (tRNA) should be called an anticodon, not a codon.
+選項 D 錯誤，因為有三組終止密碼子（UAA、UAG、UGA）作為停止蛋白質合成的訊號，它們不為任何氨基酸編碼。
+Option D is incorrect because there are three stop codons (UAA, UAG, UGA) that act as signals to terminate protein synthesis, and they do not code for any amino acid.
 
-A. 密碼子可由 A、C、G 或 T 等鹼基組成。 ❌
-A. Codons are composed of bases A, C, G, or T. ❌
-這是錯誤的，因為密碼子存在於 mRNA 上，RNA 的鹼基為 A、C、G、U（而非 T）。
-This is incorrect because codons are found on mRNA, whose bases are A, C, G, and U (not T).
-
-B. 密碼子是轉移 RNA 上的鹼基三聯體。 ❌
-B. A codon is a triplet of bases on tRNA. ❌
-這是不正確的。tRNA 上的是「反密碼子 (anticodon)」，而不是密碼子。
-This is wrong because tRNA carries an anticodon, not a codon.
-密碼子在 mRNA 上，用以指定胺基酸。
-Codons are on mRNA and specify amino acids.
-
-C. 大多數胺基酸由超過一個密碼子所編碼。 ✅
-C. Most amino acids are coded by more than one codon. ✅
-這是正確的，因為遺傳密碼具有「簡併性 (degeneracy)」。
-This is correct because the genetic code is degenerate — meaning most amino acids are encoded by several different codons.
-例如，UGU 和 UGC 都編碼為半胱氨酸。
-For example, UGU and UGC both code for cysteine.
-
-D. 所有密碼子均編碼胺基酸。 ❌
-D. All codons code for amino acids. ❌
-這也是錯的。因為有三個「終止密碼子」(UAA, UAG, UGA) 並不編碼任何胺基酸。
-This is also incorrect because three stop codons (UAA, UAG, UGA) do not code for any amino acid.
-
-因此正確答案是 C。
-Hence, the correct answer is C.
-
-🧠 考試提醒
-Exam tips:
-
-密碼子 (codon) 位於 mRNA 上，是三個連續的 RNA 鹼基。
-Codons are triplets of bases found on mRNA.
-
-反密碼子 (anticodon) 位於 tRNA 上，與 mRNA 密碼子互補配對。
-Anticodons are found on tRNA, pairing complementarily with the mRNA codons.
-
-RNA 的鹼基有 A、U、C、G；DNA 才有 T。
-RNA bases are A, U, C, G; T exists only in DNA.
-
-三個終止密碼子（UAA、UAG、UGA）不編碼胺基酸。
-The three stop codons (UAA, UAG, UGA) do not code for amino acids.
-
-「遺傳密碼的簡併性」是常見考點：多個密碼子可編碼同一胺基酸。
-The degeneracy of the genetic code is a key concept: several codons can specify the same amino acid.
-",
+📌 考試提醒
+密碼子（信使 RNA）、反密碼子（轉移 RNA）與 DNA 鹼基三聯體在組成（U 與 T 的分別）及位置上必須嚴格區分。
+Codons (mRNA), anticodons (tRNA), and DNA base triplets must be strictly differentiated in their composition (U vs. T) and locations.
+常見錯誤：學生經常混淆密碼子與反密碼子的位置，或錯誤認為每一個密碼子必定對應一種特定的氨基酸。
+Common trap：Students often confuse the locations of codons and anticodons, or falsely assume that every single codon must correspond to a specific amino acid.",
 1312,"📌 參考答案
 答案：C（30%）
 
@@ -464,66 +394,20 @@ If A = 30%, then T = 30%, and the remaining 40% is split equally between C and G
 這類題常考「互補配對」與「比例分配」的概念，屬於必背基礎題。
 This question type often tests complementary pairing and proportional reasoning — fundamental knowledge to memorize.",
 1313,"📌 參考答案
-答案：B（1/4）
+B. 1/4
+B. 1/4
 
-📘 詳細解釋
-Detailed explanation:
+📌 詳細解釋
+父親為 A 型雜合子（基因型 I^A I^O），母親為 B 型雜合子（基因型 I^B I^O）。
+The father is a heterozygous blood type A (genotype I^A I^O), and the mother is a heterozygous blood type B (genotype I^B I^O).
+他們產生 AB 型血（基因型 I^A I^B）子代的機率是四分之一。
+The probability of them producing an offspring with blood type AB (genotype I^A I^B) is one-quarter.
 
-題目指出：
-The question states that:
-
-某人是 A 型，而他的妻子是 B 型，且兩者的血型都是雜合。
-A man has blood type A, and his wife has blood type B, both being heterozygous.
-
-1️⃣ 先寫出他們的基因型
-Step 1: Write their genotypes
-
-A 型雜合者 → 基因型為 IA IO
-A (heterozygous) → genotype: IA IO
-
-B 型雜合者 → 基因型為 IB IO
-B (heterozygous) → genotype: IB IO
-
-2️⃣ 配子種類
-Step 2: Determine possible gametes
-
-父親配子：IA、IO
-Father's gametes: IA, IO
-
-母親配子：IB、IO
-Mother's gametes: IB, IO
-
-3️⃣ 配子組合與子代表型
-Step 3: Form combinations and phenotypes
-
-父親配子	母親配子	子代基因型	子代表型（血型）
-IA	IB	IAIB	AB 型
-IA	IO	IAIO	A 型
-IO	IB	IBIO	B 型
-IO	IO	IOIO	O 型
-每一種組合出現機會相同，各佔 1/4。
-Each combination is equally likely, with a probability of 1/4.
-
-✅ 結論
-Conclusion:
-
-子代為 AB 型 的機率 = 1/4。
-Probability that the child has blood type AB = 1/4.
-
-🧠 考試提醒
-Exam tips:
-
-ABO 血型系統由三個等位基因控制：IA、IB、IO。
-The ABO system is controlled by three alleles: IA, IB, IO.
-
-IA 與 IB 彼此 共顯性 (codominant)，而 IO 為 隱性 (recessive)。
-IA and IB are codominant, while IO is recessive.
-
-當雙親分別為雜合 A 型 (IAIO) 與雜合 B 型 (IBIO) 時，子代可出現四種血型 (A, B, AB, O)。
-When one parent is heterozygous A (IAIO) and the other is heterozygous B (IBIO), offspring can have all four blood types (A, B, AB, and O).
-
-每種血型的機率皆為 1/4，是典型的潘尼特方格 (Punnett square) 題型。
-Each blood type occurs with a probability of 1/4 — a classic Punnett square problem.",
+📌 考試提醒
+ABO 血型系統：I^A 與 I^B 為共顯性，兩者對 I^O 皆為完全顯性。
+ABO blood group system: I^A and I^B are codominant, and both are completely dominant over I^O.
+常見錯誤：從題目已知第一子代是兒子，所以計算機率時不須再乘以二分之一。
+Common trap: Since the question states the first offspring is a son, there is no need to multiply the probability by one-half in the calculation.""",
 1314,"📌 參考答案
 答案：A（同一個果實內的種子）
 
@@ -582,65 +466,20 @@ B. 只有交配 Z
 B. Only cross Z
 
 📌 詳細解釋
-
-這題考的是常染色體隱性遺傳 (autosomal recessive inheritance)。
-This question tests autosomal recessive inheritance.
-
-從家系圖可見，受影響的個體只在隱性基因純合 (aa) 的情況下表現該病狀。
-From the pedigree, affected individuals express the trait only when homozygous recessive (aa).
-
-在交配 X 中，雙親都是受影響的男性與女性。
-In cross X, both parents are affected (male and female).
-
-由於兩者都是隱性純合 (aa × aa)，所有子代均會是隱性純合，
-Since both are homozygous recessive (aa × aa), all offspring will also be homozygous recessive,
-因此，子代不能用來判斷顯性或隱性。
-therefore, this cross cannot determine dominance relationships.
-
-在交配 Y 中，雙親都是正常表型。
-In cross Y, both parents have a normal phenotype.
-
-若兩者皆為顯性純合 (AA)，則所有子代都正常；
-If both are homozygous dominant (AA), all offspring are normal.
-
-但若其中一方或雙方為帶隱性基因的雜合子 (Aa)，則有機會出現受影響的後代。
-However, if either or both parents are heterozygous (Aa), affected offspring may appear.
-
-由於兩種情況都可能發生，因此這個交配也不能確定顯隱性關係。
-Because both cases are possible, this cross cannot determine which phenotype is dominant.
-
-在交配 Z 中，雙親皆為受影響者的後代。
-In cross Z, both parents are offspring of affected individuals.
-
-因此，他們一定至少攜帶一個隱性等位基因。
-Therefore, they must each carry at least one recessive allele.
-
-若他們生出「正常表型」的子代，代表該性狀是隱性遺傳。
-If they produce offspring with a “normal” appearance, the trait must be recessive.
-
-因為在純合隱性父母的交配下，若要出現正常表型，該正常表型必定由顯性等位基因決定。
-Because if offspring of affected parents are normal, normal must be controlled by a dominant allele.
-
-故由交配 Z 可推斷哪一種表型屬於顯性。
-Hence, only from cross Z can the dominant phenotype be determined.
+在交配 Z 中，若第三子代具隱性性狀（受影響），交配的每個親本至少含有一個隱性等位基因。
+In cross Z, if the third-generation offspring has the recessive trait (affected), each mating parent must contain at least one recessive allele.
+由於兩個親本的表現型都是「正常」的，這代表他們必定是雜合型，而「正常」是掩蓋了隱性等位基因的顯性性狀。
+Since both parents have a ""normal"" phenotype, they must be heterozygous, meaning ""normal"" is the dominant trait masking the recessive allele.
+在交配 X 中，雙親皆為受影響者，無法確認哪個是顯性。
+In cross X, both parents are affected, so dominance cannot be confirmed.
+在交配 Y 中，雙親皆表現同一性狀，雖然也可能生出不同性狀子代，但單憑結果無法絕對排除兩者皆為純合隱性的情況。
+In cross Y, both parents show the same trait; although they could produce offspring with a different trait, the result alone cannot absolutely rule out that both are homozygous recessive.
 
 📌 考試提醒
-
-常染色體隱性遺傳：病狀在隱性純合 (aa) 個體中表現。
-
-Autosomal recessive inheritance: the trait appears only in homozygous recessive (aa) individuals.
-
-常見判斷技巧：若兩位正常父母能生出受影響子女，該病屬隱性。
-
-Common clue: if two unaffected parents produce an affected child, the trait is recessive.
-
-若兩位受影響父母生出正常子女，該病屬顯性。
-
-If two affected parents produce a normal child, the trait is dominant.
-
-常見陷阱：學生往往只看圖形顏色或性別，忽略顯隱性推理步驟。
-
-Common trap: Students focus on colors or genders in the pedigree and forget the logic of dominance and recessiveness.",
+判斷顯性性狀：當兩個表現型相同的親本，生出擁有不同表現型的子代時，親本的表現型即為顯性。
+Determining dominant traits: When two parents with the same phenotype produce an offspring with a different phenotype, the parents' phenotype is dominant.
+常見錯誤：學生常憑直覺猜測「正常」為顯性，而未有嚴謹利用譜系圖中的交配結果作邏輯推論。
+Common trap: Students often intuitively guess that ""normal"" is dominant without rigorously using the mating results from the pedigree for logical deduction.",
 1316,"📌 參考答案
 D. 個體 1：純合的或雜合的　；　個體 2：純合的或雜合的
 D. Individual 1: homozygous or heterozygous; Individual 2: homozygous or heterozygous
@@ -1121,130 +960,94 @@ Hypertonic environment: water leaves the cell → vacuole shrinks; cell membrane
 Key difference: plant cells do not burst in distilled water due to the cell wall,
 but animal cells burst (lysis) under the same condition.",
 1325,"📌 參考答案
-B. 只有 (2)
-B. (2) only
+C. 只有 (2) 和 (3)
 
 📌 詳細解釋
-題目要求找出能令蔗糖溶液液面在一天後升至較高最終水平的處理方法，這取決於滲透作用達致平衡時進入薯洞內的水分總量。
-The question asks for the treatment that would cause the sucrose solution level to rise to a higher final level after one day, which depends on the total volume of water entering the cavity when osmosis reaches equilibrium.
-最終的水分體積由蒸餾水與薯洞內溶液之間的水勢差異決定。
-The final volume of water is determined by the water potential difference between the distilled water and the solution inside the potato cavity.
-聲明 (2) 是正確的，因為改用 20% 蔗糖溶液會降低洞內溶液的水勢，從而增加與外部蒸餾水之間的水勢差異。
-Statement (2) is correct because using a 20% sucrose solution lowers the water potential inside the cavity, thereby increasing the water potential difference with the external distilled water.
-更大的水勢差異會導致更多水分透過滲透作用進入薯洞，令最終液面升得較高。
-A steeper water potential gradient leads to more water entering the potato cavity by osmosis, resulting in a higher final liquid level.
 
-其他選項分析：
-Analysis of other options:
-改用 5% 蔗糖溶液會提高洞內溶液的水勢，縮小與外部之間的水勢差異，導致最終進入薯洞的水分減少。
-Using a 5% sucrose solution increases the water potential of the solution inside the cavity, reducing the water potential difference with the outside, which results in less water entering the cavity ultimately.
-削去全部外皮確實能增加滲透作用的表面積並加快滲透速率，但由於溶液濃度不變，最終的水勢平衡點和水分總體積並不會改變。
-Peeling off all the outer skin indeed increases the surface area for osmosis and speeds up the rate, but since the solution concentration remains unchanged, the final point of water potential equilibrium and the total volume of water will not change.
-因此，只有處理方法 (2) 能夠提高最終液面水平，正確答案為 B。
-Therefore, only treatment (2) can raise the final liquid level, making B the correct answer.
+當馬鈴薯細胞外的溶液水勢較高（較稀、低滲溶液），水分會經滲透進入洞內，使蔗糖液面上升。
+When the external solution has a higher water potential (more dilute, hypotonic solution), water enters the cavity by osmosis, causing the sucrose level to rise.
+
+反之，若外界水勢較低（濃度高、為高滲溶液），水分會從洞內流出，液面下降。
+Conversely, if the external solution has a lower water potential (hypertonic solution), water leaves the cavity and the level falls.
+
+分析每一項處理方法：
+Analyzing each treatment:
+
+(1) 用 5% 蔗糖溶液代替 10% 蔗糖溶液。
+Replace 10% sucrose with 5% sucrose.
+→ 5% 溶液水勢比 10% 為高，但仍高於蒸餾水外部，滲透壓差變小，水分仍會流入，只是速度變慢或上升幅度減少。
+→ The 5% solution has a higher water potential than 10%, but the gradient with distilled water decreases—water will still move in, but the level rise is smaller.
+→ 液面仍上升。
+→ The level still rises. ✅
+
+(2) 用 20% 蔗糖溶液代替 10% 蔗糖溶液。
+Replace 10% sucrose with 20% sucrose.
+→ 外界蒸餾水水勢仍較高，滲透壓差更大，因此水分會更快流入洞內。
+→ External distilled water still has higher water potential; the osmotic gradient increases, so more water will enter the cavity.
+→ 液面會上升更多。
+→ The level rises even more. ✅
+
+(3) 把馬鈴薯的外皮全部削去，而非只剝去馬鈴薯的底部。
+Peel off all the potato skin instead of only the bottom part.
+→ 去掉馬鈴薯外皮可使蒸餾水更容易滲入細胞，減少阻力，使水分更快進入洞內。
+→ Removing the skin exposes more tissue to water, facilitating osmotic flow and allowing water to enter faster.
+→ 液面仍會上升。
+→ The level still rises. ✅
+
+因此，會使蔗糖溶液液面上升的處理是 (2) 和 (3)。
+Therefore, the treatments that increase the sucrose level are (2) and (3).
 
 📌 考試提醒
-滲透作用是指水分子從較高水勢區域經過選擇性透性膜淨移動到較低水勢區域的過程。
-Osmosis is the net movement of water molecules from a region of higher water potential to a region of lower water potential across a selectively permeable membrane.
-水勢差異決定了水分移動的方向和最終平衡時的體積，而表面積只影響水分移動的速率。
-The water potential difference determines the direction of water movement and the final volume at equilibrium, whereas surface area only affects the rate of water movement.
-常見錯誤：學生常混淆「滲透速率」與「最終平衡水平」，誤以為增加表面積（如削去全部外皮）會令最終液面升得更高。
-Common trap: Students often confuse the ""rate of osmosis"" with the ""final equilibrium level,"" mistakenly thinking that increasing the surface area (like peeling all skin) will cause the final liquid level to rise higher.",
+
+滲透作用永遠由**高水勢（低濃度）→ 低水勢（高濃度）**移動。
+
+Osmosis always moves from higher water potential (lower solute) to lower water potential (higher solute).
+
+若蔗糖濃度越高 → 水勢越低 → 從外界滲入的水越多。
+
+Higher sucrose concentration → lower water potential → more water enters from outside.
+
+馬鈴薯外皮具有防水效果，阻礙滲透；若削去外皮，滲透更容易進行。
+
+Potato skin is water-resistant and limits osmosis; removing it increases water movement.
+
+常見陷阱： 一些學生以為高濃度糖液會「抽水出來」，但要留意外部是蒸餾水（低滲），所以水仍流入。
+
+Common trap: Some students think higher sucrose always “draws water out,” but since the outside is distilled water (hypotonic), water still moves in.",
 1326,"📌 參考答案
 B. 脂肪酸
 B. Fatty acid
-
 📌 詳細解釋
-
-題目問哪種營養素主要藉簡單擴散進入小腸上皮細胞。
-The question asks which nutrient mainly enters intestinal epithelial cells by simple diffusion.
-
-脂肪酸屬於脂溶性分子，可容易溶於細胞膜的磷脂雙分子層中，
-Fatty acids are lipid-soluble molecules that easily dissolve in the phospholipid bilayer of the cell membrane,
-因此可直接進入上皮細胞，不需載體且不耗能量。
-so they can pass directly into epithelial cells without carriers and without energy consumption.
-
-其他選項分析：
-Analysis of other options:
-
-A. 氨基酸 (Amino acids) → 需載體蛋白協助主動運輸或協助擴散。
-A. Amino acids → Require carrier proteins for active transport or facilitated diffusion.
-
-C. 單糖 (Monosaccharides) → 如葡萄糖、果糖，為水溶性，需經協助擴散或主動運輸吸收。
-C. Monosaccharides → e.g. glucose and fructose; water-soluble, absorbed by facilitated diffusion or active transport.
-
-D. 核苷酸 (Nucleotides) → 同樣需要載體蛋白進行主動運輸。
-D. Nucleotides → Also require carrier-mediated active transport.
-
-因此，只有脂肪酸能以簡單擴散通過細胞膜。
-Therefore, only fatty acids can cross the membrane by simple diffusion.
-
+脂肪酸是脂溶性的，會直接溶解並藉簡單擴散穿越細胞膜的磷脂雙分子層，進入上皮細胞。
+Fatty acids are lipid-soluble, meaning they can directly dissolve and pass through the phospholipid bilayer of the cell membrane into the epithelial cells via simple diffusion.
+氨基酸及單糖（如葡萄糖）是水溶性的，它們的吸收主要依靠載體蛋白進行主動運輸。
+Amino acids and monosaccharides (such as glucose) are water-soluble; their absorption mainly relies on active transport using carrier proteins.
+核苷酸的吸收同樣主要是靠載體蛋白進行主動運輸。
+The absorption of nucleotides also mainly depends on active transport using carrier proteins.
 📌 考試提醒
-
-簡單擴散 (Simple diffusion)： 小且脂溶性的分子可自由穿越細胞膜。
-
-Simple diffusion: Small, lipid-soluble molecules can pass freely through the membrane.
-
-協助擴散 (Facilitated diffusion)： 需載體蛋白，無需能量。
-
-Facilitated diffusion: Needs carrier proteins, no energy required.
-
-主動運輸 (Active transport)： 需載體蛋白及能量（ATP）。
-
-Active transport: Requires carrier proteins and energy (ATP).
-
-常見錯誤： 學生常以為單糖或氨基酸也以簡單擴散方式吸收，但實際上它們都需載體。
-
-Common trap: Students often think monosaccharides or amino acids use simple diffusion, but they actually require carriers.
-",
+簡單擴散適用於脂溶性及細小分子，不需載體蛋白或能量。
+Simple diffusion applies to lipid-soluble and small molecules, requiring no carrier proteins or energy.
+常見錯誤：學生常誤以為氨基酸及葡萄糖可以藉簡單擴散或協助擴散吸收，忽略了小腸中主要依靠主動運輸以逆濃度梯度吸收養分。
+Common trap: Students often mistakenly think amino acids and glucose can be absorbed via simple or facilitated diffusion, ignoring that the small intestine mainly relies on active transport to absorb nutrients against a concentration gradient.",
 1327,"📌 參考答案
 B. X 顯得較清晰，因為位置 X₁ 有視錐細胞。
-B. X appears clearer because image X₁ falls on a region with cone cells.
+B. X appears clearer because position X₁ has cone cells.
 
 📌 詳細解釋
-
-圖中顯示人眼的橫切面，標示出兩個成像位置 X₁ 和 Y₁。
-The diagram shows a cross-section of the human eye, with two image positions labeled X₁ and Y₁.
-
-位置 X₁ 位於黃斑（fovea）上，該處含有大量視錐細胞（cone cells），
-Position X₁ lies on the fovea, which contains numerous cone cells,
-這些細胞對顏色敏銳且能形成高解析度影像。
-which are responsible for color sensitivity and high-resolution vision.
-
-位置 Y₁ 則離開黃斑，該區含有較多視桿細胞（rod cells），
-Position Y₁ is located away from the fovea and contains more rod cells,
-視桿細胞只感光，不分辨顏色且解析力較低。
-which only detect light intensity but do not distinguish color, giving lower resolution.
-
-因此，圖中物體 X 的影像落在 X₁（黃斑），所見較清晰；
-而物體 Y 的影像落在 Y₁（外圍），所見較模糊。
-Therefore, the image of X falling on X₁ (fovea) appears clearer, while Y falling on Y₁ (periphery) appears blurred.
+位置 X₁ 對應黃點，該處含有大量視錐細胞，其視覺敏銳度較高，因此產生的影像較清晰。
+Position X₁ corresponds to the yellow spot, which contains an abundance of cone cells with higher visual acuity, thus producing a clearer image.
+位置 Y₁ 位於視網膜外圍，主要含有對光較敏感的視桿細胞，因此影像會顯得較模糊。
+Position Y₁ is located at the periphery of the retina and mainly contains rod cells that are more sensitive to light, making the image appear more blurred.
+選項 A 錯誤，因為視桿細胞相對視錐細胞對光較敏感，所以 Y 會較 X 顯得光亮。
+Option A is incorrect because rod cells are more sensitive to light than cone cells, so Y would appear brighter than X.
+選項 C 及 D 錯誤，因為位置 Y₁ 雖然主要含有視桿細胞，但亦有少量視錐細胞，因此仍能辨別出影像的顏色，而非完全呈黑白。
+Options C and D are incorrect because although position Y₁ mainly contains rod cells, it still has a small number of cone cells; therefore, it can still distinguish colors rather than being completely black and white.
 
 📌 考試提醒
-
-黃斑 (Fovea)： 視網膜上視覺最敏銳的區域，僅含視錐細胞。
-
-Fovea: The sharpest region on the retina, containing only cone cells.
-
-視錐細胞 (Cone cells)： 對顏色敏感，工作於亮光環境，影像清晰。
-
-Cone cells: Color-sensitive, function in bright light, produce sharp images.
-
-視桿細胞 (Rod cells)： 對弱光敏感，不分顏色，影像模糊。
-
-Rod cells: Sensitive in dim light, do not detect color, give blurred images.
-
-物體影像落在黃斑 → 看得清晰且有顏色。
-
-Image on the fovea → Sharp and colorful vision.
-
-物體影像落在視網膜周邊 → 模糊且黑白。
-
-Image on the retinal periphery → Blurred and colorless.
-
-常見錯誤： 學生以為亮度高就等於清晰，其實清晰度取決於有無視錐細胞，而非光強。
-
-Common trap: Students often confuse brightness with sharpness — sharpness depends on cone cells, not light intensity.",
+黃點集中大量視錐細胞負責高解像度及彩色視覺；視網膜周邊則主要是負責暗光視覺的視桿細胞。
+The yellow spot is concentrated with a large number of cone cells responsible for high-resolution and color vision; the peripheral retina consists mainly of rod cells responsible for vision in dim light.
+常見錯誤：學生常以為視網膜外圍完全沒有視錐細胞，誤以為該處影像完全是黑白的。
+Common trap: Students often assume the peripheral retina has absolutely no cone cells, mistakenly thinking images there are completely black and white.",
 1328,"📌 參考答案
 A. 近距離的物體，因為構造 Z 的厚度難以增加至最厚。
 A. Nearby objects, because structure Z cannot increase its thickness to the maximum.
@@ -1553,90 +1356,39 @@ Type I → 缺乏胰島素；Type II → 抗胰島素作用。
 Remember:
 Type I → Insulin deficiency; Type II → Insulin resistance.",
 1335,"📌 參考答案
-答案：D（2 和 4）
-Answer: D (2 and 4)
-
+D. 2 和 4
+D. 2 and 4
 📌 詳細解釋
-圖中顯示男性的生殖系統結構：
-The diagram shows the structures of the male reproductive system:
-
-1 — 輸精管（Vas deferens）
-2 — 精囊（Seminal vesicle）
-3 — 攝護腺（Prostate gland）
-4 — 睪丸（Testis）
-
-其中：
-Among them:
-
-結構 2（精囊） 分泌精液的一部分，含有果糖等營養物質，為精子提供能量來源。
-Structure 2 (seminal vesicle) secretes part of the semen, containing nutrients such as fructose to provide energy for sperm.
-
-結構 4（睪丸） 負責產生精子，並製造男性荷爾蒙（如睪固酮）。
-Structure 4 (testis) is responsible for producing sperm and secreting male hormones (e.g., testosterone).
-
-精子與精液混合後，形成被排出的精液。
-Sperm mix with secretions from glands (seminal fluid), forming semen that is ejaculated.
-
-因此，涉及產生精液成分的結構是 2 和 4。
-Therefore, the structures involved in producing semen components are 2 and 4.
-
+圖中結構 1 為膀胱，結構 2 為精囊，結構 3 為輸精管，結構 4 為睾丸。
+In the diagram, structure 1 is the urinary bladder, structure 2 is the seminal vesicle, structure 3 is the sperm duct, and structure 4 is the testis.
+結構 4 負責製造並排出精子。
+Structure 4 is responsible for producing and releasing sperm.
+結構 2 會分泌精液，為精子提供營養。
+Structure 2 secretes seminal fluid to provide nutrients for the sperm.
+精子與精液混合後，會形成最後排出體外的精液。
+Sperm mixes with the seminal fluid to form the semen that is eventually ejaculated from the body.
 📌 考試提醒
-睪丸（Testis） → 產生精子與睪固酮。
-Testis → Produces sperm and testosterone.
-
-精囊（Seminal vesicle） → 分泌含果糖的液體供精子能量。
-Seminal vesicle → Secretes fluid with fructose to nourish sperm.
-
-攝護腺（Prostate gland） → 分泌液體幫助精子活動與中和陰道酸性。
-Prostate gland → Secretes fluid that aids sperm mobility and neutralizes vaginal acidity.
-
-記得：
-精液（Semen）＝精子（Sperm）＋腺體分泌液（Gland secretions）。
-Remember:
-Semen = Sperm + Gland secretions.
-",
+精液是由精子及附屬腺體（如精囊及前列腺）的分泌物混合而成的。
+Semen is a mixture of sperm and secretions from accessory glands (such as the seminal vesicle and prostate gland).
+常見錯誤：學生常常無法正確辨識男性生殖系統的結構，錯誤將膀胱標示為生殖系統的一部分。
+Common trap: Students frequently fail to correctly identify the structures of the male reproductive system, mistakenly labeling the bladder as part of the reproductive system.",
 1336,"📌 參考答案
-答案：D (1), (2), and (3)
-
+D. (1)、(2) 和 (3)
+D. (1), (2) and (3)
 📌 詳細解釋
-輸精管結紮手術（即結構 3 被切斷）主要是為了阻止精子通過。
-A vasectomy (cutting the structure 3, the sperm duct) is mainly done to block the passage of sperm.
-
-(1) 睪丸仍能製造精子。
-(1) The testes still produce sperm.
-
-即使輸精管被切斷，睪丸的功能不受影響，仍會持續產生精子和分泌睪固酮。
-Even though the sperm ducts are cut, the testes still function, producing sperm and secreting testosterone.
-
-(2) 陰莖仍能勃起。
-(2) The penis can still erect.
-
-陰莖勃起是由神經系統與血管控制，與輸精管無關。
-Erection is controlled by the nervous system and blood vessels, not by the sperm ducts.
-
-(3) 射精仍然可以發生。
-(3) Ejaculation can still occur.
-
-射精的動作是由神經訊號控制，精液可由精囊與攝護腺分泌液體排出體外。
-Ejaculation is a nerve-controlled reflex in which seminal and prostate fluids are expelled from the body.
-
-不同的是，手術後射出的精液中不含精子。
-The difference is that after vasectomy, the semen contains no sperm.
-
-因此，結紮後仍可發生 (1)、(2)、(3)。
-Therefore, all three — (1), (2), and (3) — can still occur after vasectomy.
-
+結構 3 是輸精管，經結紮和切斷後，只會令精子不能排出體外。
+Structure 3 is the sperm duct; ligating and cutting it only prevents sperm from being ejaculated.
+睾丸會不斷製造精子，這過程獨立於輸精管，因此 (1) 仍會發生。
+The testes continuously produce sperm, a process independent of the sperm duct, so (1) will still occur.
+陰莖勃起是因為陰莖及其內血管接收到神經脈衝，這神經傳遞過程並不涉及輸精管，因此 (2) 仍會發生。
+Penile erection occurs because the penis and its blood vessels receive nerve impulses, a transmission process not involving the sperm duct, so (2) will still occur.
+射精同樣是由神經脈衝控制，結紮後陰莖仍可排出由附屬腺體分泌的液體，只是精液中並無精子，因此 (3) 仍會發生。
+Ejaculation is also controlled by nerve impulses; after vasectomy, the penis can still expel fluids secreted by accessory glands, except the semen will contain no sperm, so (3) will still occur.
 📌 考試提醒
-結紮（輸精管切斷）阻止精子運出體外，但不影響性功能。
-Vasectomy blocks sperm transport, but does not affect sexual function.
-
-射出的液體仍為精液（由精囊與攝護腺分泌），只是裡面沒有精子。
-The expelled fluid is still semen (from seminal vesicles and prostate glands), but it contains no sperm.
-
-記得：
-結紮 → 無精子射出，但能勃起與射精。
-Remember:
-Vasectomy → No sperm in semen, but erection and ejaculation remain normal.",
+輸精管結紮手術是一種避孕方法，它只會阻擋精子運送，絕不會影響荷爾蒙分泌、精子製造或正常的性功能。
+Vasectomy is a contraceptive method that only blocks sperm transport; it absolutely does not affect hormone secretion, sperm production, or normal sexual function.
+常見錯誤：學生常誤以為切斷輸精管會影響睪丸製造精子的能力或導致無法射精。
+Common trap: Students often mistakenly believe that cutting the sperm duct affects the testes' ability to produce sperm or results in an inability to ejaculate.",
 13p101,"## 📌 參考答案 (Suggested Answers)
 
 - 小腦 — **B**  
