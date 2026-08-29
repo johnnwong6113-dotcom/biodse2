@@ -1,4 +1,4 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 1501,"📌 參考答案 (Answer)
 D. 只有 2、3 和 4
 
@@ -192,43 +192,30 @@ Only protists and plants have chloroplasts and other true organelles.
 
 Tip: Remember “chloroplasts = only in eukaryotes.”
 ",
-1506,"📌 參考答案 (Answer)
-B. 需氧呼吸產生較多 NADH；缺氧呼吸產生較少 NADH
-B. Aerobic respiration produces more NADH; anaerobic respiration produces less NADH
+1506,"📌 參考答案
+B
 
-📌 詳細解釋 (Detailed Explanation)
-需氧呼吸 (Aerobic respiration)
+📌 詳細解釋
+本題比較骨骼肌細胞在需氧呼吸與缺氧呼吸中的特徵。
+This question compares the characteristics of aerobic and anaerobic respiration in skeletal muscle cells.
+在需氧呼吸中，糖酵解、連接反應與克雷伯氏循環均會產生大量的 NADH。
+In aerobic respiration, glycolysis, the link reaction, and the Krebs cycle produce a large amount of NADH.
+在缺氧呼吸中，糖酵解產生的 NADH 會在還原丙酮酸成乳酸的過程中被重新氧化為 NAD+。
+In anaerobic respiration, the NADH produced in glycolysis is re-oxidized to NAD+ during the reduction of pyruvate to lactic acid.
+因此，缺氧呼吸的 NADH 淨產量為零，選項 B 正確描述了兩者在 NADH 產量上的差異。
+Therefore, the net production of NADH in anaerobic respiration is zero, making option B the correct description of their difference in NADH yield.
+選項 A 錯誤，因為骨骼肌細胞在有氧供應不足時也會進行缺氧呼吸，並非只在無氧時進行。
+Option A is incorrect because skeletal muscle cells also carry out anaerobic respiration when oxygen supply is insufficient, not only in the complete absence of oxygen.
+選項 C 錯誤，需氧呼吸與缺氧呼吸的第一階段均為糖酵解。
+Option C is incorrect as glycolysis is the first stage in both aerobic and anaerobic respiration.
+選項 D 錯誤，需氧呼吸的糖酵解過程同樣發生在細胞質內。
+Option D is incorrect because the glycolysis stage of aerobic respiration also takes place in the cytoplasm.
 
-全過程包括 糖酵解 → 克雷伯氏循環 → 氧化磷酸化。
-The complete process includes glycolysis → Krebs cycle → oxidative phosphorylation.
-每個葡萄糖分子在此過程能產生 大量 NADH (約 10 個)，再把電子送入電子傳遞鏈，產生大量 ATP。
-Each glucose molecule generates about 10 NADH, which feed electrons into the electron transport chain to yield large amounts of ATP.
-缺氧呼吸 (Anaerobic respiration, e.g. lactic acid fermentation in muscle cells)
-
-過程只有 糖酵解 + 發酵。
-Process includes glycolysis + fermentation only.
-每個葡萄糖分子僅產生 2 個 NADH，之後在乳酸發酵中需被再氧化為 NAD⁺，因此整體 淨 NADH 少得多。
-Each glucose produces only 2 NADH, and these are reoxidized to NAD⁺ during lactic acid fermentation, so the net NADH is very little.
-👉 所以，正確答案是 B。
-👉 Therefore, the correct answer is B.
-
-📌 考試提醒 (Exam Tips)
-需氧呼吸：大量 NADH + 大量 ATP (36–38 ATP)。
-
-Aerobic respiration: many NADH + much ATP (36–38 ATP).
-
-缺氧呼吸：少量 NADH + 少量 ATP (2 ATP)。
-
-Anaerobic respiration: few NADH + little ATP (2 ATP).
-
-糖酵解 (glycolysis) → 在細胞質內進行，不論有無氧氣都會發生。
-
-Glycolysis → always in cytoplasm, both aerobic and anaerobic conditions.
-
-記住：NADH 多少，是分辨考題中呼吸類型關鍵線索之一。
-
-Remember: The number of NADH produced is a key clue in distinguishing respiration types in exam questions.
-",
+📌 考試提醒
+缺氧呼吸（乳酸發酵）的最終產物只有乳酸，NADH 會被消耗以維持糖酵解的持續進行。
+The only final product of anaerobic respiration (lactic acid fermentation) is lactic acid, as NADH is consumed to sustain glycolysis.
+常見錯誤：學生常誤以為缺氧呼吸會淨釋出 NADH，混淆了糖酵解與整個缺氧呼吸過程的最終產量。
+Common trap: Students often mistakenly believe anaerobic respiration yields a net release of NADH, confusing the products of glycolysis with the final yield of the entire anaerobic pathway.",
 1507,"📌 參考答案 (Answer)
 D. 腺 → 酶：蛋白酶 → 最適 pH：11
 D. Pancreas → Enzyme: Protease → Optimum pH: 11
@@ -320,108 +307,52 @@ Small intestine: main site for carbohydrates, proteins, and fats digestion and a
 食道只有蠕動，沒有化學消化。
 
 Oesophagus has peristalsis only, no chemical digestion.",
-1509,"📌 參考答案 (Answer)
-B. 迴腸 → 大部分已消化的食物在這部位被吸收
-B. Ileum → Most digested food is absorbed here
+1509,"📌 參考答案
+B
 
-📌 詳細解釋 (Detailed Explanation)
-迴腸 (Ileum)
+📌 詳細解釋
+本題考核消化道中水分吸收的主要位置及其背後原理。
+This question examines the primary site of water absorption in the alimentary canal and its underlying principle.
+食物在迴腸被徹底消化後，大量營養素（如葡萄糖和氨基酸）會被吸收至微血管中。
+After food is thoroughly digested in the ileum, a large amount of nutrients (such as glucose and amino acids) is absorbed into the blood capillaries.
+這會大大降低血液的水勢，在迴腸腔與血液之間形成陡峭的水勢梯度。
+This significantly lowers the water potential of the blood, creating a steep water potential gradient between the ileal lumen and the blood.
+因此，消化道中絕大部分的水分會藉滲透作用在迴腸被吸收，選項 B 正確。
+Consequently, the vast majority of water in the alimentary canal is absorbed in the ileum by osmosis, making option B correct.
+選項 A 錯誤，迴腸的長度雖然增加了吸收的表面積，但並非水分大量轉移的最根本驅動力。
+Option A is incorrect because while the length of the ileum increases the surface area for absorption, it is not the fundamental driving force for the massive transfer of water.
+選項 C 及 D 錯誤，雖然大腸的主要功能是吸收剩餘的水分，但到達大腸的水分總量已遠少於迴腸。
+Options C and D are incorrect because although the main function of the large intestine is to absorb remaining water, the total volume of water reaching it is already much less than that in the ileum.
 
-迴腸是小腸的最後一部分，也是攝取養分與水分的重要部位。
-The ileum, the last part of the small intestine, is a major site for the absorption of nutrients and water.
-當食物被充分消化後，其溶液會進入迴腸，因血液與腸腔之間的水勢差，水分子便透過滲透進入血液。
-After digestion, chyme enters the ileum; due to the water potential difference between blood and lumen, water moves into the blood by osmosis.
-✅ 因此大部分水分吸收在迴腸發生。
-✅ Therefore, most water absorption happens in the ileum.
-為何其他選項錯？
+📌 考試提醒
+水分在消化道內的移動完全取決於因營養素吸收而產生的水勢梯度。
+The movement of water in the alimentary canal strictly depends on the water potential gradient created by nutrient absorption.
+常見錯誤：學生常因為大腸的「主要功能」是吸收水分，而錯誤推斷大腸是吸收「最多」水分的器官。
+Common trap: Students often falsely deduce that the large intestine absorbs the ""most"" water simply because its ""main function"" is water absorption.",
+1510,"📌 參考答案
+C
 
-A. 十二指腸 (Duodenum) → 主要作用是接收膽汁與胰液進行化學消化，不是主要水分吸收部位。
+📌 詳細解釋
+本題測試脂質在人體內吸收後的運輸途徑。
+This question tests the transport pathway of lipids in the human body after absorption.
+脂肪酸和甘油在擴散進入絨毛的上皮細胞後，會先在細胞內重新組合成脂肪。
+After diffusing into the epithelial cells of the villus, fatty acids and glycerol are first recombined into lipids inside the cells.
+隨後，這些微細的脂滴會進入絨毛中央的乳糜管，成為淋巴液的一部分。
+Subsequently, these tiny lipid droplets enter the lacteal at the centre of the villus, becoming part of the lymph.
+含豐富脂質的淋巴液會沿著淋巴管流動，最終在近心臟位置匯入大靜脈，並直接流回心臟。
+The lipid-rich lymph flows along the lymphatic vessels, eventually joining the vena cava near the heart and flowing directly back to the heart.
+因此，被吸收的脂質最先抵達的主要器官是心臟，選項 C 正確。
+Therefore, the first major organ reached by the absorbed lipids is the heart, making option C correct.
+選項 A 錯誤，大腸並不參與脂質的運輸。
+Option A is incorrect as the large intestine is not involved in the transport of lipids.
+選項 B 及 D 錯誤，脂質並非經由肝門靜脈運輸，因此不會首先到達肝臟或胰臟。
+Options B and D are incorrect because lipids are not transported via the hepatic portal vein, thus they do not reach the liver or pancreas first.
 
-A. Duodenum → Mainly for receiving bile and pancreatic juice for digestion, not the main site of water absorption.
-
-❌
-
-C. 大腸 (Large intestine) → 吸收水分能力有限，僅吸收餘下少量水分。
-
-C. Large intestine → Absorbs only the remaining small amount of water.
-
-❌
-
-D. 胃 (Stomach) → 主要進行儲存與初步的蛋白質消化，水分吸收極有限。
-
-D. Stomach → Functions mainly in storage and protein digestion; only minimal water absorption.
-
-❌
-
-📌 考試提醒 (Exam Tips)
-大部分水分吸收 → 迴腸 (ileum)。
-
-Most water absorption → ileum.
-
-大腸只收回最後少量水分，多屬於調節作用。
-
-Large intestine only reclaims leftover small amounts of water, mainly regulatory.
-
-記憶法：『養分 + 水分 = 小腸迴腸』。
-
-Memory tip: “Nutrients + water = ileum of the small intestine.”",
-1510,"📌 參考答案 (Answer)
-C. 心
-C. Heart
-
-📌 詳細解釋 (Detailed Explanation)
-脂肪的吸收與運輸路徑 (Fat absorption and transport pathway):
-
-在小腸絨毛，脂肪先被乳化並分解為脂肪酸與甘油，稍後於細胞內重新組合為甘油三酯 (triglycerides)。
-
-In the intestinal villi, fats are emulsified and broken down into fatty acids and glycerol, then recombined into triglycerides inside the cell.
-
-這些脂質會形成乳糜微粒 (chylomicrons)，進入 淋巴管 (lacteals)，而不是直接進入血毛細管。
-
-These triglycerides form chylomicrons, which enter the lymphatic lacteals, not directly into blood capillaries.
-
-乳糜微粒經淋巴管 → 淋巴系統 → 胸導管 → 鎖骨下靜脈，最後進入血液環流。
-
-Chylomicrons travel via lymphatic vessels → lymphatic system → thoracic duct → subclavian vein → join blood circulation.
-
-因此，大部分脂肪最先會隨着血液送往 心臟，然後再泵送至全身。
-
-Therefore, most fats are first transported to the heart, then pumped throughout the body.
-
-✅ 正確答案：心臟 (Heart)。
-
-為何不是其他選項？
-
-A. 大腸 → 主要吸收水分和鹽類，與脂肪運輸無關。
-
-A. Large intestine → Mainly absorbs water and salts, unrelated to fat transport.
-
-❌
-
-B. 腎 → 負責尿液形成與排泄，並非脂肪運輸途徑。
-
-B. Kidney → Involved in urine formation, not fat transport.
-
-❌
-
-D. 肝 → 是血液中葡萄糖與部分胺基酸先經「肝門靜脈」運輸的地方，但脂肪先走淋巴途徑，不會第一時間到肝臟。
-
-D. Liver → Glucose and some amino acids reach the liver first via the hepatic portal vein, but fats travel via lymph first, not directly to liver.
-
-❌
-
-📌 考試提醒 (Exam Tips)
-碳水化合物 & 蛋白質 → 先送肝臟 (肝門靜脈系統)。
-
-Carbohydrates & proteins → liver first (via hepatic portal vein).
-
-脂肪 → 先走淋巴系統 → 心臟。
-
-Fats → lymphatic pathway → heart first.
-
-記憶法：“糖蛋白先肝，脂肪先心。”
-
-Memory tip: “Carbs & proteins to liver first, fats to heart first.”",
+📌 考試提醒
+脂肪酸與甘油的重新組合發生在小腸上皮細胞內，而非淋巴管或微血管中。
+The recombination of fatty acids and glycerol occurs inside the epithelial cells of the small intestine, not in the lacteal or blood capillaries.
+常見錯誤：學生經常將脂質的運輸途徑與水溶性營養素混淆，誤以為脂肪會先進入肝臟。
+Common trap: Students frequently confuse the transport pathway of lipids with that of water-soluble nutrients, mistakenly believing that fats enter the liver first.",
 1511,"📌 參考答案 (Answer)
 B. (1) → (3) → (4) → (2)
 
@@ -586,33 +517,24 @@ Expiration: diaphragm relaxes upward, ribs fall downward → thoracic volume ↓
 
 認為「肋骨上升」在呼氣時發生 → 錯，其實只在吸氣過程發生。
 A common mistake: thinking “ribs rise” during expiration → wrong, ribs rise only during inspiration.",
-1516,"📌 參考答案 (Suggested Answer)
-✅ C. 遺傳
-✅ C. Inheritance (Genetics)
+1516,"📌 參考答案
+C
 
-📌 詳細解釋 (Detailed Explanation)
-不同人種之間的膚色差異屬於 離散變異，是由基因決定的，不存在連續過渡型。
-Differences in skin colour among races are discontinuous variations, determined by genes, without intermediate forms.
+📌 詳細解釋
+本題考核人類變異的類型及其主要決定因素。
+This question examines the types of human variation and their primary determining factors.
+人類膚色屬於連續變異，因為它呈現出從淺到深的無數過渡表現型，並非只有幾個明顯的類別。
+Human skin colour is a continuous variation because it exhibits numerous intermediate phenotypes from light to dark, rather than just a few distinct categories.
+這種變異主要由多基因遺傳控制，因此遺傳是決定不同人種膚色差異的最主要因素，選項 C 正確。
+This variation is primarily controlled by polygenic inheritance, so heredity is the most primary factor determining skin colour differences among human races, making option C correct.
+選項 A、B 及 D 錯誤，運動、營養和陽光照射雖然會對個人膚色造成後天影響，但並非決定不同人種膚色差異的根本原因。
+Options A, B, and D are incorrect because while exercise, nutrition, and sunlight exposure can cause acquired changes to individual skin colour, they are not the fundamental causes of skin colour differences among different races.
 
-因此，不同人種之間的膚色主要由 遺傳因素 決定，即等位基因的組合。
-Therefore, skin colour differences among races are mainly determined by genetic factors, that is, combinations of alleles.
-
-雖然運動、營養、陽光照射等環境因素能影響膚色深淺（例如曬黑），但相比於遺傳，這些因素只造成個體差異，而不是人種間的主要差異。
-Although environmental factors like exercise, nutrition, and sunlight can affect skin tone (e.g., tanning), compared with inheritance, these only cause individual differences, not the main differences among races.
-
-結論：人種之間的膚色差異主要由遺傳決定 → 答案 C。
-Conclusion: Racial differences in skin colour are mainly determined by inheritance → Answer C.
-
-📌 考試提醒 (Exam Tips)
-離散變異 (Discontinuous variation)：由基因決定，呈現明顯類別，如血型、眼睛顏色、人種間膚色。
-Discontinuous variation: Determined by genes, shows clear categories, e.g., blood groups, eye colour, skin colour among races.
-
-連續變異 (Continuous variation)：環境決定影響較大，如身高、體重、膚色在同一人種內的深淺。
-Continuous variation: Greatly influenced by environment, e.g., height, weight, skin tone within the same race.
-
-常見誤區：學生容易以為膚色因為「曬太陽」才有差別，但題目問的是「不同人種之間」的大差異，必須從遺傳解釋。
-Common mistake: Students often think skin colour differences are caused mainly by sunlight, but the question asks about racial differences, which are genetic.
-",
+📌 考試提醒
+連續變異通常受多基因控制，並易受環境因素影響；而不連續變異通常由單一或少數基因控制，不受環境影響。
+Continuous variation is usually controlled by polygenes and easily affected by environmental factors, whereas discontinuous variation is generally controlled by a single or few genes and unaffected by the environment.
+常見錯誤：學生常混淆連續變異與不連續變異，誤以為膚色只有幾種固定類別。
+Common trap: Students often confuse continuous and discontinuous variation, mistakenly believing that skin colour only has a few distinct categories.",
 1517,"📌 參考答案 (Suggested Answer)
 ✅ B. 水分的吸收速率與水分的流失速率相等。
 ✅ B. The rate of water absorption equals the rate of water loss.
@@ -671,33 +593,23 @@ Shoot length → affects water transport distance, but not the main factor for t
 木質導管數目 → 決定輸水效率，而不是葉面蒸發速度。
 Number of xylem vessels → determines efficiency of water transport, not leaf transpiration speed.",
 1519,"📌 參考答案
-19. D
+D
 
-📌 詳細解釋 (Detailed Explanation)
-(1) 根有分岔結構，可以有效固定植物，抵抗來自土壤的側力和縱向拉力。
-(1) Roots have branching structures that firmly anchor plants, resisting both lateral and vertical forces from the soil.
+📌 詳細解釋
+本題測試植物根部的不同功能及變態根的例子。
+This question tests the different functions of plant roots and examples of modified roots.
+根部能將植物固定在泥土中，防止被風吹倒，因此陳述 (1) 正確。
+Roots anchor the plant in the soil to prevent it from being blown over by wind, so statement (1) is correct.
+根部表皮長有大量根毛，能大大增加表面積以吸收泥土中的水分及礦物質，因此陳述 (2) 正確。
+The root epidermis grows numerous root hairs, which greatly increase the surface area for absorbing water and minerals from the soil, so statement (2) is correct.
+部分植物的根部會膨脹成為貯藏器官（如番薯的塊根），這類根部能長出新芽並進行營養繁殖，因此陳述 (3) 正確。
+The roots of some plants swell to become storage organs (e.g., tuberous roots of sweet potatoes), and these roots can develop new shoots for vegetative propagation, so statement (3) is correct.
 
-(2) 根毛可大幅增加表面積，從而加強對水分和礦物質的吸收。
-(2) Root hairs greatly increase surface area, enhancing the absorption of water and minerals.
-
-(3) 部分有花植物的根部可作為營養儲存器官，例如蓮藕或紅蘿蔔。
-(3) In some flowering plants, roots act as storage organs for nutrients, such as lotus rhizomes or carrots.
-
-因此，根部具備固定、吸收及營養繁殖三種功能。
-Therefore, roots have the functions of anchorage, absorption, and vegetative reproduction.
-
-📌 考試提醒 (Exam Tips)
-根的基本功能不止「吸收」，還包含 固定植物。
-
-The root’s basic functions are not only absorption but also anchoring the plant.
-
-根毛數量多，增大吸收面積，是考試常問細節。
-
-Numerous root hairs increase absorption surface area, a frequent exam detail.
-
-儲藏根（如甘藷、紅蘿蔔）能進行營養繁殖，要與「莖的營養繁殖」分清楚。
-
-Storage roots (e.g., sweet potato, carrot) can perform vegetative reproduction, which should be distinguished from stem-based vegetative propagation.",
+📌 考試提醒
+並非所有生長在地下的植物器官都是根部，地下莖（如馬鈴薯、蓮藕）與塊根（如番薯）在結構上有本質區別。
+Not all plant organs growing underground are roots; underground stems (like potatoes and lotus rhizomes) are fundamentally different in structure from tuberous roots (like sweet potatoes).
+常見錯誤：學生常誤以為只有莖和葉能進行營養繁殖，或錯誤將地下莖（如蓮藕）當作植物的根部。
+Common trap: Students often mistakenly think that only stems and leaves can perform vegetative propagation, or wrongly identify underground stems (like lotus rhizomes) as plant roots.",
 1520,"📌 參考答案
 20. C
 
@@ -801,75 +713,47 @@ Medulla: Controls vital functions such as breathing and heartbeat.
 
 Pituitary gland: Secretes hormones, regulates growth and metabolism.",
 1523,"📌 參考答案
-正確答案：C. 反射動作由感受器引發，而隨意動作由腦部引發。
-Correct Answer: C. Reflex actions are triggered by receptors, while voluntary actions are initiated by the brain.
+C
+
 📌 詳細解釋
-反射動作（Reflex action） 是由感受器接收到刺激後，透過神經弧迅速反應，不經過大腦意識控制。
-
-Reflex action is produced when receptors detect stimuli and send impulses along a reflex arc, bypassing conscious brain control.
-
-隨意動作（Voluntary action） 則由大腦皮層主動發出神經衝動，控制效應器完成特定動作。
-
-Voluntary action originates in the cerebral cortex, where the brain consciously sends impulses to effectors.
-
-A 選項錯誤： 反射動作固定，隨意動作可因個人意識調整而不同。
-
-Option A is incorrect: reflex responses are fixed, but voluntary ones vary with conscious control.
-
-B 選項錯誤： 反射動作必定由刺激引發，隨意動作則可主動產生。
-
-Option B is incorrect: reflexes always require stimuli, but voluntary actions can occur without them.
-
-C 選項正確： 反射動作由刺激作用於感受器開始，隨意動作源於大腦 → 是兩者根本差異。
-
-Option C is correct: reflexes start with sensory receptors, while voluntary actions start from the brain — this is their key distinction.
-
-D 選項錯誤： 反射的效應器可能是肌肉或腺體，而不一定只限於肌肉。
-
-Option D is incorrect: effectors for reflexes can be muscles or glands, not muscles only.
+本題比較反射動作與隨意動作的神經路徑及特徵。
+This question compares the neural pathways and characteristics of reflex actions and voluntary actions.
+反射動作是由感受器偵測到刺激後自動引發的，而隨意動作則是由大腦發出指令引發的，因此選項 C 正確。
+Reflex actions are automatically triggered by receptors upon detecting a stimulus, whereas voluntary actions are initiated by commands from the cerebrum, making option C correct.
+選項 A 錯誤，反射動作是刻板的（反應相同），而隨意動作的反應可以因人或情境而異。
+Option A is incorrect because reflex actions are stereotyped (responses are identical), while responses in voluntary actions can vary depending on the person or situation.
+選項 B 錯誤，反射動作必須由特定刺激引發，而隨意動作可憑意志發生，不一定需要外在刺激。
+Option B is incorrect because reflex actions must be triggered by a specific stimulus, whereas voluntary actions can occur by will and do not necessarily require external stimuli.
+選項 D 錯誤，反射動作的效應器不僅可以是肌肉，也可以是腺體（例如唾液腺在進食時分泌唾液）。
+Option D is incorrect because the effector of a reflex action is not limited to muscles; it can also be a gland (such as salivary glands secreting saliva when eating).
 
 📌 考試提醒
-考試提醒 1：反射動作是「非隨意」的，被動反應；隨意動作由大腦主動控制。
-
-Exam Tip 1: Reflex actions are involuntary responses; voluntary actions are consciously controlled by the brain.
-
-考試提醒 2：反射弧的順序必須熟記：感受器 → 感覺神經 → 中樞神經 → 運動神經 → 效應器。
-
-Exam Tip 2: Remember the reflex arc order: receptor → sensory neuron → CNS → motor neuron → effector.
-
-考試提醒 3：若題目強調「刺激立即引發反應、非意識控制」→ 一律選反射動作。
-
-Exam Tip 3: If the question mentions “automatic and immediate response without conscious control,” the answer is reflex action.",
+反射弧的基本組成順序為：感受器 → 感覺神經元 → 中樞神經系統 → 運動神經元 → 效應器。
+The basic sequence of a reflex arc is: receptor → sensory neurone → central nervous system → motor neurone → effector.
+常見錯誤：學生常誤以為神經反應的效應器必定是骨骼肌，忽略了腺體同樣能作為效應器產生反應。
+Common trap: Students often mistakenly assume that effectors of neural responses must be skeletal muscles, ignoring that glands can also act as effectors to produce a response.",
 1524,"📌 參考答案
-答案：D
+D
 
 📌 詳細解釋
-1 是花柱，受精後會枯萎脫落。
-1 is the style, which withers and falls off after fertilization.
-
-2 是花萼，受精後同樣會枯萎脫落。
-2 is the sepal, which also withers and drops off after fertilization.
-
-3 是胚珠，受精後會發育成種子。
-3 is the ovule, which develops into the seed after fertilization.
-
-4 是子房壁，受精後會膨脹並發展成果皮（果實的外層）。
-4 is the ovary wall, which swells and develops into the pericarp (the fruit wall) after fertilization.
-
-因此，正確答案是 D。
-Therefore, the correct answer is D.
+本題測試有花植物在受精後花朵各構造的發育與演變。
+This question tests the development and evolution of floral structures in flowering plants after fertilization.
+在成功受精後，子房（構造 4 標示的外壁）會膨脹並發育成果實，其外層的子房壁則發育成果皮。
+After successful fertilization, the ovary (whose outer wall is indicated by structure 4) swells and develops into a fruit, with its outer ovary wall developing into the pericarp.
+因此，構造 4 將會發展成果皮，選項 D 正確。
+Therefore, structure 4 will develop into the pericarp, making option D correct.
+選項 A 錯誤，構造 1 是花柱，在受精後通常會枯萎脫落。
+Option A is incorrect because structure 1 is the style, which typically withers and falls off after fertilization.
+選項 B 錯誤，構造 2 是花藥，負責產生花粉，受精後同樣會枯萎。
+Option B is incorrect because structure 2 is the anther, responsible for producing pollen, and it also withers after fertilization.
+選項 C 錯誤，構造 3 是胚珠，受精後會發育成種子，而非果皮。
+Option C is incorrect because structure 3 is the ovule, which develops into a seed after fertilization, not the pericarp.
 
 📌 考試提醒
-果實的形成是由子房發育而來，種子則由胚珠發育而成。
-A fruit develops from the ovary, while the seed develops from the ovule.
-
-花的其他部分如花柱和花萼在受精後通常會脫落。
-Other floral parts such as the style and sepal usually wither and fall off after fertilization.
-
-記得：
-「子房 → 果實；胚珠 → 種子」是花的結構變化核心。
-Remember:
-“Ovary → Fruit; Ovule → Seed” is the key transformation after fertilization.",
+必須準確辨識植物生殖器官的專有名詞，植物的雌性器官基部稱為「子房」，絕對不可譯作動物名詞「卵巢」。
+It is crucial to accurately identify the specific terminology for plant reproductive organs; the basal part of the female organ in plants is called the ""ovary"" (子房) and must never be translated into the animal equivalent term in Chinese.
+常見錯誤：學生常將胚珠發育而成的「種子」與子房壁發育而成的「果皮」混淆。
+Common trap: Students often confuse the ""seed"" developed from the ovule with the ""pericarp"" developed from the ovary wall.",
 1525,"📌 參考答案
 答案：C
 
