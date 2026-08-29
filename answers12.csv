@@ -1,4 +1,4 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 1201,"📌 參考答案 (Suggested Answer)
 答案：D（小腸內壁）。
 Answer: D (Intestinal epithelium).
@@ -85,156 +85,111 @@ Remember the keyword transpiration pull, created by the water potential gradient
 
 常見誤區：學生常以為水分上升主要靠根吸水，但根吸水只是補充，真正拉動水柱上升的是蒸騰。
 Common trap: Students often think water ascends mainly due to root absorption, but roots only supply water; the actual pull comes from transpiration.",
-1204,"📌 參考答案 (Suggested Answer)
-✅ B. 樹突 → 細胞體 → 軸突
-✅ B. Dendrite → Cell body → Axon
+1204,"📌 參考答案
+B. 樹突 → 細胞體 → 軸突
+B. Dendrite → Cell body → Axon
 
-📌 詳細解釋 (Detailed Explanation)
-樹突接收來自其他神經元的神經衝動，並把訊息傳到細胞體。
-The dendrite receives nerve impulses from other neurons and passes the signals to the cell body.
+📌 詳細解釋
+樹突從別的神經元接收神經脈衝，並將其傳遞至細胞體。
+Dendrites receive nerve impulses from other neurons and transmit them to the cell body.
+細胞體整合訊息後，神經脈衝會沿著軸突傳遞至其他神經元。
+After the cell body integrates the information, the nerve impulses are transmitted along the axon to other neurons.
+因此，脈衝傳送的正確單向途徑為樹突、細胞體再到軸突。
+Therefore, the correct unidirectional pathway for impulse transmission is from the dendrite, to the cell body, and then to the axon.
+選項 A 顛倒了樹突與軸突的次序，因此不正確。
+Option A reverses the order of the dendrite and axon, thus it is incorrect.
+選項 C 及 D 將細胞體或軸突置於接收端，不符合神經脈衝的傳遞方向。
+Options C and D place the cell body or axon at the receiving end, which does not match the transmission direction of nerve impulses.
 
-細胞體整合訊息並產生新的神經衝動。
-The cell body integrates the information and generates a new nerve impulse.
+📌 考試提醒
+神經脈衝在神經元內的傳遞是單向的，必定由樹突傳向軸突。
+The transmission of nerve impulses within a neuron is unidirectional, strictly flowing from dendrites to axons.
+常見錯誤：學生常混淆樹突與軸突的功能，誤以為軸突是負責接收脈衝的結構。
+Common trap: Students often confuse the functions of dendrites and axons, mistakenly thinking that axons are the structures responsible for receiving impulses.",
+1205,"📌 參考答案
+D. (1)、(2) 和 (3)
+D. (1), (2) and (3)
 
-最後，神經衝動沿著軸突傳送，再經由突觸傳遞給下一個神經元。
-Finally, the nerve impulse travels along the axon and is transmitted to the next neuron via the synapse.
+📌 詳細解釋
+當神經脈衝到達軸突末端時，會刺激神經遞質釋出到突觸中。
+When a nerve impulse reaches the axon terminal, it stimulates the release of neurotransmitters into the synapse.
+神經遞質擴散越過突觸，刺激下一個神經元的樹突產生新的神經脈衝。
+Neurotransmitters diffuse across the synapse and stimulate the dendrite of the next neuron to generate a new nerve impulse.
+這種化學傳遞過程存在於感覺神經元與中間神經元之間。
+This chemical transmission process exists between sensory neurons and relay neurons.
+中間神經元與運動神經元之間同樣依賴突觸來傳遞神經脈衝。
+The connection between relay neurons and motor neurons similarly relies on synapses to transmit nerve impulses.
+運動神經元與肌肉之間的神經肌肉接點也是一種特別形式的突觸。
+The neuromuscular junction between motor neurons and muscles is also a special type of synapse.
+因此，選項 (1)、(2) 及 (3) 的情況均正確。
+Therefore, the situations in options (1), (2), and (3) are all correct.
 
-結論：正確方向是 樹突 → 細胞體 → 軸突。
-Conclusion: The correct direction is Dendrite → Cell body → Axon.
+📌 考試提醒
+所有神經元之間及神經元與效應器之間的信號傳遞，均需依賴神經遞質擴散越過突觸。
+Signal transmission between all neurons, as well as between neurons and effectors, relies on the diffusion of neurotransmitters across synapses.
+常見錯誤：學生常以為運動神經元與肌肉之間是直接用電信號連接，忽略了神經肌肉接點也是透過化學物質傳遞。
+Common trap: Students often assume motor neurons and muscles are connected directly by electrical signals, ignoring that neuromuscular junctions also rely on chemical transmission.",
+1206,"📌 參考答案
+A. 跳舞時的肌肉活動
+A. Muscle activity during dancing
 
-📌 考試提醒 (Exam Tips)
-請牢記神經衝動的單向傳遞：樹突收、軸突送。
-Always remember nerve impulse flow: dendrites receive, axons send.
+📌 詳細解釋
+小腦主要負責協調肌肉收縮，並維持身體平衡。
+The cerebellum is mainly responsible for coordinating muscle contractions and maintaining body balance.
+跳舞時涉及複雜的肌肉活動與平衡控制，因此完全由小腦負責協調。
+Dancing involves complex muscle activities and balance control, so it is fully coordinated by the cerebellum.
+選項 B 及 C 不正確，因為睡眠時的呼吸活動和飢餓時的消化液分泌均由延腦控制。
+Options B and C are incorrect because breathing activities during sleep and the secretion of digestive juices when hungry are controlled by the medulla.
+選項 D 不正確，手接觸到灼熱物品時縮回的退縮反應是由脊髓控制的簡單反射。
+Option D is incorrect; the withdrawal reflex of retracting the hand when touching a hot object is a simple reflex controlled by the spinal cord.
 
-細胞體是訊息處理與觸發新衝動的核心。
-The cell body is the center for processing and triggering new impulses.
+📌 考試提醒
+小腦專注於協調肌肉的活動與平衡，而延腦控制如呼吸及消化液分泌等不隨意活動。
+The cerebellum focuses on coordinating muscle activities and balance, while the medulla controls involuntary activities such as breathing and digestive juice secretion.
+常見錯誤：學生容易把所有不受大腦意識即時控制的動作混淆，未釐清退縮反應的控制中樞是脊髓。
+Common trap: Students easily confuse all actions not immediately controlled by conscious thought, failing to clarify that the control centre for the withdrawal reflex is the spinal cord.",
+1207,"📌 參考答案
+A. 韌帶
+A. Ligament
 
-常見錯誤是把軸突排在最前，實際神經訊號起點是樹突而非軸突。
-A common mistake is placing the axon first, but the impulse actually begins at the dendrite, not the axon.
-",
-1205,"📌 參考答案 (Suggested Answer)
-✅ D. (1)、(2) 和 (3)
+📌 詳細解釋
+韌帶是一種堅韌的結締組織，專門連接活動關節之間的骨塊。
+Ligaments are tough connective tissues specifically designed to connect bones in movable joints.
+它的主要功能是把骨塊固定在一起，以防止骨骼脫位。
+Its main function is to hold the bones together to prevent the dislocation of bones.
+選項 B 不正確，骨兩端的軟骨主要是為了減少骨與骨之間的摩擦。
+Option B is incorrect; the cartilage at the ends of bones is mainly for reducing friction between bones.
+選項 C 不正確，肌肉附著於骨骼上，提供力量以牽動骨骼。
+Option C is incorrect; muscles are attached to bones to provide the force needed to move the skeleton.
+選項 D 不正確，腱負責連接肌肉和骨骼，將拉力傳送至骨塊。
+Option D is incorrect; tendons are responsible for connecting muscles to bones and transmitting the pulling force to the bones.
 
-📌 詳細解釋 (Detailed Explanation)
-當神經衝動到達軸突末端，會觸發突觸小泡釋放神經遞質。
-When a nerve impulse reaches the axon terminal, it triggers synaptic vesicles to release neurotransmitters.
+📌 考試提醒
+韌帶連接骨與骨以防止脫位，而腱則連接肌肉與骨以傳遞拉力。
+Ligaments connect bone to bone to prevent dislocation, while tendons connect muscle to bone to transmit pulling force.
+常見錯誤：學生常把韌帶與腱的功能混淆，錯誤以為腱能將骨塊互相連接起來。
+Common trap: Students often confuse the functions of ligaments and tendons, mistakenly thinking that tendons connect bones together.",
+1208,"📌 參考答案
+A. P
+A. P
 
-神經遞質擴散穿過突觸間隙，並與下一個細胞膜上的受體結合，引起新的衝動。
-Neurotransmitters diffuse across the synaptic cleft and bind to receptors on the next cell, initiating a new impulse.
+📌 詳細解釋
+P 是鞏膜，這層組織呈白色且強韌，能保護眼球內部結構並保持眼球形狀。
+P is the sclera, which is white and tough, protecting the internal structures of the eyeball and maintaining its shape.
+Q 是視網膜，附有感光細胞，負責將光線轉成電子信號。
+Q is the retina, which contains photoreceptor cells and is responsible for converting light into electrical signals.
+R 是視神經，負責把感光細胞產生的神經脈衝傳遞至大腦的視覺中心作詮釋。
+R is the optic nerve, responsible for transmitting nerve impulses generated by photoreceptor cells to the visual centre of the brain for interpretation.
+S 是睫狀體，透過其肌肉的收縮與放鬆來控制晶狀體的弧度。
+S is the ciliary body, which controls the curvature of the lens through the contraction and relaxation of its muscles.
+因此，只有標註 P 符合強韌和呈白色的特徵。
+Therefore, only label P matches the tough and white characteristics.
 
-這種化學方式的突觸傳導不僅存在於感覺神經元和中間神經元之間，也存在於中間神經元和運動神經元之間，以及運動神經元和肌肉纖維之間。
-This chemical synaptic transmission occurs not only between sensory and relay neurons, but also between relay and motor neurons, and finally between motor neurons and muscle fibers.
-
-結論：三種情境 (1)、(2)、(3) 都涉及突觸釋放化學物質傳導衝動 → 答案 D。
-Conclusion: All three cases (1), (2), and (3) involve chemical transmission at synapses → Answer D.
-
-📌 考試提醒 (Exam Tips)
-總結一句：電信號到軸突末端變成化學訊號，再在下一個神經元轉回電信號。
-In short: electrical signal at the axon terminal is converted to a chemical signal, then back to an electrical signal in the next neuron.
-
-突觸發生在三類連接：感覺→中間、中間→運動、運動→效應器。
-Synapses occur at three connections: sensory→relay, relay→motor, motor→effector.
-
-常見錯誤是只想到運動神經元與肌肉之間有突觸，其實神經元之間的傳遞也全靠神經遞質。
-A common mistake is thinking synapses only exist between motor neurons and muscles, but all neuron-to-neuron transmissions depend on neurotransmitters.",
-1206,"📌 參考答案 (Suggested Answer)
-✅ A. 跳舞時的肌肉活動
-✅ A. Muscle activity during dancing
-
-📌 詳細解釋 (Detailed Explanation)
-小腦主要功能是協調肌肉收縮並維持身體平衡。
-The cerebellum’s main function is to coordinate muscle contractions and maintain body balance.
-
-當人跳舞時，需要精細控制四肢和身體的肌肉，使動作流暢且不失衡，因此由小腦協調。
-When a person dances, fine control of limb and body muscles is required for smooth movements and balance, which is coordinated by the cerebellum.
-
-其他選項：睡眠呼吸由延腦控制；消化液分泌屬於自主神經；觸碰高溫物體後的縮手反射由脊髓調控，均不是小腦功能。
-Other options: breathing in sleep is controlled by the medulla, digestive secretion involves autonomic nerves, and withdrawal reflex from hot objects is controlled by the spinal cord — none are cerebellar functions.
-
-結論：正確答案是 A，因為小腦負責協調肌肉運動與平衡。
-Conclusion: The correct answer is A, as the cerebellum is responsible for coordinating muscle movement and balance.
-
-📌 考試提醒 (Exam Tips)
-小腦：肌肉協調 + 平衡。
-Cerebellum: muscle coordination + balance.
-
-延腦：呼吸 + 心跳 + 消化液分泌。
-Medulla: breathing + heartbeat + digestive secretion.
-
-脊髓：簡單反射 (如縮手反射)。
-Spinal cord: simple reflexes (e.g., withdrawal reflex).
-
-常見錯誤是把所有不明活動都歸於小腦，其實小腦只管「動作協調」。
-Common mistake: attributing all unknown activities to the cerebellum, but it only handles “movement coordination.”",
-1207,"📌 參考答案 (Suggested Answer)
-✅ A. 韌帶
-✅ A. Ligament
-
-📌 詳細解釋 (Detailed Explanation)
-韌帶連接活動關節內的骨塊，將骨與骨固定在一起，防止脫臼。
-Ligaments connect bones within movable joints, holding bones together and preventing dislocation.
-
-軟骨只存在於骨端，主要作用是減少骨與骨之間的摩擦。
-Cartilage is found at bone ends and mainly reduces friction between bones.
-
-肌肉雖能附著於骨骼，但其功能是提供動力，而不是把骨塊連結起來。
-Muscles attach to bones to provide force, not to connect bones together.
-
-腱連接肌肉和骨骼，將肌肉的收縮力傳遞給骨骼，而非連接骨與骨。
-Tendons connect muscles to bones, transmitting contraction force, not linking bones to bones.
-
-結論：真正負責連接骨塊的組織是韌帶 → 答案 A。
-Conclusion: The tissue that connects bones together is the ligament → Answer A.
-
-📌 考試提醒 (Exam Tips)
-韌帶 = 骨連骨
-Ligament = bone to bone
-
-腱 = 肌連骨
-Tendon = muscle to bone
-
-軟骨 = 減少摩擦吸收震盪
-Cartilage = reduce friction & absorb shock
-
-肌肉 = 提供動力
-Muscle = provide force
-
-常見錯誤：很多同學會把「腱」當成連接骨與骨，其實是「韌帶」才對。
-Common mistake: Many students confuse tendons with ligaments, but ligaments connect bone to bone.",
-1208,"📌 參考答案 (Suggested Answer)
-✅ A. P
-
-📌 詳細解釋 (Detailed Explanation)
-P 是鞏膜，呈白色且堅韌，能保護眼球內部結構並保持眼球形狀。
-P is the sclera, which is tough and white, protecting inner structures and maintaining the eyeball’s shape.
-
-Q 是視網膜，含有感光細胞，能將光線轉換成電訊號。
-Q is the retina, containing photoreceptors that convert light into electrical signals.
-
-R 是視神經，將視網膜細胞產生的神經衝動傳往大腦的視覺皮層。
-R is the optic nerve, transmitting impulses from retinal cells to the visual cortex of the brain.
-
-S 是睫狀體，可透過睫狀肌的收縮與放鬆來改變晶狀體的弧度。
-S is the ciliary body, which alters the curvature of the lens through contraction and relaxation.
-
-結論：唯一堅韌且白色的部分是鞏膜 (P) → 答案 A。
-Conclusion: The only part that is tough and white is the sclera (P) → Answer A.
-
-📌 考試提醒 (Exam Tips)
-鞏膜 sclera = 白色外層，保護 + 支撐
-Sclera = white outer layer, protection + support
-
-視網膜 retina = 感光及產生衝動
-Retina = light sensing, impulse generation
-
-視神經 optic nerve = 將衝動傳送到大腦
-Optic nerve = transmit impulses to brain
-
-睫狀體 ciliary body = 控制晶狀體弧度
-Ciliary body = control lens curvature
-
-常見誤區：學生常把「鞏膜」和「角膜」混淆，記住角膜是透明的前端，而鞏膜是白色堅韌的部分。
-Common trap: Students confuse the sclera with the cornea — remember the cornea is transparent at the front, while the sclera is white and tough.",
+📌 考試提醒
+鞏膜是眼球最外層的白色保護膜，提供結構支撐並防止眼球變形。
+The sclera is the outermost white protective layer of the eyeball, providing structural support and preventing deformation of the eyeball.
+常見錯誤：學生常混淆視網膜與鞏膜的位置及特徵，忘記鞏膜才是提供強韌保護的白色外層。
+Common trap: Students often confuse the positions and characteristics of the retina and sclera, forgetting that the sclera is the tough, white outer layer providing protection.",
 1209,"📌 參考答案 (Suggested Answer)
 ✅ D. S 和 U
 
@@ -287,72 +242,54 @@ Water transport in xylem relies on transpiration pull + continuous water column
 
 常見誤區：學生以為在水中切割是為了防止乾燥或幫植物「適應環境」，其實核心是避免氣栓 (embolism)。
 Common trap: Students think cutting in water prevents drying or helps adaptation, but the real reason is to avoid embolism (air locks).",
-1211,"📌 參考答案 (Suggested Answer)
-✅ A. 把遮闊樹掉
-✅ A. Remove the lamp shade
+1211,"📌 參考答案
+A. 把燈關掉
+A. Turn off the lamp
 
-📌 詳細解釋 (Detailed Explanation)
-實驗中以「氣泡移動 10 cm 所需時間」作為水分流失速率的反比指標，時間越短，水分流失速率越快。
-In the experiment, “time required for an air bubble to move 10 cm” indicates the inverse of the water loss rate: the shorter the time, the faster the water loss.
+📌 詳細解釋
+氣泡移動 10 cm 所需時間與水分流失率成反比，所需時間越長，水分流失率便越低。
+The time required for the air bubble to move 10 cm is inversely proportional to the water loss rate; the longer the time, the lower the water loss rate.
+當我們將圖中第 3 根棒（25°C、光照、關掉風扇）與第 5 根棒（25°C、黑暗、關掉風扇）進行比較。
+We compare the third bar (25°C, light, fan off) with the fifth bar (25°C, dark, fan off) in the graph.
+在這兩個情況中，唯一改變的條件是光照變成了黑暗，即把燈關掉。
+In these two conditions, the only variable changed is from light to darkness, which means turning off the lamp.
+結果顯示氣泡移動時間由不足 10 分鐘大幅增加至近 40 分鐘。
+The result shows that the time required for the bubble to move increases drastically from less than 10 minutes to nearly 40 minutes.
+這意味著把燈關掉會令水分流失出現最大的降幅。
+This implies that turning off the lamp causes the greatest drop in water loss.
+選項 B、C 及 D 所改變的環境因素，其引起的氣泡移動時間差距均遠小於光照與黑暗的差距。
+The differences in bubble movement time caused by the environmental factors changed in options B, C, and D are all much smaller than the difference between light and dark.
 
-圖表顯示：在 25 °C、光照、關掉風扇情況下，水分流失最少；而在 25 °C、黑暗、關掉風扇時，水分流失最多。
-The graph shows: at 25 °C with light and fan off, water loss is the least; at 25 °C in the dark with fan off, water loss is the greatest.
-
-若要使水分流失由「最少」轉為「最多」，只需把「遮闊樹」拿掉，讓枝條暴露於黑暗環境，即水分流失會大幅下降（氣泡移動時間長）。
-To shift water loss from “least” to “most,” removing the lamp shade changes the condition to darkness, making water loss decrease drastically (bubble takes longest time to move).
-
-結論：改變條件中最能增加差距的是去掉遮闊樹 → 答案 A。
-Conclusion: The factor producing the greatest effect is removing the lamp shade → Answer A.
-
-📌 考試提醒 (Exam Tips)
-實驗原理：蒸騰速率 ↑ ⇒ 氣泡移動時間 ↓
-Principle: Higher transpiration rate ⇒ Shorter bubble movement time
-
-環境因素對水分流失的影響：
-
-光照 → 提升蒸騰，因為氣孔張開
-溫度 ↑ → 水分蒸發加快
-風速 ↑ → 擴散速率加快，蒸騰增強
-Environmental influences on water loss:
-Light → increases transpiration (stomata open)
-Temperature ↑ → speeds up evaporation
-Wind speed ↑ → increases diffusion, enhances transpiration
-常見誤區：學生常以為「黑暗」會增加水分流失，其實黑暗會關閉氣孔，使水分流失下降。
-Common trap: Students often think “darkness” increases water loss, but in fact darkness closes stomata, reducing water loss.",
-1212,"📌 參考答案 (Answer)
+📌 考試提醒
+在探究環境因素對蒸騰作用的影響時，每次只能改變一個環境條件作公平比較。
+When investigating the effects of environmental factors on transpiration, only one environmental condition should be changed at a time for fair comparison.
+常見錯誤：學生未能正確解讀棒形圖中時間與水分流失率的反比關係，誤以為棒越長代表流失越快。
+Common trap: Students fail to correctly interpret the inversely proportional relationship between time and water loss rate in the bar chart, mistakenly thinking a longer bar represents faster water loss.",
+1212,"📌 參考答案
 D. S
 D. S
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+水分主要是透過葉片上的氣孔藉著蒸騰作用而流失。
+Water is mainly lost through transpiration via stomata on the leaves.
+當植物擁有越多氣孔，其水分流失率就會越高。
+The more stomata a plant has, the higher its rate of water loss will be.
+根據表格數據，植物 S 的總體氣孔平均數目最多，因此其因蒸騰的水分流失率必然最高。
+According to the table data, plant S has the highest overall average number of stomata, so its transpiration water loss rate must be the highest.
+由於植物主要靠細胞硬脹來支撐。
+Since plants mainly rely on cell turgidity for support.
+當植物 S 大量流失水分時，細胞的硬脹度會下降並變得軟縮。
+When plant S loses a large amount of water, the turgidity of the cells will drop and they will become flaccid.
+這會導致植物 S 的非木質部分如葉和幼莖最先凋萎。
+This causes the non-woody parts of plant S, such as leaves and young stems, to wilt first.
+選項 A、B 及 C 的植物總氣孔數量較少，水分流失相對較慢，因此不會率先凋萎。
+Plants in options A, B, and C have fewer total stomata and slower relative water loss, so they will not wilt first.
 
-水分主要透過氣孔蒸騰作用流失。
-Water mainly escapes through transpiration via stomata.
-
-氣孔愈多，水分流失率就愈高。
-The more stomata, the higher the rate of water loss.
-
-S 的總氣孔數量最高，因此它的蒸騰水分流失率也是最高。
-Plant S has the greatest total number of stomata, so its rate of water loss through transpiration is also the highest.
-
-當大量水分流失時，植物細胞的膨壓會下降，使細胞變得軟縮。
-When excessive water is lost, the turgor pressure in plant cells decreases, and the cells become flaccid.
-
-結果，植物的葉片和幼莖等非木質部分會因缺乏支撐而先出現萎蔫。
-As a result, non-woody parts such as leaves and young stems lose support and wilt first.
-
-因此，在極旱地區栽種時，S 最容易率先出現萎蔫。
-Therefore, in an extremely dry region, S would be the first to wilt.
-
-📌 考試提醒 (Exam Tips)
-
-記住：蒸騰速率 ~ 氣孔數目，但也要受氣孔分佈位置影響（葉片上表面氣孔蒸騰更快）。
-Remember: Transpiration rate is proportional to the number of stomata, but is also affected by their distribution (stomata on the upper surface cause faster water loss).
-
-乾旱環境中的植物（旱生植物）通常具備：氣孔數量較少、多在葉片下表面、或演化出蠟質角質層等適應。
-Plants in arid environments (xerophytes) usually adapt by having fewer stomata, stomata mainly on the lower surface, or thick waxy cuticles.
-
-常考陷阱：Q 雖然氣孔數最少，但這是「最耐旱」的，題目問的是「最先萎蔫」所以要選 S。
-Common pitfall: Although Q has the fewest stomata (most drought-resistant), the question asks “which wilts first,” so the correct choice is S.",
+📌 考試提醒
+氣孔數量直接影響植物的蒸騰速率，流失過多水分會導致細胞失去硬脹度。
+The number of stomata directly affects the transpiration rate of plants, and excessive water loss will lead to a loss of cell turgidity.
+常見錯誤：學生以為只要葉面氣孔少便能減少水分流失，卻忽略了必須考慮氣孔總數來作整體比較。
+Common trap: Students assume that having few stomata on the upper surface is enough to reduce water loss, neglecting the need to consider the total number of stomata for an overall comparison.",
 1213,"📌 參考答案 (Answer)
 B. 競爭的效應
 B. The effect of competition
@@ -430,39 +367,27 @@ D Wrong: Leaf size or stem thickness cannot be inferred solely from dry mass.
 
 在 DSE 生態學題目裡，遇到「播種密度上升 → 個體平均生長下降」，要立即聯想到 競爭效應。
 In DSE ecology questions, when you see “higher sowing density → lower average growth per individual,” you should immediately think of competition effect.",
-1215,"📌 參考答案 (Answer)
+1215,"📌 參考答案
 B. 只有 (1) 和 (3)
+B. (1) and (3) only
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+同卵雙胎是由同一個合子的子細胞經有絲細胞分裂而成，因此具有完全相同的基因組合（基因型）。
+Identical twins are formed from the daughter cells of the same zygote through mitotic cell division, thus having exactly the same genetic composition (genotype).
+涉及連續變異的性狀由多個等位基因控制，並深受環境因素影響，故同卵雙胎不一定相同。
+Traits involving continuous variation are controlled by multiple alleles and are highly influenced by environmental factors, so identical twins may not be identical in these traits.
+涉及不連續變異的性狀由單對等位基因控制，甚少受環境因素影響，純粹視乎個體的基因型，因此同卵雙胎在這些性狀上必定相同。
+Traits involving discontinuous variation are controlled by a single pair of alleles and are rarely affected by environmental factors, depending purely on the individual's genotype, so identical twins are identical in these traits.
+因此，同卵雙胎具有相同的基因型和不連續變異的性狀，正確答案是 B。
+Therefore, identical twins have the same genotype and traits of discontinuous variation; the correct answer is B.
 
-同卵雙生是由同一受精卵分裂而成，所以他們的基因型相同。
-Identical twins are formed from the division of a single zygote, so they share the same genotype.
-
-涉及連續變異的性狀（如身高、體重、智商）受多基因及環境因素影響，同卵雙胞胎的成長環境可有差異，因此這些性狀不一定相同。
-Traits involving continuous variation (e.g., height, weight, IQ) are influenced by multiple genes and environmental factors. Since identical twins may grow up under slightly different environments, these traits are not necessarily identical.
-
-涉及不連續變異的性狀（如捲舌能力、耳垂形狀）由單基因控制，較少受環境影響，因此同卵雙胞胎在這些方面會相同。
-Traits involving discontinuous variation (e.g., ability to roll the tongue, type of earlobe) are usually controlled by single genes and are less affected by the environment, so identical twins share these traits.
-
-因此，正確答案是 相同基因型 (1) 及不連續變異性狀 (3)。
-Therefore, the correct answer is same genotype (1) and discontinuous variation traits (3).
-
-📌 考試提醒 (Exam Tips)
-
-看到 同卵雙生 要立即聯想到：
-When you see identical twins, immediately recall:
-
-相同基因型 → 因為來自同一個受精卵。
-
-Same genotype → because they come from the same zygote.
-
-連續變異 → 環境影響大，他們可能不完全一樣。
-
-Continuous variation → strongly influenced by environment, so they may not be identical.
-
-不連續變異 → 由單基因控制，環境影響小，因此表現相同。
-
-Discontinuous variation → controlled by a single gene, less influenced by environment, so the traits are the same.",
+📌 考試提醒
+連續變異（如身高、體重）受多基因及環境影響，表現呈正態分佈。
+Continuous variation (e.g., height, weight) is affected by multiple genes and the environment, showing a normal distribution.
+不連續變異（如捲舌能力、血型）由單一基因控制，不受環境影響，表現呈離散組別。
+Discontinuous variation (e.g., ability to roll the tongue, blood group) is controlled by a single gene, unaffected by the environment, and shows discrete categories.
+常見錯誤：學生常以為同卵雙胎在所有性狀上都一樣，忽略了連續變異會受後天成長環境影響。
+Common trap: Students often assume identical twins are exactly the same in all traits, neglecting that continuous variation is influenced by post-natal growing environments.",
 1216,"📌 參考答案 (Answer)
 C. 光合作用、分解作用、呼吸作用
 C. Photosynthesis, decomposition, respiration
@@ -498,123 +423,67 @@ Decomposition: Represents transformation from organic matter back to atmospheric
 常見錯誤：學生容易把「呼吸作用」和「分解作用」混淆，要留意主語（動物是呼吸，腐爛體是分解）。
 Common mistake: Students often confuse “respiration” with “decomposition.” Always check the subject (animals = respiration, dead matter = decomposition).
 ",
-1217,"📌 參考答案 (Answer)
+1217,"📌 參考答案
 C. 3
-C. 3
 
-📌 詳細解釋 (Detailed Explanation)
 
-腐生營養是細胞外消化已死亡有機物的一種營養模式。
-Saprophytic nutrition is a mode of nutrition in which extracellular digestion of dead organic matter occurs.
+📌 詳細解釋
+腐生營養是指腐生生物（如真菌及細菌）以細胞外消化方式攝取已死有機物營養的一種模式。
+Saprophytic nutrition is a mode in which saprophytes (e.g., fungi and bacteria) obtain nutrients from dead organic matter by extracellular digestion.
+過程中，殘骸內的複雜有機物會被分解成較簡單的化合物，並形成腐殖質。
+During the process, complex organic matter in the remains is broken down into simpler compounds, forming humus.
+圖中箭嘴 3 顯示動物與植物殘骸轉化為腐殖質，這正是由腐生生物所進行的分解作用。
+Arrow 3 in the diagram shows the conversion of animal and plant remains into humus, which is exactly the decomposition process carried out by saprophytes.
+箭嘴 1 代表光合作用，箭嘴 4 和 5 則分別代表分解者及動物的呼吸作用。
+Arrow 1 represents photosynthesis, while arrows 4 and 5 represent the respiration of decomposers and animals, respectively.
 
-腐生生物（如真菌和細菌）分泌酶分解殘骸中的複雜有機物，轉化為較簡單的化合物。
-Saprophytes (such as fungi and bacteria) secrete enzymes to break down complex organic matter in remains into simpler compounds.
+📌 考試提醒
+腐生營養的關鍵在於「細胞外消化」及產生「腐殖質」。
+The key to saprophytic nutrition lies in ""extracellular digestion"" and the production of ""humus"".
+常見錯誤：學生常忽略腐生生物會釋放消化酶到體外進行細胞外消化，誤以為是將有機物吞噬。
+Common trap: Students often overlook that saprophytes release digestive enzymes outside their bodies for extracellular digestion, mistakenly thinking they engulf the organic matter.",
+1218,"📌 參考答案
+D. 自由 RNA 核苷酸與 DNA 模板股配對以產生 mRNA。
+D. Free RNA nucleotides pair with the DNA template strand to produce mRNA.
 
-這些化合物被腐生生物吸收作為營養，過程中會形成腐殖質。
-These compounds are then absorbed as nutrients by the saprophytes, and humus is formed in the process.
+📌 詳細解釋
+轉錄是蛋白質合成的其中一個步驟，發生於細胞核內。
+Transcription is a step in protein synthesis occurring in the nucleus.
+在轉錄過程中，自由 RNA 核苷酸會與互補的 DNA 模板股配對。
+During transcription, free RNA nucleotides pair with the complementary DNA template strand.
+然後這些 RNA 核苷酸相互連接，形成信使 RNA（mRNA）。
+Then these RNA nucleotides join together to form messenger RNA (mRNA).
+選項 A 及 B 描述的是轉譯過程，發生在核糖體上。
+Options A and B describe the process of translation, which occurs at the ribosome.
+選項 C 描述的是 DNA 複製的過程，這並不屬於轉錄。
+Option C describes the process of DNA replication, which is not part of transcription.
 
-因此，在碳循環圖中，箭嘴 3（植物殘骸 / 動物殘骸 → 腐爛體）涉及 腐生生物。
-Therefore, in the carbon cycle diagram, arrow 3 (plant/animal remains → decomposers) involves saprophytic organisms.
-
-📌 考試提醒 (Exam Tips)
-
-腐生生物 = 分解者（bacteria, fungi）。
-
-Saprophytes = decomposers (bacteria, fungi).
-
-腐生過程通常出現在「殘骸 → 分解者 → 簡單養分 / CO₂」。
-
-Saprophytic processes usually appear as “remains → decomposers → simple nutrients / CO₂.”
-
-常見混淆：不要把動物的呼吸作為腐生作用，因為腐生必須涉及分解死的有機物。
-
-Common confusion: Do not mistake animal respiration for saprophytic action; saprophytes must involve decomposing dead organic matter.
-",
-1218,"📌 參考答案 (Answer)
-D. 自由 RNA 核苷酸與 DNA 模板股鹼基配對以產生 mRNA。
-D. Free RNA nucleotides pair with bases on the DNA template strand to form mRNA.
-
-📌 詳細解釋 (Detailed Explanation)
-
-轉錄是蛋白質合成中的第一個步驟，在細胞核內進行。
-Transcription is the first step of protein synthesis and takes place in the nucleus.
-
-在過程中，自由 RNA 核苷酸會根據 DNA 模板股上的鹼基序列進行互補鹼基配對。
-During the process, free RNA nucleotides align with complementary bases on the DNA template strand.
-
-這些 RNA 核苷酸再經由磷酸二酯鍵連接，形成信使 RNA (mRNA)。
-The RNA nucleotides are then linked by phosphodiester bonds to form messenger RNA (mRNA).
-
-因此，選項 D 正確描述了轉錄過程。
-Therefore, option D correctly describes the process of transcription.
-
-錯誤選項：
-Incorrect options:
-
-A：tRNA 不會與核糖體配對，它在翻譯時攜帶氨基酸。
-
-A: tRNA does not pair with ribosomes; it carries amino acids during translation.
-
-B：mRNA 在翻譯（非轉錄）時與核糖體結合以合成蛋白質。
-
-B: mRNA binds to ribosomes during translation (not transcription) to synthesize proteins.
-
-C：自由 DNA 核苷酸與 DNA 配對是 DNA 複製，而非轉錄。
-
-C: Free DNA nucleotides pairing with DNA is DNA replication, not transcription.
-
-📌 考試提醒 (Exam Tips)
-
-轉錄 (Transcription) = DNA → mRNA。
-
-Transcription = DNA → mRNA.
-
-翻譯 (Translation) = mRNA → 蛋白質（由核糖體和 tRNA 參與）。
-
-Translation = mRNA → protein (involving ribosomes and tRNA).
-
-DNA 複製 (DNA Replication) = DNA → DNA。
-
-DNA Replication = DNA → DNA.
-
-學生常混淆「轉錄 vs 翻譯 vs 複製」，務必要看清題目提及的 產物：mRNA → 轉錄；蛋白質 → 翻譯；DNA → 複製。
-Students often confuse “transcription vs translation vs replication.” Always check the product mentioned: mRNA → transcription; protein → translation; DNA → replication.",
-1219,"📌 參考答案 (Answer)
+📌 考試提醒
+轉錄是利用 DNA 模板股合成 mRNA 的過程，而轉譯則是利用 mRNA 合成多肽的過程。
+Transcription is the process of synthesizing mRNA using the DNA template strand, while translation is the process of synthesizing a polypeptide using mRNA.
+常見錯誤：學生經常將「轉錄」(Transcription) 與「轉譯」(Translation) 的發生位置與產物混淆。
+Common trap: Students frequently confuse the locations and products of ""Transcription"" and ""Translation"".",
+1219,"📌 參考答案
 A. UCA
 
-📌 詳細解釋 (Detailed Explanation)
 
-DNA 編碼股的序列是 AGT。
-The sequence of the DNA coding strand is AGT.
+📌 詳細解釋
+在轉錄中，DNA 鏈解開成模板股和編碼股，信使 RNA（mRNA）是由模板股合成的。
+In transcription, the DNA chain unwinds into a template strand and a coding strand, and messenger RNA (mRNA) is synthesized from the template strand.
+由於模板股與 mRNA 互補，這使得編碼股與 mRNA 的鹼基序列完全相同（除了 DNA 的 T 被 RNA 的 U 取代）。
+Since the template strand is complementary to mRNA, the base sequence of the coding strand is identical to that of mRNA (except that T in DNA is replaced by U in RNA).
+因此，既然 DNA 編碼股序列為 AGT，對應的 mRNA 密碼子便會是 AGU。
+Therefore, given the DNA coding strand sequence is AGT, the corresponding mRNA codon will be AGU.
+在轉譯時，轉移 RNA（tRNA）的反密碼子會與 mRNA 的密碼子互補配對。
+During translation, the anticodon of transfer RNA (tRNA) pairs complementarily with the codon of mRNA.
+根據 A 與 U 配對、G 與 C 配對的原則，對應 AGU 密碼子的 tRNA 反密碼子就是 UCA。
+Based on the principle of A pairing with U, and G pairing with C, the tRNA anticodon corresponding to the AGU codon is UCA.
 
-轉錄時，DNA 模板股會與 mRNA 互補配對。
-During transcription, the DNA template strand pairs complementarily with mRNA.
-
-因此，mRNA 的密碼子會與 DNA 編碼股相同（但 T 會改為 U），所以 mRNA 密碼子為 AGU。
-Therefore, the mRNA codon has the same sequence as the DNA coding strand (but T is replaced by U), so the codon is AGU.
-
-接著，tRNA 反密碼子必須與 mRNA 密碼子互補配對，所以 tRNA 反密碼子是 UCA。
-Next, the tRNA anticodon must pair complementary with the mRNA codon, so the anticodon is UCA.
-
-📌 考試提醒 (Exam Tips)
-
-步驟記憶：
-Steps to remember:
-
-DNA 編碼股 = 與 mRNA 相同（但 T→U）。
-
-DNA coding strand = same as mRNA (but T→U).
-
-DNA 模板股 = 與 mRNA 互補。
-
-DNA template strand = complementary to mRNA.
-
-tRNA 反密碼子 = 與 mRNA 互補。
-
-tRNA anticodon = complementary to mRNA.
-
-學生常見錯誤：把編碼股直接與 tRNA 配對，應先經過 mRNA 這一步。
-Common mistake: Students often pair the coding strand directly with tRNA; always include the intermediate step of mRNA.",
+📌 考試提醒
+編碼股的序列與 mRNA 幾乎相同，而 tRNA 反密碼子則與模板股幾乎相同（兩者均需將 T 換成 U）。
+The sequence of the coding strand is almost identical to mRNA, while the tRNA anticodon is almost identical to the template strand (both require replacing T with U).
+常見錯誤：學生常分不清「模板股」與「編碼股」，導致互補配對時出現邏輯混亂。
+Common trap: Students often fail to distinguish between the ""template strand"" and the ""coding strand"", leading to logical confusion during complementary base pairing.",
 1220,"📌 參考答案 (Answer)
 B. 分解紅血細胞
 B. Breakdown of red blood cells
@@ -659,79 +528,48 @@ Pancreas functions: secretes digestive juice (enzymes) and hormones (insulin/glu
 要記住：膽汁不是酵素，只是助消化液。
 Important: Bile is not an enzyme, it is a digestive aid fluid.
 ",
-1221,"📌 參考答案 (Answer)
+1221,"📌 參考答案
 D. 小腸 → 肝 → 心 → 肺
 D. Small intestine → Liver → Heart → Lungs
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+大動脈是體循環的起始點，紅血細胞會經下行大動脈流進小腸。
+The aorta is the starting point of systemic circulation, and the red blood cell flows through the descending aorta into the small intestine.
+離開小腸的血液必須先經過肝門靜脈流進肝臟。
+Blood leaving the small intestine must first pass through the hepatic portal vein to enter the liver.
+然後，缺氧血會經由後腔靜脈流回心臟的右心房。
+Then, the deoxygenated blood flows back to the right atrium of the heart via the posterior vena cava.
+最後，心臟將血液泵出，經肺動脈進入肺部（及其相連的氣囊）。
+Finally, the heart pumps the blood out, travelling through the pulmonary artery into the lungs (and their connected air sacs).
+所以正確的器官經過次序為小腸、肝、心，最後到肺。
+Therefore, the correct sequence of organs passed through is the small intestine, liver, heart, and finally the lungs.
 
-大動脈把含氧血由心臟輸送到身體各部分（肺部除外）。
-The aorta carries oxygenated blood from the heart to all parts of the body (except the lungs).
-
-血液經由下行大動脈流向 小腸，在那裡紅血球經過微血管。
-The blood flows through the descending aorta to the small intestine, where red blood cells pass through capillaries.
-
-小腸靜脈血會先經肝門靜脈流向 肝臟，進行養分處理（肝門靜脈系統）。
-The venous blood from the small intestine then passes to the liver via the hepatic portal vein for nutrient processing (hepatic portal system).
-
-之後血液經後腔靜脈回到 心臟，再經由肺動脈輸送到 肺臟 的微血管，最後進行氣體交換。
-After that, blood returns to the heart through the vena cava, then travels via the pulmonary artery to the lungs’ capillaries, where gas exchange occurs.
-
-所以正確順序是：小腸 → 肝 → 心 → 肺。
-Thus, the correct sequence is: Small intestine → Liver → Heart → Lungs.
-
-📌 考試提醒 (Exam Tips)
-
-要分清楚：
-Be careful to distinguish:
-
-肝門靜脈系統：小腸吸收的血液不會直接回心臟，而是先經肝臟。
-
-Hepatic portal system: Blood from the small intestine does not return directly to the heart, but first passes through the liver.
-
-體循環：大動脈 → 身體組織 → 靜脈 → 心臟。
-
-Systemic circulation: Aorta → body tissues → veins → heart.
-
-肺循環：心臟右心室 → 肺動脈 → 肺 → 肺靜脈 → 左心房。
-
-Pulmonary circulation: Heart right ventricle → pulmonary artery → lungs → pulmonary vein → left atrium.
-
-常見錯誤：學生容易忽略 肝門靜脈 的存在，以為小腸的血直接返回心臟。
-Common mistake: Students often overlook the hepatic portal vein and think blood from the small intestine returns directly to the heart.",
-1222,"📌 參考答案 (Answer)
+📌 考試提醒
+血液流經小腸吸收養分後，必須經肝門靜脈到達肝臟進行同化作用，才返回心臟。
+After flowing through the small intestine to absorb nutrients, blood must travel via the hepatic portal vein to the liver for assimilation before returning to the heart.
+常見錯誤：學生常以為器官之間的微血管網絡是並聯的，忽略了小腸與肝臟之間存在串聯的肝門靜脈。
+Common trap: Students often assume the capillary networks between all organs are parallel, ignoring the series connection of the hepatic portal vein between the small intestine and the liver.",
+1222,"📌 參考答案
 C. 將黏液從氣管移走
 C. Move mucus away from the trachea
 
-📌 詳細解釋 (Detailed Explanation)
-纖毛是細胞器，是微小的毛髮狀突出物，具有有節律的擺動。
+📌 詳細解釋
+纖毛是氣管內壁細胞表面的微小毛髮狀突出物。
+Cilia are tiny hair-like projections on the surface of the cells lining the inner wall of the trachea.
+它們的主要功能是透過不斷擺動，將氣管內黏附著塵埃與細菌的黏液向上掃走，移向咽喉。
+Their main function is to sweep the mucus, which traps dust and bacteria, upwards away from the trachea towards the pharynx through continuous beating.
+這機制能有效保護肺部，避免呼吸道受病原體感染。
+This mechanism effectively protects the lungs, preventing respiratory tract infections by pathogens.
+選項 A 和 B 不正確，令空氣暖化和濕潤主要是鼻腔黏膜和微血管的功能。
+Options A and B are incorrect; warming and moistening air are mainly the functions of the nasal mucosa and capillaries.
+選項 D 不正確，產生黏液的是杯狀細胞，而非纖毛。
+Option D is incorrect; mucus is produced by goblet cells, not cilia.
 
-Cilia are cell organelles, tiny hair-like projections that beat in a coordinated rhythm.
-
-它們主要功能是把覆蓋在氣管內的黏液往咽喉方向移動。
-
-Their main function is to move the mucus lining the trachea towards the throat.
-
-黏液能捕捉灰塵、細菌及污染顆粒，若無法清除會堵塞氣道。
-
-Mucus traps dust, bacteria, and pollutants; if not cleared, it could block the airway.
-
-因此，纖毛的擺動確保這些黏液連同異物被移走，最後經由咳嗽或吞嚥排出。
-
-Thus, the beating of cilia ensures mucus and trapped particles are removed, eventually expelled by coughing or swallowing.
-
-其他選項如「令空氣暖化或濕潤」屬於鼻腔或氣管壁的其他結構的功能，不是纖毛的主要職責。
-
-Other options like “warming or moistening air” are functions of nasal passages or other airway structures, not cilia.
-
-📌 考試提醒 (Exam Tips)
-纖毛 + 黏液 → 粘液纖毛運輸系統，是呼吸道的自我清潔機制。
-
-Cilia + mucus → mucociliary transport system, the airway’s self-cleansing mechanism.
-
-出題常見陷阱：把鼻腔功能（暖化、加濕空氣）混淆為纖毛功能。
-
-Common exam trap: confusing the nasal cavity’s functions (warming, humidifying air) with cilia’s function.",
+📌 考試提醒
+氣管的防禦機制依賴杯狀細胞分泌黏液以黏住塵埃和細菌，以及纖毛的擺動將黏液移走。
+The defense mechanism of the trachea relies on goblet cells secreting mucus to trap dust and bacteria, and the beating of cilia to move the mucus away.
+常見錯誤：學生容易把「分泌黏液」與「移走黏液」的結構混淆，誤以為纖毛也能製造黏液。
+Common trap: Students easily confuse the structures for ""secreting mucus"" and ""removing mucus"", mistakenly thinking that cilia can also produce mucus.",
 1223,"📌 參考答案 (Answer)
 B. 只有 (1) 和 (3)
 
@@ -763,43 +601,25 @@ Main products of light reaction: ATP + NADPH → used in the Calvin cycle.
 葉綠素釋放高能電子 → 啟動整個電子傳遞鏈。
 
 Excited chlorophyll releases high-energy electrons → drives the entire electron transport chain.",
-1224,"📌 參考答案 (Answer)
+1224,"📌 參考答案
 C. 花粉粒落在同一物種的柱頭時便會萌發。
 C. Pollen grains germinate when they land on the stigma of the same species.
 
-📌 詳細解釋 (Detailed Explanation)
-A. 花粉粒是植物的雄配子。
+📌 詳細解釋
+當花粉粒落在同種植物的柱頭上，柱頭上的糖液會刺激花粉粒萌發成花粉管。
+When pollen grains land on the stigma of the same plant species, the sugary fluid on the stigma stimulates the pollen grains to germinate into pollen tubes.
+選項 A 不正確，花粉粒不是雄配子，而是攜帶雄配子的載體。
+Option A is incorrect; the pollen grain is not the male gamete, but the carrier that contains the male gamete.
+選項 B 不正確，花蜜是由花的蜜腺所分泌，用作吸引昆蟲，而非由花粉粒分泌。
+Option B is incorrect; nectar is secreted by the nectaries of the flower to attract insects, not by the pollen grains.
+選項 D 不正確，蟲媒花的花粉粒體積通常較風媒花大，且表面粗糙，以便附著在昆蟲身上。
+Option D is incorrect; the pollen grains of insect-pollinated flowers are usually larger and have a rough surface compared to those of wind-pollinated flowers, facilitating attachment to insects.
 
-花粉粒並不是雄配子，而是雄配子的載體，真正的雄配子是精子細胞。
-A pollen grain is not a male gamete, but the carrier of male gametes; the true male gametes are the sperm cells.
-❌ 錯誤 / Incorrect
-B. 花粉粒能產生花蜜以吸引昆蟲。
-
-花蜜是由花蜜腺分泌的，而不是花粉粒分泌。
-Nectar is secreted by nectaries, not by pollen grains.
-❌ 錯誤 / Incorrect
-C. 花粉粒落在同一物種的柱頭時便會萌發。
-
-在相容的柱頭上，花粉粒吸收糖液後萌發，並長出花粉管。
-On a compatible stigma, pollen grains absorb sugary fluids and germinate, growing a pollen tube.
-✅ 正確 / Correct
-D. 蟲媒花的花粉粒體積比風媒花的小。
-
-事實正好相反：蟲媒花的花粉粒較大且表面粗糙，便於附著在昆蟲身上；風媒花的花粉粒通常小而光滑，利於隨風飄散。
-It is the opposite: insect-pollinated flowers have larger, rough pollen grains to attach to insects, while wind-pollinated flowers have small, smooth pollen grains to be carried by wind.
-❌ 錯誤 / Incorrect
-📌 考試提醒 (Exam Tips)
-花粉粒 = 雄配子體的結構，而非雄配子本身。
-
-Pollen grain = male gametophyte, not the male gamete itself.
-
-花蜜由花蜜腺分泌，而非花粉粒。
-
-Nectar is secreted by nectaries, not pollen grains.
-
-蟲媒花 vs 風媒花 → 花粉粒的大小與表面構造完全不同，是常考對比。
-
-Insect-pollinated vs wind-pollinated → pollen grain size and surface are common exam contrasts.",
+📌 考試提醒
+花粉粒是雄配子的載體，只有落在同種植物柱頭的糖液上才會萌發。
+The pollen grain is the carrier of male gametes and will only germinate when it lands on the sugary fluid of the stigma of the same species.
+常見錯誤：學生經常將「花粉粒」等同於「雄配子」，忽略了花粉管內才含有真正的雄配子。
+Common trap: Students often equate ""pollen grains"" with ""male gametes"", ignoring that the true male gametes are contained within the pollen tube.",
 1225,"📌 參考答案 (Answer)
 C. 2 和 3
 
@@ -879,360 +699,214 @@ If implantation occurs in the oviduct → ectopic pregnancy, which can be life-t
 子宮內膜的週期性變化 → 為植入做準備，與卵巢周期密切配合。
 
 Endometrial cycle prepares for implantation, synchronized with the ovarian cycle.",
-1227,"📌 參考答案 (Answer)
+1227,"📌 參考答案
 C. 服用避孕丸
 C. Taking contraceptive pills
 
-📌 詳細解釋 (Detailed Explanation)
-C. 服用避孕丸 (Contraceptive pills)
-
+📌 詳細解釋
 避孕丸通常含有高劑量的雌激素與孕酮。
 Contraceptive pills usually contain high levels of estrogen and progesterone.
-高水平荷爾蒙會透過負回饋機制抑制下丘腦與腦垂體，減少促卵泡激素 (FSH) 的分泌。
-High hormone levels inhibit the hypothalamus and pituitary via negative feedback, reducing follicle-stimulating hormone (FSH) secretion.
-因此卵泡無法成熟，排卵就不會發生。
-Thus, follicles do not mature and ovulation does not occur.
-✅ 正確 / Correct
-A. 子宮帽 (Cervical cap/diaphragm)
+高水平的生殖荷爾蒙會透過負反饋機制，抑制刺激配子成熟的激素（促卵泡激素）分泌。
+High levels of reproductive hormones inhibit the secretion of hormones that stimulate gamete maturation (follicle-stimulating hormone) through a negative feedback mechanism.
+因此卵泡無法成熟，成功防止成熟的配子形成。
+Thus, follicles cannot mature, successfully preventing the formation of mature gametes.
+選項 A 不正確，子宮帽透過屏障法防止精子進入子宮，避免卵子受精，但不能防止配子形成。
+Option A is incorrect; the cervical cap prevents sperm from entering the uterus via a barrier method to avoid fertilization, but it cannot prevent gamete formation.
+選項 B 不正確，安全期避孕法是透過避免在排卵期交配來防止受精，同樣無法防止配子形成。
+Option B is incorrect; the rhythm method prevents fertilization by avoiding copulation around ovulation, which also cannot prevent gamete formation.
+選項 D 不正確，子宮環放入子宮內能防止胚胎植入，但不能阻止卵子成熟。
+Option D is incorrect; an intra-uterine device inserted into the uterus prevents embryo implantation, but it cannot stop egg maturation.
 
-放置於陰道內，覆蓋子宮頸口，阻止精子進入子宮。
-Placed inside the vagina to cover cervix, preventing sperm entry.
-作用在 阻止受精，不是阻止配子形成。
-Works by preventing fertilization, not gamete formation.
-❌ 錯誤 / Incorrect
-B. 安全期避孕法 (Rhythm method)
+📌 考試提醒
+避孕丸是透過荷爾蒙調節來抑制排卵及配子成熟的化學避孕法。
+Contraceptive pills are a chemical contraceptive method that inhibits ovulation and gamete maturation through hormonal regulation.
+常見錯誤：學生常混淆不同避孕方法的原理，誤以為所有避孕法都能阻止配子生成。
+Common trap: Students often confuse the principles of different contraceptive methods, mistakenly thinking all methods can prevent gamete production.",
+1228,"📌 參考答案
+B. 陰莖和花粉管
+B. Penis and pollen tube
 
-避開排卵期行房，以降低受孕機會。
-Avoids intercourse during ovulation to reduce chance of conception.
-不影響排卵或配子生成，只是減少受精機率。
-Does not affect ovulation or gamete production, only reduces fertilization chance.
-❌ 錯誤 / Incorrect
-D. 子宮環 (IUD)
+📌 詳細解釋
+男性的陰莖在交配時將精液射進女性的陰道，把雄配子帶進雌性生殖器官。
+The male penis ejaculates semen into the female vagina during copulation, bringing male gametes into the female reproductive organs.
+在有花植物中，花粉管在柱頭萌發並穿過花柱到達子房，同樣負責將雄配子帶進雌性生殖器官以進行受精。
+In flowering plants, the pollen tube germinates on the stigma and grows through the style to reach the ovary, similarly carrying male gametes into the female reproductive organs for fertilization.
+選項 A 不正確，精子是人類的雄配子，而有花植物的花藥是製造載有雄配子的花粉粒的部位。
+Option A is incorrect; sperms are human male gametes, whereas the anthers of flowering plants are the sites that produce pollen grains containing male gametes.
+選項 C 不正確，子宮提供空間讓胚胎生長，而心皮則是整個雌性生殖系統的統稱。
+Option C is incorrect; the uterus provides space for embryo growth, whereas the carpel is the collective term for the entire female reproductive system.
+選項 D 不正確，陰道是容納陰莖的部位，而花瓣的功能是吸引昆蟲以傳播花粉。
+Option D is incorrect; the vagina is the part that receives the penis, while the function of petals is to attract insects for pollination.
 
-放入子宮後可阻止胚胎植入，某些類型也會阻止精子活動。
-Inserted into uterus to block implantation; some types also hinder sperm activity.
-不會阻止卵子的生成或成熟。
-Does not stop egg production or maturation.
-❌ 錯誤 / Incorrect
-📌 考試提醒 (Exam Tips)
-避孕丸 → 唯一能阻止卵子形成／排卵。
-
-Contraceptive pill → the only listed method that prevents egg formation/ovulation.
-
-機械屏障 (子宮帽、保險套) → 阻止精子進入。
-
-Barrier methods (diaphragm, condom) → prevent sperm entry.
-
-自然法 (安全期) → 避開排卵期，但失敗率高。
-
-Natural methods (rhythm) → avoid ovulation period but often fail.
-
-IUD → 阻止植入，而非阻止排卵或受精。
-
-IUD → prevents implantation, not ovulation or fertilization.
-",
-1228,"📌 詳細解釋 (Detailed Explanation)
-陰莖 (Penis)
-
-將精液中的雄配子（精子）送入女性生殖道，使其能與卵子結合。
-Transfers male gametes (sperms in semen) into the female reproductive tract for fertilization.
-花粉管 (Pollen tube)
-
-花粉粒在柱頭萌發後，花粉管會穿過花柱並向子房生長。
-After germination on stigma, the pollen tube grows through the style and toward the ovary.
-通過珠孔 (micropyle) 將雄配子輸送至胚珠，與卵細胞結合。
-It penetrates the micropyle, delivering male gametes to the ovule for fusion with the egg cell.
-👉 功能相同：都是將雄配子輸送到雌性生殖結構進行受精。
-👉 Same function: both deliver male gametes to female reproductive structures for fertilization.
-
-為何其他選項錯？
-A. 精子 ↔ 花藥
-
-精子是雄配子；花藥則是雄配子體（花粉粒）的製造部位 → 性質不同。
-Sperm = male gamete; anther = place where pollen grains (male gametophytes) are produced.
-❌
-C. 子宮 ↔ 心皮
-
-子宮是人類生殖系統的一部分，供胚胎著床與發育；心皮是包含胚珠的結構，並非胚胎發育場所。
-Uterus provides site for embryo growth; carpel encloses ovules but is not directly an embryo-support chamber.
-❌
-D. 陰道 ↔ 花瓣
-
-陰道是精子進入與產道出口；花瓣主要吸引傳粉者，功能完全不同。
-Vagina = sperm entry & birth canal; petals = attract pollinators, very different roles.
-❌
-📌 考試提醒 (Exam Tips)
-常考比較：動物陰莖 ↔ 植物花粉管。
-
-Common comparison: Animal penis ↔ Plant pollen tube.
-
-關鍵共通點：輸送雄配子到達雌性生殖結構 → 完成受精。
-
-Key shared role: Transport male gametes to female reproductive structure → fertilization.
-
-其他選項容易混淆「配子 vs 配子體」或「保護/吸引 vs 真正受精作用」。
-
-Other options often confuse ""gametes vs gametophytes"" or ""protective/attractive roles vs direct fertilization roles.""",
-1229,"📌 參考答案 (Answer)
+📌 考試提醒
+陰莖與花粉管的共同生理功能是作為將雄配子輸送至雌配子進行受精的通道。
+The common physiological function of the penis and pollen tube is to serve as a passageway to deliver male gametes to female gametes for fertilization.
+常見錯誤：學生常混淆產生配子的器官與運送配子的結構，誤將花藥與精子作類比。
+Common trap: Students often confuse the organs that produce gametes with the structures that transport them, mistakenly making an analogy between anthers and sperms.",
+1229,"📌 參考答案
 B. 產生精子
 B. Production of sperms
 
-📌 詳細解釋 (Detailed Explanation)
-第一性徵 (Primary sexual characteristics)
+📌 詳細解釋
+第二性徵是指在青春期出現，可以用來分辨兩性的可觀察外在特徵。
+Secondary sexual characteristics refer to the observable external features that appear during puberty and can be used to distinguish between the two sexes.
+選項 A、C 和 D 所描述的生長鬍子、肩膀增闊及喉部增大，均屬於男性的第二性徵。
+The growth of facial hair, broadening of shoulders, and enlargement of the larynx described in options A, C, and D all belong to male secondary sexual characteristics.
+選項 B 不正確，產生精子涉及睪丸的直接生殖功能，這屬於男性的第一性徵。
+Option B is incorrect; the production of sperms involves the direct reproductive function of the testes, which belongs to male primary sexual characteristics.
+因此，產生精子並非男性的第二性徵。
+Therefore, the production of sperms is not a male secondary sexual characteristic.
 
-指與生殖相關的內部或外部器官功能，例如精子產生、卵子產生、睪丸、卵巢。
-Refers to internal or external reproductive organ functions, such as sperm production, egg production, testes, and ovaries.
-✅ 「產生精子」屬於男性的第一性徵，而不是第二性徵。
-✅ ""Production of sperm"" is a primary characteristic, not a secondary one.
-第二性徵 (Secondary sexual characteristics)
-
-青春期出現，但不直接涉及生殖的身體特徵。
-Appear during puberty but are not directly involved in reproduction.
-舉例：
-生長鬍子 → Growth of facial hair
-喉的增大 (變聲) → Enlargement of larynx (voice deepening)
-肩膀增闊 → Broadening of shoulders
-這些都屬於外在可見的第二性徵。
-📌 考試提醒 (Exam Tips)
-第一性徵 = 生殖器官與配子形成。
-
-Primary sexual characteristics = reproductive organs and gamete production.
-
-第二性徵 = 青春期出現的外觀或生理改變 (不直接參與生殖)。
-
-Secondary sexual characteristics = physical/physiological changes at puberty (not directly reproductive).
-
-常見陷阱：把「精子產生」(第一性徵) 誤以為是「第二性徵」。
-
-Common trap: Mistaking ""sperm production"" (primary) as ""secondary"".",
-1230,"📌 參考答案 (Answer)
+📌 考試提醒
+第一性徵涉及直接與生殖相關的內部結構及配子產生，而第二性徵則是青春期受荷爾蒙影響出現的外在變化。
+Primary sexual characteristics involve internal structures and gamete production directly related to reproduction, while secondary sexual characteristics are external changes occurring during puberty under hormonal influence.
+常見錯誤：學生常未能準確區分第一性徵與第二性徵的定義，誤將配子的產生視為第二性徵。
+Common trap: Students often fail to accurately distinguish the definitions of primary and secondary sexual characteristics, mistakenly regarding the production of gametes as a secondary sexual characteristic.",
+1230,"📌 參考答案
 C. 只有 (2) 和 (3)
+C. (2) and (3) only
 
-📌 詳細解釋 (Detailed Explanation)
-(1) 它確保根能從土壤得到水分。
+📌 詳細解釋
+植物的根部具負向光性，背光生長有助其深入並抓緊泥土粒子，以固定植物提供支持。
+The roots of plants show negative phototropism; growing away from light helps them penetrate deeply and grip soil particles to anchor the plant and provide support.
+植物的枝條具正向光性，向光生長能確保植物到達較高位置，吸收最多陽光進行光合作用。
+The shoots of plants show positive phototropism; growing towards light ensures the plant reaches a higher position to absorb maximum sunlight for photosynthesis.
+因此，選項 (2) 及 (3) 的描述是正確的。
+Therefore, the descriptions in options (2) and (3) are correct.
+選項 (1) 不正確，根部能從土壤吸水主要是因為其具正向地性（及正向水性），而負向光性的主要重要性不在於吸取水分。
+Option (1) is incorrect; roots can absorb water from the soil primarily because they show positive geotropism (and positive hydrotropism), and the main importance of negative phototropism is not for absorbing water.
 
-植物的根部屬於負向光性，即向遠離光的方向生長。
-Plant roots show negative phototropism, growing away from light.
-根吸收水分主要依賴正向地性，而不是向光性。
-Roots absorb water mainly because of positive geotropism (gravitropism), not phototropism.
-❌ 錯誤 / Incorrect
-(2) 它確保根能固定在土壤中以作支持。
-
-根的負向光性使它們生長進入土壤，增強對土壤的抓緊力，固定植株。
-Negative phototropism allows roots to grow deeper into soil, anchoring the plant firmly.
-✅ 正確 / Correct
-(3) 它令枝條到達有陽光的位置。
-
-枝條和莖具有正向光性，能朝向光源生長。
-Shoots and stems show positive phototropism, growing towards light.
-這讓葉片能高效吸收陽光，以進行光合作用。
-This ensures leaves receive maximum sunlight for photosynthesis.
-✅ 正確 / Correct
-📌 考試提醒 (Exam Tips)
-根 → 負向光性 + 正向地性 → 穩固 & 吸水。
-
-Roots → negative phototropism + positive geotropism → anchorage & water absorption.
-
-莖/葉 → 正向光性 → 向光生長，最大化光合作用。
-
-Shoots/leaves → positive phototropism → toward light, maximize photosynthesis.
-
-常見陷阱：把根吸水的主要原因誤認為光性，實際是地性決定的。
-
-Common trap: Mistaking root water absorption as controlled by phototropism, when it is mainly by geotropism.",
-1231,"📌 參考答案 (Answer)
+📌 考試提醒
+負向光性促使根部避開地面光源深入土壤，從而穩固植株。
+Negative phototropism causes roots to avoid ground light sources and grow deeply into the soil, thereby anchoring the plant.
+常見錯誤：學生常將根部所有的生長反應混為一談，誤以為負向光性是引導根部尋找水分的主因。
+Common trap: Students often conflate all growth responses of roots, mistakenly thinking that negative phototropism is the main cause guiding roots to seek water.",
+1231,"📌 參考答案
 A. 厚肌肉壁以抵受高血壓
 A. Thick muscular wall to withstand high blood pressure
 
-📌 詳細解釋 (Detailed Explanation)
-從顯微圖判斷：
+📌 詳細解釋
+從顯微照片可見，血管 X 具有很厚的肌肉壁，且管腔相對較小，這是動脈的典型特徵。
+From the micrograph, blood vessel X has a very thick muscular wall and a relatively small lumen, which is a typical feature of an artery.
+動脈需要厚實且具彈性的肌肉壁，以抵受心臟泵血時所產生的高壓。
+Arteries require thick and elastic muscular walls to withstand the high blood pressure generated when the heart pumps blood.
+選項 B 不正確，高血壓是由心臟收縮產生的，而不是由動脈肌肉壁產生的。
+Option B is incorrect; high blood pressure is generated by the contraction of the heart, not by the muscular walls of the arteries.
+選項 C 及 D 不正確，具有大管腔以減慢血液流動或容納更多血液是靜脈的特徵。
+Options C and D are incorrect; having a large lumen to slow down blood flow or accommodate more blood is a characteristic of veins.
 
-標示 X 的血管壁厚，管腔（中間空間）較小 → 特徵符合「動脈」。
-The vessel labeled X has a thick wall and relatively narrow lumen → characteristics of an artery.
-動脈 (Artery) 的特徵：
-
-肌肉層 (muscular wall) 厚，含大量彈性纖維 → 抵受心臟泵血時的高壓。
-Thick muscular wall, rich in elastic fibers → withstands high pressure from the heartbeat.
-管腔相對較小。
-Relatively small lumen.
-可透過收縮與放鬆幫助血液推動。
-Can contract and relax to help propel blood.
-為何其他選項錯？
-
-B. 厚肌肉壁以產生高血壓 → 血壓來自心臟泵血，不是血管壁產生的。
-→ Blood pressure is generated by the heart, not the vessel wall.
-C. 大管腔以減慢血液流動 → 屬於靜脈特徵。
-→ Large lumen to slow blood flow = vein feature.
-D. 大管腔以容納更多血液 → 也是靜脈特徵。
-→ Large lumen to hold more blood = vein feature.
-📌 考試提醒 (Exam Tips)
-動脈 vs 靜脈 顯微鏡特徵
-動脈：厚壁、小管腔、高壓、彈性強。
-Artery: thick wall, small lumen, high pressure, elastic.
-靜脈：薄壁、大管腔、低壓、常有瓣膜。
-Vein: thin wall, large lumen, low pressure, often with valves.",
+📌 考試提醒
+動脈的結構特徵（厚肌肉壁、小管腔）完全適應其承受及輸送高壓血液的功能。
+The structural features of arteries (thick muscular wall, small lumen) are fully adapted to their function of withstanding and transporting high-pressure blood.
+常見錯誤：學生常誤以為動脈的肌肉收縮是產生人體高血壓的源頭，忽略了心室才是泵血的動力來源。
+Common trap: Students often mistakenly think that the muscle contraction of arteries is the source of high blood pressure in the body, ignoring that the ventricle is the power source for pumping blood.",
 1232,"📌 參考答案
-32. D
-缺氧血到肺部去。
-Deoxygenated blood to the lungs.
+D. 缺氧血到肺部去
+D. Deoxygenated blood to the lungs
 
-📌 詳細解釋 (Detailed Explanation)
-圖中 X 血管壁厚，內腔較小，顯示它是 動脈。
-The vessel X has thick muscular walls and a smaller lumen, indicating it is an artery.
+📌 詳細解釋
+根據上一題的分析，血管 X 是一條動脈。
+Based on the analysis of the previous question, blood vessel X is an artery.
+人體內連接肺部和心臟的動脈是肺動脈。
+The artery connecting the lungs and the heart in the human body is the pulmonary artery.
+肺動脈負責將右心室泵出的缺氧血輸送到肺部進行氣體交換。
+The pulmonary artery is responsible for transporting the deoxygenated blood pumped from the right ventricle to the lungs for gas exchange.
+因此，若血管 X 與肺部相連，它必然是輸送缺氧血到肺部去。
+Therefore, if blood vessel X is connected to the lungs, it must be transporting deoxygenated blood to the lungs.
+選項 A 和 B 不正確，輸送含氧血的是大動脈（離開心臟）或肺靜脈（進入心臟）。
+Options A and B are incorrect; oxygenated blood is transported by the aorta (leaving the heart) or the pulmonary vein (entering the heart).
+選項 C 不正確，輸送缺氧血到心臟去的是腔靜脈。
+Option C is incorrect; deoxygenated blood is transported to the heart by the vena cava.
 
-與肺部相連的動脈只有 肺動脈。
-The only artery connected to the lungs is the pulmonary artery.
-
-肺動脈由右心室發出，將 缺氧血 運送到肺部進行氣體交換。
-The pulmonary artery arises from the right ventricle and carries deoxygenated blood to the lungs for gas exchange.
-
-➡ 因此，X 輸送的是 缺氧血到肺部，答案為 D。
-➡ Therefore, X carries deoxygenated blood to the lungs, so the answer is D.
-
-📌 考試提醒 (Exam Tips)
-肺動脈是唯一輸送缺氧血的動脈。
-The pulmonary artery is the only artery that carries deoxygenated blood.
-
-肺靜脈是唯一輸送含氧血的靜脈。
-The pulmonary vein is the only vein that carries oxygenated blood.
-
-**判斷動脈與靜脈：**動脈壁厚、腔小；靜脈壁薄、腔大，常有瓣膜。
-Distinguishing arteries vs. veins: arteries = thick wall, narrow lumen; veins = thin wall, wide lumen, often with valves.",
+📌 考試提醒
+肺動脈是人體內唯一輸送缺氧血的動脈，而肺靜脈則是唯一輸送含氧血的靜脈。
+The pulmonary artery is the only artery in the human body that carries deoxygenated blood, while the pulmonary vein is the only vein that carries oxygenated blood.
+常見錯誤：學生常死記「動脈必含氧」，而忘記了肺循環系統中動脈與靜脈的含氧量是相反的。
+Common trap: Students often memorize ""arteries must be oxygenated"" by rote, forgetting that the oxygen content of arteries and veins is reversed in the pulmonary circulation system.",
 1233,"📌 參考答案
-33. C
-左心室形成。
-Formed by the left ventricle.
+C. 左心室形成
+C. Formed by the left ventricle
 
-📌 詳細解釋 (Detailed Explanation)
-左心室的功能是將血液泵往 全身各部位（除肺部外）。
-The left ventricle pumps blood to the whole body (except the lungs).
+📌 詳細解釋
+左心室負責將血液泵出，經大動脈流經身體各個部位（肺部除外）後再返回心臟。
+The left ventricle is responsible for pumping blood out through the aorta to all parts of the body (except the lungs) before it returns to the heart.
+由於輸送的距離最遠，血液流動遇到的阻力最大。
+Since the transport distance is the longest, the resistance encountered by the blood flow is the greatest.
+因此，左心室必須具有最厚和最強壯的肌肉壁，以產生最高的血壓來維持體循環的血液流動。
+Therefore, the left ventricle must have the thickest and strongest muscular wall to generate the highest blood pressure to maintain blood flow in the systemic circulation.
+選項 A 和 B 不正確，心房只負責將血液泵入相鄰的心室，所需血壓極低。
+Options A and B are incorrect; the atria are only responsible for pumping blood into the adjacent ventricles, which requires very low blood pressure.
+選項 D 不正確，右心室只需將血液泵至相鄰的肺部，其肌肉壁厚度及產生的血壓均不及左心室。
+Option D is incorrect; the right ventricle only needs to pump blood to the adjacent lungs, so its muscular wall thickness and the blood pressure it generates are lower than those of the left ventricle.
 
-因為輸送距離最遠，阻力最大，需要產生 最高的血壓 才能維持血流。
-Since the distance is the longest and resistance the greatest, it must generate the highest blood pressure to maintain flow.
+📌 考試提醒
+心臟各腔室的肌肉壁厚度與其泵血所需克服的阻力及輸送距離成正比。
+The thickness of the muscular wall in each heart chamber is directly proportional to the resistance it must overcome and the distance it must transport blood.
+常見錯誤：學生常忽略肺循環與體循環在距離與阻力上的巨大差異，無法解釋左心室壁為何最厚。
+Common trap: Students often overlook the huge differences in distance and resistance between the pulmonary and systemic circulations, failing to explain why the wall of the left ventricle is the thickest.",
+1234,"📌 參考答案
+C. 胃部發生
+C. Occurs in the stomach
 
-因此，左心室擁有 最厚和最強壯的心肌壁。
-Therefore, the left ventricle has the thickest and strongest myocardium wall.
+📌 詳細解釋
+水煮蛋的主要營養成分是蛋白質、脂肪以及其他不經消化便能直接吸收的物質。
+The main nutritional components of a boiled egg are proteins, fats, and other substances that can be directly absorbed without digestion.
+口腔內的唾液只含有澱粉酶，並不能對蛋白質進行化學消化。
+The saliva in the oral cavity contains only amylase and cannot perform chemical digestion on proteins.
+蛋白質的化學消化最先發生在胃部，胃分泌的蛋白酶會將蛋白質初步分解成較簡單的肽。
+The chemical digestion of proteins first occurs in the stomach, where proteases secreted by the stomach initially break down proteins into simpler peptides.
+其後，這些肽會在小腸被進一步分解成氨基酸。
+Subsequently, these peptides are further broken down into amino acids in the small intestine.
+因此，進食水煮蛋後，化學消化作用首先在胃部發生。
+Therefore, after eating a boiled egg, chemical digestion first occurs in the stomach.
 
-➡ 答案為 C：左心室形成。
-➡ The correct answer is C: formed by the left ventricle.
-
-📌 考試提醒 (Exam Tips)
-左心室 (left ventricle) → 最高血壓，最厚肌肉層。
-Left ventricle → highest pressure, thickest muscle wall.
-
-右心室 (right ventricle) → 輸送至肺部，血壓較低。
-Right ventricle → pumps to lungs, lower pressure.
-
-血壓大小比較 Pressure comparison:
-左心室 > 右心室 > 心房
-Left ventricle > Right ventricle > Atria
-
-小提醒：考試常會考 動脈壁/心室壁厚度 與血壓的關係。
-Tip: Exams often test the link between arterial/ventricular wall thickness and blood pressure.",
-1234,"34. C
-胃部發生。
-In the stomach.
-
-📌 詳細解釋 (Detailed Explanation)
-水煮蛋的主要成分是 蛋白質，另外還含有脂肪，但兩者都無法在口腔被化學分解。
-A boiled egg mainly contains proteins, and some fat, but neither undergoes chemical digestion in the mouth.
-
-在口腔只有 澱粉酶分解澱粉，蛋白質並未開始化學消化。
-In the mouth, only amylase digests starch; proteins are not chemically digested.
-
-蛋白質的化學消化首先在胃中開始，由 胃蛋白酶 將蛋白質分解成較小的 肽。
-Protein digestion begins in the stomach, where pepsin breaks proteins down into shorter peptides.
-
-在小腸中，這些肽進一步被分解成 氨基酸 才能吸收。
-In the small intestine, these peptides are further broken into amino acids for absorption.
-
-➡ 因此，進食水煮蛋後，化學消化作用最先在 胃部 發生。
-➡ Therefore, after eating a boiled egg, chemical digestion first occurs in the stomach.
-
-📌 考試提醒 (Exam Tips)
-口腔 (Mouth) → 澱粉酶，分解澱粉成麥芽糖。
-Mouth: amylase breaks down starch into maltose.
-
-胃 (Stomach) → 胃蛋白酶，分解蛋白質成多肽。
-Stomach: pepsin breaks proteins into polypeptides.
-
-小腸 (Small intestine) → 胰液 & 小腸酶，將多肽分解成氨基酸；澱粉 -> 葡萄糖；脂肪 -> 脂肪酸 + 甘油。
-Small intestine: pancreatic & intestinal enzymes break polypeptides → amino acids; starch → glucose; fats → fatty acids + glycerol.
-
-陷阱提醒 Trap: 若食物以蛋白質為主（如雞蛋），考生切勿選「口腔」或「小腸」開頭，而是要先想到 胃部開始消化蛋白質。
-Trap: For protein-rich food (like eggs), don’t choose “mouth” or “small intestine”; always recall stomach is where protein digestion begins.
-",
+📌 考試提醒
+人類消化系統中，碳水化合物的化學消化始於口腔，蛋白質始於胃部，而脂質則始於小腸。
+In the human digestive system, the chemical digestion of carbohydrates begins in the mouth, proteins in the stomach, and lipids in the small intestine.
+常見錯誤：學生常以為所有食物的化學消化都一律從口腔開始，忽略了消化酶的底物專一性。
+Common trap: Students often assume that the chemical digestion of all foods uniformly begins in the mouth, ignoring the substrate specificity of digestive enzymes.",
 1235,"📌 參考答案
-35. B
-產生抗體。
-Production of antibodies.
+B. 產生抗體
+B. Production of antibodies
 
-📌 詳細解釋 (Detailed Explanation)
-體液免疫反應 (humoral immune response) 是由 B 細胞 主導的。
-The humoral immune response is mediated by B cells.
+📌 詳細解釋
+在體液免疫反應中，當入侵的抗原被識別後，輔助 T 細胞會刺激 B 細胞活化。
+In the humoral immune response, after invading antigens are recognized, helper T cells stimulate the activation of B cells.
+被活化的 B 細胞會進行分裂，並分化成記憶 B 細胞和漿細胞。
+The activated B cells undergo division and differentiate into memory B cells and plasma cells.
+漿細胞負責產生並分泌特異性抗體，以對抗並中和血液及組織液中的病原體。
+Plasma cells are responsible for producing and secreting specific antibodies to combat and neutralize pathogens in the blood and tissue fluid.
+選項 A 和 C 不正確，血液凝固及吞噬病原體均屬於非特異性防禦機制。
+Options A and C are incorrect; blood clotting and phagocytosis of pathogens both belong to non-specific defense mechanisms.
+選項 D 不正確，產生記憶 T 細胞是細胞介導免疫反應過程的一部分，而非體液免疫。
+Option D is incorrect; the production of memory T cells is part of the cell-mediated immune response process, not humoral immunity.
 
-當病原體入侵時，抗原會啟動 B 細胞，並在 輔助性 T 細胞 的幫助下被活化。
-When pathogens invade, antigens activate B cells, with the help of helper T cells.
-
-活化的 B 細胞會分裂成 漿細胞 和 記憶 B 細胞；其中漿細胞能 分泌抗體，專一性地中和或標記病原體。
-Activated B cells divide into plasma cells and memory B cells; plasma cells secrete antibodies that specifically neutralize or mark pathogens.
-
-因此，「產生抗體」屬於體液免疫反應。
-Therefore, “production of antibodies” belongs to the humoral immune response.
-
-➡ 正確答案 = B ✅
-
-📌 考試提醒 (Exam Tips)
-體液免疫 (Humoral immunity):
-B 細胞 → 漿細胞 → 抗體。
-B cells → plasma cells → antibodies.
-
-細胞介導免疫 (Cell-mediated immunity):
-T 細胞（殺手 T、記憶 T）→ 破壞受感染細胞。
-T cells (killer T, memory T) → destroy infected cells.
-
-非特異性防禦 (Non-specific defense):
-凝血、吞噬作用等屬於第一道或第二道防線，不屬於特異性免疫。
-Blood clotting, phagocytosis, etc. belong to the first/second line of defense, not specific immunity.
-
-陷阱提醒 Trap:
-出題常用「凝血」或「吞噬作用」混淆考生，務必記得 抗體產生 = 體液免疫。
-Exams often use “clotting” or “phagocytosis” to confuse students; always remember antibody production = humoral immunity.",
+📌 考試提醒
+體液免疫專門依賴 B 細胞分化成的漿細胞來分泌抗體，對付細胞外的病原體。
+Humoral immunity specifically relies on plasma cells differentiated from B cells to secrete antibodies against extracellular pathogens.
+常見錯誤：學生常把特異性免疫與非特異性防禦混淆，誤將吞噬作用歸類為體液免疫。
+Common trap: Students often confuse specific immunity with non-specific defense, mistakenly classifying phagocytosis as humoral immunity.",
 1236,"📌 參考答案
-36. B
-組織液積聚在傷口。
-Accumulation of tissue fluid at the wound.
+B. 組織液積聚在傷口
+B. Accumulation of tissue fluid at the wound
 
-📌 詳細解釋 (Detailed Explanation)
-當身體受傷時，會引起 炎症反應。
-When the body is injured, it triggers an inflammatory response.
+📌 詳細解釋
+當身體受傷時會引致炎性反應，受傷部位的小動脈會舒張。
+When the body is injured, it induces an inflammatory response, and the arterioles at the injured site will dilate.
+這導致更多血液流至傷口區域，同時微血管的透性亦會增加。
+This causes more blood to flow to the wound area, while the permeability of the capillaries also increases.
+微血管透性增加導致大量血漿滲出，使過量的組織液在組織間隙中積聚。
+The increased permeability of capillaries leads to a large amount of plasma leaking out, causing excess tissue fluid to accumulate in the tissue spaces.
+正是這些積聚的過量組織液，令傷口變得腫脹。
+It is this accumulated excess tissue fluid that makes the wound become swollen.
+選項 A、C 和 D 雖可能在傷口處發生，但它們並非直接導致物理性腫脹的原因。
+Although options A, C, and D may occur at the wound, they are not the direct causes of physical swelling.
 
-小動脈擴張，導致更多血液流向傷口區域。
-Arterioles dilate, allowing more blood to flow to the wound area.
-
-同時，毛細血管的通透性增加，使血漿中的液體滲出到組織間隙。
-At the same time, capillary permeability increases, causing plasma fluid to leak into the tissue spaces.
-
-過量的組織液無法及時回流，於是積聚在傷口周圍，令傷口腫脹。
-Excess tissue fluid cannot be drained quickly, thus accumulating around the wound and causing swelling.
-
-➡ 正確答案 = B ✅
-
-📌 考試提醒 (Exam Tips)
-紅腫熱痛 (redness, swelling, heat, pain) → 炎症反應的四大特徵。
-Redness, swelling, heat, pain → four cardinal signs of inflammation.
-
-紅、熱 → 血流增加。
-Redness, heat → increased blood flow.
-
-腫 → 組織液積聚。
-Swelling → tissue fluid accumulation.
-
-痛 → 化學物質刺激痛覺感受器。
-Pain → chemicals stimulate pain receptors.
-
-常見陷阱：血液增加只是造成紅熱，不是直接造成腫脹；要答出 組織液積聚。
-Common trap: more blood flow explains redness/heat, but swelling is due specifically to tissue fluid accumulation.",
+📌 考試提醒
+炎症反應的腫脹徵狀，其根本物理原因是微血管透性增加所引致的組織液積聚。
+The physical root cause of the swelling symptom in an inflammatory response is the accumulation of tissue fluid caused by increased capillary permeability.
+常見錯誤：學生常誤以為腫脹純粹是因為血液增加所致，而忽略了微血管透性改變及組織液積聚的關鍵步驟。
+Common trap: Students often mistakenly think that swelling is purely caused by increased blood, ignoring the key steps of altered capillary permeability and tissue fluid accumulation.",
 12p101,"📌 **參考答案**  
 
 滲巴細胞Lymphocytes 　C  
