@@ -1,4 +1,4 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 pp01,"📌 參考答案
 1. C
 
@@ -37,43 +37,25 @@ If the question provides the percentage of one complementary pair, add the pair�
 學生常錯在忘記「互補」的配對關係，導致比例計算錯誤。
 
 Students often make mistakes by forgetting the complementary pairing relationship, leading to incorrect ratio calculations.",
-pp02,"## 📌 參考答案  
-**2. D**  
+pp02,"📌 參考答案
+D. 在 t4 期間，細胞器合成。
+D. During t4, synthesis of organelles occurs.
 
----
+📌 詳細解釋
+曲線圖顯示的是有絲細胞分裂過程中的 DNA 數量變化。
+The graph shows the change in DNA amount during mitosis.
+t4 是第一生長期 (G1)，細胞會在此階段合成新的細胞器。
+t4 is the first growth phase (G1), during which new organelles are synthesized.
+t1 是合成期 (S)，會進行 DNA 複製，但核膜並不會在此期間消失（選項 A 錯誤）。
+t1 is the synthesis phase (S) where DNA replication occurs, but the nuclear envelope does not disappear during this period (Option A is incorrect).
+由於圖示為有絲細胞分裂，因此不會發生同源染色體配對或分離（選項 B 及 C 錯誤）。
+Since the graph represents mitosis, pairing and separation of homologous chromosomes do not occur (Options B and C are incorrect).
 
-## 📌 詳細解釋 (Detailed Explanation)  
-
-t₄ 是第一生長期 (G₁)，在此期間會合成新的細胞器，為細胞分裂作準備。  
-t₄ represents the first growth phase (G₁), during which new organelles are synthesized to prepare for cell division.  
-
-t₁ 為合成期 (S)，在此階段 DNA 數量增加，核膜並不會消失。  
-t₁ is the synthesis phase (S), where DNA content increases, and the nuclear membrane remains intact.  
-
-t₂ 與 t₃ 所示的變化屬於有絲分裂過程，與同源染色體的配對或分離無關。  
-t₂ and t₃ represent stages of mitosis, which do not involve pairing or separation of homologous chromosomes.  
-
-因此，正確答案是 D。  
-Therefore, the correct answer is D.  
-
----
-
-## 📌 考試提醒 (Exam Tips)  
-
-- G₁ 期：合成新細胞器及蛋白質，準備 DNA 複製。  
-- G₁ phase: Synthesis of new organelles and proteins in preparation for DNA replication.  
-
-- S 期：DNA 複製，使 DNA 含量加倍。  
-- S phase: DNA replication occurs, doubling DNA content.  
-
-- G₂ 期：檢查 DNA 是否正常，合成分裂所需酶類。  
-- G₂ phase: DNA error checking and enzyme synthesis for mitosis.  
-
-- M 期：細胞核與細胞質分裂完成。  
-- M phase: Division of nucleus and cytoplasm is completed.  
-
-- 常見錯誤：把“G₁ 合成新細胞器”與“S 期 DNA 合成”混淆。  
-- Common mistake: Confusing “G₁ organelle synthesis” with “S phase DNA synthesis.”",
+📌 考試提醒
+核膜消失是發生在細胞分裂的前期，而非合成期。
+The disappearance of the nuclear envelope occurs in prophase of cell division, not the synthesis phase.
+常見錯誤：學生常忽略曲線圖代表有絲分裂，誤選只在減數分裂發生的同源染色體配對。
+Common trap: Students often ignore that the graph represents mitosis and incorrectly choose homologous chromosome pairing, which only occurs in meiosis.",
 pp03,"📌 參考答案
 3. A
 
@@ -183,105 +165,56 @@ Increase in potato mass indicates water uptake (external solution has higher wat
 
 Common pitfall: Students assume higher numeric ratios mean higher water potential—it should be judged by the direction of mass change instead.",
 pp06,"📌 參考答案
-6. B
+B. 只有 (2)
+B. (2) only
 
-📌 詳細解釋 (Detailed Explanation)
-(1) 光化反應會釋出氧氣作為副產物，但氧氣並非碳固定作用所需。
-(1) The light-dependent reaction releases oxygen as a by-product, but oxygen is not required for carbon fixation.
+📌 詳細解釋
+光化反應會產生 NADPH，在固碳作用中用以把 3C 化合物還原為丙糖磷酸。
+The photochemical reaction produces NADPH, which is used to reduce a 3C compound to triose phosphate in carbon fixation.
+雖然光化反應會釋出副產物氧氣，但氧氣對其後的碳固定並非必需的（陳述 (1) 錯誤）。
+Although the photochemical reaction releases oxygen as a by-product, oxygen is not necessary for the subsequent carbon fixation (Statement (1) is incorrect).
+二氧化碳受體是在固碳作用中再生，而非在光化反應中產生（陳述 (3) 錯誤）。
+The carbon dioxide acceptor is regenerated in carbon fixation, rather than being produced in the photochemical reaction (Statement (3) is incorrect).
 
-(2) 光化反應產生的 NADPH 提供氫和還原力，用於在暗反應中將 3C 化合物 (PGA) 還原為丙糖磷酸 (G3P)。
-(2) The NADPH produced in the light-dependent reaction provides hydrogen and reducing power to convert the 3C compound (PGA) into triose phosphate (G3P) during the dark reaction.
-
-(3) 二氧化碳受體 (RuBP) 的再生發生於暗反應，而非光化反應。
-(3) The regeneration of the CO₂ acceptor (RuBP) occurs during the dark reaction, not in the light reaction.
-
-因此只有陳述 (2) 正確。
-Therefore, only statement (2) is correct.
-
-📌 考試提醒 (Exam Tips)
-光化反應 (Light reaction)：發生於類囊體膜，產生 ATP 和 NADPH，並釋出氧氣。
-
-Light reaction: Occurs in the thylakoid membrane, producing ATP and NADPH and releasing oxygen.
-
-暗反應 (Light-independent reaction / Calvin cycle)：使用光化反應產生的 ATP 和 NADPH 進行碳固定。
-
-Dark reaction: Uses ATP and NADPH from the light reaction for carbon fixation.
-
-常見錯誤：把「釋放氧氣」誤認為支援碳固定；實際上，碳固定需要的是 NADPH 和 ATP。
-
-Common mistake: Assuming oxygen release helps carbon fixation; in fact, carbon fixation requires NADPH and ATP.",
+📌 考試提醒
+光化反應的產物 ATP 和 NADPH 是固碳作用所必需的，而氧氣只是副產物。
+The products of the photochemical reaction, ATP and NADPH, are essential for carbon fixation, while oxygen is merely a by-product.
+常見錯誤：學生常使用過時名詞「暗反應」，或誤以為二氧化碳受體在光化反應再生。
+Common trap: Students often use the outdated term ""dark reaction"" or mistakenly believe that the carbon dioxide acceptor is regenerated in the photochemical reaction.",
 pp07,"📌 參考答案
-7. C
+C. 二氧化碳和 NADH
+C. Carbon dioxide and NADH
 
-📌 詳細解釋 (Detailed Explanation)
-克雷伯氏循環（又稱檸檬酸循環或三羧酸循環）發生在線粒體基質內。
-The Krebs cycle (also called the citric acid cycle or TCA cycle) occurs in the mitochondrial matrix.
+📌 詳細解釋
+克雷伯氏循環的過程中會釋出二氧化碳，並將氫原子與電子轉移以產生 NADH。
+During the Krebs cycle, carbon dioxide is released and hydrogen atoms and electrons are transferred to produce NADH.
+水分子是在其後的氧化磷酸化過程中產生的，因此選項 A、B 及 D 錯誤。
+Water molecules are produced in the subsequent process of oxidative phosphorylation, making options A, B, and D incorrect.
+因此，正確列出在克雷伯氏循環產生的是二氧化碳和 NADH。
+Therefore, carbon dioxide and NADH are correctly listed as the substances produced in the Krebs cycle.
 
-在此過程中，乙醯輔酶A 被完全氧化，並釋放出二氧化碳作為廢物。
-During this process, acetyl-CoA is completely oxidized, releasing carbon dioxide as a waste product.
-
-同時，氫原子與電子被轉移至 NAD⁺，形成 NADH。
-At the same time, hydrogen atoms and electrons are transferred to NAD⁺, forming NADH.
-
-水的生成則發生在氧化磷酸化階段，而非克雷伯氏循環。
-Water is produced in the oxidative phosphorylation stage, not in the Krebs cycle.
-
-因此，克雷伯氏循環的產物是二氧化碳和 NADH。
-Therefore, the products of the Krebs cycle are carbon dioxide and NADH.
-
-📌 考試提醒 (Exam Tips)
-克雷伯氏循環 (Krebs cycle)：產生 CO₂、NADH、FADH₂及少量 ATP。
-
-Krebs cycle: Produces CO₂, NADH, FADH₂, and a small amount of ATP.
-
-氧化磷酸化 (Oxidative phosphorylation)：利用 NADH 與 FADH₂ 產生 ATP 並生成水。
-
-Oxidative phosphorylation: Uses NADH and FADH₂ to produce ATP and water.
-
-常見混淆：學生常誤以為「水」在克雷伯氏循環中生成，但實際上是發生在電子傳遞鏈中。
-
-Common mistake: Students often think water is formed in the Krebs cycle, but it actually happens in the electron transport chain.
-",
+📌 考試提醒
+有氧呼吸分為糖酵解、克雷伯氏循環及氧化磷酸化三個主要階段，各有不同的產物。
+Aerobic respiration is divided into three main stages: glycolysis, the Krebs cycle, and oxidative phosphorylation, each with different products.
+常見錯誤：學生常把克雷伯氏循環與氧化磷酸化的產物混淆，誤以為水在克雷伯氏循環產生。
+Common trap: Students often confuse the products of the Krebs cycle with those of oxidative phosphorylation, mistakenly thinking water is produced in the Krebs cycle.",
 pp08,"📌 參考答案
-8. A
+A. 在光強度為 3 個單位以下時，光強度是限制這株植物光合作用速率的因素。
+A. At a light intensity below 3 units, light intensity is the factor limiting the photosynthetic rate of this plant.
 
-📌 詳細解釋 (Detailed Explanation)
-在光強度為 3 單位以下時，光合作用速率隨光強度增加而上升。
-When light intensity is below 3 units, the rate of photosynthesis increases with light intensity.
+📌 詳細解釋
+在光強度為 3 個單位以下時，光合作用速率隨光強度增加而上升，顯示光強度是限制因素。
+At a light intensity below 3 units, the photosynthetic rate increases with light intensity, showing that light intensity is the limiting factor.
+選項 B 及 C 錯誤，因為要推論溫度或二氧化碳濃度是否為限制因素，必須提供更高溫度或濃度的數據作比較，而圖中缺乏此類數據。
+Options B and C are incorrect because deducing whether temperature or carbon dioxide concentration is a limiting factor requires data at higher temperatures or concentrations for comparison, which is missing from the graph.
+選項 D 錯誤，從圖表可見，在所述條件下當溫度增加一倍（15°C 至 30°C），速率由約 27 單位增至約 38 單位，並非增加一倍。
+Option D is incorrect as the graph shows that doubling the temperature (from 15°C to 30°C) under the stated conditions increases the rate from about 27 to 38 units, not doubling it.
 
-這表示在此範圍內，光強度是限制光合作用的因素。
-This indicates that light intensity is the limiting factor in this range.
-
-當光強度逐漸上升至較高值時，曲線開始趨於平坦，顯示此時其他因素變為限制因素。
-As light intensity rises further, the curve levels off, showing that other factors have become limiting.
-
-在相同光強下，較高的溫度 (30°C) 或較高的二氧化碳濃度 (0.5%) 均能提升光合作用速率。
-At the same light intensity, a higher temperature (30°C) or higher CO₂ concentration (0.5%) results in a higher photosynthetic rate.
-
-因此，圖形顯示在低光強下由光強度限制，而在高光強下，可能受二氧化碳濃度或溫度限制。
-Therefore, at low light intensities, light is the limiting factor; at high intensities, CO₂ concentration or temperature may become limiting.
-
-📌 考試提醒 (Exam Tips)
-在低光強下，光強度是主要限制因素。
-
-At low light intensity, light intensity is the main limiting factor.
-
-當光強達某一水平後，反應達平台期，表示光強不再限制。
-
-When the curve plateaus, light intensity is no longer limiting.
-
-此時要留意其他因素如 二氧化碳濃度 或 溫度 是否成為新的限制因素。
-
-At that point, check if other factors such as CO₂ concentration or temperature become limiting.
-
-增加 CO₂ 濃度或提高溫度通常可進一步提升光合作用速率，直到達到最適條件。
-
-Increasing CO₂ concentration or raising temperature usually enhances photosynthesis until optimal conditions are reached.
-
-常見錯誤：學生往往忽略「曲線趨平」的部分，其實那正代表限制因素轉移。
-
-Common mistake: Students often ignore the “flattening” of the curve, which indicates a shift in the limiting factor.
-",
+📌 考試提醒
+當一個因素增加能直接提升反應速率時，該因素即為當時的限制因素。
+When an increase in a factor directly increases the reaction rate, that factor is the limiting factor at that moment.
+常見錯誤：學生常在數據不足的情況下，錯誤推斷高原期的限制因素，而忽略了比較組的必要性。
+Common trap: Students often incorrectly deduce the limiting factor in the plateau region with insufficient data, ignoring the necessity of a comparison group.",
 pp09,"📌 參考答案
 答案：A
 
@@ -353,70 +286,24 @@ The non-template (coding) strand has almost the same sequence as mRNA, except DN
 若題目問「非模板或編碼 DNA」，就直接把 mRNA 中的 U 改成 T。
 If the question asks for the “non-template” or “coding DNA,” simply replace every U in the mRNA with T.",
 pp10,"📌 參考答案
-答案：D  
+D. 亮氨酸
+D. Leucine
 
----
+📌 詳細解釋
+轉譯自正常等位基因的 mRNA 中，第四個密碼子為 CUA，編碼亮氨酸。
+In the mRNA transcribed from the normal allele, the fourth codon is CUA, which codes for leucine.
+而在突變等位基因的 mRNA 中，該位置的密碼子突變為 GUA，根據表格，GUA 編碼纈氨酸。
+In the mRNA transcribed from the mutated allele, the codon at this position mutates to GUA, which, according to the table, codes for valine.
+因此，在突變基因轉譯的多肽中，原有的亮氨酸被纈氨酸取代。
+Therefore, in the polypeptide translated from the mutated gene, the original leucine is replaced by valine.
+這代表該多肽中會缺少亮氨酸（選項 D 正確，其他選項錯誤）。
+This means that leucine is missing in the polypeptide (Option D is correct, and other options are incorrect).
 
-📘 詳細解釋 (Detailed Explanation)
-
-
-題目給出兩條 mRNA 序列如下：  
-The question provides two mRNA sequences as follows:  
-
-正常等位基因的 mRNA：CCUGAUCCUCUACCCUAU  
-Normal allele mRNA: CCUGAUCCUCUACCCUAU  
-
-突變等位基因的 mRNA：CCUGAUCCUGUACCCUAU  
-Mutated allele mRNA: CCUGAUCCUGUACCCUAU  
-
----
-
-比較兩者的差異：  
-Comparing the two sequences:  
-
-正常基因中第 4 個密碼子是 **CUA**，  
-In the normal gene, the 4th codon is **CUA**,  
-
-而突變基因中變成了 **GUA**。  
-While in the mutated gene, it becomes **GUA**.  
-
----
-
-根據表格，  
-From the given codon chart,  
-
-CUA → 亮氨酸（Leucine）  
-CUA → Leucine  
-
-GUA → 穀氨酸（Glutamic acid）  
-GUA → Glutamic acid  
-
----
-
-因此，突變導致第 4 個胺基酸由亮氨酸改為穀氨酸。  
-Therefore, the mutation changes the 4th amino acid from leucine to glutamic acid.  
-
-題目問「缺少哪一種胺基酸」，  
-The question asks “which amino acid is missing,”  
-
-表示突變後不再有亮氨酸，  
-Meaning leucine is missing after the mutation,  
-
-所以答案是 **D. 亮氨酸（Leucine）**。  
-Thus, the correct answer is **D. Leucine**.  
-
----
-
-🧠 考試提醒 (Exam Tips)
-
-1. 等位基因的點突變可能造成密碼子改變，產生不同胺基酸。  
-   A point mutation in an allele can change a codon, producing a different amino acid.  
-
-2. 若突變改變了密碼子所指示的胺基酸，該胺基酸在多肽中即被取代或消失。  
-   If a mutation alters the codon assignment, that amino acid in the polypeptide is replaced or lost.  
-
-3. 本題 CUA → GUA，導致亮氨酸被改為穀氨酸。  
-   In this question, CUA → GUA, turning leucine into glutamic acid.",
+📌 考試提醒
+核苷酸序列的點突變可能改變單一個密碼子，進而改變多肽鏈上的一個氨基酸。
+A point mutation in the nucleotide sequence can change a single codon, subsequently altering one amino acid in the polypeptide chain.
+常見錯誤：學生在查閱密碼子表時容易對錯行或翻譯錯誤專有名詞，導致選錯氨基酸。
+Common trap: Students easily misread the rows in the codon table or mistranslate terminology, leading to the selection of the wrong amino acid.",
 pp11,"📌 參考答案
 答案：B. 𝐼ᴬ𝐼ᴬ 和 𝐼ᴮ𝑖
 Answer: B. 𝐼ᴬ𝐼ᴬ and 𝐼ᴮ𝑖
@@ -608,40 +495,24 @@ Eukarya domain: Have a nucleus and membrane-bound organelles.
 考試常混淆細菌域與古細菌域，記得古細菌常與極端環境（如高鹽、高溫）相關。
 Exams often mix up bacteria and archaea — remember that archaea are commonly linked to extreme environments (e.g., high salt, high temperature).",
 pp16,"📌 參考答案
-Answer: C (2) and (3)
+C. (2) 和 (3)
+C. (2) and (3)
 
 📌 詳細解釋
-在生物命名中，每種生物的學名由兩部分組成：屬名（genus） 和 種名（species）。
-In biological nomenclature, each organism’s scientific name has two parts: the genus name and the species name.
-
-具有相同屬名的不同生物屬於同一屬，因此它們的親緣關係最接近。
-Organisms that share the same genus name belong to the same genus and therefore have the closest evolutionary relationship.
-
-在題目中：
-In this question:
-(1) Leptochela japonicus
-(2) Metapenaeus japonicus
-(3) Metapenaeus joyneri
-(4) Metapenaeopsis dura
-
-可見第 (2) 與第 (3) 的屬名都是 Metapenaeus。
-It can be seen that species (2) and (3) share the genus name Metapenaeus.
-
-因此，它們的系統發生關係（演化關係）最為接近。
-Therefore, they have the closest phylogenetic or evolutionary relationship.
+在生物的二名法命名中，學名的第一部分為屬名，第二部分為種名。
+In the binomial nomenclature of organisms, the first part of the scientific name is the genus name, and the second part is the species name.
+具有相同屬名的生物屬於同一屬，代表牠們擁有較近的共同祖先。
+Organisms with the same genus name belong to the same genus, meaning they share a more recent common ancestor.
+從給出的學名可見，物種 (2) 和 (3) 的屬名同為 Metapenaeus。
+From the given scientific names, it can be seen that species (2) and (3) share the same genus name Metapenaeus.
+因此，這兩個物種的種系發生關係是最接近的。
+Therefore, the phylogenetic relationship between these two species is the closest.
 
 📌 考試提醒
-在分析學名時：
-When analyzing scientific names:
-
-屬名相同 → 關係最近
-Same genus → Closest relationship
-屬名不同但屬於同一科 → 關係次近
-Different genus but same family → Next closest
-屬名與種名都不同 → 關係最遠
-Different genus and species → Most distant relationship
-學名中屬名首字母必須大寫，種名全小寫，並以斜體書寫。
-In scientific naming, the genus name starts with a capital letter, the species name is lowercase, and both are written in italics.",
+生物分類越接近（例如同屬），其種系發生關係越密切。
+The closer the biological classification (e.g., being in the same genus), the closer their phylogenetic relationship.
+常見錯誤：學生混淆了屬名與種名的位置，誤以為第二個字相同的物種關係較近。
+Common trap: Students confuse the positions of the genus and species names, mistakenly thinking that species with the same second word are more closely related.",
 pp17,"📌 參考答案 (Answer)
 D. 兩棲動物 (1) → 物種 T；兩棲動物 (2) → 物種 Q；兩棲動物 (3) → 物種 S
 D. Amphibian (1) → Species T; Amphibian (2) → Species Q; Amphibian (3) → Species S
@@ -712,47 +583,24 @@ Primary consumers feed on producers, and secondary consumers feed on primary con
 常見陷阱：學生會把生物量錐的面積誤解為體型大小。
 
 Common trap: students often mistake the width of the biomass pyramid for organism size.",
-pp19,"📌 參考答案 (Answer)
+pp19,"📌 參考答案
 C. Q、R、P
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+生長於高潮帶的海草暴露於空氣中的時間較長，因此較能抵禦水分流失。
+Seaweeds living in the high tide zone are exposed to air for a longer time, so they are more capable of resisting water loss.
+圖表顯示，在風乾時海草 Q 的鮮質量下降最快，代表其防止水分流失的能力最弱。
+The graph shows that during drying, the fresh mass of seaweed Q decreases the fastest, indicating its weakest ability to prevent water loss.
+比較三條曲線的斜率，失水速率的排序為 Q > R > P。
+Comparing the slopes of the three curves, the order of water loss rate is Q > R > P.
+因此，三種海草由低潮帶（最不耐乾）至高潮帶（最耐乾）的分佈狀況為 Q、R、P。
+Therefore, the distribution of the three seaweeds from the low tide zone (least drought-resistant) to the high tide zone (most drought-resistant) is Q, R, P.
 
-題目顯示三種海草 P、Q、R 的新鮮質量隨乾燥時間的變化。
-The question shows how the fresh mass of three seaweeds, P, Q, and R, changes with drying time.
-
-曲線越陡代表水分流失越快，表示該海草越不耐曝露於空氣。
-A steeper curve means faster water loss, indicating the seaweed is less tolerant to air exposure.
-
-由圖可見，Q 的新鮮質量下降最快，R 次之，P 最慢，即 Q 最不耐旱，P 最能抵抗乾燥。
-From the graph, Q’s fresh mass decreases fastest, R’s decreases moderately, and P’s decreases slowest — meaning Q is least tolerant to desiccation, and P is most resistant to drying.
-
-居住於 低潮帶 的海草最少時間浸在水中，對乾燥的抵抗力最強。
-Seaweeds living in the upper intertidal (high shore) are exposed for longer periods, so they have the greatest resistance to drying.
-
-因此，從低潮帶到高潮帶的排列，應為最不耐曬的 Q 在最下、適中的 R 在中間、最耐乾的 P 在最上。
-Therefore, from low shore to high shore, the order should be: the least resistant Q at the lowest part, R in the middle, and the most resistant P at the top.
-
-所以最可能的分佈是 Q、R、P。
-Hence, the most likely distribution is Q, R, P.
-
-📌 考試提醒 (Exam Tips)
-
-曲線越斜代表水分流失越快 → 抗旱能力越低。
-
-The steeper the curve, the faster the water loss → the lower the desiccation tolerance.
-
-潮間帶由下至上，空氣暴露時間越長 → 物種耐旱性越高。
-
-From low shore to high shore, exposure time increases → species must have higher drought resistance.
-
-乾燥實驗常用於推斷海岸生物的分佈位置。
-
-Drying experiments are often used to infer shore zonation patterns.
-
-常見錯誤：學生誤把“下降最快”當作“適應性最好”。
-
-Common trap: students mistake “fastest decline” as “best adaptation,” but it actually means “least tolerant.”
-",
+📌 考試提醒
+潮間帶生物的分佈與其抵禦非生物因素（如暴露於空氣而引致的失水）的能力有直接關係。
+The distribution of intertidal organisms is directly related to their ability to resist abiotic factors, such as water loss caused by exposure to air.
+常見錯誤：學生常把高潮帶和低潮帶的環境特徵顛倒，誤以為低潮帶的生物較耐乾。
+Common trap: Students often reverse the environmental characteristics of the high tide zone and low tide zone, mistakenly thinking that organisms in the low tide zone are more drought-resistant.",
 pp20,"📌 參考答案 (Answer)
 D. P → 互利共生；Q → 捕食
 D. P → Mutualism; Q → Predation
@@ -961,61 +809,27 @@ Low blood sugar → secrete glucagon; high blood sugar → secrete insulin.
 常見陷阱：學生誤把胰島素與高血糖素功能對調。
 
 Common trap: students often confuse insulin’s and glucagon’s opposite effects.",
-pp25,"📌 參考答案 (Answer)
-A. (1) 抑制作用　(2) 刺激作用　(3) 抑制作用
-A. (1) Inhibitory effect　(2) Stimulatory effect　(3) Inhibitory effect
+pp25,"📌 參考答案
+A. (1) 抑制作用 (2) 刺激作用 (3) 抑制作用
+A. (1) Inhibitory effect (2) Stimulatory effect (3) Inhibitory effect
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+負反饋機制的作用是抗衡參數變化，把激素水平維持在正常水平。
+The negative feedback mechanism produces responses to counteract parameter changes, maintaining hormone levels at a normal level.
+因此，(3) 必定是抑制作用；當激素 Y 的水平上升時，必須抑制內分泌腺 Q 以減少 Y 的分泌。
+Therefore, (3) must be an inhibitory effect; when the level of hormone Y rises, endocrine gland Q must be inhibited to reduce the secretion of Y.
+若 (2) 是刺激作用，激素 Y 的上升必須對內分泌腺 P 產生抑制作用 (1) ，減少激素 X 的分泌，從而降低 Y 的水平。
+If (2) is a stimulatory effect, the rise in hormone Y must exert an inhibitory effect (1) on endocrine gland P to reduce the secretion of hormone X, thereby lowering the level of Y.
+相反，若 (2) 是抑制作用，(1) 便必須是刺激作用，以維持平衡。
+Conversely, if (2) is an inhibitory effect, (1) must be a stimulatory effect to maintain balance.
+綜合而言，(1)、(2) 及 (3) 的組合必須是「抑制、刺激、抑制」或「刺激、抑制、抑制」，而選項中只有 A 組合符合此邏輯。
+In conclusion, the combination of (1), (2), and (3) must be ""inhibitory, stimulatory, inhibitory"" or ""stimulatory, inhibitory, inhibitory"", and only option A matches this logic.
 
-這題考的是內分泌腺之間的負反饋機制 (negative feedback mechanism)。
-This question tests the negative feedback mechanism between endocrine glands.
-
-假設內分泌腺 P 分泌激素 X，激素 X 會刺激內分泌腺 Q 分泌激素 Y。
-Suppose endocrine gland P secretes hormone X, which stimulates endocrine gland Q to secrete hormone Y.
-
-當血中激素 Y 的濃度過高時，會抑制內分泌腺 Q 的分泌活動，以防止 Y 繼續增加。
-When the level of hormone Y becomes too high, it inhibits endocrine gland Q to prevent further secretion of Y.
-
-同時，Y 也會對上游腺體 P 產生負反饋抑制作用，減少激素 X 的分泌量。
-At the same time, Y exerts a negative feedback inhibitory effect on the upstream gland P, decreasing hormone X secretion.
-
-因此：
-Therefore:
-
-(1) 為激素 Y 對內分泌腺 P 的作用 → 抑制作用 (−)
-
-(1) Effect of hormone Y on gland P → Inhibitory (−)
-(2) 為激素 X 對內分泌腺 Q 的作用 → 刺激作用 (+)
-
-(2) Effect of hormone X on gland Q → Stimulatory (+)
-(3) 為激素 Y 對內分泌腺 Q 的作用 → 抑制作用 (−)
-
-(3) Effect of hormone Y on gland Q → Inhibitory (−)
-所以正確答案是 A。
-Hence, the correct answer is A.
-
-📌 考試提醒 (Exam Tips)
-
-負反饋機制：當激素水平過高時，會抑制上游腺體的分泌，使濃度回復正常。
-
-Negative feedback: when hormone levels are too high, they inhibit upstream glands to restore balance.
-
-例子：下視丘–腦垂體–甲狀腺軸 (Hypothalamus–Pituitary–Thyroid axis)。
-
-Example: Hypothalamus–Pituitary–Thyroid axis.
-
-刺激作用 (+)：促進下游腺體分泌更多激素。
-
-Stimulatory effect (+): promotes secretion from downstream glands.
-
-抑制作用 (−)：抑制上游腺體分泌，避免激素過量。
-
-Inhibitory effect (−): inhibits upstream secretion to prevent hormone excess.
-
-常見陷阱：學生會把所有箭頭都誤認為「刺激」，要記得負反饋一定有抑制箭頭。
-
-Common trap: students assume all arrows indicate stimulation; remember that feedback involves at least one inhibition.
-",
+📌 考試提醒
+負反饋機制透過抗衡原本的改變，協助保持體內環境恆定。
+Negative feedback mechanisms help maintain a constant internal environment by counteracting the original changes.
+常見錯誤：學生只考慮單一的因果路徑，忽略了負反饋系統中可能存在的不同作用組合。
+Common trap: Students only consider a single causal pathway and ignore the different possible combinations of effects within a negative feedback system.",
 pp26,"📌 參考答案
 ✅ A. 只有 (1) 和 (2)
 
@@ -1093,79 +907,43 @@ Vaseline is used to block transpiration from specific leaf surfaces for comparis
 ✳ 記得公式：吸水量 − 失水量 = 枝條內保留水量。
 ✳ Remember: Water absorbed − Water lost = Water retained in twig.",
 pp28,"📌 參考答案
-✅ A. 只有 (1)
-花柄的主要支持來自細胞的膨壓。
-The stiffness and upright position of the flower stalk are mainly maintained by the turgor pressure within its cells.
+A. 只有 (1)
+A. Only (1)
 
 📌 詳細解釋
-
-陽光強度和溫度會在一天內有所變化，影響植物的蒸騰速率。
-Light intensity and temperature change throughout the day, affecting the rate of transpiration in plants.
-
-當下午溫度和光強較高時，蒸騰作用增強，水分散失快於吸收。
-In the afternoon, when temperature and light intensity are higher, transpiration increases and water loss exceeds absorption.
-
-由於水分流失過多，植物細胞失去膨壓，導致花朵下垂。
-Due to excessive water loss, the cells lose turgor pressure, causing the flower to wilt and droop.
-
-因此，花柄挺立是因為細胞具有膨壓，而非因為木質成分增多。
-Hence, the upright flower stalk depends on turgid parenchyma cells rather than rigid lignified tissues.
-
-(2) 和 (3) 的敘述屬於推測，照片無法顯示吸水與蒸騰速率。
-Statements (2) and (3) cannot be inferred from the photos since water uptake and transpiration rates are not visually measurable.
+花柄等缺少厚木質部組織的植物部分，主要依賴細胞的硬脹度來提供物理性支持。
+Plant parts lacking thick xylem tissue, such as flower stalks, mainly rely on cellular turgidity for physical support.
+在下午 2 時植物出現凋萎，是由於細胞失去水分及硬脹度所致。
+The wilting of the plant at 2 p.m. is due to the cells losing water and turgidity.
+然而，單憑植物處於挺立或彎曲的狀態，無法推斷在該特定時間點其吸水速率與蒸騰速率的相對高低。
+However, based solely on whether the plant is erect or wilted, it is impossible to deduce the relative rates of water uptake and transpiration at that specific time.
+例如，植物在下午可能正處於吸水速率高於蒸騰速率的恢復階段，但外觀上仍然彎曲。
+For instance, the plant might be in a recovery phase in the afternoon where the water uptake rate exceeds the transpiration rate, yet it still appears wilted.
 
 📌 考試提醒
-
-「膨壓 (turgor pressure)」是支撐非木質化植物器官的關鍵。
-
-Turgor pressure is the main factor maintaining support in non-lignified plant parts.
-
-午後萎蔫多因蒸騰速率 > 吸水速率，但題中圖片無法直接證明。
-
-Afternoon wilting often occurs when transpiration rate > water uptake rate, but this cannot be directly concluded from the image.
-
-小心區分：「膨壓支撐」是物理性支持機制，非化學或結構性木質化支持。
-
-Be careful to distinguish: support by turgor is a physical mechanism, not a structural lignified support.
-
-✳ 記得：膨壓消失 → 細胞軟縮 → 植物下垂。
-✳ Remember: Loss of turgor → cells become flaccid → plant wilts.",
+非木質化組織的支持力來自細胞硬脹度，當細胞流失過多水分變軟縮時，植物便會凋萎。
+The support of non-lignified tissues comes from cellular turgidity; when cells lose too much water and become flaccid, the plant wilts.
+常見錯誤：學生常誤以為凋萎的「狀態」等同於淨失水的「過程」，忽略了狀態不能反映即時速率。
+Common trap: Students often mistake the ""state"" of wilting for the ""process"" of net water loss, ignoring that a state does not reflect instantaneous rates.",
 pp29,"📌 參考答案
-✅ B. 只有 (3)
+B. 只有 (3)
+B. Only (3)
 
 📌 詳細解釋
-
-X 是絨毛（villus）的上半部，是小腸內壁的指狀突起。
-X is the upper part of a villus, a finger-like projection on the inner wall of the small intestine.
-
-(1) 鞏膜由平滑肌構成，而非絨毛。絨毛不參與蠕動運動，因此不負責將食物沿腸道推動。
-(1) Peristalsis is carried out by smooth muscles, not villi. Villi do not take part in moving food along the intestine.
-
-(2) 小腸不分泌分解脂肪的酶（脂肪酶），該酶由胰腺分泌，腸液則含分解碳水化合物與蛋白質的酶。
-(2) The small intestine does not secrete lipase for fat digestion; lipase is secreted by the pancreas. Intestinal juice mainly contains enzymes for carbohydrate and protein digestion.
-
-(3) 絨毛表面覆蓋有柱狀上皮細胞，細胞頂端有微絨毛，極大增加吸收表面積。
-(3) The villus surface is covered by columnar epithelial cells with microvilli, which greatly increase the surface area for absorption.
-
-因此，X 的主要功能是吸收已消化的食物。
-Therefore, the main function of X is the absorption of digested food.
+構造 X 是小腸壁上的絨毛，具有極薄的上皮層，其主要功能是吸收已消化的食物。
+Structure X is a villus on the wall of the small intestine, which has a very thin epithelium and functions mainly to absorb digested food.
+食物沿腸道移動是由小腸壁的縱肌和環肌進行蠕動所推動，絨毛並不負責蠕動（陳述 1 錯誤）。
+The movement of food along the gut is driven by the peristalsis of longitudinal and circular muscles in the intestinal wall; villi are not responsible for peristalsis (Statement 1 is incorrect).
+此外，絨毛本身不會分泌消化酶，腸液是由絨毛下部的腸腺（腸隱窩）所分泌的（陳述 2 錯誤）。
+Furthermore, villi themselves do not secrete digestive enzymes; intestinal juice is secreted by intestinal glands (crypts) at the base of the villi (Statement 2 is incorrect).
+而且，用以消化脂肪的脂肪酶是由胰臟分泌，而非腸腺。
+Moreover, lipase for digesting lipids is secreted by the pancreas, not the intestinal glands.
 
 📌 考試提醒
-
-「蠕動 (peristalsis)」和「吸收 (absorption)」常被混淆，前者由平滑肌完成，後者在絨毛上進行。
-
-Peristalsis and absorption are often confused — the former involves smooth muscles, while the latter occurs in villi.
-
-絨毛 不產生 脂肪酶 (lipase)，但可吸收脂肪酸與甘油等消化產物。
-
-Villi do not produce lipase, but absorb digestion products such as fatty acids and glycerol.
-
-微絨毛 (microvilli) 進一步增加吸收效率，是 DSE 常考細節。
-
-Microvilli further increase absorption efficiency, a frequent DSE exam detail.
-
-✳ 記得：絨毛＝吸收功能，不負責運動或分泌脂肪酶。
-✳ Remember: Villus = absorption, not movement or lipase secretion.",
+絨毛的功能是透過擴散作用和主動轉運吸收營養，並增加表面面積，本身並不負責分泌消化液或推動食物。
+The function of villi is to absorb nutrients through diffusion and active transport and to increase the surface area; they do not secrete digestive juices or move food.
+常見錯誤：學生常把小腸的功能（如蠕動和分泌）全歸功於絨毛，而忽略了腸壁肌肉和腸腺的作用。
+Common trap: Students often attribute all functions of the small intestine (like peristalsis and secretion) to villi, ignoring the roles of the intestinal wall muscles and glands.",
 pp30,"📌 參考答案
 ✅ B. 在 t₁ 時段，肋間肌收縮。
 ✅ B. During t₁, the intercostal muscles contract.
@@ -1204,80 +982,45 @@ Remember: External intercostal muscles aid in inspiration; internal intercostal 
 ✳ 提示：壓力低 → 吸氣；壓力高 → 呼氣。
 ✳ Tip: Low pressure → inhalation; High pressure → exhalation.",
 pp31,"📌 參考答案
-答案：B
+B. 構造 Q 接收來自肺靜脈的血。
+B. Structure Q receives blood from the pulmonary vein.
 
 📌 詳細解釋
-圖中右邊的心壁比左邊厚，代表右圖是左心室部分。
-The wall on the right side of the picture is thicker than that on the left, indicating that the right side of the photo shows the left ventricle region.
-
-由此可知，Q 為左心房，負責接收來自肺靜脈的血液。
-Therefore, Q represents the left atrium, which receives blood from the pulmonary veins.
-
-P 為右心室，它將血液泵往肺部，不負責把血液送往身體其他部分。
-P is the right ventricle, which pumps blood to the lungs, not to the rest of the body.
-
-R 為心臟瓣膜，其功能是防止血液倒流，而非控制瓣膜開閉的肌肉或神經結構。
-R is a heart valve that prevents backflow of blood; it is not a muscular or nervous structure that actively controls valve opening and closing.
-
-S 為左心室，其收縮可將血液經由主動脈輸送至全身各部位。
-S is the left ventricle, which pumps blood through the aorta to all parts of the body when it contracts.
-
-因此正確答案為 B，Q 能接收從肺靜脈回流的血液。
-Thus, the correct answer is B, as Q receives blood returning from the pulmonary veins.
+根據照片，左邊的心室壁比右邊的厚，因此左邊為左心室，右邊（P）為右心室。
+Based on the photograph, the ventricle wall on the left is thicker than that on the right, so the left side is the left ventricle and the right side (P) is the right ventricle.
+構造 Q 是左心房，負責接收來自肺靜脈的帶氧血。
+Structure Q is the left atrium, which is responsible for receiving oxygenated blood from the pulmonary vein.
+構造 P（右心室）收縮時會把血液泵往肺部，而非身體其他部位（選項 A 錯誤）。
+When structure P (right ventricle) contracts, it pumps blood to the lungs, not to other parts of the body (Option A is incorrect).
+構造 R 是心腱索，作用是防止心室收縮時瓣膜外翻入心房，而瓣膜的開合是由血壓改變被動控制的（選項 C 錯誤）。
+Structure R refers to the chordae tendineae, which prevent the valves from everting into the atrium during ventricular contraction; the opening and closing of valves are passively controlled by blood pressure changes (Option C is incorrect).
+構造 S（左心室）收縮時，是將血液經大動脈（主動脈）而非肺動脈泵出（選項 D 錯誤）。
+When structure S (left ventricle) contracts, it pumps blood out through the aorta, not the pulmonary artery (Option D is incorrect).
 
 📌 考試提醒
-觀察心臟橫切圖時，可用心室壁厚度來區分左右心。
-When observing a heart cross-section, use the thickness of the ventricle wall to distinguish the left and right sides.
-
-左心室壁較厚，因為它必須把血液輸送到全身。
-The left ventricle wall is thicker because it must pump blood to the entire body.
-
-右心室壁較薄，因為它只需將血液送往肺部。
-The right ventricle wall is thinner since it only pumps blood to the lungs.
-
-心房（atrium）負責接受血液，心室（ventricle）負責泵出血液。
-The atria receive blood, while the ventricles pump it out.
-
-瓣膜（valve）的主要功能是防止血液倒流，而非主動收縮或打開。
-The main function of valves is to prevent backflow of blood, not to actively contract or open.
-",
+心臟的左右兩側可透過心室肌肉壁的厚度來區分，左心室壁明顯較厚。
+The left and right sides of the heart can be distinguished by the thickness of the ventricular muscular walls, with the left ventricle wall being significantly thicker.
+常見錯誤：學生常誤以為心腱索（R）能主動控制瓣膜的開合，實際上瓣膜開合無需肌肉和神經控制。
+Common trap: Students often mistakenly think that chordae tendineae (R) actively control the opening and closing of valves; in fact, valve action requires no muscular or nervous control.",
 pp32,"📌 參考答案
-答案：A（只有 (1) 和 (2)）。
+A. 只有 (1) 和 (2)
+A. Only (1) and (2)
 
 📌 詳細解釋
-X 是臍動脈，肌肉層較厚，管腔較小。
-X is the umbilical artery, which has a thicker muscular wall and a smaller lumen.
-
-Y 是臍靜脈，肌肉層較薄，管腔較大。
-Y is the umbilical vein, which has a thinner muscular wall and a larger lumen.
-
-(1) 正確——動脈的血壓永遠高於靜脈，因此血管 Y（靜脈）的血壓比 X（動脈）低。
-(1) Correct — The pressure in arteries is always higher than in veins, so the pressure in vessel Y (vein) is lower than in X (artery).
-
-(2) 正確——靜脈內通常具有瓣膜，而動脈內沒有瓣膜。
-(2) Correct — Veins usually contain valves, while arteries do not.
-
-(3) 錯誤——臍靜脈將富含氧的血液從胎盤運入胎兒體內，因此其含氧量應高於臍動脈。
-(3) Incorrect — The umbilical vein carries oxygen-rich blood from the placenta to the fetus, so its oxygen content is higher than that in the umbilical artery.
-
-因此，只有 (1) 和 (2) 的描述正確。
-Therefore, only statements (1) and (2) are correct.
+血管 X 管壁較厚且管腔較小，為臍動脈；血管 Y 管壁較薄且管腔較大，為臍靜脈。
+Vessel X has a thicker wall and a smaller lumen, which is the umbilical artery; vessel Y has a thinner wall and a larger lumen, which is the umbilical vein.
+比較連接相同構造的動脈和靜脈，動脈的血壓永遠高於靜脈，因此血管 Y（靜脈）內的血壓較低（陳述 1 正確）。
+When comparing an artery and a vein connected to the same structure, the blood pressure in the artery is always higher, so the pressure in vessel Y (vein) is lower (Statement 1 is correct).
+臍靜脈（血管 Y）內具有瓣膜以防止血液倒流，而臍動脈則沒有（陳述 2 正確）。
+The umbilical vein (vessel Y) has valves to prevent the backflow of blood, whereas the umbilical artery does not (Statement 2 is correct).
+臍靜脈負責將帶氧血及營養素由胎盤運送給胎兒，因此其血液含氧量比臍動脈高（陳述 3 錯誤）。
+The umbilical vein carries oxygenated blood and nutrients from the placenta to the fetus, so its oxygen content is higher than that of the umbilical artery (Statement 3 is incorrect).
 
 📌 考試提醒
-臍帶中通常含有兩條動脈與一條靜脈。
-The umbilical cord usually contains two arteries and one vein.
-
-臍動脈將血液由胎兒送回胎盤，含氧量低。
-The umbilical arteries carry deoxygenated blood from the fetus back to the placenta.
-
-臍靜脈將血液由胎盤送入胎兒，含氧量高。
-The umbilical vein carries oxygenated blood from the placenta to the fetus.
-
-比較動靜脈時要注意：動脈壁厚、腔狹小、血壓高；靜脈壁薄、腔寬大、血壓低。
-When comparing arteries and veins: arteries have thicker walls, smaller lumens, and higher pressure; veins have thinner walls, larger lumens, and lower pressure.
-
-靜脈內有瓣膜以防血液倒流，但動脈內沒有。
-Valves are present in veins to prevent backflow, but absent in arteries.",
+臍帶血管的功能與身體一般血管的帶氧情況相反，臍靜脈帶氧血，臍動脈攜帶缺氧血。
+The oxygenation status of umbilical blood vessels is the opposite of general body vessels; the umbilical vein carries oxygenated blood, while the umbilical arteries carry deoxygenated blood.
+常見錯誤：學生容易混淆動脈與靜脈的管壁結構特徵，或忘記臍靜脈的血壓始終低於臍動脈。
+Common trap: Students easily confuse the wall structural features of arteries and veins, or forget that the blood pressure in the umbilical vein is always lower than in the umbilical artery.",
 pp33,"📌 參考答案
 答案：D（只有 1、3 和 4）。
 
@@ -1316,51 +1059,26 @@ Xylem cells are usually dead and cannot perform respiration.
 解題時可記住：「光合作用只在綠色、有葉綠體的細胞中進行；呼吸作用則在所有活細胞中進行。」
 Remember: “Photosynthesis occurs only in green, chlorophyll-containing cells; respiration occurs in all living cells.”",
 pp34,"📌 參考答案
-答案：C（只有 R 和 S）。
+C. 只有 R 和 S
+C. Only R and S
 
 📌 詳細解釋
-根據表中結果，蛋白試紙呈陽性，表示食物含有蛋白質。
-According to the table, the protein test (biuret paper) is positive, indicating the food contains protein.
-
-油漬試驗呈陽性，顯示該食物也含有脂肪。
-The grease spot test is positive, showing that the food also contains fat.
-
-本立德試驗與碘液試驗皆為陰性，代表沒有還原糖與澱粉。
-Both Benedict’s test and iodine test are negative, meaning the food does not contain reducing sugar or starch.
-
-因此，這種食物是一種含蛋白質與脂肪，但不含碳水化合物的樣本。
-Therefore, the food is a sample containing protein and fat, but no carbohydrates.
-
-P 為口腔，其中的唾液澱粉酶只消化澱粉，所以此食物在此處不會被化學消化。
-P represents the mouth, where salivary amylase digests starch only, so no chemical digestion occurs here for this food.
-
-Q 為胃部上方的食道，沒有分泌消化液，因此亦不會發生化學消化。
-Q is the oesophagus, which does not secrete digestive enzymes, so no digestion happens there either.
-
-S 為胃，胃液中含有胃蛋白酶，可將蛋白質分解為較小的多肽。
-S denotes the stomach, where gastric juice containing pepsin digests protein into smaller peptides.
-
-R 為小腸（特別是十二指腸），胰液及膽汁可進一步分解蛋白質與脂肪。
-R is the small intestine (particularly the duodenum), where pancreatic juice and bile further break down proteins and fats.
-
-因此，蛋白質與脂肪的主要化學消化發生於 R（小腸）與 S（胃）。
-Therefore, chemical digestion of this food occurs in R (small intestine) and S (stomach).
+食物測試結果顯示蛋白試紙與油漬試驗呈陽性，而本立德及碘液試驗呈陰性，代表該食物含有蛋白質和脂肪，但不含還原糖和澱粉。
+The food test results show positive for Albustix and the grease spot test, but negative for Benedict's and iodine tests, indicating the food contains protein and fat, but no reducing sugar or starch.
+構造 P（口腔）分泌唾液澱粉酶，但由於食物不含澱粉，故不會在此進行化學消化。
+Structure P (mouth) secretes salivary amylase, but since the food does not contain starch, no chemical digestion occurs here.
+構造 Q 是膽囊，負責短暫儲存膽汁，沒有任何消化作用在那裡發生。
+Structure Q is the gall bladder, which temporarily stores bile; no digestion takes place there.
+構造 S 是胃部，能分泌蛋白酶將蛋白質初步分解成肽，因此會發生化學消化。
+Structure S is the stomach, which secretes protease to break down proteins into peptides initially, so chemical digestion occurs here.
+構造 R 是十二指腸（小腸），脂肪會在此被膽汁乳化並由脂肪酶消化，肽也會被進一步消化。
+Structure R is the duodenum (small intestine), where fats are emulsified by bile and digested by lipase, and peptides are further digested.
 
 📌 考試提醒
-蛋白質的化學消化從胃開始，由胃蛋白酶分解。
-The chemical digestion of proteins begins in the stomach, catalysed by pepsin.
-
-脂肪在小腸由膽汁乳化，再由脂肪酶分解。
-Fats are emulsified by bile and digested by lipase in the small intestine.
-
-澱粉的消化只在口腔和小腸進行，若食物不含澱粉，則唾液不會起作用。
-Starch digestion occurs only in the mouth and small intestine; if the food has no starch, salivary amylase is inactive.
-
-食道不分泌任何酶，因此不發生化學消化。
-The oesophagus secretes no enzymes, so no chemical digestion occurs there.
-
-考試時要根據食物成分判斷消化地點，而不是單看器官位置。
-In exams, always relate the type of food to its site of digestion, not just its anatomical position.",
+化學消化的發生地點取決於食物成分及該處分泌的特定酶。
+The site of chemical digestion depends on the food components and the specific enzymes secreted there.
+常見錯誤：學生常因不熟悉消化系統解剖圖，錯誤將膽囊（Q）認作食道或其他器官，或誤以為膽囊內會發生消化。
+Common trap: Students often misidentify the gall bladder (Q) as the oesophagus or other organs due to unfamiliarity with the digestive system diagram, or mistakenly think digestion occurs inside the gall bladder.",
 pp35,"📌 參考答案
 答案：D（(1)、(2) 和 (3)）。
 
@@ -1455,72 +1173,46 @@ Controlling variables such as gender, age, body weight, or diet increases result
 測試應選擇健康受試者，以排除其他疾病或外在因素的干擾。
 Experiments should use healthy subjects to eliminate interference from other diseases or external factors.
 ",
-sp01,"📌 參考答案 (Answer)
-答案是 C. 細胞類型 3。
-The answer is C. Cell type 3.
+sp01,"📌 參考答案
+C. 細胞類型3
+C. Cell type 3
 
-📌 詳細解釋 (Detailed Explanation)
-圖 P 顯示的是粒線體 (mitochondrion)，結構 P 負責能量生產。
-Image P shows a mitochondrion, with structure P responsible for energy production.
+📌 詳細解釋
+肺泡的上皮細胞主要透過擴散作用進行氣體交換，過程屬於不消耗大量能量的被動運輸。
+Alveolar epithelial cells primarily perform gas exchange via diffusion, which is a passive transport process that does not consume a large amount of energy.
+因此，它們不需要擁有大量提供能量的構造P（線粒體）。
+Therefore, they do not need to possess a large number of structure P (mitochondria) for energy provision.
+此外，肺泡的上皮細胞並不活躍於分泌蛋白質。
+In addition, alveolar epithelial cells are not actively involved in protein secretion.
+所以它們亦不需要大量負責合成蛋白質的構造Q（粗糙內質網）。
+Thus, they also do not require a large amount of structure Q (rough endoplasmic reticulum) which is responsible for protein synthesis.
+細胞類型1和2擁有大量構造P和Q，與上皮細胞的功能不符；細胞類型4缺乏線粒體，無法維持基本代謝，因此不正確。
+Cell types 1 and 2 possess abundant structures P and Q, which is inconsistent with the epithelial cell's function; cell type 4 lacks mitochondria and cannot maintain basic metabolism, hence incorrect.
 
-圖 Q 顯示的是粗糙內質網 (rough endoplasmic reticulum, RER)，結構 Q 主要合成蛋白質。
-Image Q shows the rough endoplasmic reticulum (RER), with structure Q mainly for protein synthesis.
+📌 考試提醒
+線粒體負責進行需氧呼吸以產生ATP，而粗糙內質網負責合成蛋白質。
+Mitochondria are responsible for aerobic respiration to produce ATP, while the rough endoplasmic reticulum is responsible for protein synthesis.
+常見錯誤：學生常誤以為所有進行氣體交換的細胞都必須極度活躍並需要大量能量。
+Common trap: Students often mistakenly assume that all cells performing gas exchange must be highly active and require abundant energy.",
+sp02,"📌 參考答案
+B. 只有(1)和(2)
+B. Only (1) and (2)
 
-肺泡的上皮細胞主要進行氣體交換，而氣體交換只依靠擴散，並不需要大量能量。
-Alveolar epithelial cells primarily perform gas exchange, which relies only on diffusion and does not require much energy.
+📌 詳細解釋
+構造P是線粒體，是細胞進行需氧呼吸的主要場所。
+Structure P is the mitochondrion, which is the main site for aerobic respiration in a cell.
+在需氧呼吸的克雷伯氏循環及電子傳遞鏈中，線粒體會釋出大量ATP。
+During the Krebs cycle and the electron transport chain of aerobic respiration, the mitochondrion releases a large amount of ATP.
+這些代謝過程均需要由酶來催化，而大量的酶會附著在線粒體的內膜上。
+These metabolic processes require catalysis by enzymes, and a large number of enzymes are attached to the inner membrane of the mitochondrion.
+糖原是以顆粒形式貯存於細胞質中，並不存在於線粒體內，故選項(3)錯誤。
+Glycogen is stored as granules in the cytoplasm and does not exist in the mitochondrion, so option (3) is incorrect.
 
-因此，它們不需要大量粒線體 P。
-Therefore, they do not need many mitochondria (P).
-
-同時，肺泡上皮細胞也不負責蛋白質的分泌作用，所以不需要大量的粗面內質網 Q。
-At the same time, alveolar epithelial cells do not perform extensive protein secretion, so they do not require abundant RER (Q).
-
-所以，最接近的細胞類型是「3」，只有少量 P，也幾乎沒有 Q。
-Thus, the closest match is “cell type 3,” which has a small amount of P and almost no Q.
-
-📌 考試提醒 (Exam Tips)
-同學要先認出顯微照片的結構，例如 P 是粒線體，Q 是粗面內質網。
-Students should first be able to identify the structures in micrographs, such as P being mitochondria and Q being rough ER.
-
-再根據細胞的功能來推斷需要多少能量和蛋白質合成。
-Then, deduce the abundance of each organelle based on the cell’s function in energy demand and protein synthesis.
-
-要記住：高能量需要 ⇒ 多粒線體；高分泌功能 ⇒ 多粗面內質網。
-Remember: high energy demand ⇒ many mitochondria; high secretion activity ⇒ abundant rough ER.
-
-在 DSE 考試中，這類題目常考的是「細胞功能與細胞結構的配合」。
-In DSE exams, these questions often test the relationship between cell function and the presence of organelles.",
-sp02,"📌 參考答案 (Answer)
-答案是 B. 只有 (1) 和 (2)。
-The answer is B. Only (1) and (2).
-
-📌 詳細解釋 (Detailed Explanation)
-題目中的結構 P 是粒線體 (mitochondrion)。
-The structure P in the question is a mitochondrion.
-
-(1) 在粒線體內會進行缺氧呼吸的克雷伯氏循環和電子傳遞鏈，這些過程會產生 ATP。
-(1) In mitochondria, the Krebs cycle and electron transport chain occur, and these processes release ATP.
-
-(2) 這些反應需要大量酶，而酶分子主要附著在粒線體內膜的摺疊 (嵴) 上。
-(2) These reactions require many enzymes, which are mainly attached to the folds (cristae) of the inner mitochondrial membrane.
-
-(3) 糖原則以顆粒的形式儲存在細胞質內，而不是在粒線體內，因此結構 P 並不含糖原。
-(3) Glycogen is stored as granules in the cytoplasm, not inside the mitochondria, so structure P does not contain glycogen.
-
-所以，正確答案是 (1) ATP 和 (2) 酶。
-Therefore, the correct findings in P are (1) ATP and (2) enzymes.
-
-📌 考試提醒 (Exam Tips)
-同學要清楚記得不同物質的「儲存位置」。
-Students must clearly remember the storage locations of different substances.
-
-ATP 與酶在粒線體內有，而糖原只存在於細胞質中。
-ATP and enzymes are found inside mitochondria, while glycogen is only in the cytoplasm.
-
-遇到這類題目時，先判斷結構是什麼，再聯繫該結構的主要功能。
-For these questions, first identify the structure, then connect it with its main functions.
-
-",
+📌 考試提醒
+需氧呼吸的克雷伯氏循環和電子傳遞鏈均在線粒體內進行。
+The Krebs cycle and the electron transport chain of aerobic respiration both take place in the mitochondrion.
+常見錯誤：學生常把糖原的貯存位置與其他細胞器混淆，或誤以為缺氧呼吸涉及克雷伯氏循環。
+Common trap: Students often confuse the storage location of glycogen with other organelles, or mistakenly believe that anaerobic respiration involves the Krebs cycle.",
 sp03,"📌 參考答案 (Answer)
 答案是 A. P。
 
@@ -1616,100 +1308,69 @@ Chromosomes are not just DNA but also contain protein components, which is a com
 When tackling such questions, first check whether the structure or molecule contains or consists of proteins, then answer accordingly.
 
 ",
-sp06,"📌 參考答案 (Answer)
-答案是 A. ATP 的形成。
-The answer is A. Formation of ATP.
+sp06,"📌 參考答案
+A. ATP的形成
+A. Formation of ATP
 
-📌 詳細解釋 (Detailed Explanation)
-題目說明某種除草劑會阻礙光磷酸化作用中的電子沿電子傳遞鏈流動。
-The question states that the herbicide blocks electron flow along the electron transport chain during photophosphorylation.
+📌 詳細解釋
+即使除草劑阻礙了光磷酸化作用中的電子傳遞鏈，植物細胞仍能透過需氧呼吸產生ATP。
+Even if the herbicide blocks the electron transport chain in photophosphorylation, plant cells can still produce ATP through aerobic respiration.
+需氧呼吸的氧化磷酸化作用在線粒體內進行，這過程並不受該除草劑影響。
+The oxidative phosphorylation of aerobic respiration takes place in the mitochondrion, and this process is not affected by the herbicide.
+水的光解作用是光合作用電子傳遞鏈的起點，若電子停止流動，此過程便會中止（選項B錯誤）。
+The photolysis of water is the starting point of the photosynthetic electron transport chain, and this process stops if electron flow halts (Option B is incorrect).
+NADPH 的形成需要依賴電子傳遞鏈中電子的轉移，因此也會被阻礙（選項C錯誤）。
+The formation of NADPH relies on the transfer of electrons in the electron transport chain, so it will also be blocked (Option C is incorrect).
+葉綠素的光激活雖然發生在最初階段，但若電子無法繼續流動，整個系統將受抑制（選項D錯誤）。
+Although the photoactivation of chlorophyll occurs at the initial stage, the entire system is inhibited if electrons cannot continue to flow (Option D is incorrect).
 
-若電子無法通過光合作用的電子傳遞鏈，則光解作用（分解水）、NADPH 的生成和葉綠素激發作用都會受到影響。
-If electrons cannot pass through the photosynthetic electron transport chain, photolysis of water, formation of NADPH, and excitation of chlorophyll are all disrupted.
+📌 考試提醒
+植物細胞同時具備葉綠體和線粒體，能透過不同途徑合成ATP。
+Plant cells possess both chloroplasts and mitochondria, enabling them to synthesize ATP through different pathways.
+常見錯誤：學生常誤以為植物只靠光合作用產生能量，忽略了植物也會無時無刻進行呼吸作用。
+Common trap: Students often mistakenly assume that plants rely solely on photosynthesis for energy production, ignoring the fact that plants also respire continuously.",
+sp07,"📌 參考答案
+B. 糖酵解作用變慢。
+B. Glycolysis slows down.
 
-然而，ATP 並不是只靠光合作用的電子傳遞鏈產生，它也能經由需氧呼吸的氧化磷酸化作用（粒線體的電子傳遞鏈）產生。
-However, ATP is not produced only through the photosynthetic electron transport chain – it can still be generated via oxidative phosphorylation in respiration (electron transport chain in mitochondria).
+📌 詳細解釋
+在缺氧呼吸中，乳酸去氫酶催化丙酮酸鹽轉化為乳酸，此過程負責把 NADH 重新氧化為 NAD。
+In anaerobic respiration, lactate dehydrogenase catalyzes the conversion of pyruvate to lactate, a process responsible for re-oxidizing NADH to NAD.
+如果這酶被抑制，NAD 的再生速率便會減慢，導致缺乏 NAD 來維持糖酵解作用。
+If this enzyme is inhibited, the regeneration rate of NAD will slow down, leading to a lack of NAD to sustain glycolysis.
+由於糖酵解作用變慢，細胞的 ATP 產量將會隨之減少，而非增加（選項C錯誤）。
+As glycolysis slows down, the ATP production of the cell will subsequently decrease rather than increase (Option C is incorrect).
+同時，乳酸產量減少會令細胞的酸性減弱，導致 pH 值上升而非下降（選項A錯誤）。
+Meanwhile, the reduced lactate production makes the cell less acidic, causing the pH value to rise instead of drop (Option A is incorrect).
+在缺氧情況下，克雷伯氏循環已經停止，因此其速率不會上升（選項D錯誤）。
+Under anaerobic conditions, the Krebs cycle has already stopped, so its rate will not increase (Option D is incorrect).
 
-因此，即使除草劑抑制了光合作用的電子流動，植物仍然能透過呼吸作用產生 ATP。
-Therefore, even if herbicide blocks photosynthetic electron transport, ATP can still be formed through respiration.
+📌 考試提醒
+缺氧呼吸的最終步驟對於再生 NAD 以維持糖酵解作用至關重要。
+The final step of anaerobic respiration is crucial for regenerating NAD to maintain glycolysis.
+常見錯誤：學生常誤以為缺氧呼吸的主要目的是產生乳酸，而忽略了再生 NAD 的重要性。
+Common trap: Students often mistakenly think the main purpose of anaerobic respiration is to produce lactate, neglecting the importance of regenerating NAD.",
+sp08,"📌 參考答案
+C. 只有(2)和(3)
+C. Only (2) and (3)
 
-📌 考試提醒 (Exam Tips)
-光合作用與呼吸作用的電子傳遞鏈是分開的，但兩者都可驅動 ATP 的合成。
-The electron transport chains in photosynthesis and respiration are separate, but both drive ATP synthesis.
+📌 詳細解釋
+當光強度為1個單位時，二氧化碳的淨釋出量大於零，代表光合作用速率低於呼吸作用速率。
+When the light intensity is 1 unit, the net release of carbon dioxide is greater than zero, meaning the photosynthetic rate is lower than the respiration rate.
+這並不表示植物只進行呼吸作用而沒有進行光合作用，因此推論(1)是錯誤的。
+This does not mean the plant only performs respiration without photosynthesis, so inference (1) is incorrect.
+當光強度為2個單位時，淨氣體交換為零，這表示光合作用速率與呼吸作用速率完全相等。
+When the light intensity is 2 units, the net gas exchange is zero, indicating that the photosynthetic rate perfectly equals the respiration rate.
+由於沒有二氧化碳的淨吸收或淨釋出，即沒有淨光合作用發生，故推論(2)正確。
+Since there is no net uptake or release of carbon dioxide, meaning no net photosynthesis occurs, inference (2) is correct.
+當光強度為7個單位時，植物有正數的二氧化碳淨吸收，意味著光合作用速率高於呼吸作用速率，故推論(3)正確。
+When the light intensity is 7 units, the plant has a positive net uptake of carbon dioxide, which implies the photosynthetic rate is higher than the respiration rate, so inference (3) is correct.
 
-要小心不要以為「ATP 全部來自光合作用」，其實細胞內呼吸作用也能提供 ATP。
-Be careful not to assume “all ATP comes from photosynthesis” – in fact, cellular respiration also provides ATP.
-
-在 DSE，這類題目常考「多個代謝途徑能否補償某作用被抑制」，要聯繫光合作用與呼吸作用的區別。
-In DSE, such questions often test whether “other metabolic pathways can compensate when one is inhibited,” so link photosynthesis and respiration clearly.",
-sp07,"📌 參考答案 (Answer)
-答案是 B. 糖酵解作用變慢。
-The answer is B. Glycolysis slows down.
-
-📌 詳細解釋 (Detailed Explanation)
-乳酸去氫酶的作用是把丙酮酸鹽還原為乳酸，並同時將 NADH 氧化為 NAD⁺。
-Lactate dehydrogenase reduces pyruvate to lactate and simultaneously oxidizes NADH to NAD⁺.
-
-NAD⁺ 的再生對於糖酵解非常重要，因為糖酵解中的一些反應需要 NAD⁺ 作為電子受體。
-The regeneration of NAD⁺ is crucial for glycolysis, since some reactions in glycolysis require NAD⁺ as an electron acceptor.
-
-如果乳酸去氫酶被抑制，NAD⁺ 的再生速度減慢，細胞內 NAD⁺ 水平下降。
-If lactate dehydrogenase is inhibited, the regeneration of NAD⁺ slows down, leading to a drop in cellular NAD⁺ levels.
-
-由於缺少 NAD⁺，糖酵解反應變得更慢，導致 ATP 的產生量減少。
-As NAD⁺ becomes limited, glycolysis slows down, reducing ATP production.
-
-因此，正確答案是「糖酵解作用變慢」。
-Therefore, the correct answer is “glycolysis slows down.”
-
-📌 考試提醒 (Exam Tips)
-要留意：這題的關鍵是 NAD⁺ 的再生，因為它直接影響糖酵解能否持續。
-Take note: the key idea here is the regeneration of NAD⁺, as it directly determines whether glycolysis can continue.
-
-在缺氧環境下，乳酸發酵的主要目的不是產生乳酸，而是保持 NAD⁺ 供應。
-In anaerobic conditions, the primary purpose of lactate fermentation is not lactate production, but maintaining NAD⁺ supply.
-
-考試時，遇到與發酵相關的題目，要先思考「NAD⁺ 再生是否受到影響」。
-In exams, when dealing with questions about fermentation, always consider whether the regeneration of NAD⁺ is affected.",
-sp08,"📌 參考答案 (Answer)
-答案是 C. 只有 (2) 和 (3)。
-
-📌 詳細解釋 (Detailed Explanation)
-(1) 選項錯誤：在綠色植物淨吸收二氧化碳為零時，表示光合作用速率 = 呼吸作用速率。
-(1) Statement is incorrect: when net CO₂ uptake is zero, photosynthesis = respiration.
-
-葉綠體並沒有「沒有吸收作用」，只是兩個作用的速率相等，淨效應為零。
-It does not mean no photosynthesis, but that the two processes are equal, so the net effect is zero.
-
-(2) 選項正確：當光強度為 2 單位時，淨吸收量為零，表示光合作用與呼吸作用相等。
-(2) Statement is correct: at light intensity 2 units, net CO₂ uptake is zero, meaning photosynthesis equals respiration.
-
-因此在該光強度下，不存在淨吸收作用。
-Therefore, at this light intensity, there is no net uptake.
-
-(3) 選項正確：當光強度從 2 增加到 7 時，淨吸收量持續增加。
-(3) Statement is correct: as light intensity increases from 2 to 7, net CO₂ uptake continues to rise.
-
-這代表光合作用速率隨光強度升高而加快，高於呼吸作用速率。
-This shows photosynthesis gets faster with higher light intensity, exceeding respiration.
-
-因此，正確的是 (2) 和 (3)。
-Therefore, the correct answer is (2) and (3).
-
-📌 考試提醒 (Exam Tips)
-要理解淨氣體交換的計算：
-Be clear about net gas exchange calculations:
-
-淨吸收量 = 光合作用吸收量 – 呼吸作用釋放量。
-Net uptake = Photosynthesis – Respiration.
-
-當淨吸收為零時，不是沒有光合作用，而是兩者速率相等。
-When net uptake is zero, it does not mean no photosynthesis, but that both rates are equal.
-
-在圖表題中，要特別注意「光補償點」(compensation point) 的概念。
-In graph questions, always look out for the concept of the compensation point.
-
-",
+📌 考試提醒
+「淨氣體交換量」取決於光合作用與呼吸作用的相對速率差異。
+The ""net gas exchange"" depends on the relative rate difference between photosynthesis and respiration.
+常見錯誤：學生常誤以為當植物淨釋出二氧化碳時，光合作用已經完全停止。
+Common trap: Students often mistakenly believe that photosynthesis has completely stopped when a plant exhibits a net release of carbon dioxide.",
 sp09,"📌 參考答案 (Answer)
 答案是 C. 25°C，0.01% CO₂。
 
@@ -1792,44 +1453,25 @@ Do not be misled by distractor options, such as “high-fat diets contain more e
 
 考試時務必緊扣數據支持的結論：糖原多 → 運動耐力強。
 In exams, always tie your conclusion to the data: more glycogen → greater exercise endurance.",
-sp12,"📌參考答案 (Suggested Answer)
-答案：D
-Answer: D
+sp12,"📌 參考答案
+D. 胰液和腸液
+D. Pancreatic juice and intestinal juice
 
-📌詳細解釋 (Detailed Explanation)
-膽汁呈鹼性，但不含消化酶，因此不能算作「含鹼性消化酶」。
-Bile is alkaline but does not contain digestive enzymes, so it cannot be considered as containing “alkaline digestive enzymes.”
+📌 詳細解釋
+胰液和腸液均屬於鹼性，兩者都含有多種消化酶（如澱粉酶及蛋白酶）以分解食物。
+Both pancreatic juice and intestinal juice are alkaline, and they both contain various digestive enzymes (such as amylase and protease) to break down food.
+膽汁雖然屬鹼性，但它僅能乳化脂質，完全不含有任何消化酶（選項A和C錯誤）。
+Although bile is alkaline, it can only emulsify lipids and contains absolutely no digestive enzymes (Options A and C are incorrect).
+唾液雖含有澱粉酶且屬弱鹼性，但胃液含有氫氯酸，屬於強酸性，因此選項B錯誤。
+While saliva contains amylase and is weakly alkaline, gastric juice contains hydrochloric acid and is strongly acidic, so Option B is incorrect.
+因此，只有胰液和腸液同時符合鹼性及含有消化酶的條件。
+Therefore, only pancreatic juice and intestinal juice simultaneously meet the conditions of being alkaline and containing digestive enzymes.
 
-胃液含有鹽酸，呈強酸性，內含胃蛋白酶，並非鹼性分泌物。
-Gastric juice contains hydrochloric acid, which is strongly acidic, and contains pepsin, so it is not an alkaline secretion.
-
-唾液呈弱鹼性，內含澱粉酶（唾液澱粉酶），可消化澱粉。
-Saliva is weakly alkaline and contains amylase (salivary amylase), which digests starch.
-
-腸液和胰液皆屬鹼性，並含有多種消化酶（如蛋白酶、脂肪酶、澱粉酶），同時腸液含碳酸氫鈉，中和胃酸。
-Intestinal juice and pancreatic juice are alkaline, both containing multiple digestive enzymes (e.g., proteases, lipases, amylases), and intestinal juice also contains sodium bicarbonate to neutralize stomach acid.
-
-因此，答案為 D. 腸液和腸液。
-Therefore, the answer is D. Pancreatic juice and intestinal juice.
-
-📌考試提醒 (Exam Tips)
-常見混淆點：膽汁雖然呈鹼性，但它 沒有消化酶，作用主要是乳化脂肪。
-A common confusion: bile is alkaline, but it has no digestive enzymes; its main function is to emulsify fats.
-
-胃液必須排除，因為它是強酸性，常跟「鹼性消化液」的提問相衝突。
-Gastric juice must be excluded because it is strongly acidic, often the opposite of what “alkaline digestive juice” questions are asking.
-
-考試時要牢記：
-
-唾液 → 弱鹼性 + 澱粉酶
-腸液/胰液 → 鹼性 + 多種酶
-膽汁 → 鹼性但無酶
-胃液 → 強酸性 + 蛋白酶
-In exams, remember:
-Saliva → weakly alkaline + amylase
-Intestinal juice/pancreatic juice → alkaline + multiple enzymes
-Bile → alkaline but no enzymes
-Gastric juice → strongly acidic + protease",
+📌 考試提醒
+消化液的酸鹼度及其所含成分是評估其功能的關鍵。
+The pH value and composition of digestive juices are key to evaluating their functions.
+常見錯誤：學生常誤以為膽汁含有能分解脂肪的消化酶。
+Common trap: Students often mistakenly think that bile contains digestive enzymes that can break down fats.",
 sp13,"📌參考答案 (Suggested Answer)
 答案：A
 
@@ -2026,47 +1668,29 @@ Any toxins that must be metabolized by the liver (e.g., alcohol, drugs) signific
 
 閱讀題目時，注意「與肝臟直接相關」的選項，而非僅僅與健康有關。
 When reading the question, focus on options directly related to the liver, not just general health.",
-sp19,"📌 參考答案 (Suggested Answer Opening)
-答案：C. 只有 (2) 和 (3)
+sp19,"📌 參考答案
+C. 只有(1)和(2)
+C. Only (1) and (2)
 
-📖 詳細解釋 (Detailed Explanation)
-(1) P 和 Q 各自有相同的染色體數目。
-(1) P and Q each have the same number of chromosomes.
+📌 詳細解釋
+配子P（卵子）和配子Q（精子）均為單倍體細胞，所以兩者皆含有相同數目（23條）的染色體。
+Gamete P (ovum) and gamete Q (sperm) are both haploid cells, so they both contain the same number (23) of chromosomes.
+因此，陳述(1)是正確的。
+Therefore, statement (1) is correct.
+配子P作為雌性配子，必定含有一條X染色體；而血細胞R作為人類體細胞（無論男女）亦至少擁有一條X染色體。
+As a female gamete, gamete P must contain an X chromosome; while blood cell R, being a human somatic cell (regardless of sex), also possesses at least one X chromosome.
+因此，陳述(2)是正確的。
+Therefore, statement (2) is correct.
+配子Q（精子）可能帶有X或Y染色體，並不必定帶有Y染色體；血細胞S若來自女性，則其性染色體組合為XX，亦不會有Y染色體。
+Gamete Q (sperm) may carry either an X or a Y chromosome and does not necessarily carry a Y chromosome; if blood cell S comes from a female, its sex chromosome combination is XX and it will not have a Y chromosome either.
+因此，陳述(3)是不正確的。
+Therefore, statement (3) is incorrect.
 
-錯誤。因為 P（卵細胞）和 Q（精子）都是配子，屬於單倍體 (haploid)，所以他們的染色體數目相同，但題目問的是「所有細胞的染色體數目」而不是僅比 P 和 Q，因此該敘述不清晰且被判為錯誤。
-Wrong. Both P (egg cell) and Q (sperm cell) are gametes and are haploid, so they do have the same chromosome number, but the statement is misleading because the question considers all the cells, not just P and Q. Hence it is considered incorrect.
-
-(2) P 和 R 必定有一條 X 染色體。
-(2) P and R must both contain one X chromosome.
-
-正確。卵細胞一定含有 X 染色體，因為女性染色體組合是 XX。紅血球 R 由骨髓細胞分化而來，所以它的前體一定含 X 染色體（來自 XX 基因組）。
-Correct. An egg cell must contain an X chromosome, since females are XX. Red blood cell R develops from bone marrow cells, which carry the normal XX genome, so its precursor must have an X chromosome.
-
-(3) Q 和 S 必定有一條 Y 染色體。
-(3) Q and S must both contain one Y chromosome.
-
-正確。精子 Q 可能帶 X 或 Y 染色體，但只有帶 Y 的精子能決定雄性的性別，因此部分精子一定帶有 Y 染色體。S 為細胞核，來自男性體細胞，男性的染色體為 XY，所以其中必有一條 Y 染色體。
-Correct. A sperm can carry either an X or Y chromosome, but those that determine male offspring carry Y. Since S is the nucleus of a somatic cell from a male body, and males are XY, it must contain a Y chromosome.
-
-✅ 結論 (Conclusion)
-因此，正確的選項是 只有 (2) 和 (3)。
-Therefore, the correct statements are Only (2) and (3).
-
-📝 考試提醒 (Exam Tips)
-要分清楚 單倍體與雙倍體：配子 (gametes) 是單倍體，體細胞 (somatic cells) 是雙倍體。
-You must distinguish between haploid and diploid: gametes are haploid, somatic cells are diploid.
-
-記得 性染色體分佈：
-
-卵子 必定帶 X。
-精子 可能帶 X 或 Y。
-男性體細胞 = XY，女性體細胞 = XX。
-Remember sex chromosome distribution:
-Eggs always carry X.
-Sperm may carry X or Y.
-Male somatic cells = XY, Female somatic cells = XX.
-看到「血細胞」時，不要忘了成熟紅血球雖然沒有細胞核，但其前體有完整染色體，所以要根據來源判斷。
-When you see “red blood cells,” remember that mature RBCs lack a nucleus, but their precursors contain the full set of chromosomes, so think about the origin.",
+📌 考試提醒
+單倍體細胞（如精子和卵子）含有體細胞一半數目的染色體，並且人類所有有核體細胞均含有最少一條X染色體。
+Haploid cells (such as sperm and ova) contain half the number of chromosomes of somatic cells, and all nucleated human somatic cells contain at least one X chromosome.
+常見錯誤：學生常誤以為所有精子都帶有Y染色體，而忽略了精子有一半機會帶有X染色體。
+Common trap: Students often mistakenly assume that all sperms carry a Y chromosome, neglecting the fact that sperms have a half chance of carrying an X chromosome.",
 sp20,"📌 參考答案 (Suggested Answer Opening)
 答案：D. 血細胞R 吞噬細菌，血細胞S 產生抗體
 Answer: D. Blood cell R engulfs bacteria, and blood cell S produces antibodies
@@ -2159,77 +1783,27 @@ Confusing options:
 “No image formed” (A) is wrong, because the optical image is still there.
 “Only black-and-white vision” / “Color vision” (C/D) are also wrong, since no photoreceptors exist at the blind spot.
 ",
-sp23,"📌 參考答案 (Suggested Answer )
-答案：B. 沒有視覺產生
-Answer: B. No vision is produced
+sp23,"📌 參考答案
+A. 控制肌肉收縮，協調肌肉動作
+A. Controls muscle contraction, coordinates muscular movements
 
-📖 詳細解釋 (Detailed Explanation)
-光線聚焦於視網膜的區域 P 時，影像仍然會因折射作用而形成。
-When light is focused onto region P of the retina, an image is still formed due to refraction.
+📌 詳細解釋
+游泳是一項隨意動作，需要由大腦發出神經脈衝來控制骨骼肌的收縮。
+Swimming is a voluntary action, which requires the cerebrum to send nerve impulses to control the contraction of skeletal muscles.
+大腦是負責發起和控制隨意動作的最高中樞。
+The cerebrum is the highest centre responsible for initiating and controlling voluntary actions.
+小腦的作用則是協調不同肌肉的收縮，以維持身體在水中的平衡與動作的流暢。
+The role of the cerebellum is to coordinate the contraction of different muscles to maintain body balance and smooth movements in the water.
+調節心跳等不隨意動作主要是延腦的功能，與大腦和小腦在此過程中的主要角色無關。
+Regulating involuntary actions like heartbeat is mainly the function of the medulla oblongata, which is irrelevant to the main roles of the cerebrum and cerebellum in this process.
+因此，正確選項為A。
+Therefore, the correct option is A.
 
-然而，區域 P 為盲點 (blind spot)，沒有任何感光細胞 (rods 或 cones)。
-However, region P is the blind spot, which contains no photoreceptor cells (neither rods nor cones).
-
-因此，儘管能形成影像，卻無法將其轉化為神經訊息傳送至大腦，結果是 沒有視覺產生。
-Therefore, even though an image is physically formed, it cannot be converted into nerve impulses for the brain, so no vision is produced.
-
-📝 考試提醒 (Exam Tips)
-影像形成 ≠ 視覺產生。
-Image formation ≠ Vision production.
-光學影像可在視網膜任一位置形成，但是否有視覺，要視該處是否有感光細胞。
-An optical image can form anywhere on the retina, but vision requires photoreceptor cells.
-
-盲點 (blind spot)：視神經離開眼球的位置 → 完全沒有感光細胞 → 任何聚焦於此的光線都無法產生視覺。
-Blind spot: The point where the optic nerve exits the eye → no photoreceptor cells at all → any image here produces no vision.
-
-易混淆選項：
--「沒有影像形成」(A) 錯，因為光學影像仍然存在。
--「只產生黑白視覺 / 產生顏色視覺」(C/D) 亦錯，因為盲點上完全沒有感光細胞。
-Confusing options:
-
-“No image formed” (A) is wrong, because the optical image is still there.
-“Only black-and-white vision” / “Color vision” (C/D) are also wrong, since no photoreceptors exist at the blind spot.
-要不要我幫你把 第21題 + 第22題整理成一張「視網膜感光細胞分布與功能表」(中英對照，表格形式)，方便學生做最後複習？
-
-下午4:59
-
-
-下午5:00
-
-GPT-5-Chat
-
-
-好的，我們來整理第23題：
-
-📌 參考答案 (Suggested Answer Opening)
-答案：A. 大腦 — 控制肌肉收縮；小腦 — 協調肌肉動作
-Answer: A. Cerebrum — controls muscle contraction; Cerebellum — coordinates muscular movements
-
-📖 詳細解釋 (Detailed Explanation)
-大腦負責控制隨意動作 (voluntary movements)，例如游泳時手腳主動划水的動作，需要靠大腦發出指令，刺激骨骼肌收縮。
-The cerebrum controls voluntary movements, e.g., swimming strokes, where the brain sends conscious signals to skeletal muscles to contract.
-
-小腦則負責協調這些隨意動作，確保四肢運動之間的平衡與流暢，讓游泳動作不會顫抖或失衡。
-The cerebellum is responsible for coordinating these voluntary movements, ensuring smooth and balanced swimming motions.
-
-至於心跳與血壓等不隨意功能，主要由延腦 (medulla oblongata) 控制，並非大腦或小腦的工作。
-As for involuntary functions like heartbeat and blood pressure, these are controlled by the medulla oblongata, not the cerebrum or cerebellum.
-
-因此，正確配搭是：大腦 → 控制肌肉收縮；小腦 → 協調肌肉動作。
-Therefore, the correct match is: Cerebrum → controls muscle contraction; Cerebellum → coordinates muscle movement.
-
-📝 考試提醒 (Exam Tips)
-大腦 (Cerebrum) → 隨意動作 (voluntary actions)、感覺、思考、記憶。
-Cerebrum → Voluntary actions, sensation, thinking, memory.
-
-小腦 (Cerebellum) → 協調動作 (coordination of movements)、平衡 (balance)。
-Cerebellum → Coordination of movements, balance.
-
-延腦 (Medulla oblongata) → 不隨意動作，如心跳、呼吸、血壓。
-Medulla oblongata → Involuntary actions such as heartbeat, breathing, blood pressure.
-
-⚡ 常見陷阱：有些學生會把「小腦」錯當成控制肌肉收縮的結構，記住小腦不會啟動動作，只是協調動作。
-⚡ Common trap: Some students wrongly think the cerebellum initiates contractions; remember, it only coordinates, not commands.",
+📌 考試提醒
+大腦負責控制隨意動作，而小腦負責協調肌肉活動及維持身體平衡。
+The cerebrum controls voluntary actions, while the cerebellum coordinates muscular activities and maintains body balance.
+常見錯誤：學生常混淆大腦與小腦的功能，誤以為小腦能主動發起肌肉收縮。
+Common trap: Students often confuse the functions of the cerebrum and cerebellum, mistakenly believing that the cerebellum can initiate muscle contraction.",
 sp24,"📌 參考答案 (Suggested Answer Opening)
 答案：B. 火山爆發後的演替
 Answer: B. Succession after a volcanic eruption
@@ -2331,49 +1905,30 @@ The main pathway of energy loss = heat released during respiration.
 Common trap:
 Transpiration (C) = water loss, not dominant energy loss.
 Decomposition (D) = from dead matter, not universal to all trophic levels.",
-sp27,"📌 參考答案
-A. 1°
+sp27,"27 ❌ 舊題解錯誤判斷了食物鏈中能量流動的方向，誤指過程1為由X流向Y的能量，實為由Y流向X的能量。
+📌 參考答案
+A. 1
+A. 1
 
 📌 詳細解釋
-題目探討能量在生態系中的流動方向。
-The question examines the flow of energy within an ecosystem.
-
-由圖可見，X 為食性層次中的某一群生物，能量可經不同途徑流出。
-From the diagram, X represents a trophic level through which energy leaves via several pathways.
-
-「1」表示由 X 流向 Y 的能量 (如下一食性層消耗)，
-“1” represents energy flow from X to Y (as the next trophic level consumes X),
-
-而「2」為呼吸作用損失的能量。
-while “2” represents energy lost through respiration.
-
-「3」是由 X 透過進食或同化傳向 W 的能量。
-“3” indicates energy transferred to W through feeding or assimilation.
-
-「4」表示生物死亡後經遺骸進入分解者 Z 的能量。
-“4” indicates energy transferred to decomposers (Z) after the death of organisms.
-
-由於經過呼吸 (2) 和死亡 (4) 的能量已散失，
-Since energy lost through respiration (2) and death (4) is no longer available,
-
-在所有能量流動中，流向下一食性層 (1) 的能量數值最大，
-among all energy transfers, the flow towards the next trophic level (1) is the largest,
-
-故最大能量流動見於 1°。
-thus the greatest energy flow is observed at 1°.
+在生態系的能量流動中，箭頭方向代表能量轉移的方向。
+In the energy flow of an ecosystem, the direction of the arrows represents the direction of energy transfer.
+根據圖示，能量透過過程1由食性層次Y傳遞至食性層次X。
+According to the diagram, energy is transferred from trophic level Y to trophic level X through process 1.
+進入食性層次X的能量（過程1），會流向三個途徑：透過呼吸作用散失（過程2）、傳遞至下一食性層次W（過程3），以及經生物死亡後流向分解者Z（過程4）。
+The energy entering trophic level X (process 1) flows into three pathways: lost through respiration (process 2), transferred to the next trophic level W (process 3), and passed to decomposers Z after death (process 4).
+根據能量守恆定律，輸入食性層次X的總能量必定等於從X流出的總能量（即 1 = 2 + 3 + 4）。
+According to the law of conservation of energy, the total energy entering trophic level X must equal the total energy leaving X (i.e., 1 = 2 + 3 + 4).
+因此，過程1的數值必然是最大的，代表最大的能量流動。
+Therefore, the value of process 1 must be the largest, representing the greatest energy flow.
+選項B、C和D僅代表從食性層次X流出的部分能量，其數值必定小於過程1的總輸入能量。
+Options B, C, and D only represent a portion of the energy leaving trophic level X, and their values must be smaller than the total input energy of process 1.
 
 📌 考試提醒
-能量流動方向：由生產者 → 消費者 → 分解者。
-Direction of energy flow: from producers → consumers → decomposers.
-
-每經一層轉移，能量急遽減少 (通常僅約10%傳遞)。
-At each transfer, energy decreases sharply (only about 10% is passed on).
-
-呼吸與死亡造成能量散佈，無法再被利用。
-Energy is lost through respiration and death, and cannot be reused.
-
-最大能量流動永遠在活體之間的攝食關係中。
-The greatest energy flow always occurs between living organisms in feeding relationships.",
+能量在生態系中是單向流動的，並在每個食性層次中遞減。
+Energy flows unidirectionally in an ecosystem and decreases at each trophic level.
+常見錯誤：學生常混淆箭頭的方向，誤以為箭頭代表捕食者指向獵物，實際上箭頭代表能量流動的方向。
+Common trap: Students often confuse the direction of the arrows, mistakenly thinking they point from predator to prey, whereas they actually represent the direction of energy flow.",
 sp28,"📌 參考答案
 D. (1)、(2) 和(3)
 
@@ -2415,57 +1970,29 @@ Gametes such as eggs or sperm are haploid but still carry sex-linked genes.
 ",
 sp29,"📌 參考答案
 C. 2
+C. 2
 
 📌 詳細解釋
-題目提供一條 DNA 模板鏈：
-The question provides a DNA template strand:
-
-DNA 模板: 5′–CCGGGCGCAGGCACG–3′
-DNA template: 5′–CCGGGCGCAGGCACG–3′
-
-轉錄時，mRNA 的核苷酸序列與 DNA 模板互補（A↔U，T↔A，G↔C，C↔G）。
-During transcription, the mRNA sequence is complementary to the DNA template (A↔U, T↔A, G↔C, C↔G).
-
-因此得到的 mRNA 序列 為：
-Therefore, the synthesized mRNA sequence is:
-
-3′–GGCCCGCGUCCGUGC–5′
-3′–GGCCCGCGUCCGUGC–5′
-
-從 5′ 端至 3′ 端，可分為 5 個密碼子 (codons)：
-Reading from 5′ to 3′, we get five codons:
-
-GGC – CCG – CGU – CCG – UGC
-
-其中 CCG 是編碼「脯胺酸 (proline)」的密碼子。
-Among these, CCG codes for the amino acid proline.
-
-序列中出現了 兩次 CCG，代表有兩個脯胺酸分子。
-The sequence shows two CCG codons, meaning two proline residues are produced.
-
-➡ 所以正確答案是 2。
-➡ Therefore, the correct answer is 2.
+轉錄過程中，mRNA 的鹼基序列必須與 DNA 模板鏈互補配對（即 C配G、G配C、A配U、T配A）。
+During transcription, the base sequence of mRNA must form complementary base pairs with the DNA template strand (i.e., C pairs with G, G with C, A with U, and T with A).
+按照題目由左至右的轉錄方向，DNA 模板鏈 CCGGGCGCAGGCACG 會轉錄出相應的 mRNA 序列。
+Following the transcription direction from left to right as given in the question, the DNA template strand CCGGGCGCAGGCACG is transcribed into the corresponding mRNA sequence.
+合成的 mRNA 序列為 GGCCCGCGUCCGUGC。
+The synthesized mRNA sequence is GGCCCGCGUCCGUGC.
+從左至右讀取這條 mRNA，密碼子依次為 GGC、CCG、CGU、CCG 和 UGC。
+Reading this mRNA from left to right, the codons are GGC, CCG, CGU, CCG, and UGC in sequence.
+因為題目指出密碼子 CCG 編碼脯氨酸，而該序列中 CCG 出現了兩次。
+Since the question states that the codon CCG codes for proline, and CCG appears twice in the sequence.
+因此，這條短肽中共包含兩個脯氨酸分子。
+Therefore, this short peptide contains a total of two proline molecules.
+其他選項均未正確計算出 CCG 密碼子的出現次數（選項A、B及D錯誤）。
+Other options fail to correctly calculate the frequency of the CCG codon (Options A, B, and D are incorrect).
 
 📌 考試提醒
-DNA 模板鏈與 mRNA 互補且方向相反。
-The DNA template strand is complementary and antiparallel to mRNA.
-
-轉錄配對規則：A→U、T→A、G→C、C→G。
-Base pairing in transcription: A→U, T→A, G→C, C→G.
-
-每三個鹼基 (codon) 編一個胺基酸。
-Every three bases (a codon) code for one amino acid.
-
-記住常見胺基酸密碼子：
-Remember example codons:
-
-CCG → Proline (脯胺酸)
-AUG → Methionine (起始密碼子)
-UAA/UAG/UGA → 終止密碼子 (stop codons)
-✳ 小貼士：看到同一密碼子重複出現 → 胺基酸重複出現。
-✳ Quick tip: Same codon appears multiple times → same amino acid appears multiple times.
-
-",
+轉錄時，RNA聚合酶會沿著DNA模板鏈讀取，並合成互補的mRNA。
+During transcription, RNA polymerase reads along the DNA template strand and synthesizes a complementary mRNA.
+常見錯誤：學生容易忘記將DNA的鹼基A轉換為RNA的U，或是在配對時抄錯鹼基順序。
+Common trap: Students easily forget to convert the DNA base A to the RNA base U, or copy the base sequence incorrectly during pairing.",
 sp30,"📌 參考答案
 C. (2) 和 (3)
 
@@ -2597,43 +2124,26 @@ Puberty is the period of most rapid growth, usually between ages 11–14 for fem
 
 ",
 sp33,"📌 參考答案
-C. 組織液積聚
-C. Accumulation of tissue fluid
+C. 組織液聚積。
+C. Accumulation of tissue fluid.
 
 📌 詳細解釋
-當皮膚受到細菌感染時，感染部位的小動脈會舒張。
-When the skin is infected by bacteria, the small arteries at the infected site dilate.
-
-毛細血管的通透性增加，使更多血漿成分滲出到周圍組織中。
-The permeability of capillaries increases, allowing more plasma components to leak into surrounding tissues.
-
-這些滲出的液體在組織間積聚，形成組織液 (tissue fluid)。
-This fluid accumulates in the intercellular spaces, forming tissue fluid.
-
-由於組織液聚集導致局部腫脹，因此我們看到感染部位隆起發脹。
-As tissue fluid builds up, the area becomes swollen and raised.
-
-這種現象屬於炎症反應的一部分。
-This swelling is part of the inflammatory response.
-
-👉 故正確答案為 C. 組織液積聚。
-👉 Therefore, the correct answer is C. accumulation of tissue fluid.
+當皮膚受到細菌感染時，身體會引發炎症反應，導致感染部位的小動脈舒張。
+When the skin is infected by bacteria, the body triggers an inflammatory response, causing the arterioles at the infected site to dilate.
+同時，微血管的通透性會增加，使更多血漿滲出至組織間隙。
+At the same time, the permeability of the capillaries increases, allowing more plasma to leak into the tissue spaces.
+這些滲出的液體形成組織液，其大量聚積會令感染部位腫起。
+These leaked fluids form tissue fluid, and its massive accumulation causes the infected area to swell.
+選項B不正確，因為微血管壁僅由單層內皮細胞組成，缺乏平滑肌，因此本身無法主動擴張。
+Option B is incorrect because capillary walls are composed of only a single layer of endothelial cells and lack smooth muscle, so they cannot actively dilate.
+大量細菌遭殺掉或抗體濃度增加並不是導致物理腫脹的直接原因（選項A及D錯誤）。
+The killing of a large number of bacteria or the increase in antibody concentration are not the direct physical causes of swelling (Options A and D are incorrect).
 
 📌 考試提醒
-A. 大量細菌遭殺掉 → 可發生，但不是腫脹原因。
-
-A. Many bacteria killed → occurs, but not the cause of swelling.
-
-B. 微血管擴張 → 錯誤，毛細血管並非有平滑肌，不能「擴張」。
-
-B. Capillary dilation → incorrect, capillaries lack smooth muscle so cannot actively dilate.
-
-D. 抗體濃度增加 → 屬於免疫反應的一部分，但非導致腫脹的直接原因。
-
-D. Increase in antibody concentration → part of immune defense, not directly responsible for swelling.
-
-✳ 重點記憶：感染 → 微血管通透性↑ → 組織液滲出↑ → 腫脹。
-✳ Key concept: infection → capillary permeability ↑ → tissue fluid leakage ↑ → swelling.",
+炎症反應的三大特徵為紅、腫、熱，主要由局部血管舒張及組織液聚積引起。
+The three main signs of an inflammatory response are redness, swelling, and heat, mainly caused by local vasodilation and accumulation of tissue fluid.
+常見錯誤：學生常誤以為微血管可以像動脈一樣收縮或擴張，忽略了微血管並沒有肌肉層。
+Common trap: Students often mistakenly believe that capillaries can contract or dilate like arteries, ignoring the fact that capillaries do not have a muscle layer.",
 sp34,"📌 參考答案
 B. 血友病
 B. Haemophilia
@@ -2730,60 +2240,2458 @@ Antibodies act specifically against antigens; memory belongs to B and T cells.
 
 ",
 sp36,"📌 參考答案
-D
-
+D.
 
 📌 詳細解釋
-第一次感染會引發初次免疫反應 (primary immune response)。
-The first infection triggers a primary immune response.
-
-由於身體首次接觸該抗原，B 淋巴細胞需要時間分化並產生抗體，
-Because the body encounters the antigen for the first time, B lymphocytes take time to differentiate and produce antibodies,
-
-所以抗體濃度在感染後初期上升較慢，濃度也不高。
-so the antibody level rises slowly and reaches only a moderate concentration.
-
-之後，當病毒被清除，抗體濃度會逐漸下降。
-After the virus is cleared, the antibody concentration gradually decreases.
-
-第二次感染後，因為體內已存在記憶性 B 細胞 (memory B cells)，
-During the second infection, the body already has memory B cells,
-
-這些細胞能更快地被活化，產生更多且更快的抗體。
-which respond faster and more strongly, producing larger amounts of antibodies.
-
-因此，第二次感染的抗體濃度上升得更快，也達到更高的峰值。
-Therefore, the antibody level rises more rapidly and reaches a higher peak during the secondary infection.
-
-而且抗體濃度維持的時間更長，使病毒濃度迅速降低。
-The antibody level also stays high for longer, allowing the virus level to drop quickly.
-
-圖 D 正好顯示出這種特徵—
-Graph D clearly shows this pattern—
-
-第一次出現緩慢而低的抗體反應，其後在第二次感染時，
-a slow, low antibody rise after the first infection, and then,
-
-在短時間內迅速上升至高峰。
-a rapid, high peak response during the second infection.
-
-➡ 所以正確答案是 D。
-➡ Therefore, the correct answer is D.
+當人體首次受病毒感染時，會引發原發反應，這時漿細胞需要較長時間才能產生足夠的抗體，且抗體濃度較低。
+When the human body is infected by a virus for the first time, a primary response is triggered, during which plasma cells take a longer time to produce enough antibodies, and the antibody concentration is relatively low.
+當再次受相同的病毒感染時，體內的記憶細胞會迅速辨認該抗原，引發繼發反應。
+When infected by the same virus again, the memory cells in the body rapidly recognize the antigen, triggering a secondary response.
+在繼發反應中，記憶細胞會迅速增殖並分化成漿細胞，在極短時間內產生大量抗體。
+In the secondary response, memory cells rapidly proliferate and differentiate into plasma cells, producing a massive amount of antibodies in a very short time.
+這使得血液內的抗體濃度能迅速飆升至極高水平，並維持在較高濃度一段較長時間。
+This causes the antibody concentration in the blood to soar rapidly to a very high level and be maintained at a high concentration for a longer period.
+因此，曲線圖 D 最能準確反映原發反應與繼發反應在抗體濃度上的差異（選項A、B及C錯誤）。
+Therefore, graph D most accurately reflects the differences in antibody concentration between the primary and secondary responses (Options A, B, and C are incorrect).
 
 📌 考試提醒
-初次免疫反應 (Primary response): 抗體出現慢、量少、維持時間短。
-
-Primary response: antibodies appear slowly, in small amount, and last for a short period.
-
-繼次免疫反應 (Secondary response): 抗體出現快、量多、維持時間長。
-
-Secondary response: antibodies appear quickly, in large quantity, and persist longer.
-
-若抗體濃度高，意味病原體被迅速清除。
-
-High antibody concentration implies pathogens are rapidly eliminated.
-
-✳ 記憶法：
-第一次學慢，第二次反應快又高。
-✳ Memory tip:
-Slow and weak on first exposure; fast and strong on second exposure.",
+原發反應由初始 B 細胞主導，而繼發反應則由記憶細胞主導，後者的反應更快、更強烈。
+The primary response is mediated by naive B cells, while the secondary response is mediated by memory cells, making the latter faster and stronger.
+常見錯誤：學生常將抗原濃度與抗體濃度的曲線混淆，未注意抗體濃度上升通常伴隨著病毒濃度的下降。
+Common trap: Students often confuse the curves for antigen concentration and antibody concentration, failing to notice that an increase in antibody concentration is usually accompanied by a decrease in virus concentration.",
+spp101,"📌 **參考答案 Reference Answer** 
+ 紅血細胞置於 0.1% 氯化鈉溶液而出現溶血作用：C. 滲透作用 
+ Red blood cells placed in 0.1% sodium chloride solution undergo haemolysis: C. Osmosis 
+ 
+ 紅血細胞攝入氧氣：B. 擴散作用 
+ Red blood cells take in oxygen: B. Diffusion 
+ 
+ ---
+ 
+ 📘 **詳細解釋 Detailed Explanation** 
+ 紅血細胞在 0.1% 氯化鈉溶液中，由於外部溶液比細胞內更稀，水分子通過半透膜進入細胞，導致細胞吸水膨脹並最終破裂（溶血）。 
+ When red blood cells are placed in a 0.1% sodium chloride solution, the external solution is hypotonic compared to the cell interior, so water molecules move into the cell through the partially permeable membrane by osmosis, causing the cell to swell and burst (haemolysis). 
+ 
+ 紅血細胞攝入氧氣時，氧氣分子由高濃度（肺泡）區域擴散至低濃度（紅血球內部），直至濃度平衡。 
+ When red blood cells take in oxygen, oxygen molecules diffuse from a region of higher concentration (alveoli) to a region of lower concentration (inside the red blood cells) until equilibrium is reached. 
+ 
+ ---
+ 
+ ⚠️ **考試提醒 Exam Tips** 
+ 要細心分辨「滲透作用」與「擴散作用」的差別：滲透作用只涉及水分子；擴散作用涉及其他氣體或溶質。 
+ Be careful to distinguish between *osmosis* and *diffusion*: osmosis involves only water molecules, whereas diffusion involves other gases or solutes. 
+ 
+ 留意題目中「氯化鈉溶液濃度」是判定滲透作用方向的關鍵字眼。 
+ Pay attention to the sodium chloride concentration in the question—it indicates the direction of osmosis. 
+ 
+ 若題目提到氧氣或二氧化碳，通常與「擴散作用」有關，而非「主動運輸」。 
+ If the question mentions oxygen or carbon dioxide, it usually refers to *diffusion*, not *active transport*.",
+spp102,"📌 **參考答案 Reference Answer** 
+ 在人類直接食用農作物的情況下，人類位於食物鏈的第二食性層次；若人類食用牛肉，則位於第三食性層次。 
+ When humans feed directly on crops, they occupy the second trophic level; if they eat beef, they occupy the third trophic level. 
+ 
+ 由於能量沿食物鏈經呼吸作用以熱的形式散失，亦會因排泄物及生物死亡而流失。 
+ Since energy is lost along the food chain through respiration as heat, and also through excretory products and death of organisms. 
+ 
+ 因此，直接食用農作物的人類能獲得比食用牛肉更多的能量。 
+ Therefore, humans who eat crops directly obtain more energy than those who eat beef. 
+ 
+ 這表示在相同的農地上種植作物可為人類提供比畜養牛隻更多的食物。 
+ This means that using the same farmland for crop cultivation can provide more food for humans than raising cattle. 
+ 
+ ---
+ 
+ 📘 **詳細解釋 Detailed Explanation** 
+ 當人類直接食用植物，能量只經歷植物合成到人類消化的兩層轉化，能量損失最少。 
+ When humans eat plants directly, energy passes through only two trophic levels — from plants to humans — minimizing energy loss. 
+ 
+ 然而若以飼草餵養牛隻再供人類食用，能量須通過多一層食性層次；牛隻會經呼吸作用消耗掉大量能量。 
+ However, if grass is first fed to cattle and then consumed by humans, energy must pass through an additional trophic level; cattle lose much energy through respiration. 
+ 
+ 沿食物鏈傳遞的能量每層約有 90% 以熱能或代謝產物形式散失。 
+ At each trophic level, about 90% of energy is lost as heat or metabolic waste. 
+ 
+ 因此，食物鏈愈短，留給人類可用的能量愈多，產量亦較高。 
+ Hence, the shorter the food chain, the more usable energy remains for humans, and the higher the potential food yield. 
+ 
+ ---
+ 
+ ⚠️ **考試提醒 Exam Tips** 
+ 要明白「食性層次」(trophic level) 與「能量沿食物鏈遞減」的概念。 
+ Make sure you understand the concept of *trophic levels* and *energy loss along the food chain*. 
+ 
+ 題目屬「能量轉移效率」常考概念，須連結呼吸作用、排泄及死亡等能量損失途徑。 
+ This question tests understanding of *energy transfer efficiency* — link it to respiration, excretion, and death as energy loss processes. 
+ 
+ 若問及「哪種生產方式提供更多食物」，答案關鍵在於「較短的食物鏈」。 
+ If asked which method provides more food, the key idea is “a shorter food chain”.",
+spp103,"📌 **參考答案 Reference Answer** 
+ 
+ **(a)** 
+ 海豚的身體呈流線型，能減少牠在水中活動時受到的阻力。 
+ The dolphin has a streamlined body which reduces resistance when moving in water. 
+ 
+ 牠具有尾鰭及鰭狀肢體，有助於推進和控制方向，使牠能在水中靈活游動。 
+ It possesses a tail and flippers which facilitate propulsion and control, allowing it to swim efficiently in water. 
+ 
+ ---
+ 
+ **(b)** 
+ 填海及沿岸建設工程會改變水質並破壞牠的自然棲息地。 
+ Reclamation and coastal construction alter water quality and destroy its natural habitat. 
+ 
+ 旅遊活動或繁忙的海上交通所產生的噪音會驚嚇或驅走牠，影響其覓食。 
+ Noise from tourism or busy sea traffic may frighten or drive it away, interfering with its feeding behaviour. 
+ 
+ 捕魚活動有可能誤殺或誤傷牠。 
+ Fishing activities may accidentally injure or kill the dolphin. 
+ 
+ （以上任寫兩項） 
+ (Any two of the above) 
+ 
+ ---
+ 
+ **(c)** 
+ 海豚具有乳腺，但金魚沒有。 
+ Dolphins have mammary glands, but goldfish do not. 
+ 
+ 海豚皮膚沒有鱗片覆蓋，而金魚的皮膚有鱗片覆蓋。 
+ Dolphins have no scales covering the skin, whereas goldfish have slimy scales covering the skin. 
+ 
+ 海豚沒有鰓，而金魚有鰓。 
+ Dolphins lack gills, while goldfish possess gills. 
+ 
+ （任寫兩項） 
+ (Any two of the above) 
+ 
+ ---
+ 
+ 📘 **詳細解釋 Detailed Explanation** 
+ 
+ 流線型身體是典型水生哺乳動物的特徵，能減少水的阻力以節省能量。 
+ A streamlined body is a typical feature of aquatic mammals, reducing water resistance and conserving energy. 
+ 
+ 尾鰭提供向前推進的動力，而鰭狀肢則協助操控游動方向。 
+ The tail fluke provides thrust for forward movement, while flippers assist in steering. 
+ 
+ 由於人類沿岸開發和污染，海豚失去覓食和繁殖區。 
+ Due to coastal development and pollution, dolphins lose feeding and breeding areas. 
+ 
+ 人為噪音干擾牠們的迴聲定位系統（echo-location），令牠們更難搜尋食物。 
+ Human noise disturbs their echolocation ability, making it harder for them to find food. 
+ 
+ ---
+ 
+ ⚠️ **考試提醒 Exam Tips** 
+ 
+ 答 (a) 題時要同時提到「結構特徵」及「適應用途」。 
+ In part (a), always mention both the *structural feature* and *how it helps adaptation*. 
+ 
+ (b) 題需指出「人類活動」並簡述「對海豚的影響」，兩項缺一不可。 
+ In part (b), state the *human activity* and *its effect* — both are required for the mark. 
+ 
+ (c) 題常考分類準則，記住：海豚屬哺乳類，金魚屬魚類。 
+ In part (c), it tests classification principles — dolphins are mammals, goldfish are fish.",
+spp104,"📌 **參考答案 Reference Answer**
+ 
+ **(a)** 
+ DNA 的複製。 
+ Replication of DNA. 
+ 
+ 線粒體、內質網等細胞器的合成。 
+ Synthesis of organelles such as mitochondria or endoplasmic reticulum. 
+ 
+ ---
+ 
+ **(b)** 
+ 這是一個減數分裂的過程。 
+ This process is meiosis. 
+ 
+ 在階段 3，同源染色體已配對，並排列在細胞的赤道板上。 
+ At stage 3, homologous chromosomes have paired up and aligned along the equator of the cell. 
+ 
+ 之後，紡錘絲收縮拉扯，同源染色體分離並移至細胞兩端，使每個子細胞的染色體數目減半，成為單倍體。 
+ Then the spindle fibres contract and pull the homologous chromosomes to opposite poles, halving the chromosome number so that the daughter cells are haploid. 
+ 
+ 同時，同源染色體可能發生互換，交換染色體片段，使子細胞產生新的等位基因組合，導致遺傳變異。 
+ Meanwhile, crossing over may occur between homologous chromosomes, leading to new combinations of alleles in daughter cells and resulting in genetic variation. 
+ 
+ 此外，同源染色體的獨立分配也可形成不同染色體組合，增加配子的多樣性。 
+ In addition, independent assortment of homologous chromosomes forms different combinations of chromosomes, increasing gamete diversity. 
+ 
+ ---
+ 
+ 📘 **詳細解釋 Detailed Explanation**
+ 
+ 階段 1 屬於間期（interphase），細胞在此階段為分裂作準備。 
+ Stage 1 corresponds to interphase, during which the cell prepares for division. 
+ 
+ DNA 在此時複製，確保每條染色體有兩條姊妹染色單體。 
+ DNA replication ensures that each chromosome consists of two sister chromatids. 
+ 
+ 同時，線粒體與內質網等細胞器被合成，提供能量與結構支持進行細胞分裂。 
+ Organelles such as mitochondria and ER are synthesized to provide energy and structural support for division. 
+ 
+ 階段 3 是減數分裂 I 的中期，染色體行為對配子形成至關重要。 
+ Stage 3 is metaphase I of meiosis, where chromosome behaviour is crucial to gamete formation. 
+ 
+ 染色體正確分離可避免非整倍體出現；交叉互換則促進遺傳重組。 
+ Proper separation prevents aneuploidy, while crossing over promotes genetic recombination. 
+ 
+ ---
+ 
+ ⚠️ **考試提醒 Exam Tips**
+ 
+ 答 (a) 題時要指出「為分裂作準備」的兩個具體過程，如 DNA 複製及細胞器合成。 
+ In part (a), specify two preparatory processes such as DNA replication and organelle synthesis. 
+ 
+ (b) 題須提到「同源染色體配對」、「分離」及「基因重組」等關鍵詞。 
+ In part (b), include key phrases like *homologous chromosome pairing*, *separation*, and *genetic recombination*. 
+ 
+ 留意減數分裂與有絲分裂的不同：前者產生單倍體並導致遺傳變異。 
+ Be sure to distinguish meiosis from mitosis: meiosis produces haploid cells and results in genetic variation.",
+spp105,"📌 **參考答案 Reference Answer**
+ 
+ **(a)** 
+ 原核生物沒有細胞核或核膜，而真核生物具有明顯的細胞核及核膜。 
+ Prokaryotes have no true nucleus or nuclear membrane, whereas eukaryotes have a distinct nucleus with a nuclear membrane. 
+ 
+ 原核生物的 DNA 為單一環狀 DNA 並位於細胞質內，而真核生物的 DNA 為多條線狀 DNA 並位於細胞核內。 
+ Prokaryotes possess a single circular DNA molecule free in the cytoplasm, while eukaryotes possess multiple linear DNA molecules enclosed within the nucleus. 
+ 
+ 此外，原核生物沒有具膜細胞器，而真核生物有具膜細胞器如線粒體和葉綠體。 
+ Additionally, prokaryotes lack membrane-bound organelles, whereas eukaryotes have such organelles like mitochondria and chloroplasts. 
+ 
+ ---
+ 
+ **(b)** 
+ 1a 大多是單細胞的 → 原生生物界 
+ Predominantly unicellular → Protista 
+ 
+ 1b 多細胞的 → 2 
+ Multicellular → 2 
+ 
+ 2a 有細胞壁 → 3 
+ Cell wall present → 3 
+ 
+ 2b 沒有細胞壁 → 動物界 
+ Cell wall absent → Animalia 
+ 
+ 3a 有葉綠素 → 植物界 
+ Chlorophyll present → Plantae 
+ 
+ 3b 沒有葉綠素 → 真菌界 
+ Chlorophyll absent → Fungi 
+ 
+ ---
+ 
+ **(c)** 
+ 當有新證據出現時（例如新知識的發現或新物種被發現），原有的分類系統可能無法涵蓋新資料，因此需要修訂。 
+ When new evidence arises (e.g. new knowledge developed or new species found), existing classification systems may need to be revised to accommodate the new information. 
+ 
+ 另外，不同科學家可能根據不同的分類準則（例如形態、遺傳或演化關係）進行分類，因此會出現不同的分類系統。 
+ In addition, different scientists may emphasize different classification criteria (such as morphology, genetics, or evolutionary relationships), leading to different classification systems. 
+ 
+ ---
+ 
+ 📘 **詳細解釋 Detailed Explanation**
+ 
+ 1937 年沙東的「兩大類系統」根據是否有細胞核來區分原核生物與真核生物。 
+ In 1937, Chatton proposed a two-category system distinguishing prokaryotes and eukaryotes based on the presence or absence of a nucleus. 
+ 
+ 後來，隨科學技術進步（如電子顯微鏡、DNA 序列分析），分類越趨精細，以反映生物間的進化關係。 
+ Later, with the advancement of technology (e.g. electron microscopy and DNA sequencing), classification became more refined to reflect evolutionary relationships. 
+ 
+ ---
+ 
+ ⚠️ **考試提醒 Exam Tips**
+ 
+ 答 (a) 題時要比較「細胞核」與「細胞器」兩方面差異。 
+ When answering part (a), compare both the *presence of a nucleus* and *membrane-bound organelles*. 
+ 
+ (b) 題要按「單細胞/多細胞 → 細胞壁 → 葉綠素」邏輯分類。 
+ For part (b), classify logically through “unicellular vs multicellular → cell wall presence → chlorophyll presence”. 
+ 
+ (c) 題常提「新證據」與「分類準則差異」兩個概念。 
+ For part (c), always include “new evidence” and “different classification criteria” as key points.",
+spp106,"📌 **參考答案 Reference Answer**
+ 
+ **(a)** 
+ 當神經脈衝傳達至神經元 A 的神經末梢時，突觸小體會釋放出神經傳導物質。 
+ When a nerve impulse reaches the nerve endings of neuron A, synaptic vesicles release neurotransmitters. 
+ 
+ 該神經傳導物質擴散穿越神經末梢與肌肉纖維之間的突觸間隙。 
+ The neurotransmitter diffuses across the gap between the nerve ending and the muscle fibre. 
+ 
+ 該化學物質刺激肌肉細胞膜產生動作電位，觸發肌肉纖維收縮。 
+ The chemical then stimulates the membrane of the muscle cell to produce an action potential, resulting in muscle contraction. 
+ 
+ ---
+ 
+ **(b)** 
+ 關節 C 於腿部運動中作為支點，形成槓桿系統，令相鄰的骨能相對移動。 
+ The joint C acts as the fulcrum of a lever system, allowing the adjacent bones to move relative to each other. 
+ 
+ 這樣可使小腿作屈曲或伸展等動作，促進步行或跳躍。 
+ This enables flexion and extension of the lower leg, facilitating movements such as walking or jumping. 
+ 
+ ---
+ 
+ 📘 **詳細解釋 Detailed Explanation**
+ 
+ 神經脈衝抵達運動神經元末端時，突觸小泡通過胞吐作用釋放乙醯膽鹼（acetylcholine）。 
+ When the nerve impulse arrives at the motor neuron terminal, synaptic vesicles release acetylcholine via exocytosis. 
+ 
+ 乙醯膽鹼擴散穿越突觸間隙並與運動終板上的受體結合，刺激肌膜產生動作電位。 
+ The acetylcholine diffuses across the synaptic cleft and binds to receptors on the motor end plate, triggering an action potential on the muscle membrane. 
+ 
+ 此電位沿肌纖維膜及橫小管傳播，鈣離子從肌漿網釋放。 
+ This potential spreads along the sarcolemma and transverse tubules, causing calcium ions to be released from the sarcoplasmic reticulum. 
+ 
+ 鈣離子使肌動蛋白與肌球蛋白形成橫橋，使肌絲滑動，導致肌肉收縮。 
+ Calcium ions enable actin and myosin filaments to form cross-bridges and slide over each other, resulting in muscle contraction. 
+ 
+ 關節在此過程中如機械槓桿的支點，協助肌肉產生運動。 
+ The joint functions as a fulcrum in this lever system, assisting muscles to produce mechanical movement. 
+ 
+ ---
+ 
+ ⚠️ **考試提醒 Exam Tips**
+ 
+ (a) 題必須提及「神經傳導物質的釋放、擴散及刺激肌膜產生動作電位」。 
+ In part (a), include the release, diffusion, and stimulation of the neurotransmitter leading to action potential. 
+ 
+ (b) 題要指出「關節＝槓桿系統的支點」，並連結到「骨的相對運動」。 
+ In part (b), identify that the joint acts as the fulcrum of a lever system and allows relative bone movement. 
+ 
+ 常見錯誤是只提「肌肉收縮」而未解釋「神經傳導過程」；記得完整作答以取滿分。 
+ A common mistake is mentioning only muscle contraction without explaining the neurotransmission process — provide all steps for full marks.",
+spp107,"📌 **參考答案 Reference Answer**
+ 
+ **(a)** 
+ 她們是異卵孿生。 
+ They are fraternal (non-identical) twins. 
+ 
+ 因為她們的血型不同，表示她們的基因型也不同。 
+ Because they have different blood groups, this shows they have different genotypes. 
+ 
+ 若為同卵雙生，基因型應完全相同，因此她們必定是異卵雙生。 
+ If they were identical twins, their genotypes would be the same; hence they must be fraternal twins. 
+ 
+ ---
+ 
+ **(b)** 
+ 陳先生和陳太太的基因型為 **Iᴬi** 和 **Iᴮi**。 
+ Mr. and Mrs. Chan’s genotypes are **Iᴬi** and **Iᴮi**. 
+ 
+ 解釋：安兒為 O 型（基因型 ii），表示雙親皆帶有等位基因 **i**；而珍兒為 AB 型（基因型 IᴬIᴮ），說明父母各自提供 **Iᴬ** 和 **Iᴮ**。 
+ Explanation: Ann is blood group O (genotype ii), meaning both parents possess allele **i**. Jane is blood group AB (genotype IᴬIᴮ), meaning one parent provides **Iᴬ** and the other **Iᴮ**. 
+ 
+ ---
+ 
+ **(c)** 
+ DNA 上的等位基因 **Iᴬ** 經互補鹼基配對轉錄成 **mRNA**。 
+ The allele **Iᴬ** on DNA is transcribed into **mRNA** by complementary base pairing. 
+ 
+ **mRNA** 由細胞核離開，附著於細胞質中的核糖體。 
+ The **mRNA** leaves the nucleus and attaches to ribosomes in the cytoplasm. 
+ 
+ 攜帶特定胺基酸的 **tRNA** 反密碼子與 **mRNA** 的密碼子配對。 
+ **tRNA** molecules carrying specific amino acids bind their anticodons to the codons on **mRNA**. 
+ 
+ 相鄰胺基酸之間形成肽鍵，構成多肽鏈。 
+ Adjacent amino acids form peptide bonds, producing a polypeptide chain. 
+ 
+ 多肽鏈摺疊成特定三維結構，形成可催化紅血球表面抗原 A 的酵素。 
+ The polypeptide folds into a specific three-dimensional structure to form an enzyme that synthesizes antigen A on the red blood cell surface.",
+spp108,"📌 **參考答案 Reference Answer**
+ 
+ **(a)** 
+ 跑步時：每 100 mL 血液中的含氧量差異為 **13 mL**。 
+ For running: difference in oxygen content = **13 mL per 100 mL of blood**. 
+ 
+ 踏單車時：每 100 mL 血液中的含氧量差異為 **9 mL**。 
+ For cycling: difference in oxygen content = **9 mL per 100 mL of blood**. 
+ 
+ ---
+ 
+ **(b)** 
+ 當運動量增加時，大動脈與大靜脈之間血液含氧量的差異隨之增加。 
+ As exercise intensity increases, the difference in blood oxygen content between the aorta and vena cava increases. 
+ 
+ 這是因為運動時肌肉進行更頻密的有氧呼吸，以釋放更多能量以供肌肉收縮。 
+ This is because muscles carry out aerobic respiration more rapidly to release more energy for contraction. 
+ 
+ 因此，肌肉從血液中攝取更多氧氣，使血液氧含量差異擴大。 
+ Hence, more oxygen is extracted from the blood by the muscles, widening the oxygen content difference. 
+ 
+ ---
+ 
+ **(c)** 
+ 隨著運動量上升，氧氣攝取量亦上升。 
+ Oxygen uptake increases with increasing exercise intensity. 
+ 
+ 這是由於呼吸速率和深度的增加，使更多氧氣進入肺並被輸送至血液中。 
+ This is due to an increase in both the rate and depth of breathing, allowing more oxygen to reach the lungs and enter the bloodstream.",
+spp109,"📌**參考答案** 
+ 
+ (a) 
+ 生物洗衣粉含有脂肪酶，可分解脂肪污漬。 
+ Biological washing powder contains lipase, which breaks down fat stains. 
+ 
+ 脂肪酶把脂肪污漬分解為脂肪酸和甘油。 
+ Lipase breaks down the fat into fatty acids and glycerol. 
+ 
+ 脂肪酸和甘油可溶於水，因此污漬能從衣物上被清除。 
+ Fatty acids and glycerol are soluble in water, so the stains can be removed from the fabric. 
+ 
+ ---
+ 
+ (b) 
+ 在較高溫度下，洗衣粉的去污效果較佳。 
+ The washing powder is more effective at higher water temperatures. 
+ 
+ ---
+ 
+ (c) 
+ 使用兩條質料、面積及污漬相同的毛巾。 
+ Use two towels with the same material, area, and identical stains. 
+ 
+ 分別將毛巾浸入生物洗衣粉與普通洗衣粉溶液中。 
+ Place each towel separately in biological and non-biological washing powder solutions. 
+ 
+ 確保兩種溶液的體積、洗衣粉濃度及浸泡時間相同。 
+ Keep the solution volume, washing powder concentration, and washing time the same. 
+ 
+ 把水溫控制在 50°C。 
+ Keep the washing temperature at 50°C. 
+ 
+ 洗後比較兩條毛巾上污漬的大小或顏色變化。 
+ Compare the size or intensity of the stains after washing. 
+ 
+ 污漬變小或顏色變淺者，表示洗衣粉較有效。 
+ The smaller or lighter the stain, the more effective the washing powder. 
+ 
+ 重複實驗，用不同水溫觀察生物及非生物洗衣粉去污能力的變化。 
+ Repeat the experiment at different water temperatures to see how temperature affects the efficiency of both washing powders.",
+spp110,"📌**參考答案** 
+ 
+ (a) 
+ 流感通過咳嗽或噴嚏產生的飛沫經空氣傳播。 
+ Flu is transmitted through droplets in the air produced by coughing or sneezing. 
+ 
+ ---
+ 
+ (b) 
+ 流感由病毒引起，抗生素不能消滅病毒。 
+ Flu is caused by a virus, and antibiotics cannot destroy viruses. 
+ 
+ 胡亂使用抗生素可能導致抗藥性細菌株增加。 
+ Indiscriminate use of antibiotics may lead to the increase of antibiotic‑resistant bacterial strains. 
+ 
+ ---
+ 
+ (c) 
+ 流感病毒可能會突變，形成新的病毒株。 
+ The flu virus may mutate to form new strains. 
+ 
+ 不同季節流行的病毒種類不同。 
+ Different strains prevail in different seasons. 
+ 
+ ---
+ 
+ (d)（以下任答兩項） 
+ 他們有良好的個人衛生習慣，如常洗手。 
+ They have good personal hygiene, such as frequent handwashing. 
+ 
+ 他們免疫力強，能抵抗流感病毒。 
+ They have strong immunity that can combat the flu virus. 
+ 
+ 他們曾感染過同一種流感病毒。 
+ They have been infected by the same flu virus before.",
+spp111,"📌**參考答案** 
+ 
+ (a)(i) 
+ 激素 A。 
+ Hormone A. 
+ 
+ 當血糖水平由正常值下降至每 100 mL 血液內 40 mg 時，激素 A 的分泌速率急劇上升。 
+ When the blood glucose level drops from the normal value to 40 mg per 100 mL of blood, the secretion rate of hormone A increases sharply. 
+ 
+ 激素 B 的分泌速率則維持在低水平，顯示激素 A 在此情況下主動控制血糖水平。 
+ The secretion rate of hormone B remains low, showing that hormone A plays the main role in controlling blood glucose in this situation. 
+ 
+ ---
+ 
+ (a)(ii) 
+ 高血糖素。 
+ Glucagon. 
+ 
+ 當血糖水平低於正常時，高血糖素促使肝臟把糖原及脂肪轉化為葡萄糖。 
+ When the blood glucose level is below normal, glucagon stimulates the liver to convert glycogen and fats into glucose. 
+ 
+ 這些葡萄糖被釋放入血液中以提高血糖水平，使體內血糖恢復平衡。 
+ The glucose is released into the bloodstream to raise the blood glucose level and restore body balance. 
+ 
+ ---
+ 
+ (b)（以下任答兩項） 
+ 每餐進食較小分量，但增加進食次數，以維持血糖穩定。 
+ Eat smaller portions of food but more frequently to maintain steady blood glucose levels. 
+ 
+ 避免高糖食物或大量精製碳水化合物。 
+ Reduce the intake of high‑sugar or refined carbohydrate foods. 
+ 
+ 經常運動以幫助調節血糖。 
+ Take regular exercise to help regulate blood glucose. 
+ 
+ 定期監察血糖水平。 
+ Monitor blood glucose levels regularly. 
+ 
+ 服用適當藥物以控制血糖濃度。 
+ Take appropriate medication to control blood glucose concentration.",
+spp112,"📌**參考答案**
+ 
+ **氫的獲取（Hydrogen acquisition）** 最多2分
+ - 植物主要以 H₂O 的形式獲取氫。 
+ Plants mainly obtain hydrogen in the form of H₂O. 
+ - 根毛通過滲透作用吸收泥土中的水分。 
+ Water in soil is absorbed by root hairs through osmosis. 
+ - 氫亦可能從泥土中吸收 NH₄⁺ 而獲得。 
+ Hydrogen may also be derived from NH₄⁺ absorbed from the soil. 
+ 
+ **氮的獲取（Nitrogen acquisition）** 最多2分
+ - 植物以 NO₃⁻ 或 NH₄⁺ 的形式獲取氮。 
+ Plants acquire nitrogen in the form of NO₃⁻ or NH₄⁺. 
+ - 根毛通過擴散作用及主動運輸吸收 NO₃⁻ 和 NH₄⁺。 
+ NO₃⁻ and NH₄⁺ are absorbed by diffusion and active transport through root hairs. 
+ 
+ **氫與氮的結合（Incorporation of hydrogen and nitrogen）** 最多5分
+ - 在葉肉細胞的葉綠體內，光合作用的需光反應把水分解成氫和氧。 
+ Inside the chloroplast of mesophyll cells, water is split into hydrogen and oxygen in the light-dependent stage of photosynthesis. 
+ - 氫被 NADP 接收形成 NADPH。 
+ The hydrogen is accepted by NADP to form NADPH. 
+ - NADPH 的氫最終被納入光合作用產生的三碳化合物中。 
+ The hydrogen in NADPH is ultimately incorporated into 3-carbon compounds formed in photosynthesis. 
+ - 三碳化合物轉化為丙酮酸及克雷伯循環的中間產物。 
+ The 3-carbon compounds are converted to pyruvate and intermediates of the Krebs cycle. 
+ - 吸收的 NO₃⁻ 和 NH₄⁺ 被運送至葉肉細胞，用於合成氨基酸。 
+ Absorbed NO₃⁻ and NH₄⁺ are transported to mesophyll cells and used to form amino acids. 
+ - 合成的氨基酸彼此縮合形成蛋白質。 
+ The synthesized amino acids condense together to form proteins. 
+ 
+ ---
+ 
+ 📌**示範答案（分段論述形式）** 
+ 
+ ### 引言（Introduction） 
+ 氫和氮是蛋白質的主要構成元素，植物必須從環境中吸收兩者以進行合成。 
+ Hydrogen and nitrogen are essential elements for protein formation, and plants must absorb both from their surroundings. 
+ 非豆科植物依靠根毛從土壤中獲取這些元素，並在葉肉細胞中將它們結合形成蛋白質。 
+ Non-leguminous plants obtain these elements through root hairs from the soil and combine them in mesophyll cells to synthesize proteins. 
+ 
+ ---
+ 
+ ### 氫的獲取（Acquisition of Hydrogen） 
+ 氫主要以水的形式被根毛吸收。 
+ Hydrogen is mainly obtained in the form of water by root hairs. 
+ 水分在滲透作用下進入根毛，並可通過木質部運輸至葉片。 
+ Water moves into root hairs by osmosis and is transported to the leaves through the xylem. 
+ 此外，部分氫也可能來自泥土中被根吸收的銨離子 NH₄⁺。 
+ In addition, part of the hydrogen may come from ammonium ions (NH₄⁺) absorbed from the soil by roots. 
+ 
+ ---
+ 
+ ### 氮的獲取（Acquisition of Nitrogen） 
+ 植物主要從泥土中吸收硝酸根 NO₃⁻ 或銨離子 NH₄⁺。 
+ Plants mainly absorb nitrate ions (NO₃⁻) or ammonium ions (NH₄⁺) from the soil. 
+ 根毛利用擴散作用及主動運輸吸收這些無機離子，再輸送至葉組織。 
+ Root hairs take up these inorganic ions by diffusion and active transport before transporting them to leaf tissues. 
+ 
+ ---
+ 
+ ### 氫與氮的結合過程（Incorporation of Hydrogen and Nitrogen） 
+ 在葉肉細胞的葉綠體內，光合作用的需光反應分解水，釋放氧氣並生成 NADPH。 
+ Inside the chloroplast of mesophyll cells, the light-dependent reactions of photosynthesis split water, releasing oxygen and forming NADPH. 
+ NADPH 提供氫原子及能量，用以將二氧化碳還原生成三碳化合物，例如磷酸甘油酸（PGA）。 
+ NADPH provides hydrogen and energy to reduce carbon dioxide into 3-carbon compounds such as phosphoglyceric acid (PGA). 
+ PGA 經克雷伯循環進一步轉化為丙酮酸及其他有機分子。 
+ PGA is further converted into pyruvate and other organic intermediates in the Krebs cycle. 
+ 吸收的 NO₃⁻ 和 NH₄⁺ 被運至葉肉細胞，與這些有機分子的碳骨架結合形成氨基酸。 
+ The absorbed NO₃⁻ and NH₄⁺ are transported to mesophyll cells, where they combine with the carbon skeleton from these intermediates to form amino acids. 
+ 最後，氨基酸經縮合反應連接起來，組成多肽鏈並形成蛋白質。 
+ Finally, amino acids are linked by condensation reactions to form polypeptide chains, resulting in proteins. 
+ 
+ ---
+ 
+ ### 總結（Conclusion） 
+ 總括而言，非豆科植物從水獲取氫，從硝酸鹽或銨鹽獲取氮。 
+ In conclusion, non-leguminous plants obtain hydrogen from water and nitrogen from nitrate or ammonium salts. 
+ 二者在葉肉細胞中的代謝作用下結合，經由光合作用與氨基酸合成過程最終形成蛋白質。 
+ Both elements are incorporated in mesophyll cells through photosynthesis and amino acid synthesis to ultimately form proteins.",
+spp201a,"📌**參考答案
+ 
+ ---
+ 
+ **(i)** 
+ 進食冰塊後的五分鐘內，他的體內溫度下降，但皮膚溫度上升。 
+ Shortly after the consumption of ice, his internal body temperature fell, while his skin temperature rose. 
+ 
+ ---
+ 
+ **(ii)** 
+ 冰塊從消化道的血液吸熱，使血液冷卻。 
+ The ice absorbed heat from the blood in the digestive tract, cooling the blood. 
+ 冷卻後的血液經循環系統流至下丘腦，令該處偵測到體內溫度下降。 
+ The cooled blood circulated to the hypothalamus, where a fall in internal body temperature was registered. 
+ 
+ ---
+ 
+ **(iii)** 
+ 當下丘腦的溫度感受器偵測到體內溫度下降時，會啟動體內平衡機制以保存熱能、減少熱散失，使體內溫度回復正常。 
+ When the thermoreceptors in the hypothalamus detected a fall in internal temperature, a homeostatic mechanism was activated to conserve heat and reduce heat loss, restoring normal body temperature. 
+ 神經訊號被傳送至皮膚和汗腺，減少排汗。 
+ A nervous signal was sent to the skin and sweat glands to reduce sweating. 
+ 由於汗液蒸發所引致的熱散失減少，皮膚溫度因此上升。 
+ As less heat was lost through evaporation of sweat, the skin temperature increased. 
+ 
+ 或 
+ Alternatively, 
+ 當下丘腦偵測到體內溫度下降時，減少排汗使得散熱速率低於體熱獲得速率，因此皮膚溫度上升。 
+ When the hypothalamus detected a fall in internal temperature, reduced sweating caused the rate of heat loss to be lower than the rate of heat gain, resulting in an increase in skin temperature. 
+ 
+ ---
+ 
+ **(iv)** 
+ 由於室內溫度維持在45°C，皮膚上的溫度感受器會不斷偵測到這高溫並發出訊號至下丘腦，促使排汗作用以加強散熱。 
+ Since the room temperature was maintained at 45°C, thermoreceptors in the skin constantly detected the high temperature and sent signals to the hypothalamus to increase sweating for heat loss. 
+ 然而實驗中，雖然室溫維持不變，排汗仍隨體內溫度變化而改變，證明體內溫度對排汗的控制有更主要的作用。 
+ However, the experimental findings showed that sweating varied with changes in internal temperature even though the environmental temperature remained constant, indicating that internal temperature plays the dominant role in controlling sweating.",
+spp201b,"📌**參考答案（中英對照）** 
+ 
+ ---
+ 
+ **(i)** 
+ 由於濾液內的所有葡萄糖會在近曲小管被重吸收，因此 A 內液體並無葡萄糖。 
+ All the glucose in the filtrate is reabsorbed in the proximal convoluted tubule, so the fluid in A contains no glucose. 
+ 
+ 沿着腎小管，水分重吸收的比率較尿素高，故即使 A 和 B 內液體所含的尿素量相約，A 內液體的尿素濃度仍會較高。 
+ Along the renal tubule, the rate of water reabsorption is higher than that of urea, therefore, even if the total amount of urea in A and B is similar, the concentration of urea in A remains higher. 
+ 
+ ---
+ 
+ **(ii)** 
+ 大量排汗後，下丘腦的滲透壓感受器可探測到身體內的水勢下降。 
+ After heavy sweating, osmoreceptors in the hypothalamus detect a fall in the water potential of the body. 
+ 
+ 下丘腦遂透過神經訊息，刺激腦垂體分泌更多抗利尿激素（ADH）。 
+ The hypothalamus then sends a nervous signal to stimulate the pituitary gland to release more antidiuretic hormone (ADH). 
+ 
+ ADH 會增加遠曲小管及集尿管對水的透性。 
+ ADH increases the permeability of the distal convoluted tubule and the collecting duct to water. 
+ 
+ 使較大比例的水被重吸收回血液中，A 內液體的濃度上升。 
+ A greater proportion of water is thus reabsorbed into the blood, causing the concentration of the fluid in A to increase. 
+ 
+ ---
+ 
+ **(iii)** 
+ 相似：透析機人工膜和腎元管壁都是選透性，容許尿素和代謝廢物穿過，但均不容許體積大的血漿蛋白和血細胞穿過。 
+ Similarity: Both the dialysis membrane and the wall of the nephron are selectively permeable, allowing urea and metabolic wastes to pass through, but not plasma proteins or blood cells. 
+ 
+ 相異：腎元管壁的細胞有運輸分子，能主動重吸收有用物質（例如葡萄糖）返回血液，而透析機人工膜則沒有此功能。 
+ Difference: The cells of the nephron wall possess carrier molecules that actively reabsorb useful substances (e.g. glucose) into the blood, while the dialysis membrane lacks this function.",
+spp202a,"📌 **參考答案
+ 
+ ---
+ 
+ ### **(a)(i)** 
+ 1986：2.25 噸 (1) 
+ 1986: 2.25 tonnes (1) 
+ 
+ 1987：1.67 噸 (1) 
+ 1987: 1.67 tonnes (1) 
+ 
+ ---
+ 
+ ### **(a)(ii)** 
+ 圖題：1980 至 1987 年間每單位捕撈力量的漁獲變化 (½) 
+ Title: Change in fish catch per unit fishing effort from 1980 to 1987 (½) 
+ 
+ 正確選取橫軸及縱軸 (½) 
+ Correct choice of axes (½) 
+ 
+ 標示正確且包含單位 (1) 
+ Correct labelling of axes with units (1) 
+ 
+ 各年份數據正確且依次相連 (1) 
+ Correct plotting and joining of points (1) 
+ 
+ ---
+ 
+ ### **(a)(iii)** 
+ 由 1980 至 1987 年間，每單位捕撈力量的漁獲量顯著下降。 (1) 
+ From 1980 to 1987, the fish catch per unit fishing effort decreased significantly. (1) 
+ 
+ 因為這段期間捕撈力量的增加速度遠快於漁獲總量的增加。 (1) 
+ Because the increase in fishing effort was much faster than the increase in total fish catch. (1) 
+ 
+ 這現象可能由過度捕撈所致，海中魚群是一項有限的資源。 (1) 
+ This is probably due to overfishing, as the fish population in the sea is a limited resource. (1) 
+ 
+ ---
+ 
+ ### **(a)(iv)** 
+ 限制漁網網眼大小，使幼魚能逃脫並成長至性成熟。 (1) 
+ Restrict the mesh size of fishing nets so that juvenile fish can escape and grow to sexual maturity. (1) 
+ 
+ 禁止在特定季節（如繁殖期）捕魚，讓魚群能恢復數量。 (1) 
+ Ban fishing during certain seasons (such as the spawning season) to allow the fish population to recover. (1) 
+ 
+ 限制每次出海的捕魚量或漁船容量，使捕撈速度不超過魚群補充速度。 (1) 
+ Set a quota on fish catch per trip or limit the capacity of fishing gear so that fish catch rate does not exceed replenishment rate. (1) 
+ 
+ 劃定禁捕區，以提供魚類繁殖及棲息地。 (1) 
+ Designate no‑take zones to provide breeding and habitat areas for fish. (1)",
+spp202b,"📌 **參考答案（中英對照｜每行一分）** 
+ 
+ ---
+ 
+ ### **(b)(i)** 
+ 光線進入水中會被吸收、散射或反射。 (1) 
+ As light is absorbed, scattered or reflected when it passes through water. (1) 
+ 
+ 因此光強度會隨水深增加而減少。 (1) 
+ Therefore, light intensity decreases with increasing water depth. (1) 
+ 
+ 結果光合作用速率亦會隨水深增加而減少。 (1) 
+ As a result, the rate of photosynthesis decreases with increasing water depth. (1) 
+ 
+ ---
+ 
+ ### **(b)(ii)** 
+ 湖 A (1) 
+ Lake A (1) 
+ 
+ 在湖 A 的淺水區（0–10 m），光合作用速率較高。 (1) 
+ In the subsurface region (0–10 m) of lake A, the photosynthetic rate is much higher. (1) 
+ 
+ 這顯示湖 A 含有更多營養物質以支持生產者生長。 (1) 
+ This indicates that more nutrients are available to support the growth of producers in lake A. (1) 
+ 
+ 化學肥料含 NO₃⁻ 與 PO₄³⁻，可促進浮游植物及水生植物生長。 (1) 
+ Chemical fertilizers containing NO₃⁻ and PO₄³⁻ promote the growth of phytoplankton and aquatic plants. (1) 
+ 
+ ---
+ 
+ ### **(b)(iii)** 
+ 湖 A (1) 
+ Lake A (1) 
+ 
+ 白天時，湖 A 的光合作用速率較高，因此其浮游植物產生的氧氣量比湖 B 多。 (1) 
+ During daytime, the photosynthetic rate of lake A is higher, so oxygen production by phytoplankton is greater than in lake B. (1) 
+ 
+ 夜間，湖 A 的浮游植物數量龐大，呼吸作用劇烈並消耗大量氧氣。 (1) 
+ At night, the large phytoplankton population in lake A undergoes intense respiration, consuming a lot of oxygen. (1) 
+ 
+ 因此湖 A 的溶解氧含量將顯著下降至較低水平。 (1) 
+ Therefore, the dissolved oxygen level in lake A will drop to a lower level. (1)",
+spp203a,"📌 **參考答案（中英對照｜每行一分）** 
+ 
+ ---
+ 
+ ### **(a)(i)** 
+ 浸泡能使大麥外殼變軟，促進胚芽發芽。 (1) 
+ Soaking softens the grain coat of barley and induces germination. (1) 
+ 
+ 在發芽期間，大麥會合成澱粉酶或麥芽糖酶等酶。 (1) 
+ During germination, barley grains synthesize enzymes such as amylase or maltase. (1) 
+ 
+ 這些酶能將儲存在穀粒內的澱粉分解為麥芽糖，再分解為葡萄糖。 (1) 
+ These enzymes break down the starch stored in grains into maltose and then glucose. (1) 
+ 
+ 葡萄糖是酒精發酵的原料或基質。 (1) 
+ Glucose is used as the raw material or substrate for alcoholic fermentation. (1) 
+ 
+ ---
+ 
+ ### **(a)(ii)** 
+ 煮沸麥芽汁能殺死其中所有微生物。 (1) 
+ Boiling the wort kills all microorganisms present. (1) 
+ 
+ 煮沸亦能去除麥芽汁中的溶解氧。 (1) 
+ It also drives off all dissolved oxygen from the wort. (1) 
+ 
+ ---
+ 
+ ### **(a)(iii)** 
+ 酵母菌進行缺氧呼吸。 (1) 
+ Yeast carries out anaerobic respiration. (1) 
+ 
+ 把葡萄糖分解並轉化為乙醇，乙醇是啤酒的主要成分之一。 (1) 
+ It breaks down glucose to form ethanol, which is one of the main components of beer. (1) 
+ 
+ ---
+ 
+ ### **(a)(iv)** 
+ 橫軸：時間（天） (1) 縱軸：酵母菌的種群（每單位體積活細胞數） (1) 
+ Horizontal axis: Time (day) (1) Vertical axis: Yeast population (live cell count per unit volume) (1) 
+ 
+ 圖像開始時種群增加，顯示酵母菌在發酵池中繁殖。 (1) 
+ At the beginning, the population increases, showing yeast growth in the fermentation tank. (1) 
+ 
+ 之後達到平台期，代表在入樽前種群數穩定。 (1) 
+ Then it reaches a plateau, indicating a stable population before bottling. (1)",
+spp203b,"📌 **參考答案（中英對照｜每行一分）** 
+ 
+ ---
+ 
+ ### **(b)(i)** 
+ 巴斯德消毒法是利用加熱殺死鮮奶中大部分細菌。 (1) 
+ Pasteurization involves heating the milk, which kills most of the bacteria in it. (1) 
+ 
+ ---
+ 
+ ### **(b)(ii)** 
+ 在這兩星期內，殘留在鮮奶中的細菌迅速繁殖，細菌數量增加。 (1) 
+ During the two weeks, bacteria left in the milk multiply rapidly to a large number. (1) 
+ 
+ 乳酸菌把鮮奶中的乳糖發酵產生乳酸，使鮮奶變酸。 (1) 
+ Lactic acid bacteria ferment the lactose in the milk to produce lactic acid, making it sour. (1) 
+ 
+ 酸會使可溶性的乳蛋白變性，形成不溶的凝塊。 (1) 
+ The acid denatures the soluble milk proteins and turns them into insoluble curds. (1) 
+ 
+ ---
+ 
+ ### **(b)(iii)(1)** 
+ 鮮奶可能受到大量致病性細菌污染。 (1) 
+ The milk may be contaminated by a large number of pathogenic bacteria. (1) 
+ 
+ 部分細菌可能進入小腸並迅速繁殖，引致腹瀉。 (1) 
+ Some of these bacteria may enter the small intestine and multiply rapidly, causing diarrhoea. (1) 
+ 
+ ---
+ 
+ ### **(b)(iii)(2)** 
+ 沙門氏菌 (1) 
+ Salmonella (1) 
+ 
+ ---
+ 
+ ### **(b)(iv)** 
+ 牛油和芝士的含水量遠低於牛奶。 (1) 
+ Butter and cheese have a much lower water content than milk. (1) 
+ 
+ 水分不足令細菌活動減慢，抑制微生物生長。 (1) 
+ The lack of water slows down microbial activities and inhibits growth. (1)",
+spp204a,"📌 **參考答案（中英對照｜每行一分）** 
+ 
+ ---
+ 
+ ### **(a)(i)(1)** 
+ 質粒是細菌細胞中染色體以外的一小段環狀 DNA。 (1) 
+ A plasmid is a small circular piece of extrachromosomal DNA in bacterial cells. (1) 
+ 
+ ---
+ 
+ ### **(a)(i)(2)** 
+ 質粒體積小，容易被細菌細胞攝取。 (1) 
+ Plasmids are small in size and can be easily taken up by bacterial cells. (1) 
+ 
+ 質粒含有選擇性標記，如抗生素抗性基因，可篩選出已轉化的細菌。 (1) 
+ They contain selective markers, such as antibiotic resistance genes, allowing screening for transformed bacteria. (1) 
+ 
+ ---
+ 
+ ### **(a)(ii)** 
+ 相同的限制酶能在目標人類基因及質粒上產生相同的黏端。 (1) 
+ The same restriction enzyme produces identical sticky ends in the target human gene and the plasmid. (1) 
+ 
+ 因此，兩者的黏端能互補配對，並由 DNA 連接酶連接形成重組 DNA。 (1) 
+ Thus, the complementary sticky ends can join together by base pairing and DNA ligase to form recombinant DNA. (1) 
+ 
+ ---
+ 
+ ### **(a)(iii)** 
+ 把重組質粒導入某些細菌細胞（如大腸桿菌）。 (1) 
+ Introduce the recombinant plasmids into bacterial cells (e.g. _E. coli_). (1) 
+ 
+ 將細菌於含特定抗生素的培養基上培養，篩選出已轉化的細菌。 (1) 
+ Culture the bacteria on a medium containing the specific antibiotic to select the transformed cells. (1) 
+ 
+ 在含抗生素的營養培養基中大量繁殖已轉化的細胞。 (1) 
+ Mass culture the transformed bacterial cells in a nutrient medium containing the antibiotic. (1) 
+ 
+ 誘導凝血蛋白基因的表達，提取並純化所產生的凝血蛋白。 (1) 
+ Induce the expression of the clotting protein gene, then extract and purify the produced clotting protein. (1) 
+ 
+ ---
+ 
+ ### **(a)(iv)** 
+ 能大量生產凝血蛋白。 (1) 
+ Larger quantities of clotting proteins can be produced. (1) 
+ 
+ 感染傳染病的風險較低。 (1) 
+ Lower risk of infection by blood‑borne diseases. (1) 
+ 
+ 凝血蛋白較純，副作用較少。 (1) 
+ Higher purity of clotting proteins results in fewer side effects. (1) 
+ 
+ 生產成本較低。 (1) 
+ Production cost is lower. (1)",
+spp204b,"📌 **參考答案**
+ 
+ ---
+ 
+ **(i)** 
+ 從個體提取 DNA 樣本 (1) 
+ Extract DNA sample from the individual (1)
+ 
+ 使用限制酶把樣本切成片段 (1) 
+ Use restriction enzyme to cut the sample into fragments (1)
+ 
+ 以電泳把不同大小的片段分離 (1) 
+ Separate the fragments of different sizes using electrophoresis (1)
+ 
+ 配對鑑定中不同個體的 DNA 指紋 (1) 
+ Match the DNA fingerprint patterns between individuals under study (1)
+ 
+ ---
+ 
+ **(ii)(1)** 
+ P 是 R 的父親／親本 (1) 
+ P is the father / parent of R (1)
+ 
+ R 的帶的位置，有些與 P 的帶相同，其餘的與 Q 的帶相同，顯示 P 和 Q 是 R 的雙親 (1) 
+ The bands of R are either common to those of P or those of Q, indicating that P and Q are R’s parents (1)
+ 
+ ---
+ 
+ **(ii)(2)** 
+ S (1) 
+ 
+ 他的 DNA 指紋中有些帶未能在 P 和 Q 的 DNA 指紋中找到 (1) 
+ There are bands in his DNA fingerprint that are found neither in P’s nor in Q’s DNA fingerprints (1)
+ 
+ ---
+ 
+ **(iii)** 
+ 作為法證工具，用以辨認疑犯／受害者／人體殘骸／失蹤人士 (1) 
+ As a forensic tool for identifying suspects / victims / human remains / missing persons (1)
+ 
+ 或 使用於古生物學 (1) 
+ Or applications in palaeontology (1)
+ 
+ 或 應用於醫學診斷（例如檢測病人和胎兒是否有遺傳病） (1) 
+ Or applications in medical diagnostics (e.g. screening patients and foetuses for inherited diseases) (1)
+ 
+ 或 檢驗食物來源 (1) 
+ Or establishing the provenance of foods (1)
+ 
+ 或 配對器官捐贈者與接受者 (1) 
+ Or matching organ donors and recipients (1)",
+ppp101,"## 📌參考答案 Reference Answers 
+ 
+ - 霍亂：**B** 
+  Cholera: **B** 
+ - 登革熱：**E** 
+  Dengue fever: **E** 
+ 
+ ---
+ 
+ ## 📖詳細解釋 Detailed Explanation 
+ 
+ - **霍亂（Cholera）** 是由霍亂弧菌經糞口途徑傳播，常因飲用被污染的水而感染。 
+  **Cholera** is caused by *Vibrio cholerae* and transmitted via the fecal-oral route, often through contaminated water. 
+ - 將水煮沸可殺死病原體，因此「**將水煮沸後才飲用（B）**」能有效預防霍亂感染。 
+  Boiling water kills the pathogen, therefore “**boil water before drinking (B)**” effectively prevents cholera infection. 
+ 
+ - **登革熱（Dengue fever）** 是由蚊子，特別是埃及伊蚊傳播的病毒性疾病。 
+  **Dengue fever** is a viral disease transmitted by mosquitoes, mainly *Aedes aegypti*. 
+ - 清除積水能消滅蚊子的滋生地，減少傳播風險，因此「**清除積水（E）**」是預防登革熱的有效方法。 
+  Removing stagnant water destroys mosquito breeding sites and reduces transmission, so “**remove stagnant water (E)**” is an effective preventive method. 
+ 
+ ---
+ 
+ ## ⚠️考試提醒 Exam Tips 
+ 
+ - 題型常要求將疾病與預防方法配對，考生應熟悉常見傳染病的**致病原及傳播途徑**。 
+  This question type often asks matching diseases with preventive methods — be familiar with **causative agents and transmission modes**. 
+ 
+ - 若是水傳播疾病（如霍亂、痢疾），應選與**清潔水源或食物衛生**有關的答案。 
+  For waterborne diseases (e.g., cholera, dysentery), choose options related to **clean water or food hygiene**. 
+ 
+ - 若是蚊媒疾病（如登革熱、瘧疾），應選與**防蚊或清除積水**相關的選項。 
+  For vector-borne diseases (e.g., dengue fever, malaria), choose options involving **mosquito control or removing stagnant water**.",
+ppp102,"## 📌參考答案 Reference Answers 
+ 
+ - (a) 欖狀／海綿葉肉細胞 
+  (a) Palisade / spongy mesophyll cell 
+ 
+ - (b) 以下任選兩組： 
+  (b) Any two of the following sets: 
+ 
+  • **構造 P：糖酵解／底物水平磷酸化** 
+  **Structure P: Glycolysis / Substrate-level phosphorylation** 
+ 
+  • **構造 Q：氧化磷酸化作用** 
+  **Structure Q: Oxidative phosphorylation** 
+ 
+  • **構造 S：光化作用／光磷酸化作用** 
+  **Structure S: Photochemical reactions / Photophosphorylation** 
+ 
+ ---
+ 
+ ## 📖詳細解釋 Detailed Explanation 
+ 
+ - **欖狀或海綿葉肉細胞**是葉片進行光合作用的主要區域，包含線粒體、葉綠體與細胞質等結構。 
+  **Palisade or spongy mesophyll cells** are the main sites of photosynthesis in leaves, containing mitochondria, chloroplasts, and cytoplasm. 
+ 
+ - **P（細胞質 cytoplasm）** 是糖酵解的場所，藉由底物水平磷酸化直接從中間產物合成少量 ATP。 
+  **P (cytoplasm)** is where glycolysis occurs, generating a small amount of ATP through substrate-level phosphorylation. 
+ 
+ - **Q（線粒體 mitochondrion）** 是細胞呼吸的場所，電子傳遞鏈進行氧化磷酸化產生大量 ATP。 
+  **Q (mitochondrion)** is the site of cellular respiration, where oxidative phosphorylation in the electron transport chain produces large amounts of ATP. 
+ 
+ - **S（葉綠體 chloroplast）** 進行光合作用的光反應，藉光能驅動光磷酸化合成 ATP。 
+  **S (chloroplast)** carries out the light-dependent reactions of photosynthesis, where light energy drives photophosphorylation to form ATP. 
+ 
+ ---
+ 
+ ## ⚠️考試提醒 Exam Tips 
+ 
+ - 小心辨認**細胞器結構**（如雙層膜、內膜摺疊），影像題常考識別線粒體與葉綠體。 
+  Be careful in identifying **cell organelles** (e.g., double membranes, internal folds); image questions often test recognizing mitochondria and chloroplasts. 
+ 
+ - 記住三個主要 ATP 生成過程： 
+  Remember the three major ATP synthesis processes: 
+  1️⃣ 糖酵解（Glycolysis）— 在細胞質進行。 
+  Occurs in cytoplasm. 
+  2️⃣ 氧化磷酸化（Oxidative phosphorylation）— 在線粒體進行。 
+  Occurs in mitochondria. 
+  3️⃣ 光磷酸化（Photophosphorylation）— 在葉綠體內進行。 
+  Occurs in chloroplasts. 
+ 
+ - 題目通常只需選「任意兩組」，超出不加分但錯誤會扣分，应答準確不宜亂填。 
+  Usually, only *any two pairs* are required; no extra marks for more, and wrong ones may lose marks — answer precisely.",
+ppp103,"## 📌參考答案 Reference Answers 
+ 
+ - (a) **視網膜** 
+  **Retina** 
+ 
+ ---
+ 
+ - (b) 
+  • 光感受器 **A** 是負責黑白視覺的**視桿細胞**，不能分辨顏色。 
+  **Photoreceptor A** is a **rod cell** responsible for black-and-white vision and cannot distinguish colours. 
+ 
+  • 光感受器 **B** 是負責產生色覺的**視錐細胞**。 
+  **Photoreceptor B** is a **cone cell** responsible for colour vision. 
+ 
+  • 視錐細胞只會在強光下被刺激，弱光時則難以受激。 
+  **Cone cells** are stimulated only in bright light and are less sensitive in dim light. 
+ 
+  • 在強光下，更多視錐細胞被刺激，因此能形成色彩鮮明的圖像。 
+  In bright light, more cone cells are stimulated, forming a clearer and more colourful image. 
+ 
+  • 相反地，在弱光下，受到刺激的視錐細胞數量較少，物體色彩顯得較暗淡。 
+  Conversely, in dim light, fewer cone cells are stimulated, so coloured objects appear less vivid. 
+ 
+ ---
+ 
+ ## 📖詳細解釋 Detailed Explanation 
+ 
+ - **視桿細胞（Rods）**：感光度高，在弱光下工作，但不能辨識顏色；只負責明暗。 
+  **Rod cells:** High light sensitivity, function in dim light, but cannot detect colours — only brightness. 
+ 
+ - **視錐細胞（Cones）**：感光度低，在強光下工作，能分辨紅、綠、藍三種主色光。 
+  **Cone cells:** Lower sensitivity, function in bright light, and detect red, green, and blue light for colour vision. 
+ 
+ - 因此在日光下（光度高），視錐細胞大量被激活，物體顏色鮮豔；而夜晚在弱光中，主要由視桿細胞作用，顏色變得模糊。 
+  Thus, under daylight (high intensity), many cone cells are activated — colours appear vivid; in dim light, mainly rods function, so colours appear dull. 
+ 
+ ---
+ 
+ ## ⚠️考試提醒 Exam Tips 
+ 
+ - 必須清楚指出光感細胞的**名稱及功能差異**（Rod vs Cone）。 
+  Be sure to name and describe the **differences in function** between the two photoreceptors. 
+ 
+ - 考題常設陷阱：部分學生誤以為兩者都能感光於強光；要記得**視桿細胞在強光下會飽和失效**。 
+  A common trap is assuming both respond to bright light — remember **rod cells are saturated and inactivated under bright light**. 
+ 
+ - 作答時建議包含三點： 
+  Include three key points: 
+  1️⃣ 顏色辨識能力 (Colour vision) 
+  2️⃣ 光強度敏感度 (Sensitivity to light intensity) 
+  3️⃣ 明／暗環境下反應差異 (Response in bright/dim conditions)",
+ppp104,""" ## 📌參考答案 Reference Answers 
+ 
+ ---
+ 
+ ### (a) 
+ - **PHBA 會降低酚氧化酶的反應速率**。 
+  **PHBA reduces the rate of the enzymatic reaction catalyzed by diphenol oxidase.** 
+ 
+ - **當酚的濃度提高時，反應速率可恢復至未加 PHBA 時的水平。** 
+  **However, when the substrate concentration (phenol) increases, the reaction rate can reach a level comparable to that without PHBA.** 
+ 
+ - **由此可見，PHBA 是酚氧化酶的「競爭性抑制劑」。** 
+  **This indicates that PHBA is a *competitive inhibitor* of the enzyme diphenol oxidase.** 
+ 
+ ---
+ 
+ ### (b) 
+ <img src='images/ppp104.png' />
+ 
+ - 圖中虛線表示加了 PHBA 的情況，曲線向右移。 
+  The dashed curve represents the reaction with PHBA added, showing a shift to the right. 
+ 
+ - 當酚濃度較低時，加入 PHBA 的反應速率下降；但在高酚濃度下，反應速率可達與未加 PHBA 的水平相似。 
+  At low phenol concentrations, the reaction rate decreases with PHBA; but at high concentrations, the rate approaches that of the reaction without PHBA. 
+ 
+ - 這現象示意 PHBA 與酚競爭酶的活性部位。 
+  This demonstrates that PHBA competes with phenol for the enzyme’s active site. 
+ 
+ ---
+ 
+ ### (c) **對酶活性的另一可變因素：pH** 
+ **Another variable affecting enzyme activity: pH** 
+ 
+ - 改變 **pH 值會導致酶活性部位結構或形狀改變**。 
+  A change in **pH** may alter the configuration or shape of the enzyme’s active site. 
+ 
+ - 底物將無法正確結合形成「酶–底物複合物」，導致活性降低。 
+  The substrate can then no longer fit to form an enzyme–substrate complex, leading to reduced activity. 
+ 
+ - 若 pH 偏離最適值過多，酶甚至會變性失活。 
+  If the pH deviates greatly from the optimum, the enzyme may denature and lose activity completely. 
+ 
+ ---
+ 
+ ## 📖詳細解釋 Detailed Explanation 
+ 
+ - **競爭性抑制（Competitive inhibition）** 是指抑制劑分子與底物在結構上相似，可搶佔酶的活性部位。 
+  **Competitive inhibition** occurs when an inhibitor molecule resembles the substrate and competes for the enzyme’s active site. 
+ 
+ - 當底物濃度增加時，底物分子在競爭中佔優勢，抑制效應被克服，反應速率恢復。 
+  As substrate concentration increases, more substrate molecules outcompete the inhibitor, so the inhibition effect is overcome and the reaction rate recovers. 
+ 
+ ---
+ 
+ ## ⚠️考試提醒 Exam Tips 
+ 
+ - 留意圖像中曲線「右移」代表**競爭性抑制**，而「降低最大反應速率」則為**非競爭性抑制**。 
+  Remember: a **rightward shift** indicates *competitive inhibition*, whereas a **reduction in maximum rate* indicates *non-competitive inhibition*. 
+ 
+ - 作答時須同時指出三點核心： 
+  Include all three key points: 
+  ① 酶反應速率降低（inhibition observed） 
+  ② 增加底物可克服抑制（effect overcome by excess substrate） 
+  ③ 為競爭性抑制劑（competitive inhibitor identified） "".""""",
+ppp105,"## 📌參考答案 Reference Answers 
+ 
+ ---
+ 
+ ### (a) 
+ **測定誤差原因（任選三項）：** 
+ **Reasons for inaccuracy in sampling (any three):** 
+ 
+ 1️⃣ 未有重複樣方取樣，結果可能不具代表性。 
+ No replicate sampling was carried out, so the result may not be representative. 
+ 
+ 2️⃣ 樣方法不適用於移動較快的動物如蟹，難以準確估算其數目。 
+ Quadrat sampling is not suitable for estimating the number of mobile animals such as crabs. 
+ 
+ 3️⃣ 若只收集沙表面的生物，則會遺漏居於沙下的蛤。 
+ If only surface animals are collected, burrowing bivalves (clams) will be missed. 
+ 
+ 4️⃣ 未以隨機方法選取樣方，所得樣本可能有偏差。 
+ Sampling is not random, which may lead to a biased result. 
+ 
+ ---
+ 
+ ### (b) 
+ 
+ ---
+ 
+ **情境說明 Scenario:** 
+ 若蛤被過度捕撈導致數量減少： 
+ If a large number of clams are removed from the shore: 
+ 
+ ✅ **答案 1（蟹的數目維持不變）** 
+ 蟹會多吃蝸來補充食物來源，因此蟹的數目維持不變。 
+ The population size of the crabs remains constant, as crabs will eat more snails when clams become less abundant. 
+ 
+ **或 OR** 
+ 
+ ✅ **答案 2（蟹的數目下降）** 
+ 由於蛤減少，蟹會捕食更多蝸；但蝸的數量不足以維持蟹的數目，因此蟹的數量下降。 
+ The population size of the crabs may decrease, as more snails are eaten when clams are reduced, but the number of snails may not be sufficient to maintain the crab population. 
+ 
+ ---
+ 
+ ## 📖重點總結 Key Concepts 
+ 
+ - **樣方取樣 (Quadrat sampling)** 適合固定或行動緩慢的生物，不適合移動快的動物（如蟹）。 
+  Quadrat sampling is suitable for stationary or slow-moving organisms, not for fast-moving ones (like crabs). 
+ 
+ - **隨機抽樣 (Random sampling)** 可避免抽樣偏差，確保結果具代表性。 
+  Random sampling reduces bias and ensures data representativeness. 
+ 
+ - **捕食者—獵物關係 (Predator-prey relationship)**：獵物數量改變會影響捕食者的食量與族群數。 
+  Predator-prey dynamics: changes in prey abundance affect predator feeding and population size. 
+ 
+ ---
+ 
+ ✅ **考試技巧 Exam Tip** 
+ 此題通常要求三點抽樣限制 + 一個食物鏈分析句式。 
+ 建議背熟關鍵詞： 
+ > “No replicate sampling,” “mobile animals,” “burrowing animals,” “non-random sampling,” “competitive relationship between prey”.",
+ppp106,"## 📌參考答案 
+ 
+ ---
+ 
+ ### (a) 
+ 因為細菌取自人體，所以人的體溫適宜該細菌生長。 
+ Since the bacteria were taken from a human being, the human body temperature is suitable for the growth of the bacteria. 
+ 
+ ---
+ 
+ ### (b)(i) 
+ D → A → C → B 
+ 
+ ---
+ 
+ ### (b)(ii) 
+ 抗生素由濾紙圓塊向外擴散。 
+ The antibiotic diffuses outward from the paper disc. 
+ 
+ 距離濾紙圓塊越遠，該處的抗生素濃度越低。 
+ The farther away from the disc, the lower the concentration of the antibiotic. 
+ 
+ 清晰圈越大，顯示抗生素即使在濃度較低時仍能有效抑制細菌生長。 
+ A larger clear zone indicates that the antibiotic is effective in inhibiting bacterial growth even at a lower concentration. 
+ 
+ ---
+ 
+ ### (c) 
+ 細菌對抗生素 B 的抗性而言，細菌中存在遺傳變異。 
+ Genetic variations exist among bacteria in their resistance to antibiotic B. 
+ 
+ 持續使用抗生素 B 時，沒有抗性的細菌被消滅，而有抗性的細菌得以存活。 
+ When antibiotic B is continuously used, non‑resistant bacteria are killed while resistant bacteria survive. 
+ 
+ 抗性的細菌繁殖並產生抗性的後代。 
+ The resistant bacteria reproduce and produce resistant offspring. 
+ 
+ 因此，群體中抗性細菌的比例增加，導致抗生素 B 的效用下降。 
+ As the proportion of resistant bacteria increases, the effectiveness of antibiotic B decreases.
+ 
+ 📌詳細解釋
+ 此題考察「抗生素效能測試」及「抗藥性演化」概念。
+ This question tests the concepts of antibiotic effectiveness testing and the evolution of antibiotic resistance.
+ 
+ 濾紙圓塊法利用抗生素向外擴散，形成濃度梯度。
+ The paper disc diffusion method relies on antibiotic diffusion outward, forming a concentration gradient.
+ 
+ 清晰圈代表該抗生素能抑制細菌生長的範圍。
+ The clear zone represents the region where bacterial growth is inhibited by the antibiotic.
+ 
+ 清晰圈越大，代表抗菌能力越強。
+ The larger the clear zone, the stronger the antibacterial effectiveness.
+ 
+ 抗藥性細菌出現的原因是基因突變帶來抗性，經自然選擇後在族群中比例上升。
+ The emergence of resistant bacteria results from mutations conferring resistance, which increase in frequency through natural selection.
+ 
+ 這個實驗模擬臨床上抗藥性逐漸出現的過程。
+ This experiment simulates how antibiotic resistance develops gradually in real-life medical contexts.
+ 
+ 📌考試提醒
+ 答題時不要只說「清晰圈大＝有效」，要說明濃度梯度與抗生素擴散原理。
+ In exams, do not only state “a larger zone means more effective” — explain the concentration gradient and diffusion principle of the antibiotic.
+ 
+ 提及「遺傳變異」和「自然選擇」是高分關鍵。
+ Mentioning genetic variation and natural selection is key to gaining full marks.
+ 
+ 避免誤將「抗藥性增加」理解為「細菌變強」，應寫為「抗性菌比例上升」。
+ Avoid saying “bacteria become stronger”; say “the proportion of resistant bacteria increases.”
+ 
+ 記得比較四種抗生素的清晰圈大小次序：D＞A＞C＞B。
+ Remember to rank the antibiotics by zone size: D > A > C > B.",
+ppp107,"📌 **參考答案
+ 
+ ---
+ 
+ ### **(a)(i)** 
+ - 冠狀動脈。 
+ - Coronary artery. 
+ 
+ ---
+ 
+ ### **(a)(ii)** 
+ - 劇烈運動時，心肌細胞的工作量（負荷）增加。 
+ - During vigorous exercise, the workload of the heart muscle cells increases. 
+ 
+ - 動脈 X 狹窄，使流向心肌的血液量減少。 
+ - The narrowing of artery X reduces the blood flow to the heart muscles. 
+ 
+ - 導致心肌細胞獲得的氧氣及葡萄糖減少。 
+ - This reduces the supply of oxygen and glucose to the heart muscle cells. 
+ 
+ - 由於能量（ATP）不足，一些心肌細胞可能死亡。 
+ - Due to insufficient energy (ATP), some heart muscle cells may die. 
+ 
+ - 因此，陳先生在劇烈運動時可能會出現心臟病發。 
+ - Therefore, Mr. Chan may suffer from a heart attack during vigorous exercise. 
+ 
+ ---
+ 
+ ### **(b)(i)** 
+ - 香煙煙霧含一氧化碳，會與血紅蛋白結合，減少血液的攜氧能力。 
+ - Cigarette smoke contains carbon monoxide, which binds with haemoglobin and reduces the oxygen-carrying capacity of blood. 
+ 
+ - 戒煙可減少一氧化碳吸入，提升血液含氧量。 
+ - Quitting smoking reduces the carbon monoxide inhaled and increases blood oxygen level. 
+ 
+ ---
+ 
+ ### **(b)(ii)** 
+ - 低脂膳食能減少脂肪及膽固醇在冠狀動脈壁內的積聚。 
+ - A low-fat diet reduces the build-up of fats and cholesterol in the wall of the coronary artery. 
+ 
+ - 這有助防止動脈粥樣硬化。 
+ - This helps prevent atherosclerosis. 
+ 
+ - 從而降低心臟病發的風險。 
+ - Thus, it lowers the risk of heart attack.",
+ppp108,"📌 **參考答案（中英對照，一句一句）**
+ 
+ ---
+ 
+ ### **(a)** 
+ - （原生）生態演替。 
+ - (Primary) ecological succession. 
+ 
+ ---
+ 
+ ### **(b)(i)(1)** 
+ - 固氮細菌。 
+ - Nitrogen-fixing bacteria. 
+ 
+ ---
+ 
+ ### **(b)(i)(2)** 
+ - 固氮細菌把空氣中的氮氣轉化為銨化合物。 
+ - Nitrogen-fixing bacteria convert atmospheric nitrogen into ammonium compounds. 
+ 
+ - 這些氮化合物可供植物物種 A 和 B 製造蛋白質。 
+ - These nitrogenous compounds are used by plant species A and B for protein synthesis. 
+ 
+ - 當植物 A 和 B 死亡後，其遺體被分解者分解，釋放出氮化合物。 
+ - After the death of plant species A and B, their remains are decomposed, releasing nitrogen compounds. 
+ 
+ - 因此，階段 1 和階段 2 的土壤含氮量上升。 
+ - Hence, the soil nitrogen content rises during Stages 1 and 2. 
+ 
+ ---
+ 
+ ### **(b)(ii)** 
+ - 物種 C 對氮的需求較高，在階段 1 氮含量低時不能生存。 
+ - Species C requires a high nitrogen level and cannot survive in Stage 1 when the nitrogen content is low. 
+ 
+ - 只有在土壤含氮量升至足夠水平的階段 2 ，物種 C 才可生長。 
+ - Species C can only grow in Stage 2 when the nitrogen content becomes sufficiently high. 
+ 
+ - 隨着階段 3 的競爭出現，物種 C 取代物種 A 和 B 成為優勢種。 
+ - In Stage 3, species C outcompetes species A and B and becomes the dominant species.",
+ppp109,""" 📘 **參考答案（中英對照）**
+ 
+ ---
+ 
+ ### **(a)** 
+ 
+ - 在配子形成（減數分裂）時，第 21 對同源染色體未能於第二次分裂時分離。 
+ - During gamete formation (meiosis), the members of chromosome pair 21 fail to separate in the second meiotic division. 
+ 
+ - 因此其中一個卵細胞含有多一條第 21 對染色體。 
+ - As a result, one ovum contains an extra chromosome 21. 
+ 
+ - 當這個卵與一個正常的精子結合後，產生的胚胎擁有三條第 21 對染色體，導致唐氏綜合症。 
+ - When this ovum fuses with a normal sperm, the zygote has three copies of chromosome 21, leading to Down syndrome. 
+ 
+ ---
+ 
+ ### **(b)(i)** 
+ 
+ - 色盲是一種伴性遺傳特徵，其等位基因位於 X 染色體上。 
+ - Colour blindness is a sex-linked trait; its allele is located on the X chromosome. 
+ 
+ - 男孩 E 患色盲，其 X 染色體必然由母親 B 遺傳。 
+ - Since boy E is colour-blind, his X chromosome carrying the allele for colour blindness must have come from his mother B. 
+ 
+ - 由於男孩 E 的父親為正常視覺，父親只能提供正常的 Y 染色體。 
+ - The father has normal vision and thus provides a normal Y chromosome. 
+ 
+ - 因此，母親 B 必然有一條帶有色盲等位基因的 X 染色體，且由於她本身視覺正常，表明她另一條 X 染色體帶有正常視覺的等位基因。 
+ - Hence, mother B must have one X chromosome carrying the colour-blindness allele and another X chromosome carrying the normal vision allele. 
+ 
+ - 所以，母親 B 的基因型為 XᴮXᵇ（Xᴮ 代表正常視覺的等位基因，Xᵇ 代表色盲的等位基因）。 
+ - Therefore, the genotype of mother B is XᴮXᵇ (where B = normal vision allele, b = colour blindness allele). 
+ 
+ ---
+ 
+ ### **(b)(ii)** 
+ 
+ - 假設 E 與 F 結婚，而 F 是色盲基因攜帶者 (XᴮXᵇ)。 
+ - Suppose E (male, XᵇY) marries F (female carrier, XᴮXᵇ). 
+ 
+ 
+ Let B represent the allele for normal colour vision,
+ 設B 為正常色覺的等位基因
+ and b represent the allele for colour blindness.
+ 設b 為色盲的等位基因
+ 
+ 以下為遺傳圖： 
+ 
+ <img src='images/19p109.png' />
+ 
+ - 生出色盲女兒的機率 = ¼。 
+ - The probability of having a colour-blind daughter = ¼. 
+ 
+ ✅ **最終答案： ¼ (或 25%)** "",""""",
+ppp110,"📘 **參考答案
+ 
+ ---
+ 
+ ### **(a)** 
+ - 傳粉媒介：風。 
+ - Pollination agent: Wind. 
+ 
+ - 理據：花藥懸掛在花的外面。 
+ - Reason: The anther sacs are hanging outside the flowers, making pollen easily dispersed by wind. 
+ 
+ ---
+ 
+ ### **(b)** 
+ **水對種子萌發的重要性：** 
+ 
+ - 水軟化種皮，使胚根能突破種皮而長出。 
+ - Water softens the seed coat, allowing the radicle to emerge. 
+ 
+ - 水活化酶，使其能催化各種萌發所需的代謝反應。 
+ - Water activates enzymes that catalyse metabolic reactions required for germination. 
+ 
+ - 水水解儲存在種子內的食物（例如澱粉），釋放能量以供呼吸和生長使用。 
+ - Water enables hydrolysis of stored food (e.g. starch) to release energy for respiration and growth. 
+ 
+ - 水作為運輸媒介，將可溶性養分運送至生長區使用。 
+ - Water acts as a medium for transporting soluble nutrients to the growing regions of the embryo. 
+ 
+ ---
+ 
+ ### **(c)** 
+ **實驗設計：探究殺蟲劑 X 是否影響麥粒萌發**
+ 
+ 1. **樣本數量**：取足夠數量（例如 50 粒）的麥粒。 
+  - *Sample size:* Use a sufficiently large number of wheat grains (e.g. 50). 
+ 
+ 2. **實驗組**：把麥粒浸泡在加入殺蟲劑 X 的水中。 
+  - *Experimental group:* Soak the grains in water containing pesticide X.* 
+ 
+ 3. **對照組**：把同等數量的麥粒浸泡在清水（不含 X）中。 
+  - *Control group:* Soak an equal number of grains in water without X.* 
+ 
+ 4. **控制變量**： 
+  - 兩組麥粒在相同的環境條件（溫度、光照、時間等）下萌發。 
+  - *Controlled variables:* Allow both groups to germinate under identical environmental conditions (temperature, light, time, etc.). 
+ 
+ 5. **測量方法**： 
+  - 比較兩組的萌發成功率，檢查結果是否有顯著差異。 
+  - *Measurement:* Compare the germination success rates to see if there is any significant difference.* 
+ 
+ ✅ **預期：** 若殺蟲劑 X 抑制萌發，則實驗組的萌發率將顯著低於對照組。 
+ ✅ *Expected result:* If pesticide X inhibits germination, the experimental group will have a significantly lower germination rate than the control.",
+ppp111,"📘 **參考答案
+ 
+ ---
+ 
+ ### **(a)(i)** 
+ - 細胞膜由磷脂雙分子層組成。 
+ - The cell membrane is composed of a phospholipid bilayer. 
+ 
+ - 脂肪酸是非極性分子，可溶於磷脂層，因此能擴散穿越細胞膜進入細胞。 
+ - Fatty acids are non-polar and can dissolve in the phospholipid layer, thus diffusing through the membrane into the cell. 
+ 
+ ---
+ 
+ ### **(a)(ii)** 
+ - 氨基酸為極性分子，不能溶於磷脂層，因此不能擴散穿越細胞膜。 
+ - Amino acids are polar molecules and cannot dissolve in the phospholipid layer, hence cannot diffuse across the membrane. 
+ 
+ - 一些跨越磷脂層的蛋白質形成通道或載體，運送氨基酸穿越膜。 
+ - Some proteins spanning the membrane act as channels or carriers to transport amino acids across the membrane. 
+ 
+ - 這種通過蛋白通道或載體蛋白的運輸是單向的。 
+ - Such transport by channel or carrier proteins is unidirectional. 
+ 
+ ---
+ 
+ ### **(b)** 
+ - 名稱：**主動運輸（active transport）**。 
+ - Name: **Active transport**. 
+ 
+ - 主動運輸需要能量及載體蛋白，而擴散則不需要能量。 
+ - Active transport requires energy and carrier proteins, while diffusion does not require energy. 
+ 
+ ✅ **可接受答案：** 
+ **易化擴散（facilitated diffusion）** 也可；易化擴散需要載體蛋白，而普通擴散不需要。 
+ ✅ *Acceptable alternative answer:* Facilitated diffusion — carrier proteins are needed for it, but not for simple diffusion.",
+ppp112,"📘 **參考答案
+ 
+ ---
+ 
+ **引言與重要性** 
+ 植物與動物都能對外界刺激作出反應，以維持生存。（1） 
+ Both plants and animals can respond to external stimuli to maintain survival. 
+ 
+ 植物的向性反應是生長性反應，而人類的反射動作是不涉及生長的非生長性反應。（1） 
+ The tropic response in plants involves growth, while the reflex action in humans is a non‑growth response. 
+ 
+ 茎的正向光性使葉朝向光源生長，最大限度吸收陽光進行光合作用。（1） 
+ The positive phototropic response of the shoot enables the leaves to face the light and absorb maximum sunlight for photosynthesis. 
+ 
+ （或）根的負向光性使根深入土壤，以固定植物並吸收更多水與礦物質。（1） 
+ (Or) The negative phototropic response of the root enables it to grow deeper into the soil for anchorage and to absorb more water and minerals. 
+ 
+ ---
+ 
+ **本質** 
+ 向性反應是植物對單側外界刺激作出的方向性生長反應。（1） 
+ A tropic response is a directional growth response of a plant to a unidirectional stimulus. 
+ 
+ 它涉及化學物質（如生長素）的移動與再分佈。（1） 
+ It involves the movement and redistribution of chemical substances such as auxins. 
+ 
+ 反射動作是對刺激產生的固定及自動反應，與學習無關。（1） 
+ A reflex action is a fixed and automatic response to a stimulus that does not involve learning. 
+ 
+ 反射動作由神經衝動控制，神經訊息為電化學性質。（1） 
+ A reflex action is controlled by nerve impulses, which are electrochemical in nature. 
+ 
+ ---
+ 
+ **過程** 
+ 向性反應通過化學物質信號傳導，因此反應較慢。（1） 
+ The tropic response is mediated by chemical signaling and is relatively slow. 
+ 
+ 反射動作經神經衝動傳遞，因此反應非常迅速。（1） 
+ The reflex action is transmitted through nerve impulses and is very fast. 
+ 
+ 對同一刺激，植物不同部位可產生相反效果，例如莖正向光、根負向光。（1） 
+ For the same stimulus, different parts of a plant can produce opposite responses, e.g. shoot positive phototropism, root negative phototropism. 
+ 
+ 反射動作則無此差異，所有效應器對相同刺激皆作出相同反應。（1） 
+ In reflex actions, there is no such variation — all effectors give the same response to the same stimulus. 
+ 
+ ---
+ 
+ **總結** 
+ 向性反應與反射動作皆有助於生物應對環境變化以求生存。（1） 
+ Both tropic responses and reflex actions help organisms respond to environmental changes for survival. 
+ 
+ 然而，它們在反應速度、控制方式及是否涉及生長方面存在根本差異。（1） 
+ However, they differ fundamentally in response speed, control mechanisms, and whether growth is involved. 
+ 
+ ---
+ 
+ ✅ **最高可得分：10 分**
+ 
+ 📌 示範答案（中英對照）
+ 引言 Introduction
+ 植物與動物都能對外界刺激作出反應，以確保生存。
+ Both plants and animals can respond to external stimuli to ensure survival.
+ 
+ 植物的向性反應屬於生長性的反應，而人類的反射動作屬於非生長性的反應。
+ The tropic response in plants involves growth, whereas the reflex action in humans is a non‑growth response.
+ 
+ 向性反應的重要性 Importance of Tropic Response
+ 茎的正向光性使植物的葉子朝向光源生長，吸收最大量陽光以進行光合作用。
+ The positive phototropic response of the shoot enables leaves to grow toward light and absorb maximum sunlight for photosynthesis.
+ 
+ 這有助於製造更多的有機養分，提高植物的生存機會。
+ This helps the plant produce more organic food and increases its survival chances.
+ 
+ （或）
+ (Alternatively,)
+ 
+ 根的負向光性使根部遠離光源，深入土壤中以吸收更多水分及礦物質。
+ The negative phototropic response of roots allows them to grow deeper into the soil to absorb more water and minerals.
+ 
+ 本質 Nature of the Two Responses
+ 向性反應是植物對單側刺激所作出的有方向生長反應。
+ A tropic response is a directional growth response of part of a plant to a unidirectional stimulus.
+ 
+ 這種反應涉及生長素等化學物質的分佈與傳遞。
+ This response is mediated by the distribution and transport of hormones such as auxins.
+ 
+ 反射動作則是對刺激產生的固定式短暫反應，不涉及生長。
+ In contrast, a reflex action is a fixed, rapid response to a stimulus that does not involve growth.
+ 
+ 反射動作由神經衝動經感受器、傳入神經、中樞神經、傳出神經到效應器完成。
+ It is mediated by nerve impulses that pass from receptor to sensory neuron, central nervous system, motor neuron, and effector.
+ 
+ 過程 Process
+ 向性反應較慢，因其涉及化學物質的移動及細胞差異性生長。
+ The tropic response is relatively slow because it involves chemical transport and differential cell growth.
+ 
+ 反射動作則反應迅速，因為神經衝動的傳遞是電化學性的。
+ Reflex action is rapid as transmission of nerve impulses is electrochemical.
+ 
+ 植物的不同部位（如根與莖）對同一刺激可產生不同方向的反應。
+ Different parts of a plant, such as roots and stems, can respond differently (positively or negatively) to the same stimulus.
+ 
+ 例如根對光呈負向反應，而莖對光呈正向反應。
+ For example, roots show a negative phototropic response while shoots show a positive phototropic response.
+ 
+ 但在人類的反射動作中，無論受刺激的部位在哪裡，結果都是相同的反應型式。
+ However, in human reflexes, the same type of stimulus always produces the same response.
+ 
+ 總結 Conclusion
+ 總的來說，向性反應與反射動作都能幫助生物體對外界刺激作出回應並維持生命活動。
+ In conclusion, both tropic responses and reflex actions enable organisms to react to external stimuli and maintain vital functions.
+ 
+ 但兩者在反應速度、控制機制及是否涉及生長上有明顯不同。
+ However, they differ markedly in speed, control mechanisms, and involvement of growth",
+ppp201a,"## 📌 **參考答案** 
+ 
+ **(i)** 
+ 排卵。 
+ Ovulation. 
+ 
+ **(ii)** 
+ 在第 14 日後，高濃度的促黃體激素（LH）刺激卵泡破裂形成黃體。（1） 
+ After day 14, a high level of luteinising hormone (LH) stimulates the ruptured follicle to develop into a corpus luteum. 
+ 
+ 黃體分泌孕酮，導致血漿中孕酮濃度從第 14 日起持續上升。（1） 
+ The corpus luteum secretes progesterone, resulting in a continuous rise in plasma progesterone concentration from day 14 onwards. 
+ 
+ 第 28 日以後孕酮維持於高水平，顯示該女子已懷孕，黃體持續分泌孕酮。（1） 
+ After day 28, progesterone remains high, indicating that the woman is pregnant and the corpus luteum continues to produce progesterone. 
+ 
+ **(iii)** 
+ 若孕酮水平驟降，會導致流產或月經來潮，因子宮內膜脫落。（1） 
+ If the progesterone level drops sharply, miscarriage or menstruation occurs as the uterine lining detaches. 
+ 
+ **(iv)** 
+ 若在第 14 日後孕酮維持高水平，則促卵泡激素（FSH）與促黃體激素（LH）均維持低水平。（1） 
+ After day 14, a high progesterone level suppresses both follicle-stimulating hormone (FSH) and luteinising hormone (LH) to remain low. 
+ 
+ 當 FSH 與 LH 都維持低水平時，卵泡不會發育或成熟，因此不會發生排卵。（1） 
+ With low FSH and LH levels, follicles do not develop or mature, and no ovulation will occur. 
+ 
+ 因此，孕酮可用作避孕藥。（1） 
+ Hence, progesterone can be used as a contraceptive drug. 
+ 
+ ---
+ 
+ ## 📌 **詳細解釋
+ 
+ **(i)** 
+ 排卵是指卵巢中的成熟卵泡破裂並釋放卵細胞的過程。 
+ Ovulation is the process where a mature ovarian follicle ruptures and releases an ovum. 
+ 
+ 此過程通常出現在月經週期第 14 日左右，由促黃體激素激增所引起。 
+ It usually occurs around day 14 of the menstrual cycle and is triggered by a surge in luteinising hormone (LH). 
+ 
+ ---
+ 
+ **(ii)** 
+ 在排卵後，卵泡殘餘的細胞形成黃體。 
+ After ovulation, the remaining follicle cells form a corpus luteum. 
+ 
+ 黃體分泌孕酮以維持子宮內膜的厚度，為受精卵著床作準備。 
+ The corpus luteum secretes progesterone to maintain the thickness of the uterine lining for possible implantation. 
+ 
+ 如果受精發生，胚胎釋放的激素（如 hCG）會防止黃體退化，使孕酮維持在高水平。 
+ If fertilisation occurs, hormones from the embryo (such as hCG) prevent the degeneration of the corpus luteum, maintaining high progesterone levels. 
+ 
+ 高水平的孕酮在圖表第 28 日後持續，顯示該女子懷孕。 
+ The sustained high level of progesterone after day 28 in the graph indicates that the woman is pregnant. 
+ 
+ ---
+ 
+ **(iii)** 
+ 若孕酮水平急劇下降，子宮內膜失去支持而剝落。 
+ If progesterone levels drop sharply, the uterine lining loses support and sheds off. 
+ 
+ 這會導致月經來潮；若在懷孕中發生，會導致流產。 
+ This leads to menstruation, or if during pregnancy, miscarriage. 
+ 
+ ---
+ 
+ **(iv)** 
+ 孕酮可抑制下丘腦與腦垂體前葉分泌 FSH 和 LH。 
+ Progesterone inhibits the hypothalamus and anterior pituitary from secreting FSH and LH. 
+ 
+ 當 FSH 和 LH 濃度低時，新卵泡無法形成或成熟，排卵不會發生。 
+ When FSH and LH levels are low, no new follicles can form or mature, and ovulation does not occur. 
+ 
+ 由此原理，含孕酮的避孕藥可以防止排卵而達到避孕效果。 
+ Based on this mechanism, progesterone-containing contraceptive pills prevent ovulation and thus achieve contraception. 
+ 
+ ---
+ 
+ ## 📌 **考試提醒
+ 
+ 答題時要清楚說明**激素的來源**、**作用位置**及**影響**，否則容易失分。 
+ In answering, clearly state the **source**, **target site**, and **effect** of each hormone; omission of these details often leads to loss of marks. 
+ 
+ 圖表題需指出**時間變化（如第 14 日及第 28 日）**與**激素濃度變化的關係**。 
+ For graph‑based questions, always link **timing (e.g. day 14, day 28)** with **hormone level changes**. 
+ 
+ 常見錯誤包括把孕酮（progesterone）與雌激素（oestrogen）混淆。 
+ A common mistake is confusing progesterone with oestrogen. 
+ 
+ 若問及避孕，必須寫出孕酮如何抑制 **FSH、LH、卵泡發育、排卵** 等過程。 
+ When asked about contraception, you must mention how progesterone suppresses **FSH, LH, follicle development, and ovulation**. 
+ 
+ 本題為高頻考題，分數分布明確，熟悉激素互相調控時間表是得分關鍵。 
+ This is a high‑frequency topic with clear mark allocation; mastering the hormonal regulation timeline is key to scoring full marks.",
+ppp201b,"📘 **題目：人體生理學 — 體內環境調節、運動與排尿機制** 
+ 
+ ---
+ 
+ ## 📌 **參考答案**
+ 
+ **(i)** 
+ 心輸出量（Cardiac output）＝心搏量 × 心搏率 
+ Cardiac output = stroke volume × heart rate 
+ 
+ 換氣率（Ventilation rate）＝潮氣量 × 呼吸速率 
+ Ventilation rate = tidal volume × breathing rate 
+ 
+ 靜止時：5.25 dm³/min 
+ At rest: 5.25 dm³/min 
+ 
+ 輕微運動時：13.05 dm³/min 
+ During light exercise: 13.05 dm³/min 
+ 
+ 劇烈運動時：20.9 dm³/min 
+ During vigorous exercise: 20.9 dm³/min 
+ 
+ 換氣率總結： 
+ Ventilation rate summary: 
+ 靜止：12.04 dm³/min；輕微運動：40.08 dm³/min；劇烈運動：100 dm³/min 
+ At rest: 12.04 dm³/min; light exercise: 40.08 dm³/min; vigorous exercise: 100 dm³/min 
+ 
+ ---
+ 
+ **(ii)** 
+ 隨著運動量上升，心輸出量與換氣率均同步增加。（1） 
+ Both cardiac output and ventilation rate increase with increasing exercise intensity. 
+ 
+ 心輸出量增加讓更多氧氣與葡萄糖輸送至骨骼肌，以滿足更高能量需求。（1） 
+ Increased cardiac output delivers more oxygen and glucose to skeletal muscles to meet higher energy demand. 
+ 
+ 換氣率上升使更多氧氣進入體內，同時加速二氧化碳與乳酸的移除。（1） 
+ Higher ventilation allows more oxygen intake and faster removal of carbon dioxide and lactic acid. 
+ 
+ 這樣可防止代謝廢物積聚，維持肌肉活動效率。（1） 
+ This prevents accumulation of metabolic waste and maintains muscle performance efficiency. 
+ 
+ ---
+ 
+ **(iii)** 
+ 運動期間，交感神經活動增加，釋放更多去甲腎上腺素並刺激腎上腺分泌腎上腺素。（1） 
+ During exercise, sympathetic nerve activity increases, releasing more noradrenaline and stimulating the adrenal gland to release adrenaline. 
+ 
+ 腎上腺素促使心臟竇房結（SA node）活動加快，令心搏率上升。（1） 
+ Adrenaline stimulates the sinoatrial (SA) node to increase its rate, leading to a higher heart rate. 
+ 
+ 同時促進心肌收縮力，使心搏量及心輸出量上升。（1） 
+ It also enhances cardiac muscle contraction, increasing stroke volume and hence cardiac output. 
+ 
+ ---
+ 
+ **(iv)** 
+ 劇烈運動時，身體大量出汗以協助散熱，導致血液滲透壓上升、水勢下降。（1） 
+ During vigorous exercise, heavy sweating helps dissipate heat, causing blood osmotic pressure to rise and water potential to drop. 
+ 
+ 這刺激下丘腦滲透壓感受器，促使腦下垂體分泌更多抗利尿激素（ADH）。（1） 
+ This stimulates osmoreceptors in the hypothalamus, triggering the pituitary gland to release more antidiuretic hormone (ADH). 
+ 
+ ADH 增加腎集合管對水的通透性，使較大比例的水被重吸收返入血液。（1） 
+ ADH increases water permeability of the collecting ducts, enabling more reabsorption of water into the blood. 
+ 
+ 結果產生的尿液量減少，避免過度失水。（1） 
+ As a result, the volume of urine produced decreases, preventing excessive dehydration. 
+ 
+ ---
+ 
+ ## 📌 **詳細解釋** 
+ 
+ 運動強度增加時，身體需更多能量以支援肌肉活動。 
+ When exercise intensity increases, the body requires more energy to support muscle contractions. 
+ 
+ 心輸出量上升能將更多氧氣和養分輸送至肌肉細胞，加速有氧呼吸生成 ATP。 
+ An increased cardiac output transports more oxygen and nutrients to muscle cells, enhancing aerobic respiration and ATP production. 
+ 
+ 換氣率增加確保體內氧氣供應充足，同時排出過量的二氧化碳與乳酸。 
+ An elevated ventilation rate ensures adequate oxygen supply while removing excess CO₂ and lactic acid. 
+ 
+ 交感神經在運動時被活化，釋放去甲腎上腺素及腎上腺素，使心搏率與搏出量上升。 
+ Sympathetic nerves become active during exercise, releasing noradrenaline and adrenaline, increasing heart rate and stroke volume. 
+ 
+ 在劇烈運動階段，體溫升高導致出汗增多，若不調節會出現脫水風險。 
+ During vigorous exercise, increased body temperature leads to more sweating, risking dehydration if unregulated. 
+ 
+ 為防體液失衡，腦下垂體釋出更多 ADH，提高腎集合管對水的通透性，使腎臟重吸更多水分。 
+ To prevent body fluid imbalance, the pituitary gland releases more ADH, enhancing water reabsorption in the kidneys. 
+ 
+ 因此，尿液量減少，濃度增加，有助於維持血液體積與水勢穩定。 
+ Thus, urine volume decreases and concentration increases, maintaining blood volume and water potential. 
+ 
+ ---
+ 
+ ## 📌 **考試提醒**
+ 
+ 計算題一定要展示計算過程與單位，例如「心輸出量 = 心搏率 × 心搏量」。 
+ Always show the calculation process and include units, e.g. “Cardiac output = heart rate × stroke volume.” 
+ 
+ 當題目提及「隨運動增加」時，記得分開說明「心輸出量」及「換氣率」的變化與生理意義。 
+ When asked about changes “with exercise,” describe separately the changes in *cardiac output* and *ventilation rate* and their physiological significance. 
+ 
+ 若題目問「交感神經如何控制」，必須提及「去甲腎上腺素＋腎上腺素＋SA node」。 
+ If the question asks about “sympathetic control,” always mention “noradrenaline + adrenaline + SA node.” 
+ 
+ 解釋「尿液量減少」時，要完整寫出「血水勢下降 → ADH 增加 → 腎集合管通透性上升 → 重吸水上升 → 尿量減少」。 
+ For “less urine production,” include the full chain “low blood water potential → more ADH → higher collecting duct permeability → more reabsorption → less urine.” 
+ 
+ 運動生理題分數分佈明確，涵蓋**呼吸系統、心血管系統、泌尿系統**三部分，是整合性考題高頻題型。 
+ This topic integrates the **respiratory, cardiovascular, and excretory systems**, and is a high‑frequency integrative question type in DSE biology.",
+ppp202a,"## 📌 **參考答案
+ 
+ **(i)** 
+ 可採用標誌重捕法，例如在雀鳥腳上套上標籤環，觀察牠是否在目的地被重新捕獲。（1） 
+ The mark‑and‑recapture method can be used, e.g. attaching marked rings on the birds’ legs and checking if they are retrieved at the destination. 
+ 
+ 或可在雀鳥身上裝上全球衛星定位系統（GPS）追蹤器，以監測其飛行路線。（1） 
+ Alternatively, a GPS tracking device can be installed on the birds to monitor their migratory route. 
+ 
+ ---
+ 
+ **(ii)(1)** 
+ 由 1966 至 2005 年，美國一月份的平均氣溫整體上升。（1） 
+ From 1966 to 2005, the average January temperature in the U.S.A. shows an increasing trend. 
+ 
+ ---
+ 
+ **(ii)(2)** 
+ 雀鳥過冬地點向北遷移，因北部地區變得較溫暖。（1） 
+ The wintering sites of the birds have shifted northward as northern regions became warmer. 
+ 
+ 較暖的北方地區能提供足夠食物及適宜棲息環境，因此雀鳥毋須飛往更南方。（1） 
+ The warmer northern areas now provide suitable habitats and food supply, so the birds need not fly further south. 
+ 
+ ---
+ 
+ **(ii)(3)** 
+ 候鳥物種與當地原生鳥類可能發生食物與棲息地競爭。（1） 
+ Migratory birds may compete with native bird species for food and territory. 
+ 
+ 候鳥亦可能成為當地捕食性鳥類的獵物，導致原生鳥類數量上升。（1） 
+ The migrants may also become prey of native birds, increasing the population of native predators. 
+ 
+ （接受其他合理答案，如疾病傳播或食物網結構改變。） 
+ (Other reasonable answers accepted, e.g. disease spread or food‑web alteration.) 
+ 
+ ---
+ 
+ **(ii)(4)** 
+ 人類燃燒更多化石燃料產生能量，釋出更多二氧化碳，使大氣中該氣體濃度增加。（1） 
+ Humans burn more fossil fuels to generate energy, releasing more carbon dioxide and increasing its atmospheric concentration. 
+ 
+ 飼養更多牲畜及填埋場中有機廢物分解，也令甲烷濃度上升。（1） 
+ Raising more livestock and decomposition of organic waste in landfills increase the concentration of methane. 
+ 
+ 二氧化碳與甲烷為溫室氣體，可吸收和儲存地球輻射出的熱能。（1） 
+ Both carbon dioxide and methane are greenhouse gases that absorb and trap heat radiated from the Earth’s surface. 
+ 
+ 這導致地球表面溫度持續升高，引起全球暖化，令一月份平均氣溫上升。（1） 
+ This causes the Earth’s surface temperature to rise, leading to global warming and hence an increase in average January temperature. 
+ 
+ ---
+ 
+ ## 📌 **詳細解釋
+ 
+ 雀鳥每年定期在繁殖地與越冬地之間往返，稱為遷徙現象。 
+ Birds migrate regularly each year between breeding and wintering grounds, a phenomenon known as migration. 
+ 
+ 當氣候變暖，原本寒冷的北方地區變得適宜棲息與覓食，因此冬季棲息地便逐漸北移。 
+ With climate warming, formerly cold northern areas become suitable for habitation and feeding, leading to northward shifts in wintering sites. 
+ 
+ 利用標誌重捕法或 GPS 技術，可以準確追蹤候鳥遷徙方向與距離。 
+ Mark‑and‑recapture methods or GPS tracking allow precise monitoring of migration routes and distances. 
+ 
+ 氣候變暖的根本原因是溫室氣體（如 CO₂、CH₄）濃度增加。 
+ The fundamental cause of climate warming is the rising concentration of greenhouse gases (such as CO₂ and CH₄). 
+ 
+ 化石燃料燃燒、畜牧排放及垃圾分解皆釋放這些氣體至大氣中。 
+ Burning fossil fuels, livestock emissions, and waste decomposition release these gases into the atmosphere. 
+ 
+ 溫室氣體吸收由地表輻射出的紅外線能量，使能量滯留在大氣層內。 
+ Greenhouse gases absorb infrared radiation emitted by the Earth’s surface, trapping energy within the atmosphere. 
+ 
+ 結果導致全球氣溫上升，即全球暖化現象，其影響包括候鳥遷徙路線改變及物種分布重組。 
+ As a result, global temperatures rise — the global warming effect — influencing migratory routes and species distributions. 
+ 
+ ---
+ 
+ ## 📌 **考試提醒
+ 
+ 題目若提及「追蹤遷徙路線」，必須清楚指出**方法原理**（標誌重捕法或 GPS 追蹤）。（1） 
+ When “tracking migration routes” is asked, explicitly describe the **principle** (mark‑and‑recapture or GPS tracking). 
+ 
+ 答氣候趨勢時要寫出**整體上升**或**平均溫度增加**，只寫「溫度改變」不會得分。（1） 
+ When describing temperature trends, state “an overall increase” or “a rise in average temperature”; saying simply “temperature changed” is insufficient. 
+ 
+ 生態互動題型（如競爭、掠食）至少列出兩項，並以明確關係詞（compete for / become prey）表達。（1） 
+ For ecological interaction questions (e.g., competition, predation), list at least two clear relationships using precise terms like *compete for* or *become prey*. 
+ 
+ 全球暖化因果題要涵蓋**氣體來源 → 濃度上升 → 吸熱 → 氣溫上升**的完整因果鏈。（1） 
+ For global warming cause‑and‑effect questions, include the full chain: **gas source → increase in concentration → heat absorption → temperature rise**. 
+ 
+ 這題常結合氣候變化與行為生態，是 **DSE 生態學熱門綜合題型**，需訓練學生運用跨領域知識。 
+ This question integrates climate change and behavioural ecology — a **common integrated DSE ecology topic** requiring cross‑topic understanding.",
+ppp202b,"📌**參考答案（中英對照｜列出所有可行答案）** 
+ 
+ ---
+ 
+ ### **(i) 酸雨的兩項影響** 
+ （任擇兩項即可｜Any two） 
+ 
+ - 酸雨降低水體的 pH，使對酸性敏感的生物死亡。 
+ Acid rain decreases the pH of water bodies, killing organisms that are sensitive to acidity. 
+ 
+ - 對棲息地中某些物種造成死亡，使該地區生物多樣性下降。 
+ This reduces the populations of some species and thus lowers biodiversity in the habitat. 
+ 
+ - 酸雨令土壤中的鋁離子溶出，鋁離子對植物根部有毒。 
+ Acid rain releases aluminium ions from soil, which are toxic to plant roots. 
+ 
+ - 對植物生長造成障礙，使地區的植物數量和生產力下降。 
+ This inhibits plant growth, reducing plant population and productivity. 
+ 
+ - 酸雨沖走土壤養分，如硝酸鹽和磷酸鹽。 
+ Acid rain leaches away nutrients (e.g., nitrates, phosphates) from the soil. 
+ 
+ - 土壤肥力下降，植物難以吸收所需養分。 
+ Soil fertility decreases, reducing plant nutrient uptake. 
+ 
+ ✅**評分提示：** 
+ - 每組答案包括「原因 + 影響」可得滿分。 
+ One mark for *cause* and one for *impact*. 
+ 
+ ---
+ 
+ ### **(ii) 森林 B 較快恢復原因** 
+ （任一即可｜Any one） 
+ 
+ - 森林 B 保留了較多養分於樹根及土壤中。 
+ Forest B retains a greater proportion of nutrients in its roots and soil. 
+ 
+ - 伐林後，地下仍有可供新植物吸收的養分。 
+ After logging, nutrients remain available for new plant growth. 
+ 
+ - 養分損失較少，因此植被重建速度較快。 
+ Lower nutrient loss allows faster regrowth of vegetation. 
+ 
+ ---
+ 
+ ### **(iii)(1) 生物多樣性的重點原因** 
+ （任一即可｜Any one） 
+ 
+ - 生物多樣性提供人類可直接或間接使用的物質（如食物、木材、藥物等）。 
+ Biodiversity provides materials for direct or indirect human use (e.g. food, timber, medicine). 
+ 
+ - 生物多樣性有助維持生態系統的穩定性與復原力。 
+ Biodiversity maintains ecosystem stability and resilience after disturbances. 
+ 
+ - 生物多樣性為科研提供基因資源與取樣來源。 
+ Biodiversity provides genetic reservoirs and sampling sources for scientific study. 
+ 
+ - 生物多樣性促進生態旅遊與教育。 
+ Biodiversity supports ecotourism and environmental education. 
+ 
+ ---
+ 
+ ### **(iii)(2) 外來樹種選擇準則** 
+ （任擇其一即可｜Any one） 
+ 
+ - 該樹種能在受破壞或貧瘠的土壤中生長良好。 
+ The species can grow well in damaged or nutrient-poor soils. 
+ 
+ - 該樹種能快速生長，加快森林恢復進程。 
+ The species grows fast to accelerate forest recovery. 
+ 
+ - 該樹種能適應當地氣候與環境條件。 
+ The species can adapt to the local climate and environmental conditions. 
+ 
+ ---
+ 
+ ### **(iii)(2) 只用單一樹種的缺點** 
+ （任擇其一即可｜Any one） 
+ 
+ - 生物多樣性低，棲息動植物種類有限。 
+ Low biodiversity, providing limited habitats for other organisms. 
+ 
+ - 易受寄生蟲或病原體快速感染而毀壞。 
+ Prone to rapid destruction by specific pests or diseases. 
+ 
+ - 單一樹種只吸收特定礦物質與營養素。 
+ Single species deplete specific nutrients from the soil. 
+ 
+ - 長遠導致土壤部分養分，如氮與磷過度消耗。 
+ Leads to depletion of particular nutrients such as nitrogen and phosphorus over time. 
+ 
+ ---
+ 
+ 📘**詳細解釋（中英對照）** 
+ 
+ - 酸雨來自硫氧化物與氮氧化物，會形成酸性溶液進入水體及土壤。 
+ Acid rain forms from sulfur and nitrogen oxides, creating acidic precipitation entering water and soil. 
+ 
+ - 在酸性條件下，水中生物可能死亡，植物根部代謝受阻。 
+ Under acidic conditions, aquatic life dies and roots’ nutrient uptake is inhibited. 
+ 
+ - 酸雨能釋放鋁離子，使土壤結構和根部酵素活動受干擾。 
+ Acidification releases aluminium ions, disrupting soil structure and root enzyme activity. 
+ 
+ - 若森林中大部分養分集中於地上植物，一旦伐林會使養分流失嚴重。 
+ When most nutrients are stored in above-ground vegetation, logging causes significant nutrient loss. 
+ 
+ - 森林 B 養分保留在根部及土壤，因此伐林後養分循環較快恢復。 
+ In Forest B, nutrients remain in roots and soil, allowing faster nutrient cycling after logging. 
+ 
+ - 過度開發森林使棲息地破碎化，物種滅絕風險上升。 
+ Deforestation causes habitat fragmentation and increases extinction risk. 
+ 
+ - 單一樹種森林缺乏基因多樣性，生態系統面對病害時復原力低。 
+ Monocultures lack genetic variation and are less resilient to disease outbreaks. 
+ 
+ ---
+ 
+ ⚠️**考試提醒（中英對照）** 
+ 
+ - 題目寫「任舉兩項」時，考官只計首兩項有分句，額外答案不計分。 
+ When a question says “any two,” only the first two listed points are marked. 
+ 
+ - 解釋「酸雨影響」時必須含：原因（如酸化或離子釋放）＋影響（如殺死生物或降低肥力）。 
+ When explaining acid rain, include *cause (acidification/leaching)* + *impact (death/productivity loss)*. 
+ 
+ - 「森林恢復」題常考地下養分比例高者恢復較快，務必提到 roots/soil nutrients。 
+ For forest recovery, always mention that *more nutrients remain in roots/soil*. 
+ 
+ - 「生物多樣性」題常有多種正確方向：人類用途／生態穩定／科研／教育。 
+ Biodiversity questions accept multiple valid angles — human uses, ecological stability, research, or education. 
+ 
+ - 單一樹種考題要涵蓋兩點：**病害風險高 + 養分單一化/耗竭**。 
+ For monoculture disadvantages, cover both **high disease risk** and **nutrient depletion**.",
+ppp203a,"📌**參考答案
+ 
+ ---
+ 
+ ### **(i) 階段 1 為什麼是階段 2 的必要預備步驟？** 
+ （任擇任何一項均可得分｜Accept any one set of answers） 
+ 
+ - 在階段 1，真菌分泌酵素分解大豆和麥粒中的蛋白質成氨基酸，為發酵過程提供原料（例如味精的生產）。 
+ In stage 1, fungi secrete enzymes that break down proteins in soybeans and wheat into amino acids, providing raw materials for fermentation (e.g. MSG production). 
+ 
+ - 此階段亦釋放呼吸作用所需的底物和營養，促進細菌及酵母的生長。 
+ The stage also provides substrates and nutrients needed for respiration, enabling the growth of bacteria and yeast for fermentation. 
+ 
+ ✅**補充說明** 
+ 階段 1 屬「前處理階段」，使基質易於被後續發酵微生物利用。 
+ Stage 1 is a *pre-treatment stage* that readies the substrate for the fermenting microbes. 
+ 
+ ---
+ 
+ ### **(ii) 在階段 2 加入鹽水的重要性** 
+ （任擇其中一項即可｜Accept any one alternative） 
+ 
+ - 鹽水中高濃度的鹽能抑制不良微生物的生長。 
+ The high salt concentration inhibits the growth of undesirable microbes. 
+ 
+ - 鹽水能選擇性地只讓耐鹽的細菌及酵母進行發酵。 
+ It creates selective conditions allowing only salt-tolerant bacteria and yeasts to carry out fermentation. 
+ 
+ - 確保發酵過程受到控制，不致被雜菌污染。 
+ This ensures controlled fermentation without contamination by unwanted organisms. 
+ 
+ ✅**補充說明** 
+ 高鹽環境下能穩定風味並有效延長發酵時間。 
+ The salty environment helps stabilize flavour and prolong fermentation safely. 
+ 
+ ---
+ 
+ ### **(iii) 為何階段 3 必須以巴斯德消毒法處理生醬油？** 
+ （列出其中任何一項＋原因均可｜Any one reason with explanation） 
+ 
+ - 巴斯德消毒法於適度溫度下進行，能殺死醬油中殘餘的細菌與酵素。 
+ Pasteurisation at appropriate temperature kills residual bacteria and enzymes in the raw soy sauce. 
+ 
+ - 高溫能令蛋白質與酵素變性，停止其作用，避免品質繼續改變。 
+ The high temperature denatures proteins and enzymes, stopping their activity to prevent further product changes. 
+ 
+ - 經此處理可穩定醬油品質並延長保存期。 
+ This process stabilises soy sauce quality and extends its shelf life. 
+ 
+ ✅**補充說明** 
+ 巴斯德處理溫度通常維持在約 70–80°C，以防止營養與風味受損。 
+ Pasteurisation is usually performed around 70–80°C to maintain flavour and nutritional quality. 
+ 
+ ---
+ 
+ ### **(iv) 無菌操作的原理與目的** 
+ （可列出多項，任擇三項均可得分｜Any three of the following accepted） 
+ 
+ - 所有工作場所與器皿必須徹底清潔與消毒。 
+ All workplaces and fermentation equipment must be thoroughly cleaned and sterilised. 
+ 
+ - 預防微生物污染樣本或最終產品。 
+ To prevent microbial contamination of samples or the final product. 
+ 
+ - 操作人員需遵守良好個人衛生規範（例如操作前洗手、穿實驗袍）。 
+ Workers must maintain proper personal hygiene (e.g. hand washing before work, wearing lab gowns). 
+ 
+ - 在工作時須配戴口罩與手套，避免唾液或汗液污染樣本。 
+ Mask and gloves should be worn to prevent contamination by saliva or sweat. 
+ 
+ - 操作區應保持無塵與流動空氣控制環境。 
+ Maintain a dust-free and controlled airflow working area. 
+ 
+ ✅**補充說明** 
+ 無菌操作是食品發酵微生物學中確保產品純淨與安全的核心原理。 
+ Aseptic technique is the core microbiological principle ensuring product purity and safety during fermentation. 
+ 
+ ---
+ 
+ 📘**詳細解釋
+ 
+ - 在醬油製作的第一階段，真菌（如麴菌）先將原料中的蛋白質與澱粉分解成小分子化合物，為後續發酵提供養分。 
+ In the first stage of soy sauce production, fungi (e.g. *Aspergillus*) break down proteins and starches into small molecules to nourish fermenting microbes. 
+ 
+ - 第二階段的高鹽發酵有效防止雜菌生長，只容許耐鹽細菌與酵母（如乳酸菌與酵母菌）繁殖。 
+ During the high-salt fermentation stage, undesirable microbes are inhibited, allowing only salt-tolerant bacteria and yeasts (e.g. lactic acid bacteria) to grow. 
+ 
+ - 第三階段的巴斯德消毒可使殘餘酵素失活，使產品風味固定與保存期延長。 
+ The final pasteurisation stage inactivates remaining enzymes, stabilising the taste and extending shelf life. 
+ 
+ - 無菌操作能消除雜菌污染，是確保發酵穩定與醬油品質不變的重要步驟。 
+ Aseptic handling eliminates unwanted microbial contamination, ensuring consistent fermentation and product quality. 
+ 
+ ---
+ 
+ ⚠️**考試提醒 
+ 
+ - 「階段 1 的作用」題目常要求寫出**兩部分：生化分解作用 + 為發酵微生物提供基質**。 
+ For “Stage 1” questions, always include both **the biochemical breakdown** and **substrate provision** points. 
+ 
+ - 「加鹽作用」常混淆成“調味”因素，考試時要答出**抑菌／選擇性發酵條件**。 
+ Do **not** say salt is added for flavour — state **it creates selective inhibitory conditions**. 
+ 
+ - 「巴斯德消毒」須寫明**停止酵素作用／保持品質穩定**兩大重點。 
+ For pasteurisation, include both **stopping enzyme activity** and **preserving quality**. 
+ 
+ - 「無菌操作」題要寫出**原理（防污染）+ 具體措施（如消毒、個人衛生、佩戴防護具）**。 
+ For aseptic technique, mention both **principle (avoid contamination)** and **specific measures (sterilisation, hygiene, protective gear)**.",
+ppp203b,"📌**參考答案
+ 
+ ---
+ 
+ ### **(i)(1) 辨認微生物 M 並指出與大腸桿菌的差別** 
+ 
+ - 微生物 M 是病毒／噬菌體。 
+ Microbe M is a virus / bacteriophage. 
+ 
+ **任擇其一可作區別（Any one of the following differences）**： 
+ - 微生物 M 的體積比大腸桿菌細小得多。 
+ Microbe M is much smaller in size than *E. coli*. 
+ - 微生物 M 具有頭部及尾部，而大腸桿菌則沒有。 
+ Microbe M has a head and tail but *E. coli* does not. 
+ - 大腸桿菌有細胞膜與細胞壁，微生物 M 則沒有。 
+ *E. coli* has a cell membrane and cell wall, but microbe M does not. 
+ - 大腸桿菌屬於細胞生物，微生物 M 不是。 
+ *E. coli* is a cellular organism, microbe M is not. 
+ 
+ ---
+ 
+ ### **(i)(2) 圖 2 所示正在進行的事件** 
+ 
+ - 微生物 M 附着在大腸桿菌的表面上。 
+ Microbe M has attached to the surface of the *E. coli* cell. 
+ - 然後它把核酸（RNA 或 DNA）注入到大腸桿菌內。 
+ It injects its nucleic acid (RNA or DNA) into the *E. coli* cell. 
+ 
+ ---
+ 
+ ### **(i)(3) 為何大腸桿菌常用於基因改造（重組 DNA 技術）實驗？** 
+ 
+ **任擇其二（Any two of the following reasons）**： 
+ 
+ - 大腸桿菌含有質粒，可作為重組 DNA 技術的載體。 
+ It contains plasmids that can serve as vectors in recombinant DNA technology. 
+ 
+ - 大腸桿菌繁殖速度快，能在短時間內產生大量基因產物。 
+ *E. coli* reproduces rapidly and produces large quantities of gene products in a short time. 
+ 
+ - 大腸桿菌的生長條件已知且容易控制。 
+ Its growth conditions are well known and easy to control. 
+ 
+ - 大腸桿菌遺傳特性明確，容易進行基因操作。 
+ It possesses clearly understood genetic properties, making manipulation easy. 
+ 
+ - 大腸桿菌一般對人類致病性低，使用較安全。 
+ It is generally non-pathogenic to humans and hence safe to use. 
+ 
+ ---
+ 
+ ### **(ii)(1) 高水平大腸桿菌的環境意義** 
+ 
+ - 高數量的大腸桿菌顯示水樣受到糞便污染。 
+ A high *E. coli* count indicates faecal contamination of the water. 
+ 
+ - 這表明水中可能含有其他致病微生物，表現水質不良。 
+ It suggests possible presence of other disease-causing microbes, showing poor water quality. 
+ 
+ ---
+ 
+ ### **(ii)(2)(I) 問題：為何此方法可測出水中大腸桿菌數目？** 
+ 
+ - 每個被過濾膜捕獲的大腸桿菌在培養過程中分裂繁殖形成一可見菌落。 
+ Each *E. coli* cell trapped on the filter membrane divides and grows into a visible colony. 
+ 
+ - 計算菌落數即代表樣本中原有的大腸桿菌數量。 
+ The number of visible colonies represents the number of *E. coli* originally present in the water sample. 
+ 
+ ---
+ 
+ ### **(ii)(2)(II) 計算每 100 cm³ 水樣中的大腸桿菌數並評估水質** 
+ 
+ - 若培養皿上平均每格都有 26 個菌落，代表每 100 cm³ 海水含 52 個大腸桿菌。 
+ If there are 26 colonies per 50 cm³ sample, there are 52 *E. coli* per 100 cm³ of seawater. 
+ 
+ - “極差” 的標準為每 100 cm³ 含超過 1600 個大腸桿菌，因此樣本屬於「未達極差」。 
+ The “Very Poor” standard is over 1600 cells per 100 cm³, so the sample is not classified as “Very Poor.” 
+ 
+ ✅**整體結論**： 
+ 此海灘樣本的水質未達極差標準。 
+ The water quality of this beach sample is **not Very Poor**. 
+ 
+ ---
+ 
+ 📘**詳細解釋（
+ 
+ - 噬菌體是一種感染細菌的病毒，必須依賴宿主細胞進行繁殖。 
+ A bacteriophage is a virus that infects bacteria and reproduces only inside host cells. 
+ 
+ - 它附着在宿主（如 *E. coli*）表面，並利用尾部注入遺傳物質控制宿主代謝。 
+ It attaches to the host (e.g. *E. coli*) and injects genetic material to control the host’s metabolism. 
+ 
+ - *E. coli* 因繁殖快、基因結構清楚、易操控而常用於基因工程。 
+ *E. coli* is widely used in biotechnology due to fast growth, well-known genetics, and easy manipulation. 
+ 
+ - 水質檢測以菌落形成單位（CFU）為單位，菌落數可反映原始樣本中每個可生存的細胞。 
+ Water quality assessment uses colony-forming units (CFU); each colony represents one viable cell in the sample. 
+ 
+ - 大腸桿菌數量越高，表示糞便污染風險與潛在病原體的存在機率越高。 
+ A high *E. coli* count indicates faecal pollution and potential presence of pathogens. 
+ 
+ ---
+ 
+ ⚠️**考試提醒
+ 
+ - 「噬菌體與細菌」題：一律寫出形態差（大小／構造／有無細胞結構）即得分。 
+ For bacteriophage vs bacteria questions, always compare **size, structure, or presence of cell components**. 
+ 
+ - 圖 2 題只需寫「附着＋注入核酸」即可滿分。 
+ For diagram questions, just say “attachment + injection of nucleic acid.” 
+ 
+ - 「重組 DNA」常問三個方向：**繁殖快／基因載體（質粒）／安全易控**。 
+ For recombinant DNA, mention **rapid division, plasmid vector, or safety/ease of cultivation**. 
+ 
+ - 「水質評估」題：答出**污染來源（糞便）＋可能含病原體＋比較臨界值**可取滿分。 
+ For water quality questions, include **contamination source, disease risk, and threshold comparison**. 
+ 
+ - 請記住：每個菌落代表一個可存活的細胞，這是推算數目的關鍵概念。 
+ Remember: Each colony ≈ one viable cell — key for quantitative reasoning.",
+ppp204a,"📌 **參考答案
+ 
+ 
+ 
+ ### **4.(a)(i)** 
+ 骨髓幹細胞是未分化的細胞，可分化成淋巴細胞。 (1) 
+ Bone marrow stem cells are undifferentiated cells capable of differentiating into lymphocytes. (1) 
+ 
+ 病人可藉此產生淋巴細胞而對感染具抵抗力。 (1) 
+ This allows the patient to produce lymphocytes and gain protection against infections. (1) 
+ 
+ ---
+ 
+ ### **4.(a)(ii)** 
+ 體細胞基因治療是把正常基因插入病人的細胞中，以補償失效基因的功能。 (1) 
+ Somatic gene therapy involves inserting a normal gene into the patient’s cells to compensate for the malfunctioning gene. (1) 
+ 
+ 因此病人能恢復正常的生理機能，例如重新產生淋巴細胞。 (1) 
+ This allows the normal physiological function—such as lymphocyte production—to be resumed. (1) 
+ 
+ 優點：無需尋找骨髓相容捐贈者／不會出現排斥問題。 (1) 
+ Advantage: no need to look for a compatible bone marrow donor / no issue of rejection. (1) 
+ 
+ ---
+ 
+ ### **4.(a)(iii)** 
+ 若採用種系基因治療，後代的所有細胞都會含有正常基因。 (1) 
+ If germ-line gene therapy is used, all the offspring’s cells will contain the normal gene. (1) 
+ 
+ 若採用體細胞基因治療，只有插入正常基因的體細胞及其子細胞具有正常基因。 (1) 
+ If somatic gene therapy is used, only body cells with the inserted normal gene and their daughter cells will have the gene. (1) 
+ 
+ 種系基因治療可遺傳；體細胞基因治療不會遺傳。 (1) 
+ Germ-line gene therapy is inheritable, while somatic gene therapy is not. (1) 
+ 
+ ---
+ 
+ ### **4.(a)(iv)** 
+ 病毒載體會隨機地把所需基因插入病人的基因組中。 (1) 
+ The viral vector randomly inserts the desired gene into the patient’s genome. (1) 
+ 
+ 插入的基因可能進入其他基因的DNA序列中，影響該基因的表達。 (1) 
+ This newly inserted gene may disrupt the DNA sequence of another gene and affect its expression. (1) 
+ 
+ ---
+ 
+ ## 📖 **詳細解釋 (Detailed Explanation)** 
+ 
+ - 骨髓幹細胞能自我更新並具多向分化潛能，能在病人體內產生免疫淋巴細胞。 
+  *Bone marrow stem cells are self-renewing and multipotent, able to produce immune lymphocytes in patients.* 
+ 
+ - 體細胞基因治療不改變生殖細胞，只修復病人體內部分體細胞基因功能，避免遺傳風險。 
+  *Somatic gene therapy corrects gene function in body cells without affecting germ cells, avoiding heritable risks.* 
+ 
+ - 種系基因治療改變配子或胚胎基因，正常基因能遺傳至後代，但涉及倫理問題。 
+  *Germ-line gene therapy alters gamete or embryo genes; the normal gene can be passed on but raises ethical concerns.* 
+ 
+ - 病毒載體插入時為隨機事件，易激活癌基因或抑制抑癌基因，導致腫瘤或基因表達異常。 
+  *Random insertion by viral vectors can activate oncogenes or inhibit tumour suppressor genes, leading to cancer or misexpression.* 
+ 
+ ---
+ 
+ ## ⚠️ **考試提醒 (Exam Tips)** 
+ 
+ - 注意題目要求寫出指定細胞種類（如「淋巴細胞」），不要籠統寫「免疫細胞」。 
+  *Specify the exact cell type such as “lymphocytes” instead of just “immune cells.”* 
+ 
+ - 體細胞治療與種系治療的**遺傳性**差異是常見失分位。 
+  *The difference in heritability between somatic and germ-line therapy is a key marking point.* 
+ 
+ - 若問及病毒載體風險，必須同時提「隨機插入」與「基因表達受干擾」。 
+  *When discussing viral vector risks, always mention both “random insertion” and “interference with gene expression.”* 
+ 
+ - 題目常考比較題，留意「是否可遺傳」、「是否涉及倫理問題」、「是否有排斥」。 
+  *Comparison questions often test “inheritability,” “ethical issues,” and “possibility of rejection.”*",
+ppp204b,"📌 **參考答案
+ ---
+ 
+ ### **4.(b)(i)** 
+ 在 95°C 時，雙鏈DNA 的互補鹼基間的氫鍵被打斷，兩條DNA 鏈分開。 (1) 
+ At 95°C, the hydrogen bonds between complementary bases break, separating the two DNA strands. (1) 
+ 
+ 在 55°C 時，引物根據鹼基互補配對原則連接到單鏈DNA 模板上。 (1) 
+ At 55°C, primers anneal to the single stranded DNA templates by complementary base pairing. (1) 
+ 
+ 在 72°C 時，DNA 聚合酶於引物的 3′ 端加上核苷酸，形成新的DNA 鏈。 (1) 
+ At 72°C, DNA polymerase adds nucleotides to the 3′ end of the primers to synthesise new DNA strands. (1) 
+ 
+ ---
+ 
+ ### **4.(b)(ii)(1)** 
+ PCR 可將頭髮毛囊中極少量的DNA 大量複製，以進行下一步分析。 (1) 
+ PCR amplifies the tiny amount of DNA from a hair follicle for further analysis. (1) 
+ 
+ ---
+ 
+ ### **4.(b)(ii)(2)** 
+ PCR 產物可經凝膠電泳分離成條帶，根據分子大小區分。 (1) 
+ The PCR products are separated by gel electrophoresis into bands according to their molecular sizes. (1) 
+ 
+ 這些條帶組成被稱為DNA 指紋，可比對疑犯與犯罪現場樣本。 (1) 
+ The banding pattern forms a DNA fingerprint used to match a suspect with a sample from a crime scene. (1) 
+ 
+ 若兩者 DNA 指紋相符，可作為證據顯示該疑犯曾在現場。 (1) 
+ If the DNA fingerprints match, it can serve as evidence that the suspect was present at the scene. (1) 
+ 
+ ---
+ 
+ ### **4.(b)(iii)(1)** 
+ 在製造基因改造玉米時，會插入一段外來DNA 片段，例如 101 bp 的標記。 (1) 
+ When producing GM maize, a foreign DNA fragment of 101 bp acts as a marker sequence. (1) 
+ 
+ 經DNA 分析後，只有基因改造玉米樣本出現 101 bp 的峰值，證明含外來基因。 (1) 
+ Upon DNA analysis, only the GM maize shows the 101 bp band, confirming the presence of the foreign gene. (1) 
+ 
+ ---
+ 
+ ### **4.(b)(iii)(2)** 
+ 例如「黃金稻」，其基因改造能使稻米形成β-胡蘿蔔素（維生素A 前體）。 (1) 
+ Example: “Golden Rice” is genetically modified to produce β‑carotene (a precursor to vitamin A). (1) 
+ 
+ 這有助減低發展中國家因維生素A 缺乏而致盲的比率。 (1) 
+ This helps reduce vitamin A deficiency and prevent blindness in developing countries. (1) 
+ 
+ ---
+ 
+ ### **4.(b)(iii)(3)** 
+ 基因改造植物可能擴散到野生族群中，影響生態平衡。 (1) 
+ GM plants may spread to wild populations and disrupt the ecological balance. (1) 
+ 
+ 基因產生的毒素可能在食物鏈中積聚，危害高營養級的生物。 (1) 
+ Toxins from transgenes may bioaccumulate along the food chain, harming organisms at higher trophic levels. (1) 
+ 
+ ---
+ 
+ ## 📖 **詳細解釋 (Detailed Explanation)** 
+ 
+ - **PCR的三個主要步驟**： 
+  變性 → 分離雙鏈DNA； 退火 → 引物與模板結合； 延伸 → DNA 聚合酶延長新鏈。 
+  *Three main stages of PCR: denaturation (DNA strands separate), annealing (primers bind), extension (DNA polymerase synthesises new strands).* 
+ 
+ - **刑事應用**： 
+  DNA 指紋分析利用可變數量的重複序列，樣本之間差異可協助辨認個人身份。 
+  *DNA fingerprinting uses variable number tandem repeats (VNTRs) to identify individuals by banding pattern.* 
+ 
+ - **農業與生物技術應用**： 
+  分子標記（marker gene）幫助識別是否成功轉殖；如同PCR電泳圖中外來基因的特徵峰。 
+  *Molecular markers identify successful transformations; shown as distinct bands in PCR electrophoresis results.* 
+ 
+ - **潛在風險**： 
+  外來基因可能意外轉移給野生植物，形成「基因污染」或改變生態競爭關係。 
+  *Transgenes may spread to wild species causing gene flow and ecological imbalance.* 
+ 
+ ---
+ 
+ ## ⚠️ **考試提醒 (Exam Tips)** 
+ 
+ - **PCR步驟**須寫出**溫度與作用**（95°C 分離、55°C 退火、72°C 延伸）。 
+  *Always state both temperature and purpose for each PCR stage.* 
+ 
+ - **DNA 指紋分析**題中要提「凝膠電泳」及「分子大小不同的條帶」。 
+  *In DNA fingerprint questions, mention gel electrophoresis and band pattern differences by size.* 
+ 
+ - 基因改造作物題必須分辨「促進人類健康」與「對生態的不良影響」。 
+  *In GM crop questions, always balance health benefits and ecological risks.* 
+ 
+ - 若問環境後果，必須舉出**兩項具體例子**：如「基因擴散」與「毒素累積」。 
+  *When asked about environmental impacts, give two specific examples — gene spread and toxin accumulation.*",
