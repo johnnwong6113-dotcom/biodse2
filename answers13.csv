@@ -1121,60 +1121,35 @@ Hypertonic environment: water leaves the cell → vacuole shrinks; cell membrane
 Key difference: plant cells do not burst in distilled water due to the cell wall,
 but animal cells burst (lysis) under the same condition.",
 1325,"📌 參考答案
-C. 只有 (2) 和 (3)
+B. 只有 (2)
+B. (2) only
 
 📌 詳細解釋
+題目要求找出能令蔗糖溶液液面在一天後升至較高最終水平的處理方法，這取決於滲透作用達致平衡時進入薯洞內的水分總量。
+The question asks for the treatment that would cause the sucrose solution level to rise to a higher final level after one day, which depends on the total volume of water entering the cavity when osmosis reaches equilibrium.
+最終的水分體積由蒸餾水與薯洞內溶液之間的水勢差異決定。
+The final volume of water is determined by the water potential difference between the distilled water and the solution inside the potato cavity.
+聲明 (2) 是正確的，因為改用 20% 蔗糖溶液會降低洞內溶液的水勢，從而增加與外部蒸餾水之間的水勢差異。
+Statement (2) is correct because using a 20% sucrose solution lowers the water potential inside the cavity, thereby increasing the water potential difference with the external distilled water.
+更大的水勢差異會導致更多水分透過滲透作用進入薯洞，令最終液面升得較高。
+A steeper water potential gradient leads to more water entering the potato cavity by osmosis, resulting in a higher final liquid level.
 
-當馬鈴薯細胞外的溶液水勢較高（較稀、低滲溶液），水分會經滲透進入洞內，使蔗糖液面上升。
-When the external solution has a higher water potential (more dilute, hypotonic solution), water enters the cavity by osmosis, causing the sucrose level to rise.
-
-反之，若外界水勢較低（濃度高、為高滲溶液），水分會從洞內流出，液面下降。
-Conversely, if the external solution has a lower water potential (hypertonic solution), water leaves the cavity and the level falls.
-
-分析每一項處理方法：
-Analyzing each treatment:
-
-(1) 用 5% 蔗糖溶液代替 10% 蔗糖溶液。
-Replace 10% sucrose with 5% sucrose.
-→ 5% 溶液水勢比 10% 為高，但仍高於蒸餾水外部，滲透壓差變小，水分仍會流入，只是速度變慢或上升幅度減少。
-→ The 5% solution has a higher water potential than 10%, but the gradient with distilled water decreases—water will still move in, but the level rise is smaller.
-→ 液面仍上升。
-→ The level still rises. ✅
-
-(2) 用 20% 蔗糖溶液代替 10% 蔗糖溶液。
-Replace 10% sucrose with 20% sucrose.
-→ 外界蒸餾水水勢仍較高，滲透壓差更大，因此水分會更快流入洞內。
-→ External distilled water still has higher water potential; the osmotic gradient increases, so more water will enter the cavity.
-→ 液面會上升更多。
-→ The level rises even more. ✅
-
-(3) 把馬鈴薯的外皮全部削去，而非只剝去馬鈴薯的底部。
-Peel off all the potato skin instead of only the bottom part.
-→ 去掉馬鈴薯外皮可使蒸餾水更容易滲入細胞，減少阻力，使水分更快進入洞內。
-→ Removing the skin exposes more tissue to water, facilitating osmotic flow and allowing water to enter faster.
-→ 液面仍會上升。
-→ The level still rises. ✅
-
-因此，會使蔗糖溶液液面上升的處理是 (2) 和 (3)。
-Therefore, the treatments that increase the sucrose level are (2) and (3).
+其他選項分析：
+Analysis of other options:
+改用 5% 蔗糖溶液會提高洞內溶液的水勢，縮小與外部之間的水勢差異，導致最終進入薯洞的水分減少。
+Using a 5% sucrose solution increases the water potential of the solution inside the cavity, reducing the water potential difference with the outside, which results in less water entering the cavity ultimately.
+削去全部外皮確實能增加滲透作用的表面積並加快滲透速率，但由於溶液濃度不變，最終的水勢平衡點和水分總體積並不會改變。
+Peeling off all the outer skin indeed increases the surface area for osmosis and speeds up the rate, but since the solution concentration remains unchanged, the final point of water potential equilibrium and the total volume of water will not change.
+因此，只有處理方法 (2) 能夠提高最終液面水平，正確答案為 B。
+Therefore, only treatment (2) can raise the final liquid level, making B the correct answer.
 
 📌 考試提醒
-
-滲透作用永遠由**高水勢（低濃度）→ 低水勢（高濃度）**移動。
-
-Osmosis always moves from higher water potential (lower solute) to lower water potential (higher solute).
-
-若蔗糖濃度越高 → 水勢越低 → 從外界滲入的水越多。
-
-Higher sucrose concentration → lower water potential → more water enters from outside.
-
-馬鈴薯外皮具有防水效果，阻礙滲透；若削去外皮，滲透更容易進行。
-
-Potato skin is water-resistant and limits osmosis; removing it increases water movement.
-
-常見陷阱： 一些學生以為高濃度糖液會「抽水出來」，但要留意外部是蒸餾水（低滲），所以水仍流入。
-
-Common trap: Some students think higher sucrose always “draws water out,” but since the outside is distilled water (hypotonic), water still moves in.",
+滲透作用是指水分子從較高水勢區域經過選擇性透性膜淨移動到較低水勢區域的過程。
+Osmosis is the net movement of water molecules from a region of higher water potential to a region of lower water potential across a selectively permeable membrane.
+水勢差異決定了水分移動的方向和最終平衡時的體積，而表面積只影響水分移動的速率。
+The water potential difference determines the direction of water movement and the final volume at equilibrium, whereas surface area only affects the rate of water movement.
+常見錯誤：學生常混淆「滲透速率」與「最終平衡水平」，誤以為增加表面積（如削去全部外皮）會令最終液面升得更高。
+Common trap: Students often confuse the "rate of osmosis" with the "final equilibrium level," mistakenly thinking that increasing the surface area (like peeling all skin) will cause the final liquid level to rise higher.
 1326,"📌 參考答案
 B. 脂肪酸
 B. Fatty acid
