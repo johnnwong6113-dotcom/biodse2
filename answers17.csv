@@ -1,4 +1,4 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 1701,"📌 參考答案
 C. 氨基酸形成肌肉纖維的同化作用 → 合成代謝
 C. Formation of muscle fibers from amino acids (anabolism) → anabolic metabolism
@@ -158,43 +158,25 @@ Eng: Due to structural differences, enzymes from different species have differen
 
 中：由整體氨基酸序列決定，通常在不同來源的酵素中差異大。
 Eng: Determined by overall amino acid sequence, usually very different among enzymes from different sources.",
-1706,"📌 參考答案 (Suggested Answer)
-✅ C. 水的光解
-✅ C. Photolysis of water
+1706,"📌 參考答案
+C. 水的光解
+C. Photolysis of water
 
-📌 詳細解釋 (Detailed Explanation)
-光合作用分為兩大部分：
+📌 詳細解釋
+選項 A、B 和 D 均屬於卡爾文循環的步驟，這些過程發生在葉綠體的基質中。
+Options A, B and D are steps of the Calvin cycle, which occur in the stroma of the chloroplast.
+選項 C 是光反應的關鍵步驟，必須在類囊體膜上進行以吸收光能。
+Option C is a key step of the light-dependent reactions, which must take place on the thylakoid membrane to absorb light energy.
+選項 A 和 B 是錯誤的選項，因為二氧化碳受體再生與三碳化合物還原並不依賴光能直接驅動。
+Options A and B are incorrect because the regeneration of the carbon dioxide acceptor and the reduction of the 3-C compound are not directly driven by light energy.
+選項 D 也是錯誤的，因為二氧化碳固定同樣屬於暗反應階段。
+Option D is also incorrect because carbon fixation also belongs to the light-independent stage.
 
-光反應 Light reaction → 發生在 類囊體膜 thylakoid membrane
-暗反應 Dark reaction / Calvin cycle → 發生在 基質 stroma
-選項檢視：
-
-A. 二氧化碳受體的再生 → 屬於卡爾文循環 (in stroma) ❌
-
-A. Regeneration of CO₂ acceptor → Calvin cycle (in stroma) ❌
-
-B. 三碳化合物的還原 → 卡爾文循環 (in stroma) ❌
-
-B. Reduction of 3C compounds → Calvin cycle (in stroma) ❌
-
-C. 水的光解 → 發生於光反應，在類囊體膜進行 ✔
-
-C. Photolysis of water → light reaction, occurs on the thylakoid membrane ✔
-
-D. 二氧化碳固定 → 卡爾文循環 (in stroma) ❌
-
-D. Carbon fixation → Calvin cycle (in stroma) ❌
-
-📌 考試提醒 (Exam Tips)
-光反應 Light reaction (thylakoid membrane):
-
-光解水 photolysis of water → 釋放 O₂ release O₂
-產生 ATP & NADPH produce ATP & NADPH
-暗反應 Dark reaction / Calvin cycle (stroma):
-
-固碳 carbon fixation → 生成三碳化合物 3C compound formation
-三碳化合物還原 reduction of 3C compounds
-CO₂ 受體再生 regeneration of CO₂ acceptor",
+📌 考試提醒
+光反應在類囊體膜上進行，而暗反應（卡爾文循環）則在基質中進行。
+The light-dependent reactions occur on the thylakoid membrane, while the light-independent reactions (Calvin cycle) occur in the stroma.
+常見錯誤：學生常混淆光反應與暗反應的發生位置，誤以為兩者都在基質進行。
+Common trap：Students often confuse the sites of the light-dependent and light-independent reactions, mistakenly thinking both occur in the stroma.",
 1707,"📌 參考答案 (Suggested Answer)
 ✅ C. 丙酮酸鹽轉化為乙醯輔酶 A — 線粒體
 ✅ C. Conversion of pyruvate to acetyl‑CoA — mitochondrion
@@ -278,82 +260,46 @@ Father O (ii) × Mother B (Iᴮi) → 50% B, 50% O
 Father O (ii) × Mother B (IᴮIᴮ) → 100% B
 ➡ 兩個孩子都是 B 型 ≠ 證明母親純合，只是機率事件。
 ➡ Two children being B type ≠ proof of homozygosity, just probability.",
-1709,"📌 參考答案 (Suggested Answer)
-✅ A. mRNA 密碼子 AAC；tRNA 反密碼子 UUG
-✅ A. mRNA codon AAC; tRNA anticodon UUG
+1709,"📌 參考答案
+A. mRNA 密碼子為 AAC，tRNA 反密碼子為 UUG
+A. mRNA codon is AAC, tRNA anticodon is UUG
 
-📌 詳細解釋 (Detailed Explanation)
-已知：DNA 編碼股 (coding strand) 鹼基序列 = AAC。
-Given: DNA coding strand = AAC.
-mRNA 密碼子 (mRNA codon)
+📌 詳細解釋
+在轉錄過程中，mRNA 的鹼基序列與 DNA 編碼股相同，只是以尿嘧啶取代了胸腺嘧啶，因此 mRNA 密碼子為 AAC。
+During transcription, the base sequence of mRNA is the same as the DNA coding strand, except that thymine is replaced by uracil, so the mRNA codon is AAC.
+tRNA 上的反密碼子會與 mRNA 的密碼子進行互補配對，因此對應 AAC 的反密碼子是 UUG。
+The anticodon on tRNA pairs complementarily with the mRNA codon, so the anticodon corresponding to AAC is UUG.
+選項 B 是錯誤的，因為 RNA 分子中不含有胸腺嘧啶（T）。
+Option B is incorrect because RNA molecules do not contain thymine (T).
+選項 C 和 D 也是錯誤的，因為它們將編碼股誤認為模板股，導致推算出的 mRNA 序列方向完全顛倒。
+Options C and D are also incorrect because they mistake the coding strand for the template strand, leading to a completely inverted derivation of the mRNA sequence.
 
-mRNA 序列與 DNA 編碼股相同（只是 U 代替 T）。
-因此 mRNA = AAC。
-mRNA sequence is the same as the coding strand (with U instead of T).
-Therefore, mRNA = AAC.
-tRNA 反密碼子 (tRNA anticodon)
+📌 考試提醒
+編碼股的序列除了 T 變成 U 之外，與 mRNA 序列完全一致，而模板股則與 mRNA 互補。
+The sequence of the coding strand is completely identical to the mRNA sequence except for the substitution of T with U, whereas the template strand is complementary to the mRNA.
+常見錯誤：學生常將編碼股誤認為模板股，導致直接推算出錯誤的互補 mRNA 序列。
+Common trap：Students often mistake the coding strand for the template strand, leading to an incorrect complementary mRNA sequence.",
+1710,"📌 參考答案
+D. 包含突變、地理隔離和自然選擇（(1)、(2) 和 (3)）
+D. Includes mutation, isolation and natural selection ((1), (2) and (3))
 
-tRNA 反密碼子與 mRNA 密碼子 互補。
-AAC → 互補序列 = UUG。
-The tRNA anticodon is complementary to the mRNA codon.
-AAC → complementary = UUG.
-結論：正確答案是 A (mRNA = AAC, tRNA = UUG)。
-Conclusion: Correct answer = A (mRNA = AAC, tRNA = UUG).
+📌 詳細解釋
+突變是產生新特徵的基礎，為基因庫帶來必要的遺傳變異。
+Mutation is the basis for producing new traits, bringing necessary genetic variations to the gene pool.
+由地震造成的物理屏障導致了地理隔離，阻斷了兩地樹木種群之間的基因交流。
+The physical barrier caused by the earthquake led to geographical isolation, blocking gene flow between the two tree populations.
+兩地的樹木隨後各自面對不同的環境變化，在不同的自然選擇壓力下最終演化成兩個獨立物種。
+The trees in the two regions subsequently faced different environmental changes, eventually evolving into two separate species under different natural selection pressures.
+選項 A 和 B 是錯誤的，因為它們遺漏了自然選擇或地理隔離這兩個物種形成中不可或缺的機制。
+Options A and B are incorrect because they omit natural selection or geographical isolation, which are indispensable mechanisms in speciation.
+選項 C 也是錯誤的，因為如果沒有突變提供新的等位基因，物種演化就缺乏了原材料。
+Option C is also incorrect because without mutations providing new alleles, species evolution would lack raw materials.
 
-📌 考試提醒 (Exam Tips)
-編碼股 Coding strand = 與 mRNA 相同 (except T → U)
-
-Coding strand = same as mRNA (except T → U)
-
-模版股 Template strand = 與 mRNA 互補 complementary to mRNA
-
-Template strand = complementary to mRNA
-
-tRNA 反密碼子 Anticodon = 與 mRNA 密碼子互補 complementary to codon
-
-tRNA anticodon = complementary to codon",
-1710,"📌 參考答案 (Suggested Answer)
-答案：D（1、2 和 3）。
-
-📌 詳細解釋 (Detailed Explanation)
-
-(1) 突變會增加基因庫的多樣性，產生新的特徵。
-(1) Mutations increase the genetic diversity of the gene pool, producing new traits.
-
-這些新特徵可能在不同環境中提供生存優勢，最終導致新物種形成。
-These new traits may provide survival advantages in different environments, eventually leading to the formation of new species.
-
-(2) 地震形成高山，造成地理隔離，使兩群樹木之間無法再交配。
-(2) The earthquake formed mountains, leading to geographical isolation, preventing the two groups of trees from interbreeding.
-
-隔離阻止了基因流動，讓兩群樹木各自獨立演化。
-Isolation blocked gene flow, allowing the two tree populations to evolve separately.
-
-(3) 兩地環境條件不同，自然選擇以不同方式作用於兩群樹木。
-(3) The two regions had different environmental conditions, so natural selection acted differently on the separated tree populations.
-
-不同的選擇壓力使牠們逐漸積累差異，最終形成新物種。
-Different selective pressures caused them to accumulate differences, eventually forming new species.
-
-📌 考試提醒 (Exam Tips)
-
-這是一個典型的 異域物種形成 例子。
-This is a classic example of allopatric speciation.
-
-物種形成通常需要三個主要過程：
-Speciation usually involves three main processes:
-
-突變 → 產生新的遺傳變異。
-
-Mutation → generates new genetic variations.
-
-隔離 → 阻止群體之間的基因交流。
-
-Isolation → prevents gene flow between populations.
-
-自然選擇 → 在不同環境中推動不同性狀的生存優勢，積累差異。
-
-Natural selection → promotes survival of different traits under different environments, leading to accumulated differences.",
+📌 考試提醒
+物種形成的三大核心步驟為：基因變異、地理隔離阻斷基因交流、以及不同的自然選擇。
+The three core steps of speciation are: genetic variation, geographical isolation blocking gene flow, and different natural selection.
+常見錯誤：學生作答時往往遺漏「阻斷基因交流」這個由於地理隔離導致的關鍵演化後果。
+Common trap：Students often omit ""blocking gene flow"" when answering, which is the crucial evolutionary consequence of geographical isolation.",
 1711,"📌 參考答案 (Suggested Answer)
 答案：D。
 
@@ -511,56 +457,27 @@ Reason: This prevents air bubbles from entering the xylem, ensuring continuous w
 
 🌱 「水中切割莖部」幾乎總是必須步驟 → 以確保導管沒有氣塞。
 🌱 “Cutting stem underwater” is almost always essential → it prevents air locks in xylem.",
-1715,"📌 參考答案 (Suggested Answer)
-答案：A（炎熱和光亮）。
-Answer: A (Hot and bright).
+1715,"📌 參考答案
+A. 炎熱和光亮
+A. Hot and bright
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+蒸騰速率愈高，枝條吸收並向上牽引的紅色溶液就愈多，溶液會到達枝條較高的位置。
+The higher the transpiration rate, the more red solution is absorbed and pulled upwards, reaching a higher position in the leafy shoot.
+由於實驗是從頂端切至出現紅色為止，紅色溶液升得愈高，需要切除的無色部分就愈少，量度得出餘下的枝條便愈長。
+Since the shoot is cut from the top until red appears, a higher rise of the red solution means less uncolored portion needs to be cut, resulting in a longer remaining shoot.
+在炎熱和光線充足的環境下，氣孔會張開且水分蒸發最快，因此蒸騰速率最高。
+In hot and bright environments, stomata open and water evaporates the fastest, thus the transpiration rate is the highest.
+選項 B 錯誤，因為潮濕的環境會降低水分的濃度梯度，從而減慢蒸騰作用。
+Option B is incorrect because a humid environment reduces the water concentration gradient, thereby slowing down transpiration.
+選項 C 和 D 錯誤，因為寒冷的環境會減慢水分子的動能，使蒸發速率下降。
+Options C and D are incorrect because cold environments slow down the kinetic energy of water molecules, decreasing the evaporation rate.
 
-蒸騰作用的速率取決於環境因素，例如溫度、光照、風速和濕度。
-The rate of transpiration depends on environmental factors such as temperature, light, wind, and humidity.
-
-在 炎熱和光亮 的環境下：
-In a hot and bright environment:
-
-高溫會加快水分蒸發速率。
-
-High temperature increases the evaporation rate of water.
-
-強光會促進氣孔打開，使蒸騰作用更活躍。
-
-Strong light causes stomata to open wider, enhancing transpiration.
-
-因此，枝條吸收並運輸更多紅色溶液，殘餘的枝條長度最短，顯示輸移量最多。
-Therefore, the stem absorbs and transports more red solution, leaving the shortest remaining stem length, indicating the greatest uptake.
-
-📌 為什麼其他選項錯誤？ (Why other options are wrong?)
-
-B. 「炎熱和潮濕」：潮濕會降低蒸騰速率。
-B. ""Hot and humid"": High humidity reduces the transpiration rate.
-
-C. 「寒冷和光亮」：低溫會降低蒸發，即使有光照。
-C. ""Cold and bright"": Low temperature slows down evaporation, even if there is light.
-
-D. 「寒冷和潮濕」：二者都會抑制蒸騰，速率最低。
-D. ""Cold and humid"": Both reduce transpiration, producing the lowest rate.
-
-📌 考試提醒 (Exam Tips)
-
-🌱 炎熱 (hot) → 增加蒸發速率
-🌱 Hot → increases evaporation rate
-
-🌱 光亮 (bright) → 促進氣孔張開
-🌱 Bright → promotes stomatal opening
-
-🌱 潮濕 (humid) → 減少蒸發
-🌱 Humid → reduces evaporation
-
-🌱 寒冷 (cold) → 減慢分子活動，降低蒸發
-🌱 Cold → slows molecular activity, reducing evaporation
-
-所以，若題目問「蒸騰速度最快」 → 炎熱 + 光亮 幾乎必選。
-Thus, if the question asks “fastest transpiration,” the answer is almost always hot + bright.",
+📌 考試提醒
+蒸騰速率受環境因素影響，高溫、強光、乾燥及大風均能提高蒸騰拉力。
+Transpiration rate is affected by environmental factors; high temperature, strong light, low humidity, and strong wind can increase the transpiration pull.
+常見錯誤：學生常誤解實驗設計的量度邏輯，以為輸移量最多會導致「餘下枝條最短」，忽略了切除方向是從頂端向下。
+Common trap：Students often misunderstand the measurement logic of the experiment setup, wrongly assuming that maximum transport results in the ""shortest remaining shoot"", ignoring that the cuts are made downwards from the top.",
 1716,"📌 參考答案 (Suggested Answer)
 答案：D
 
@@ -606,47 +523,25 @@ D. Correct: Shows vascular bundles in a ring, matching the anatomy of stems.
 所以，如果題目問「枝條橫切結構」→ 記得選 環狀排列 的圖。
 Thus, if the question asks “stem cross-section structure” → always pick the ring arrangement diagram.
 ",
-1717,"📌 參考答案 (Suggested Answer)
-答案：C（只有 (2) 和 (3)）。
+1717,"📌 參考答案
+C. 只有 (2) 和 (3)
+C. (2) and (3) only
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+木本有花植物的葉片主要依靠木質導管和葉肉細胞來提供支持。
+The leaves of woody flowering plants rely mainly on xylem vessels and mesophyll cells for support.
+選項 (2) 正確，因為木質導管的細胞壁含有木質素，具有很高的剛度，能提供機械支持。
+Option (2) is correct because the cell walls of xylem vessels contain lignin, possessing high rigidity to provide mechanical support.
+選項 (3) 也正確，當有足夠水分時，葉肉細胞的硬漲度足以支撐葉片保持挺拔。
+Option (3) is also correct; when sufficient water is present, the turgidity of mesophyll cells is adequate to support the leaf and keep it firm.
+選項 (1) 錯誤，保衛細胞的密度太低，且其硬漲度主要用於控制氣孔開合，不足以支持整塊葉片。
+Option (1) is incorrect because guard cells have a low density and their turgidity is mainly used to control the opening and closing of stomata, which is insufficient to support the entire leaf.
 
-(1) 保衛細胞 → 不提供主要支撐。
-(1) Guard cells → Do not provide significant support.
-
-理由：保衛細胞的密度低，硬度不足以支撐葉片，其主要功能是控制氣孔的開合。
-Reason: Guard cells are sparse and not rigid enough to support the leaf. Their main role is regulating the opening and closing of stomata.
-
-(2) 木質導管 → 提供機械支撐。
-(2) Xylem vessels → Provide mechanical support.
-
-理由：木質導管細胞壁厚、含木質素，能同時支持葉片並輸送水分。
-Reason: Xylem vessels have thick, lignified walls that give structural support and transport water.
-
-(3) 葉肉細胞 → 可提供膨壓支撐。
-(3) Mesophyll cells → Provide turgor pressure support.
-
-理由：在水分充足時，葉肉細胞內的膨壓令葉片保持硬挺；缺水時葉片則下垂。
-Reason: When water is sufficient, turgor pressure within mesophyll cells keeps leaves firm; when water is lacking, leaves wilt.
-
-📌 為什麼是 (2) 和 (3)
-
-因此，木質導管的機械支撐 + 葉肉細胞的膨壓 是花本植物葉片的主要支撐來源。
-Therefore, mechanical support from xylem vessels + turgor support from mesophyll cells are the main contributors to leaf support in herbaceous plants.
-
-📌 考試提醒 (Exam Tips)
-
-🌱 木質部 (Xylem) → 永久性、剛性支撐（因木質素）。
-🌱 Xylem → permanent, rigid support (due to lignin).
-
-🌱 葉肉細胞 (Mesophyll cells) → 臨時性支撐，依靠水分膨壓。
-🌱 Mesophyll cells → temporary support, depends on water turgor.
-
-🌱 保衛細胞 (Guard cells) → 功能是氣孔調節，不負責支撐。
-🌱 Guard cells → regulate stomata, not support.
-
-常考陷阱： 學生會以為所有葉細胞都能支撐葉片，其實真正有效的是 木質導管 + 葉肉膨壓。
-Common trap: Students may assume all leaf cells contribute to support, but in fact only xylem vessels + mesophyll turgor matter.",
+📌 考試提醒
+植物的支持力主要來自具有厚壁的木質化組織（如木質導管）以及活細胞吸收水分後產生的硬漲度。
+Plant support mainly comes from thick-walled lignified tissues (like xylem vessels) and the turgidity generated when living cells absorb water.
+常見錯誤：學生常混淆不同細胞的功能，誤以為所有表皮細胞（包含保衛細胞）都能提供足夠的硬漲度來支撐葉片。
+Common trap：Students often confuse the functions of different cells, mistakenly believing that all epidermal cells (including guard cells) can provide sufficient turgidity to support the leaf.",
 1718,"📌 參考答案 (Suggested Answer)
 答案：D。
 
@@ -752,37 +647,23 @@ Ovulation and menstruation are controlled by endocrine signals, independent of o
 
 常見陷阱 (Common trap): 考生容易誤以為「沒有排卵 (A) 或沒有月經 (C)」，要牢記「堵塞的是通道，不是卵巢或激素問題」。
 Common trap: Students may choose “no ovulation” (A) or “no menstruation” (C). Remember: the problem is the blocked passage, not the ovary or hormones.",
-1721,"📌 參考答案 (Answer Key)
-21. B
+1721,"📌 參考答案
+B. 只有 (1) 和 (3)
+B. (1) and (3) only
 
-📌 詳細解釋 (中英對照 | Detailed Explanation)
+📌 詳細解釋
+由階段 I 到階段 IV 顯示了胚胎的早期發育，當中牽涉到快速的細胞分裂，令細胞數量不斷增加，因此 (1) 正確。
+The early development of the embryo from Stage I to Stage IV involves rapid cell division, continuously increasing the number of cells, so (1) is correct.
+選項 (2) 錯誤，因為胚囊的外層被一個不能擴展的外殼包圍，防止植入前細胞整體增大，以免阻塞輸卵管。
+Option (2) is incorrect because the outer layer of the blastocyst is surrounded by an unexpandable shell, preventing the overall enlargement of cells before implantation to avoid blocking the oviduct.
+到達階段 III 之後，細胞數量足夠多並開始進行細胞分化，形成不同的原始生殖細胞層，因此 (3) 正確。
+After reaching Stage III, there is a sufficient number of cells and they begin to undergo cell differentiation to form different primordial germ cell layers, so (3) is correct.
 
-由階段 I (1 cell) → 階段 IV (>100 cells) 發生的過程：
-
-(1) 細胞分裂 Cell division ✅
-
-在胚胎早期 (cleavage) 不斷進行有絲分裂，細胞數目快速增加。
-In early embryonic cleavage, mitotic cell division occurs rapidly, increasing the number of cells.
-(2) 細胞增大 Cell enlargement ❌
-
-在此過程中，卵裂 (cleavage) 的特點是 細胞數目增加，但單個細胞體積逐漸縮小，總體大小差不多不變。
-During cleavage, the total cell number increases, but individual cells become smaller, so the overall size remains about the same.
-(3) 細胞分化 Cell differentiation ✅
-
-到了胚胎囊 (blastocyst, 約階段 III–IV) 開始分化 → 形成滋養層 (trophoblast) 與內細胞團 (inner cell mass)。
-By blastocyst stage (around stage III–IV), differentiation begins → trophoblast vs. inner cell mass.
-➡ 正確答案 = B (1 和 3)
-
-📌 考試提醒 Exam Tips (中英對照)
-
-卵裂 (cleavage) → 數目增多，細胞愈來愈小，總體積不變。
-Cleavage → more cells, smaller size, overall volume unchanged.
-
-分化 (differentiation) → 在囊胚時期出現，標誌著細胞命運的開始。
-Differentiation → occurs at the blastocyst stage, marking the beginning of distinct cell fates.
-
-常見陷阱 (Common trap): 學生常誤選 (2)，以為細胞會「變大」。要記住卵裂階段細胞不會長大，只會「變多 & 變小」。
-Common trap: Students often choose (2), thinking cells enlarge. Remember: in cleavage, cells do not grow bigger, they just increase in number and get smaller.",
+📌 考試提醒
+受精卵在輸卵管向子宮移動時只會進行細胞分裂而不會增大，直至到達子宮植入後才會開始生長。
+The fertilized egg only undergoes cell division without enlarging as it moves through the oviduct towards the uterus, and only begins to grow after implantation.
+常見錯誤：學生常以為細胞分裂必然伴隨細胞整體的增大，忘記了受精卵在早期發育時受制於外圍結構，體積維持不變。
+Common trap：Students often assume that cell division is inevitably accompanied by an overall increase in cell size, forgetting that the fertilized egg is constrained by peripheral structures during early development, keeping its volume constant.",
 1722,"📌 參考答案 (Answer Key)
 22. C
 
@@ -812,36 +693,24 @@ Cell number = 2ⁿ, where n = number of cell cycles.
 陷阱提醒 (Trap warning):
 學生常把「細胞分裂次數」與「細胞數」混淆，例如「16 個細胞就分裂 16 次」→ 錯！要用指數倍增去算。
 Students often confuse cell divisions with cell number, e.g. thinking “16 cells means 16 divisions” → wrong! Must use exponential doubling.",
-1723,"📌 參考答案 (Answer Key)
-23. D
+1723,"📌 參考答案
+D. IV
 
-📌 詳細解釋 (中英對照 | Detailed Explanation)
+📌 詳細解釋
+植入是指胚胎附著並埋入子宮內膜的過程。
+Implantation refers to the process where the embryo attaches and embeds itself into the uterine lining.
+在階段 I 至 III 中，胚胎仍在輸卵管內進行早期的細胞分裂，尚未發展出成熟的結構來與子宮內膜互動。
+In Stages I to III, the embryo is still undergoing early cell division inside the oviduct and has not yet developed mature structures to interact with the uterine lining.
+只有到達階段 IV 時，胚胎已發育成包含超過 100 個細胞的胚囊。
+Only when reaching Stage IV, the embryo has developed into a blastocyst containing more than 100 cells.
+胚囊的成熟程度足以進行植入，其外層細胞會分泌酶來分解子宮內膜以便埋入。
+The maturity of the blastocyst is sufficient for implantation, as its outer cells will secrete enzymes to break down the uterine lining for embedding.
 
-植入 (implantation) 是指胚胎鑽入子宮內膜並嵌入其中的過程。
-Implantation = process where the embryo embeds into the uterine lining.
-
-階段 I–III (1 → 16 cells)：
-
-僅屬於細胞分裂階段 (cleavage stage)，胚胎尚未形成胚泡。
-Only cleavage divisions, no blastocyst yet.
-階段 IV (>100 cells)：
-
-胚胎已形成 胚泡 (blastocyst)，包含滋養層細胞 (trophoblast) 與內細胞團 (inner cell mass)。
-Embryo forms a blastocyst, with trophoblast + inner cell mass.
-胚泡的滋養層能與子宮內膜接觸並分泌酵素 → 開始植入。
-Trophoblast cells contact uterine lining and secrete enzymes → implantation begins.
-➡ 答案 = D (階段 IV)
-
-📌 考試提醒 Exam Tips (中英對照)
-
-受精 (fertilization) → 發生在輸卵管 (oviduct)。
-Fertilization → occurs in the oviduct.
-
-卵裂 (cleavage, stage I–III) → 快速細胞分裂，細胞變多，大小變小，總體積不變。
-Cleavage (stage I–III) → rapid mitosis, more cells, smaller size, overall embryo size unchanged.
-
-囊胚 (blastocyst, stage IV) → 首次出現 細胞分化，也是能進行 植入 (implantation) 的階段。
-Blastocyst (stage IV) → first clear cell differentiation and the stage for implantation.",
+📌 考試提醒
+人類胚胎必須發育至「胚囊」階段（受精後約數天）才能夠在子宮內膜成功植入。
+The human embryo must develop to the ""blastocyst"" stage (several days after fertilization) to successfully implant in the uterine lining.
+常見錯誤：學生常誤以為受精卵（階段 I）一到達子宮便會立刻植入，忽略了必須先發育成多細胞胚囊的先決條件。
+Common trap：Students often mistakenly believe that the fertilized egg (Stage I) implants immediately upon reaching the uterus, ignoring the prerequisite of developing into a multicellular blastocyst first.",
 1724,"📌 參考答案 (Suggested Answer)
 答案：C（I = 頭部；II = 整個身體；III = 生殖系統）。
 Answer: C (I = Head; II = Whole body; III = Reproductive system).
@@ -1005,85 +874,52 @@ Be careful about lens functions:
 Convex = converge light
 Concave = diverge light
 Wrong pairing makes defect worse.",
-1728,"📌 參考答案 (Answer Key)
-28. A
+1728,"📌 參考答案
+A. 睫狀體經已長時間收縮。
+A. The ciliary body has contracted for a long period of time.
 
-📌 詳細解釋 (中英對照 | Detailed Explanation)
+📌 詳細解釋
+眼睛聚焦近物時，睫狀體會收縮，使懸韌帶鬆弛。
+When focusing on near objects, the ciliary body contracts, causing the suspensory ligaments to slacken.
+這會使晶體的弧度增加，從而增強其折射光線的能力。
+This increases the curvature of the lens, thereby enhancing its ability to refract light.
+由於閱讀需要長時間聚焦近物，睫狀體持續收縮會導致肌肉疲勞，令人感到眼睛疲倦。
+Since reading requires focusing on near objects for a long time, the continuous contraction of the ciliary body leads to muscle fatigue, causing eye strain.
+選項 B 錯誤，因為光感細胞的刺激取決於光強度，而非眼睛的聚焦調節。
+Option B is incorrect because the stimulation of photoreceptors depends on light intensity, not accommodation of the eye.
+選項 C 錯誤，因為晶體本身沒有肌肉，不會感覺疲勞。
+Option C is incorrect because the lens itself has no muscle and cannot feel fatigued.
+選項 D 錯誤，因為聚焦遠物時睫狀體才會放鬆並使懸韌帶繃緊，這與閱讀近物的情況相反。
+Option D is incorrect because the ciliary body relaxes and the suspensory ligaments become taut when focusing on distant objects, which is the opposite of reading near objects.
 
-題目：為什麼長時間閱讀會感到眼睛疲倦？
+📌 考試提醒
+聚焦近物時，睫狀體收縮，晶體弧度增加；聚焦遠物時，睫狀體放鬆，晶體弧度減少。
+When focusing on near objects, the ciliary body contracts and the curvature of the lens increases; when focusing on distant objects, the ciliary body relaxes and the curvature of the lens decreases.
+常見錯誤：學生常將「睫狀體」與「懸韌帶」的動作混淆，誤以為聚焦近物時是懸韌帶拉緊使晶體改變形狀。
+Common trap: Students often confuse the actions of the ""ciliary body"" and ""suspensory ligaments"", mistakenly thinking that the suspensory ligaments are pulled taut to change the shape of the lens when focusing on near objects.",
+1729,"📌 參考答案
+C. X 和 Y 末端均可以找到突觸。
+C. Synapses can be found at both terminals X and Y.
 
-A（正確 Correct）
+📌 詳細解釋
+圖中顯示的是一個運動神經元，X 是樹突，負責接收來自感覺神經元或中間神經元的脈衝，因此在 X 處可找到化學突觸。
+The diagram shows a motor neurone, where X is a dendrite that receives impulses from sensory or interneurones, so chemical synapses can be found at X.
+Y 是運動神經元的軸突末端，負責將神經脈衝傳遞至效應器（如肌肉纖維或腺體）。
+Y is the axon terminal of the motor neurone, responsible for transmitting nerve impulses to effectors (such as muscle fibres or glands).
+運動神經元的軸突末端與肌肉纖維之間形成的結構稱為神經肌肉接點，它也是一種突觸，因此 Y 也能找到突觸。
+The structure formed between the axon terminal of a motor neurone and a muscle fibre is called a neuromuscular junction, which is also a type of synapse, so a synapse can also be found at Y.
+選項 A 錯誤，因為 X（樹突）並未連接肌肉纖維。
+Option A is incorrect because X (dendrite) is not connected to muscle fibres.
+選項 B 錯誤，因為神經脈衝的傳遞方向是從樹突（X）經過細胞體傳至軸突末端（Y）。
+Option B is incorrect because the direction of nerve impulse transmission is from the dendrite (X) through the cell body to the axon terminal (Y).
+選項 D 錯誤，因為運動神經元的 Y 是發出訊號至肌肉纖維或腺體，而非傳遞至另一個神經元。
+Option D is incorrect because Y of the motor neurone sends signals to muscle fibres or glands, not to another neurone.
 
-閱讀時需聚焦近物 → 眼睛調節 (accommodation) → 睫狀肌持續收縮，使晶狀體曲度增加。
-長時間收縮 → 肌肉容易疲勞 → 造成「眼睛疲倦」。
-Reading requires focusing on near objects → ciliary muscles contract continuously to thicken the lens. Prolonged contraction leads to muscle fatigue = eye strain.
-B（錯誤 Wrong）
-
-光感受細胞的刺激與光強度有關，不會因為「聚焦調節」而過度疲勞。
-Photoreceptor stimulation depends on light intensity, not accommodation.
-C（錯誤 Wrong）
-
-晶狀體本身不會「感覺疲勞」，真正會疲勞的是睫狀肌。
-The lens itself cannot “feel tired”; it’s the ciliary muscles that get fatigued.
-D（錯誤 Wrong）
-
-聚焦遠物時，睫狀肌放鬆 → 懸韌帶繃緊 → 晶狀體變扁。這與閱讀近物相反，因此並非疲勞原因。
-Focusing on distant objects = ciliary muscles relax, suspensory ligaments tighten, lens flattens. This is opposite to reading and not the cause of eye strain.
-📌 考試提醒 Exam Tips (中英對照)
-
-近物聚焦 (near focus):
-
-睫狀肌收縮 (ciliary muscles contract)
-懸韌帶鬆弛 (suspensory ligaments loosen)
-晶狀體變圓厚 (lens becomes thicker)
-遠物聚焦 (distant focus):
-
-睫狀肌放鬆 (ciliary muscles relax)
-懸韌帶繃緊 (suspensory ligaments tighten)
-晶狀體變扁薄 (lens becomes flatter)
-陷阱提醒 (Trap warning):
-學生常誤以為「晶狀體」會累 → 其實累的是 睫狀肌。
-Students often think the lens gets tired → actually it’s the ciliary muscles.
-",
-1729,"📌 參考答案 (Answer Key)
-29. C
-
-📌 詳細解釋 (中英對照 | Detailed Explanation)
-
-圖示結構 (Diagram structures):
-
-X = 樹突 (dendrite)：負責接收來自感覺神經元或中間神經元的訊號。
-X = Dendrite → receives impulses from sensory or interneurons.
-Y = 軸突末端 (axon terminal)：與效應器（肌肉或腺體）形成突觸。
-Y = Axon terminal → forms synapse with effectors (muscles/glands).
-選項分析 (Options analysis):
-
-A（錯 Wrong）：X 是樹突，並非連接肌纖維的結構。
-X is a dendrite, not connected to muscle fibres.
-B（錯 Wrong）：電脈衝方向為「樹突 X → 細胞體 → 軸突 → Y」，而非 Y → X。
-Impulse travels from dendrite X → cell body → axon → Y, not Y → X.
-C（正確 Correct）：樹突 X 與其他神經元形成突觸，軸突末端 Y 與效應器或其他細胞形成突觸 → 兩端都有突觸。
-Both X (dendrite) and Y (axon terminal) are sites where synapses can be found.
-D（錯 Wrong）：運動神經元的 Y 會將電脈衝傳至「肌肉或腺體」(motor end-plate/synapse)，而不是另一個神經元。
-At Y, the motor neuron transmits signals to muscles/glands, not another neuron.
-➡ 正確答案 = C
-
-📌 考試提醒 Exam Tips (中英對照)
-
-訊號方向：樹突 (dendrite) → 細胞體 (cell body) → 軸突 (axon) → 軸突末端 (axon terminal)。
-Impulse direction: Dendrite → Cell body → Axon → Axon terminal.
-
-突觸 (Synapse)：
-
-在樹突 X：接收來自上游神經元的化學信號。
-在軸突末端 Y：將訊號傳遞到肌肉、腺體或其他神經元。
-Synapse:
-At dendrite X: receives neurotransmitter input.
-At axon terminal Y: passes signals to muscles, glands, or other neurons.
-常見陷阱 (Common trap):
-
-誤以為 運動神經元的軸突末端 Y 直接連接另一神經元。其實 Y 主要接肌肉或腺體。
-Students may think the axon terminal Y connects to another neuron. In fact, Y usually connects to muscles or glands (effectors).",
+📌 考試提醒
+運動神經元的軸突末端與效應器相連，而其形成的特殊化學突觸稱為神經肌肉接點。
+The axon terminal of a motor neurone connects to an effector, and the specialized chemical synapse it forms is called a neuromuscular junction.
+常見錯誤：學生常忽略神經肌肉接點本質上也是突觸的一種，或者誤以為運動神經元會連接另一個神經元。
+Common trap: Students often overlook that a neuromuscular junction is essentially a type of synapse, or mistakenly believe that a motor neurone connects to another neurone.",
 1730,"📌 答案 (Answer)
 D. 眼睛
 D. Eye
@@ -1123,95 +959,64 @@ PNS (Peripheral Nervous System): Cranial nerves, Spinal nerves
 感覺器官（如眼、耳、鼻、皮膚）不是中樞，而是周邊的受器
 
 Sense organs (e.g., eye, ear, nose, skin) are not CNS but peripheral receptors",
-1731,"📌 答案 (Answer)
+1731,"📌 參考答案
 D. 它影響 Q 的細胞延長。
-D. It affects cell elongation in region Q.
+D. It affects cell elongation in Q.
 
-📌 詳細解釋 (Detailed Explanation)
-P 區 (分化區 / 成熟區)：細胞已經分化完成，不再分裂或延長。
+📌 詳細解釋
+圖中顯示根部的縱切面，P 區是成熟區（分化區），細胞已經分化，不會再延長。
+The diagram shows a longitudinal section of the root, where region P is the maturation zone (differentiation zone), and the cells are already differentiated and will no longer elongate.
+Q 區是延長區，根尖產生的生長素會運送至此區域，影響細胞的延長，從而帶動根部生長。
+Region Q is the elongation zone, where auxin produced at the root tip is transported to affect cell elongation, thereby driving root growth.
+選項 A 和 B 錯誤，因為生長素只會影響細胞延長，並不會影響細胞分裂（細胞分裂發生在圖下方更尖端的分生區）。
+Options A and B are incorrect because auxin only affects cell elongation and does not affect cell division (which occurs in the meristematic zone further down at the tip).
+選項 C 錯誤，因為 P 區的細胞已經完成延長和分化過程。
+Option C is incorrect because the cells in region P have already completed the elongation and differentiation processes.
 
-Region P (Differentiation / Maturation zone): Cells are fully differentiated, no longer divide or elongate.
-
-Q 區 (伸長區)：細胞主要進行體積增加（延長），是植物根長度增加的主要區域。
-
-Region Q (Elongation zone): Cells mainly increase in size (elongation), responsible for root length growth.
-
-根冠附近的分裂區 (圖下方沒有標出)：細胞進行活躍分裂，但此區細胞分裂不受「生長素」影響。
-
-Meristematic zone near root cap (not labeled here): Cells actively divide, but cell division is not regulated by auxin.
-
-👉 生長素的主要作用：促進 細胞伸長，而不是細胞分裂。
-👉 The main role of auxin: promote cell elongation, not cell division.
-
-📌 考試提醒 (Exam Tips)
-根分區 (Root zones)
-
-分裂區：細胞分裂 → mitosis
-伸長區：細胞體積增大 → elongation
-分化區：分化成熟 → differentiation
-Auxin does not regulate mitosis, but promotes elongation.",
-1732,"📌 答案 (Answer)
-D. 去硝化細菌；真菌
+📌 考試提醒
+生長素在根部的主要功能是調節細胞延長，且高濃度的生長素會抑制根部細胞的延長。
+The main function of auxin in roots is to regulate cell elongation, and a high concentration of auxin inhibits cell elongation in roots.
+常見錯誤：學生常將生長素的功用與細胞分裂混淆，誤以為生長素直接促進根尖細胞的增殖。
+Common trap: Students often confuse the function of auxin with cell division, mistakenly believing that auxin directly promotes the proliferation of cells at the root tip.",
+1732,"📌 參考答案
+D. 反硝化細菌；真菌
 D. Denitrifying bacteria; fungi
 
-📌 詳細解釋 (Detailed Explanation)
-過程 3
-泥土中的硝酸鹽化合物 → 空氣中的氮氣
-Converting soil nitrate compounds → nitrogen gas in the air
+📌 詳細解釋
+過程 3 顯示泥土中的硝酸鹽化合物被轉化為空氣中的氮氣，這是反硝化作用。
+Process 3 shows soil nitrate compounds being converted into nitrogen gas in the air, which is denitrification.
+反硝化作用必須由泥土中的反硝化細菌在缺氧環境下進行。
+Denitrification must be carried out by denitrifying bacteria in the soil under anaerobic conditions.
+過程 6 顯示泥土中的有機殘留物被轉化為銨化合物，這是分解作用。
+Process 6 shows organic residues in the soil being converted into ammonium compounds, which is decomposition.
+分解者如真菌或某些細菌能將動植物殘骸中的蛋白質分解，釋放銨化合物。
+Decomposers such as fungi or certain bacteria can break down proteins in plant and animal remains, releasing ammonium compounds.
+因此，對應過程 3 和 6 的生物分別是反硝化細菌和真菌。
+Therefore, the organisms corresponding to processes 3 and 6 are denitrifying bacteria and fungi respectively.
 
-👉 這是 去硝化作用，由 去硝化細菌 完成。
-👉 This is denitrification, carried out by denitrifying bacteria.
-
-過程 6
-泥土中的有機殘留物 → 泥土中的銨化合物
-Conversion of organic matter in soil → ammonium compounds
-
-👉 這是 有機物分解，分解者可以是 真菌 (或細菌)。
-👉 This is decomposition of organic matter, carried out by fungi (or bacteria) as decomposers.
-
-📌 考試提醒 (Exam Tips)
-固氮作用 (Nitrogen fixation)：N₂ → NH₄⁺，固氮菌完成。
-
-Nitrogen fixation: N₂ → NH₄⁺, by nitrogen-fixing bacteria.
-
-硝化作用 (Nitrification)：NH₄⁺ → NO₂⁻ → NO₃⁻，硝化細菌完成。
-
-Nitrification: NH₄⁺ → NO₂⁻ → NO₃⁻, by nitrifying bacteria.
-
-反硝化 / 去硝化 (Denitrification)：NO₃⁻ → N₂，去硝化細菌完成。
-
-Denitrification: NO₃⁻ → N₂, by denitrifying bacteria.
-
-分解作用 (Decomposition)：有機物 → NH₄⁺，由真菌 / 細菌完成。
-
-Decomposition: Organic matter → NH₄⁺, by fungi / bacteria.",
-1733,"📌 答案 (Answer)
+📌 考試提醒
+反硝化細菌會將硝酸鹽還原為氮氣，這過程會減少泥土的肥力。
+Denitrifying bacteria reduce nitrates to nitrogen gas, a process that decreases soil fertility.
+常見錯誤：學生常混淆不同細菌在氮循環中的角色，例如誤將固氮細菌當作執行反硝化作用的微生物。
+Common trap: Students often confuse the roles of different bacteria in the nitrogen cycle, such as mistakenly identifying nitrogen-fixing bacteria as the microorganisms carrying out denitrification.",
+1733,"📌 參考答案
 C. 4
 
-📌 詳細解釋 (Detailed Explanation)
-過程 1：硝化細菌進行硝化（亞硝酸鹽 → 硝酸鹽）。
-Process 1: Nitrification by nitrifying bacteria (nitrite → nitrate).
+📌 詳細解釋
+過程 1 是硝化細菌將銨化合物轉化為亞硝酸鹽的硝化作用。
+Process 1 is the nitrification by nitrifying bacteria converting ammonium compounds to nitrites.
+過程 2 同樣是硝化細菌將亞硝酸鹽進一步轉化為硝酸鹽的硝化作用。
+Process 2 is also nitrification by nitrifying bacteria further converting nitrites to nitrates.
+過程 5 是固氮細菌將空氣中的氮氣轉化為銨化合物或直接供給植物的固氮作用。
+Process 5 is nitrogen fixation by nitrogen-fixing bacteria converting nitrogen in the air to ammonium compounds or supplying it directly to plants.
+過程 4 則是植物根部吸收泥土中的硝酸鹽後，在植物體內進行合成代謝生成蛋白質的過程，這屬於植物的同化作用，完全不需要細菌參與。
+Process 4 is the process where plant roots absorb nitrates from the soil and undergo anabolism within the plant to produce proteins; this is plant assimilation and does not require the involvement of bacteria at all.
 
-過程 2：硝化作用（銨鹽 → 亞硝酸鹽）。
-Process 2: Nitrification (ammonium → nitrite).
-
-過程 4：植物利用硝酸鹽合成胺基酸與蛋白質，這是植物自身代謝，不需細菌參與。
-Process 4: Plants use nitrate to synthesize amino acids and proteins; this is plant metabolism, no bacteria needed.
-
-過程 5：固氮菌把空氣中的N₂ → NH₄⁺（銨鹽）。
-Process 5: Nitrogen-fixing bacteria convert N₂ → NH₄⁺ (ammonium).
-
-👉 所以，只有 過程 4 不需要細菌。
-👉 Therefore, only process 4 does not require bacteria.
-
-📌 考試提醒 (Exam Tips)
-細菌參與的過程 (Bacteria involved processes): 固氮作用、硝化、反硝化、分解作用
-
-Bacteria involved processes: Nitrogen fixation, Nitrification, Denitrification, Decomposition
-
-不需細菌的過程 (Processes without bacteria): 植物吸收硝酸鹽並合成有機分子
-
-Processes without bacteria: Plant assimilation of nitrate into organic molecules",
+📌 考試提醒
+在氮循環中，硝化、反硝化和固氮作用皆依賴特定的細菌，而植物自身的蛋白質合成則不依賴土壤細菌。
+In the nitrogen cycle, nitrification, denitrification, and nitrogen fixation all rely on specific bacteria, whereas the plant's own protein synthesis does not rely on soil bacteria.
+常見錯誤：學生常未仔細辨認圖中的箭頭方向，誤以為植物利用硝酸鹽的過程也必須依賴某種共生細菌。
+Common trap: Students often fail to carefully identify the direction of the arrows in the diagram, mistakenly assuming that the process of plants utilizing nitrates also strictly relies on some symbiotic bacteria.",
 1734,"📌 答案 (Answer)
 B. 只有 (2)
 
@@ -1271,52 +1076,25 @@ Decomposers: Bacteria, fungi, break down dead organisms → return inorganic nut
 在能量金字塔中，分解者並非一個特定營養級，而是把能量再循環。
 
 In the energy pyramid, decomposers are not placed at one trophic level but recycle energy/nutrients across all.",
-1736,"📌 答案 (Answer)
-B. 胰島素依賴型 (I 型) — 血液胰島素維持高水平
-B. Insulin-dependent (Type I) — Blood glucose level stays high
+1736,"📌 參考答案
+A. 胰島素依賴型 (I 型) —— 遺傳是主因。
+A. Insulin-dependent (Type I) —— Inheritance is the main cause.
 
-📌 詳細解釋 (Detailed Explanation)
-A. 胰島素依賴型 (I 型) → 遺傳是主因
-Type I (Insulin-dependent) → Genetic factor is the main cause
-❌ 錯誤。I 型糖尿病的主要原因是 免疫系統破壞胰島 β 細胞，造成 胰島素分泌不足，並非單純遺傳因素。
-❌ Incorrect. The main cause of Type I diabetes is autoimmune destruction of pancreatic β cells, leading to insufficient insulin secretion, not purely genetic.
+📌 詳細解釋
+I 型糖尿病（胰島素依賴型）的主因是遺傳因素，患者的免疫系統會攻擊胰臟分泌胰島素的細胞，因此選項 A 正確。
+The main cause of Type I diabetes (insulin-dependent) is genetic factors, where the patient's immune system attacks the insulin-secreting cells in the pancreas, so option A is correct.
+選項 B 錯誤，因為 I 型糖尿病的特徵是胰臟無法分泌足夠的胰島素，所以患者血液內的胰島素水平應為極低。
+Option B is incorrect because the characteristic of Type I diabetes is the inability of the pancreas to secrete sufficient insulin, so the blood insulin level of the patient should be extremely low.
+選項 C 錯誤，II 型糖尿病（非胰島素依賴型）患者仍能分泌胰島素，因此病人餐後血液內的胰島素水平應會上升（較高）。
+Option C is incorrect because Type II diabetes (non-insulin-dependent) patients can still secrete insulin, so the patient's blood insulin level should rise (be higher) after a meal.
+選項 D 錯誤，II 型糖尿病的特徵是身體細胞的受體對胰島素缺乏反應（胰島素抗性），因此即使注射胰島素，血糖水平也不會有效地顯著下降。
+Option D is incorrect because the characteristic of Type II diabetes is that the body cells' receptors lack response to insulin (insulin resistance), so even if insulin is injected, the blood glucose level will not drop significantly and effectively.
 
-B. 胰島素依賴型 (I 型) → 血液葡萄糖維持高水平
-Type I (Insulin-dependent) → Blood glucose stays high
-✅ 正確。因為胰島素缺乏，細胞無法有效吸收葡萄糖 → 高血糖。
-✅ Correct. Due to lack of insulin, cells cannot absorb glucose effectively → hyperglycemia.
-
-C. 非胰島素依賴型 (II 型) → 用餐後血液胰島素仍維持低水平
-Type II (Non-insulin-dependent) → Insulin remains low after meals
-❌ 錯誤。II 型糖尿病患者通常仍能分泌胰島素，只是細胞對胰島素反應不佳（抗性）。
-❌ Incorrect. In Type II diabetes, patients usually can secrete insulin, but the cells show insulin resistance.
-
-D. 非胰島素依賴型 (II 型) → 注射胰島素後血糖會顯著下降
-Type II (Non-insulin-dependent) → Injecting insulin will greatly reduce blood glucose
-❌ 部分患者可能有效，但典型 II 型糖尿病特徵是 細胞對胰島素缺乏反應，所以血糖未必能有效下降。
-❌ Partially true in some patients, but typically Type II diabetes is characterized by cellular resistance to insulin, so blood glucose may not decrease effectively.
-
-📌 考試提醒 (Exam Tips)
-I 型糖尿病 (Type I, Insulin-dependent)
-
-胰島 β 細胞被破壞 → 胰島素缺乏 (no/low insulin)
-通常發生在兒童 / 青少年
-治療：必須注射胰島素
-Type I Diabetes (Insulin-dependent)
-
-Pancreatic β cells destroyed → insulin deficiency
-Usually occurs in children/adolescents
-Treatment: Insulin injection required
-II 型糖尿病 (Type II, Non-insulin-dependent)
-
-胰島素分泌正常或偏高，但細胞對胰島素反應差 (胰島素抗性)
-多見於成人、肥胖者
-治療：飲食控制、運動、藥物
-Type II Diabetes (Non-insulin-dependent)
-
-Insulin level normal or high, but cells are resistant (insulin resistance)
-Common in adults, obesity-related
-Treatment: Diet control, exercise, medication",
+📌 考試提醒
+I 型糖尿病的問題在於「缺乏胰島素」，而 II 型糖尿病的問題在於細胞「對胰島素失去反應」。
+The problem with Type I diabetes is a ""lack of insulin"", while the problem with Type II diabetes is that cells ""lose their response to insulin"".
+常見錯誤：學生常將兩種糖尿病的成因與特徵混淆，誤以為所有糖尿病患者血液中的胰島素水平都很低。
+Common trap: Students often confuse the causes and characteristics of the two types of diabetes, mistakenly believing that all diabetic patients have low blood insulin levels.",
 17p101,"📌 參考答案
 韌帶 — D
 Tendon — D
