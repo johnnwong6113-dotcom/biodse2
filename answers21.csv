@@ -1,1117 +1,739 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 2101,"📌 參考答案
-D. 信使 RNA (mRNA)
-D. Messenger RNA (mRNA)
+D. 信使 RNA
+D. Messenger RNA
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+題目顯示了細胞內基因表達的流程。
+The question shows the process of gene expression in a cell.
+過程 P 代表在細胞核內發生的轉錄，DNA 模板會以互補形式轉錄生成物質 X，即信使 RNA。
+Process P represents transcription occurring in the nucleus, where the DNA template is transcribed in a complementary manner to form substance X, which is messenger RNA.
+過程 Q 代表在細胞質的核糖體處發生的轉譯，信使 RNA 承載的信息會用來合成物質 Y，即多肽或蛋白質。
+Process Q represents translation occurring at the ribosomes in the cytoplasm, where the information carried by the messenger RNA is used to synthesize substance Y, which is a polypeptide or protein.
+選項 A 錯誤，因為轉移 RNA 在轉譯時才組成氨基酸酰-轉移 RNA 複合物以辨認密碼子。
+Option A is incorrect because transfer RNA only forms an aminoacyl-tRNA complex during translation to recognize codons.
+選項 B 錯誤，因為 DNA 模板是雙螺旋解旋時的一條鏈，並非生成的產物 X。
+Option B is incorrect because the DNA template is one of the strands when the double helix unwinds, not the newly formed product X.
+選項 C 錯誤，因為核糖體 RNA 是構成核糖體的成分，而非直接從圖中過程 P 產生的信息載體。
+Option C is incorrect because ribosomal RNA is a component of ribosomes, rather than the information carrier directly produced from process P shown in the diagram.
 
-1️⃣ 題目圖示流程
-DNA 經過 P 作用轉換為 X，然後 X 再經過 Q 作用合成 Y。
-DNA is converted into X through process P, and then X undergoes process Q to produce Y.
-
-P 是 轉錄 (transcription)，將 DNA 模板轉錄成 RNA。
-P is transcription, where DNA is transcribed into RNA.
-
-Q 是 翻譯 (translation)，將 mRNA 的訊息翻譯成蛋白質。
-Q is translation, where the message on mRNA is translated into protein.
-
-2️⃣ 因此 X 應該是 mRNA
-X 是由 DNA 模板以互補形式合成的 信使 RNA。
-X is messenger RNA, synthesized as a complementary copy from the DNA template strand.
-
-它負責將遺傳訊息從細胞核帶到核糖體，用於製造蛋白質。
-It carries genetic information from the nucleus to the ribosomes for protein synthesis.
-
-3️⃣ 選項分析
-
-A. 轉移 RNA (tRNA)：負責攜帶胺基酸，不是從 DNA 直接轉錄而來。❌
-A. Transfer RNA (tRNA): transfers amino acids, not directly transcribed from DNA. ❌
-
-B. DNA 模板：仍屬 DNA，不符合圖中顯示的 RNA。❌
-B. DNA template: still DNA, not RNA as shown in the diagram. ❌
-
-C. 核糖體 RNA (rRNA)：是核糖體的結構成分，不是基因表達的直接媒介。❌
-C. Ribosomal RNA (rRNA): structural component of ribosomes, not the direct intermediate of gene expression. ❌
-
-D. 信使 RNA (mRNA)：正確，承載 DNA 訊息用於翻譯。✅
-D. Messenger RNA (mRNA): correct, carries DNA’s message for translation. ✅
-
-📌 考試提醒 (Exam Tips)
-
-中心法則：DNA → mRNA → 蛋白質。
-Central dogma: DNA → mRNA → protein.
-
-轉錄 (transcription)：在細胞核進行，DNA 模板 → mRNA。
-Transcription: occurs in the nucleus, DNA template → mRNA.
-
-翻譯 (translation)：在細胞質的核糖體進行，mRNA → 蛋白質。
-Translation: occurs in the cytoplasm at ribosomes, mRNA → protein.
-
-tRNA 與 rRNA 參與翻譯，但 X 一定是 mRNA。
-tRNA and rRNA are involved in translation, but X must be mRNA.",
+📌 考試提醒
+信使 RNA 負責將基因編碼從細胞核攜帶到細胞質的核糖體進行轉譯。
+Messenger RNA is responsible for carrying genetic codes from the nucleus to the ribosomes in the cytoplasm for translation.
+常見錯誤：學生常把轉錄和轉譯的發生位置及產物混淆，誤以為轉移 RNA 是直接由轉錄生成的信息載體。
+Common trap：Students often confuse the locations and products of transcription and translation, mistakenly thinking that transfer RNA is the direct information carrier produced by transcription.",
 2102,"📌 參考答案
 D. (1)、(2) 和 (3)
 D. (1), (2) and (3)
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+過程 Q 指的是轉譯，即根據細胞質內核糖體中的信使 RNA 密碼子製作出多肽的過程。
+Process Q refers to translation, which is the process of synthesizing a polypeptide based on the codons of messenger RNA at the ribosomes in the cytoplasm.
+物質 Y 代表蛋白質合成的最終產物。
+Substance Y represents the final product of protein synthesis.
+酶是由蛋白質組成的生物催化劑，因此選項 (1) 正確。
+Enzymes are biological catalysts made of proteins, so option (1) is correct.
+部分激素（如胰島素）屬於肽類或蛋白質，因此選項 (2) 正確。
+Some hormones (such as insulin) are peptides or proteins, so option (2) is correct.
+抗體是由淋巴細胞分泌的免疫球蛋白，亦屬於蛋白質，因此選項 (3) 正確。
+Antibodies are immunoglobulins secreted by lymphocytes and are also proteins, so option (3) is correct.
 
-1️⃣ 題目資訊
-Q 代表 翻譯 (translation)，在核糖體上進行。
-Q represents translation, occurring at the ribosome.
-
-Y 代表最終合成出的 蛋白質。
-Y represents the final product, which is a protein.
-
-2️⃣ 判斷 Y 可能是什麼
-
-(1) 酵素 (enzyme) → 全部都是蛋白質。
-(1) Enzymes → all are proteins.
-
-(2) 激素 (hormone) → 有些是蛋白質，例如胰島素、生長激素。
-(2) Hormones → some are proteins, e.g., insulin and growth hormone.
-
-(3) 抗體 (antibody) → 皆為免疫球蛋白，是蛋白質。
-(3) Antibodies → all are immunoglobulins, which are proteins.
-
-3️⃣ 結論
-因此 Y 可以是 (1)、(2)、(3)。
-Therefore, Y can be (1), (2), and (3).
-
-📌 考試提醒 (Exam Tips)
-
-翻譯的最終產物是蛋白質。
-The final product of translation is protein.
-
-蛋白質的例子：酵素、蛋白質激素（如 insulin）、抗體。
-Examples of proteins: enzymes, protein hormones (e.g., insulin), antibodies.
-
-注意：不是所有激素都是蛋白質，例如類固醇激素不是蛋白質。
-Note: Not all hormones are proteins, e.g., steroid hormones are not proteins",
+📌 考試提醒
+轉譯作用的最終產物是多肽或蛋白質，而在人體內發揮重要作用的酶、抗體及部分激素均為蛋白質。
+The final product of translation is a polypeptide or protein, and enzymes, antibodies, and some hormones that play important roles in the human body are all proteins.
+常見錯誤：學生可能忘記部分激素（如胰島素及升糖素）和抗體均屬蛋白質，從而漏選 (2) 或 (3)。
+Common trap：Students may forget that some hormones (like insulin and glucagon) and antibodies are proteins, thus missing options (2) or (3).",
 2103,"📌 參考答案
-C. P = 轉錄 (Transcription)，Q 在細胞質發生 (Translation in cytoplasm)
-C. P = Transcription, Q occurs in the cytoplasm (Translation in cytoplasm)
+C. 轉錄 ； 細胞質
+C. Transcription ; Cytoplasm
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+過程 P 將 DNA 的遺傳信息複製到信使 RNA 上，這過程稱為轉錄。
+Process P copies the genetic information from DNA to messenger RNA, and this process is called transcription.
+由於 DNA 位於真核細胞的細胞核內，因此轉錄必定在細胞核中發生。
+Since DNA is located in the nucleus of eukaryotic cells, transcription must occur in the nucleus.
+過程 Q 則是信使 RNA 上的遺傳信息被用來合成多肽，這過程稱為轉譯。
+Process Q involves using the genetic information on the messenger RNA to synthesize a polypeptide, and this process is called translation.
+轉譯過程在細胞質中的核糖體處發生。
+The translation process occurs at the ribosomes in the cytoplasm.
+因此，選項 C 正確指出過程 P 是轉錄，而過程 Q 在細胞質發生。
+Therefore, option C correctly identifies process P as transcription and that process Q occurs in the cytoplasm.
+其他選項的組合皆未能準確配對基因表達的名稱與其發生位置。
+Other options fail to accurately match the names of gene expression processes with their respective locations.
 
-1️⃣ 分析 P
-P 是從 DNA 產生 X (mRNA) 的過程 → 這就是 轉錄。
-P is the process of producing X (mRNA) from DNA → this is transcription.
-
-轉錄發生在 細胞核，因為 DNA 位於細胞核中。
-Transcription occurs in the nucleus, since DNA is located there.
-
-2️⃣ 分析 Q
-Q 是根據 mRNA 在核糖體合成蛋白質的過程 → 這是 翻譯。
-Q is the process where proteins are synthesized based on mRNA at ribosomes → this is translation.
-
-翻譯發生在 細胞質 的核糖體。
-Translation occurs in the cytoplasm at ribosomes.
-
-3️⃣ 結論
-所以正確組合是：P = 轉錄、Q 在細胞質發生。
-Therefore, the correct combination is: P = transcription, Q in cytoplasm.
-
-📌 考試提醒 (Exam Tips)
-
-轉錄 (Transcription)：DNA → mRNA，在 細胞核。
-Transcription: DNA → mRNA, in the nucleus.
-
-翻譯 (Translation)：mRNA → 蛋白質，在 細胞質核糖體。
-Translation: mRNA → protein, in the cytoplasm at ribosomes.
-
-常見混淆：P 一定是轉錄，不可能是翻譯，因為 DNA 不會直接翻譯成蛋白質。
-Common mistake: P must be transcription, not translation, because DNA cannot be directly translated into protein.",
+📌 考試提醒
+轉錄發生在細胞核，而轉譯發生在細胞質的核糖體。
+Transcription occurs in the nucleus, while translation occurs at the ribosomes in the cytoplasm.
+常見錯誤：部分考生會將轉錄和轉譯發生的位置倒置，或混淆這兩個核心過程的名稱。
+Common trap：Some candidates may reverse the locations of transcription and translation, or confuse the names of these two core processes.",
 2104,"📌 參考答案
 D. ATP 和 NADH
 
-📌 詳細解釋 (Detailed Explanation)
 
-1️⃣ ATP 與 ADP 比較
-ATP 比 ADP 多一個高能磷酸鹽基團，水解時釋放能量更多。
-ATP has one more high‑energy phosphate group than ADP, and thus releases more energy upon hydrolysis.
+📌 詳細解釋
+在呼吸作用中，帶有能量的化合物由磷酸化作用合成。
+In respiration, energy-carrying compounds are synthesized through phosphorylation.
+由於 ATP 比 ADP 多擁有一個磷酸鹽基團，因此在水解作用時，ATP 會比 ADP 釋出更多能量。
+Since ATP possesses one more phosphate group than ADP, ATP releases more energy than ADP upon hydrolysis.
+NAD 是一種電子載體，本身處於氧化狀態，含有的能量較低。
+NAD is an electron carrier that is in an oxidized state and contains lower energy.
+當 NAD 被還原成 NADH 後，它攜帶了高能電子，可在氧化磷酸化作用中產生三個 ATP 分子。
+When NAD is reduced to NADH, it carries high-energy electrons that can generate three ATP molecules during oxidative phosphorylation.
+因此，相比於 ADP 和 NAD，ATP 和 NADH 含有最多的能量儲備。
+Therefore, compared to ADP and NAD, ATP and NADH contain the most energy reserves.
+選項 A、B 及 C 的組合皆包含了能量較低的狀態（ADP 或 NAD），故不正確。
+Options A, B, and C all include lower-energy states (ADP or NAD) and are thus incorrect.
 
-因此 ATP 儲存的能量多於 ADP。
-Therefore, ATP stores more energy than ADP.
-
-2️⃣ NADH 與 NAD 比較
-NADH 是帶有高能電子的還原型分子，它可以在呼吸鏈中被氧化，進而產生3個 ATP。
-NADH is the reduced form carrying high‑energy electrons, which can be oxidized in the respiratory chain to produce 3ATPs.
-
-一個 NADH 通常可藉由氧化磷酸化生成約 3 個 ATP。
-One NADH can typically generate about 3 ATP molecules through oxidative phosphorylation.
-
-因此 NADH 的能量儲備大於 NAD。
-Therefore, NADH has more stored energy than NAD.
-
-3️⃣ 整體結論
-ATP + NADH 的能量儲備組合最高。
-The combination of ATP + NADH contains the highest energy reserve.
-
-📌 考試提醒 (Exam Tips)
-
-ATP 比 ADP 多一個高能磷酸鍵。
-ATP has one more high‑energy phosphate bond than ADP.
-
-NADH 是「能量儲存型」分子，NAD 則是未帶能量的氧化型。
-NADH is the energy‑rich reduced form, whereas NAD is the oxidized form with no energy stored.
-
-在能量比較題：ATP > ADP；NADH > NAD。
-For energy comparisons: ATP > ADP; NADH > NAD.",
+📌 考試提醒
+ATP 和 NADH 均為帶有高能量的分子，分別透過水解和電子傳遞鏈釋放能量。
+Both ATP and NADH are high-energy molecules that release energy through hydrolysis and the electron transport chain, respectively.
+常見錯誤：學生常忽略 NADH 是攜帶高能電子的還原態分子，誤以為 NAD 的能量較高。
+Common trap：Students often overlook that NADH is the reduced molecule carrying high-energy electrons, mistakenly thinking NAD has higher energy.",
 2105,"📌 參考答案
-B. 丙酮酸鹽 (Pyruvate)
+B. 丙酮酸鹽
+B. Pyruvate
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+從電子顯微照片可見，結構 D 是線粒體的膜。
+From the electron micrograph, structure D is the membrane of the mitochondrion.
+在需氧呼吸的過程中，細胞質內的糖酵解會將葡萄糖分解成丙酮酸鹽。
+During aerobic respiration, glycolysis in the cytoplasm breaks down glucose into pyruvate.
+產生的丙酮酸鹽會穿越線粒體膜（結構 D）進入線粒體。
+The produced pyruvate crosses the mitochondrial membrane (structure D) to enter the mitochondrion.
+在線粒體基質中，丙酮酸鹽會轉變成乙酰輔酶 A，為克雷伯氏循環作準備。
+In the mitochondrial matrix, pyruvate is converted into acetyl-CoA in preparation for the Krebs cycle.
+選項 A 錯誤，葡萄糖不會直接進入線粒體，而是在細胞質中先被分解。
+Option A is incorrect because glucose does not enter the mitochondrion directly but is first broken down in the cytoplasm.
+選項 C 錯誤，乙酰輔酶 A 是在線粒體基質內由丙酮酸鹽轉化而成的產物，並非從細胞質穿越膜進入的物質。
+Option C is incorrect because acetyl-CoA is the product converted from pyruvate inside the mitochondrial matrix, not the substance crossing the membrane from the cytoplasm.
+選項 D 錯誤，丙糖磷酸是糖酵解過程中的中間產物，不會進入線粒體。
+Option D is incorrect because triose phosphate is an intermediate in glycolysis and does not enter the mitochondrion.
 
-1️⃣ D 的結構
-D 是線粒體的膜。
-D is the membrane of the mitochondrion.
-
-在需氧呼吸中，物質必須穿過這層膜才能進入線粒體基質。
-During aerobic respiration, substances must cross this membrane to enter the mitochondrial matrix.
-
-2️⃣ 糖酵解的產物
-在細胞質中，葡萄糖經糖酵解生成丙酮酸鹽。
-In the cytoplasm, glucose undergoes glycolysis to produce pyruvate.
-
-丙酮酸鹽能夠經由載體進入線粒體。
-Pyruvate can enter the mitochondrion via a transport protein.
-
-3️⃣ 進入基質後的轉化
-在線粒體基質中，丙酮酸鹽會轉變成乙醯輔酶 A。
-In the mitochondrial matrix, pyruvate is converted into acetyl‑CoA.
-
-乙醯輔酶 A 隨後進入克雷伯氏循環（柠檬酸循環）。
-Acetyl‑CoA then enters the Krebs cycle (citric acid cycle).
-
-4️⃣ 結論
-因此，能穿過 D 進入線粒體的分子是 丙酮酸鹽。
-Therefore, the molecule that crosses D into the mitochondrion is pyruvate.
-
-📌 考試提醒 (Exam Tips)
-
-葡萄糖 不會直接進入線粒體，是在細胞質中分解的。
-Glucose does not directly enter the mitochondrion; it is broken down in the cytoplasm.
-
-丙酮酸鹽 才是能進入線粒體並轉化為乙醯輔酶 A 的分子。
-Pyruvate is the molecule that enters the mitochondrion and is converted into acetyl‑CoA.
-
-NAD/NADH 和 ATP/ADP 都參與能量轉移，但重點考的是進入基質的「燃料分子」。
-NAD/NADH and ATP/ADP are for energy transfer, but the key here is the “fuel molecule” entering the matrix.",
+📌 考試提醒
+糖酵解在細胞質進行，其最終產物丙酮酸鹽才會進入線粒體參與後續反應。
+Glycolysis occurs in the cytoplasm, and its final product, pyruvate, enters the mitochondrion to participate in subsequent reactions.
+常見錯誤：考生常誤以為葡萄糖能直接進入線粒體進行需氧呼吸。
+Common trap：Candidates often mistakenly believe that glucose can directly enter the mitochondrion for aerobic respiration.",
 2106,"📌 參考答案
-A（細胞質）
-A (Cytoplasm)
+A. 細胞質
+A. Cytoplasm
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+結構 A 標示的是細胞質，缺氧呼吸正是在細胞質中發生，並在動物細胞中產生乳酸。
+Structure A indicates the cytoplasm, where anaerobic respiration takes place and produces lactic acid in animal cells.
+結構 B 標示的是線粒體內膜，它是需氧呼吸中氧化磷酸化作用發生的地方，並不參與缺氧呼吸。
+Structure B indicates the inner mitochondrial membrane, which is the site for oxidative phosphorylation in aerobic respiration and is not involved in anaerobic respiration.
+結構 C 標示的是線粒體基質，它是需氧呼吸中克雷伯氏循環發生的地方。
+Structure C indicates the mitochondrial matrix, which is the site for the Krebs cycle in aerobic respiration.
+結構 D 標示的是線粒體外膜，它控制物質進出線粒體，同樣沒有參與缺氧呼吸的反應。
+Structure D indicates the outer mitochondrial membrane, which controls the entry and exit of substances in the mitochondrion and is also not involved in anaerobic respiration reactions.
+因此，只有選項 A 正確指出缺氧呼吸的發生位置。
+Therefore, only option A correctly identifies the site of anaerobic respiration.
 
-1️⃣ 缺氧呼吸的位置
-缺氧呼吸在細胞質中進行。
-Anaerobic respiration takes place in the cytoplasm.
-
-它不需要進入線粒體，依靠糖酵解產生少量 ATP。
-It does not involve mitochondria; it relies on glycolysis to produce small amounts of ATP.
-
-在動物細胞中，產物是乳酸；在酵母中，產物是乙醇與二氧化碳。
-In animal cells, the product is lactic acid; in yeast, the products are ethanol and carbon dioxide.
-
-2️⃣ 錯誤選項說明
-
-B. 線粒體內膜：這裡是需氧呼吸中電子傳遞鏈與氧化磷酸化的地點。❌
-B. Mitochondrial inner membrane: site of electron transport chain and oxidative phosphorylation in aerobic respiration. ❌
-
-C. 線粒體基質：這是克雷伯氏循環發生的地點，只屬於需氧呼吸。❌
-C. Mitochondrial matrix: site of Krebs cycle, only in aerobic respiration. ❌
-
-D. 線粒體外膜：並不直接參與缺氧呼吸。❌
-D. Mitochondrial outer membrane: not directly involved in anaerobic respiration. ❌
-
-3️⃣ 結論
-只有 A（細胞質） 是缺氧呼吸發生的位置。
-Only A (cytoplasm) is the site where anaerobic respiration occurs.
-
-📌 考試提醒 (Exam Tips)
-
-缺氧呼吸：細胞質，僅有糖酵解 → 產物為乳酸或乙醇 + CO₂。
-Anaerobic respiration: cytoplasm, only glycolysis → products are lactic acid or ethanol + CO₂.
-
-需氧呼吸：線粒體內進行，包括基質的克雷伯氏循環，內膜的電子傳遞鏈。
-Aerobic respiration: inside mitochondria, including Krebs cycle in the matrix and electron transport chain in the inner membrane.
-
-記住對比：缺氧 → 細胞質；需氧 → 線粒體。
-Remember the contrast: Anaerobic → cytoplasm; Aerobic → mitochondria.
-",
+📌 考試提醒
+缺氧呼吸的整個過程（即糖酵解及後續的還原反應）僅在細胞質中進行。
+The entire process of anaerobic respiration (i.e., glycolysis and subsequent reduction reactions) takes place solely in the cytoplasm.
+常見錯誤：學生容易把缺氧呼吸與需氧呼吸的地點混淆，誤以為所有呼吸作用都必須在線粒體內發生。
+Common trap：Students easily confuse the locations of anaerobic and aerobic respiration, mistakenly thinking that all respiration must occur inside mitochondria.",
 2107,"📌 參考答案
 C. 只有 (2) 和 (3)
 C. Only (2) and (3)
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+脂溶性物質會被吸收進乳糜管，但由於氨基酸是水溶性的，因此會被吸收進微血管中，故敘述 (1) 錯誤。
+Fat-soluble substances are absorbed into lacteals, but since amino acids are water-soluble, they are absorbed into blood capillaries; thus, statement (1) is incorrect.
+腸道絨毛上的膜蛋白會作為載體或通道，協助吸收氨基酸，故敘述 (2) 正確。
+Membrane proteins on the intestinal villi act as carriers or channels to assist in the absorption of amino acids, so statement (2) is correct.
+沿着濃度梯度的吸收稱為擴散，而逆着濃度梯度的吸收則稱為主動轉運。
+Absorption along the concentration gradient is called diffusion, while absorption against the concentration gradient is called active transport.
+這兩種方式都會用來吸收氨基酸，以將最多氨基酸吸收進循環系統中，故敘述 (3) 正確。
+Both methods are used to absorb amino acids to maximize their uptake into the circulatory system, so statement (3) is correct.
+因此，只有選項 C 的組合是正確的。
+Therefore, only option C is the correct combination.
 
-1️⃣ 選項 (1)：錯誤
-氨基酸是水溶性物質，因此會被吸收進入微血管，而不是乳糜管。
-Amino acids are water‑soluble, so they are absorbed into capillaries, not into the lacteals.
-
-乳糜管主要吸收脂溶性物質，如脂肪酸、甘油和脂溶性維生素 (A, D, E, K)。
-Lacteals mainly absorb fat‑soluble substances such as fatty acids, glycerol, and vitamins A, D, E, and K.
-
-2️⃣ 選項 (2)：正確
-氨基酸的吸收需要膜蛋白協助，通常透過轉運蛋白或通道的方式進入細胞。
-The absorption of amino acids requires membrane proteins, usually via transport proteins or channels.
-
-3️⃣ 選項 (3)：正確
-氨基酸的移動可以是順著濃度梯度 (易化擴散)，或逆著濃度梯度 (主動運輸)。
-The movement of amino acids can be along the concentration gradient (facilitated diffusion) or against it (active transport).
-
-4️⃣ 總結
-因此，正確的是 (2) 和 (3)。
-Therefore, the correct statements are (2) and (3).
-
-📌 考試提醒 (Exam Tips)
-
-水溶性營養素（氨基酸、單醣） → 進入微血管。
-Water‑soluble nutrients (amino acids, monosaccharides) → enter capillaries.
-
-脂溶性營養素（脂肪酸、甘油、脂溶性維生素） → 進入乳糜管。
-Fat‑soluble nutrients (fatty acids, glycerol, fat‑soluble vitamins) → enter lacteals.
-
-吸收方式：可經 易化擴散 或 主動運輸。
-Mode of absorption: via facilitated diffusion or active transport.",
+📌 考試提醒
+水溶性營養素（如氨基酸和單糖）進入微血管，而脂溶性營養素進入乳糜管。
+Water-soluble nutrients (such as amino acids and monosaccharides) enter the blood capillaries, whereas fat-soluble nutrients enter the lacteal.
+常見錯誤：學生常錯誤以為小腸絨毛只利用擴散作用吸收營養，而忘記主動轉運亦會同時發生以確保徹底吸收。
+Common trap：Students often mistakenly think that intestinal villi only use diffusion for nutrient absorption, forgetting that active transport also occurs simultaneously to ensure complete absorption.",
 2108,"📌 參考答案
 B. 濃度梯度：是；能量供應：否；選透性膜：否
 B. Concentration gradient: Yes; Energy supply: No; Selectively permeable membrane: No
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+滲透指水分子從高水勢區域，經過選透性膜，淨移動至低水勢區域。
+Osmosis refers to the net movement of water molecules from a region of higher water potential to a region of lower water potential across a selectively permeable membrane.
+擴散則指任何物質根據其濃度梯度，從高濃度區域淨移動至低濃度區域。
+Diffusion refers to the net movement of any substance along its concentration gradient, from a region of higher concentration to a region of lower concentration.
+根據定義，滲透和擴散的發生都必須存在濃度梯度（或水勢梯度）。
+By definition, both osmosis and diffusion require the presence of a concentration gradient (or water potential gradient) to occur.
+因為這兩個作用都是沿着梯度發生，屬於被動轉運，所以都不需要能量供應。
+Because both processes occur along a gradient and are forms of passive transport, neither requires an energy supply.
+雖然滲透作用必須有選透性膜，但擴散作用無論是否有選透性膜存在都可以發生。
+Although osmosis strictly requires a selectively permeable membrane, diffusion can occur regardless of the presence of a selectively permeable membrane.
+因此，選透性膜並非兩者共同需要的條件，正確答案為 B。
+Therefore, a selectively permeable membrane is not a shared requirement for both, making option B the correct answer.
 
-1️⃣ 滲透 (Osmosis)
-滲透是水分子依濃度梯度，經由半透膜，從高水勢移向低水勢的過程。
-Osmosis is the movement of water molecules down a concentration gradient through a partially permeable membrane, from high water potential to low water potential.
-
-它需要濃度梯度，但不需要能量供應。
-It requires a concentration gradient but does not require energy supply.
-
-2️⃣ 擴散 (Diffusion)
-擴散是任何分子依濃度梯度，由高濃度移向低濃度的過程。
-Diffusion is the movement of molecules down a concentration gradient, from high concentration to low concentration.
-
-擴散可以經由膜發生，也可以在沒有膜的情況下發生。
-Diffusion may occur across a membrane, but it can also happen without any membrane.
-
-它同樣依賴濃度梯度，但不需要能量供應。
-It also depends on a concentration gradient but does not need energy supply.
-
-3️⃣ 比較與結論
-因此，兩者的共同條件是：需要濃度梯度，但不需要能量供應，也不必一定要有選透性膜。
-Thus, both require a concentration gradient, but no energy supply, and a selectively permeable membrane is not always required.
-
-正確答案是 B。
-The correct answer is B.
-
-📌 考試提醒 (Exam Tips)
-
-滲透 & 擴散：都依靠濃度梯度，屬於被動運輸，不需能量。
-Osmosis & Diffusion: both rely on concentration gradients, passive transport, no energy needed.
-
-滲透 一定需要半透膜；擴散 則不一定。
-Osmosis requires a partially permeable membrane; diffusion does not necessarily require one.
-
-這類題常考「相同 / 不同」：相同 = 濃度梯度；不同 = 膜是否需要。
-Common test point: similarities = concentration gradient; difference = membrane requirement.",
+📌 考試提醒
+擴散和滲透均為被動轉運過程，依賴分子自身的動能而不消耗 ATP。
+Both diffusion and osmosis are passive transport processes that rely on the kinetic energy of molecules without consuming ATP.
+常見錯誤：學生常誤以為所有物質交換過程都需要選透性膜，忽略了氣體或液體中的自由擴散並不需要膜的參與。
+Common trap：Students often mistakenly believe that all substance exchange processes require a selectively permeable membrane, ignoring that free diffusion in gases or liquids does not require membrane involvement.",
 2109,"📌 參考答案
 A. 只有 P 和 Q
 A. Only P and Q
 
-📌 詳細解釋 (Detailed Explanation)
-
-1️⃣ 實驗設計目的
-題目希望比較澱粉酶 (amylase) 對澱粉 (starch) 的作用。
-The aim of the experiment is to test the effect of amylase on starch.
-
-所以我們需要能夠區分「有酵素」和「無酵素」時澱粉的變化。
-Thus, we need to compare the changes in starch with enzyme vs. without enzyme.
-
-2️⃣ 各試管分析
-
-試管 P：含有澱粉酶 + 澱粉 → 可以觀察澱粉是否被分解。
-Tube P: Contains amylase + starch → tests whether starch is broken down.
-
-試管 Q：含有蒸餾水 + 澱粉 → 沒有澱粉酶，用作對照，看看澱粉沒有酵素時的變化。
-Tube Q: Contains distilled water + starch → no amylase, a control to show what happens without enzyme.
-
-試管 R：含有澱粉酶 + 蒸餾水 → 沒有澱粉，只能證明酵素存在，對研究澱粉是否被分解沒有意義。
-Tube R: Contains amylase + distilled water → no starch, so it cannot test starch digestion, not useful for the aim.
-
-3️⃣ 結論
-因此要比較 P 與 Q 才能得出澱粉酶是否分解澱粉。
-Therefore, only comparing P and Q allows us to conclude whether amylase digests starch.
-
-📌 考試提醒 (Exam Tips)
-
-實驗設計一定要有 對照組 (control)，這裡是 試管 Q (無酵素)。
-Every experiment must have a control group, here it is Tube Q (no enzyme).
-
-研究目標是看「酵素是否作用於受質」，因此必須 同時含有酵素組 (P) 與無酵素組 (Q)。
-The research question focuses on whether the enzyme acts on the substrate, so we need enzyme + substrate (P) vs. no enzyme + substrate (Q).
-
-若無受質 (R)，就無法回答研究問題。
-Without substrate (R), you cannot answer the research question.",
-2110,"📌 參考答案 (Suggested Answer)
-✅ B. 只有 (2)
-
-📌 詳細解釋 (Detailed Explanation)
-第 (2) 點解釋：
-
-因為澱粉酶是蛋白質，所以會使尿蛋白試紙由黃色轉為綠色。
-
-Since amylase is a protein, it will turn the protein test strip from yellow to green.
-
-這個結果在實驗開始與 10 分鐘後都會相同，因為澱粉酶本身不會被反應消耗掉。
-
-This result remains the same at the beginning and after 10 minutes, because the enzyme itself is not consumed in the reaction.
-
-因此，尿蛋白試紙在兩個時間點都會呈現陽性結果。
-
-Therefore, the protein test strip shows a positive result at both time points.
-
-📌 考試提醒 (Exam Tips)
-澱粉會逐漸被分解，不會在開始與結束都測得相同結果。
-
-Starch is gradually broken down, so the same result will not appear both at the start and the end.
-
-還原糖是在反應進行後才增多，因此反應前後結果會不同。
-
-Reducing sugar increases only after the reaction proceeds, so test results before and after are different.
-
-酵素本身是蛋白質，反應前後試紙都會呈陽性。
-
-The enzyme itself is a protein, so the protein test shows positive both before and after.
-",
-2111," 📌 參考答案 (Suggested Answer)  
-✅ C. 6  
-
----
-
-## 📌 詳細解釋 (Detailed Explanation)  
-
-**第 2 點說明：**  
-
-- ABO 血型系統由 **三個等位基因** 控制：\( I^A, I^B, i \)。  
-- The ABO blood group system is controlled by **three alleles**: \( I^A, I^B, i \).  
-
-- 配子形成時，任意兩個等位基因可組成基因型，共有六種可能：  
-  \( I^A I^A, I^A i, I^B I^B, I^B i, I^A I^B, ii \)。  
-- During gamete formation, any two alleles combine to form genotypes. There are six possibilities:  
-  \( I^A I^A, I^A i, I^B I^B, I^B i, I^A I^B, ii \).  
-
-- 雖然基因型有六個，但表現型只有四種：A 型、B 型、AB 型、O 型。  
-- Although there are six genotypes, there are only four phenotypes: type A, type B, type AB, and type O.  
-
----
-
-## 📌 考試提醒 (Exam Tips)  
-
-- 要分清「基因型數目」與「表現型數目」。  
-- Be careful to distinguish between the **number of genotypes** and the **number of phenotypes**.  
-
-- 基因型 = 依等位基因組合計算；表現型 = 視抗原表現結果而定。  
-- Genotype = calculated by allele combinations; Phenotype = determined by antigen expression.  
-
-- ABO 血型是 **共顯性** 的例子：\( I^A \) 與 \( I^B \) 同時表現。  
-- The ABO blood group is an example of **codominance**, where \( I^A \) and \( I^B \) are both expressed.  
-
----
-
-要不要我接下來幫您把第 **9–11 題** 都整理成這種「📌參考答案 → 📌詳細解釋第2 → 📌考試提醒」的標準化筆記？",
-2112,"📌 參考答案 (Suggested Answer)
-✅ C. 他們的近視程度不同。
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-指紋主要由基因決定，每個人的指紋是獨特的，即使是單卵雙生兒也不完全相同。
-
-Fingerprints are mainly determined by genes, and each person has unique fingerprints, even identical twins are not exactly the same.
-
-因此「指紋相同」並不成立，不能作為可靠推論。
-
-Therefore, “having the same fingerprints” is not valid, and cannot be a reliable inference.
-
-📌 考試提醒 (Exam Tips)
-單卵雙生兒有相同基因，但環境因素能造成性狀差異。
-
-Identical twins share the same genes, but environmental factors can cause trait differences.
-
-不易變化的特徵：耳垂形狀、指紋 → 主要由基因控制。
-
-Less variable traits: earlobe shape, fingerprints → mainly controlled by genes.
-
-易受環境影響的特徵：近視程度、雀斑數量。
-
-Environmentally influenced traits: degree of myopia, number of freckles.
-
-考題關鍵：要分清「由基因決定」vs「受環境影響」。
-
-Exam key: distinguish between “determined by genes” vs “influenced by environment.”",
-2113,"📌 參考答案 (Suggested Answer)
-✅ A. 父母各自的常染色體。
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-題目明確指出此遺傳缺陷是 常染色體隱性遺傳。
-
-The question states clearly that this disorder is autosomal recessive inheritance.
-
-個體 6 為女性，若要表現出隱性性狀，她必須同時從 父母兩方 各獲得一條帶有缺陷等位基因的染色體。
-
-Individual 6 is female. To express the recessive trait, she must inherit one defective allele from each parent’s autosome.
-
-由於父母都沒有表現缺陷，因此他們是 隱性雜合體（攜帶者）。
-
-Since both parents show no defect, they must be heterozygous carriers.
-
-因此，個體 6 的缺陷基因來自於 父親與母親的常染色體。
-
-Therefore, individual 6’s defective genes came from each parent’s autosome.
-
-📌 考試提醒 (Exam Tips)
-常染色體隱性：必須同時從父母遺傳兩條缺陷等位基因才會表現。
-
-Autosomal recessive: need two defective alleles from both parents to show the trait.
-
-父母正常卻能生出患者 → 父母多半是隱性攜帶者。
-
-When parents are normal but have an affected child → the parents are likely heterozygous carriers.
-
-注意區分「常染色體」與「性染色體」遺傳模式。
-
-Be careful to distinguish between autosomal and sex-linked inheritance patterns.",
-2114,"📌 參考答案 (Suggested Answer)
-✅ A. 由父親獲得正常等位基因。
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-個體 6 是 隱性純合型 (aa)，所以她一定會把隱性基因傳給所有子代。
-
-Individual 6 is homozygous recessive (aa), so she must pass the recessive allele to all offspring.
-
-若子代皆正常，表示他們必定從 父親 (個體 7) 繼承了一條正常顯性等位基因 
-𝐴
-A。
-
-Since all their offspring are normal, it means they must inherit a normal dominant allele 
-𝐴
-A from the father (individual 7).
-
-因此，每個子代的基因型都是 
-𝐴
-𝑎
-Aa，表現為正常，但攜帶隱性基因。
-
-Therefore, the offspring all have genotype 
-𝐴
-𝑎
-Aa, phenotypically normal but carriers of the recessive allele.
-
-📌 考試提醒 (Exam Tips)
-若母親是隱性純合體，所有子代都會帶有她的隱性基因。
-
-If the mother is homozygous recessive, all children inherit her recessive allele.
-
-子代若全是正常，必定是因父親提供了顯性等位基因。
-
-If all offspring are normal, the father must have provided the dominant allele.
-
-注意：正常表現 ≠ 沒有隱性基因，有些仍是雜合的帶因者。
-
-Note: A normal phenotype ≠ absence of the recessive allele; some may still be heterozygous carriers.",
-2115,"📌 參考答案 (Suggested Answer)
-✅ D. 顯性純合型和雜合型
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-個體 3 和 4 的表現型是正常，表示他們不可能是隱性純合子。
-
-Individuals 3 and 4 are phenotypically normal, meaning they cannot be homozygous recessive.
-
-因此，他們的基因型只能是「顯性純合 (AA)」或「雜合 (Aa)」。
-
-Hence, their genotypes can only be “homozygous dominant (AA)” or “heterozygous (Aa).”
-
-個體 8 作為他們的子代，也同樣只可能擁有這兩種基因型。
-
-As the offspring of these parents, individual 8 also can only have these two possible genotypes.
-
-📌 考試提醒 (Exam Tips)
-常染色體隱性遺傳：正常個體可能是顯性純合或雜合子。
-
-Autosomal recessive inheritance: normal individuals can be homozygous dominant or heterozygous.
-
-若父母表現正常，子代表現正常也不能完全排除其為帶因者。
-
-If both parents are normal, normal offspring may still be carriers.
-
-譜系題要分清楚「肯定排除的基因型」與「仍有可能的基因型」。
-
-In pedigree questions, distinguish between “definitely excluded genotypes” and “possible genotypes.”",
-2116,"📌 參考答案 (Suggested Answer)
-✅ D. 這個品種中，紅色花屬顯性性狀。
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-題目說明：F₁ 代中一半紅花、一半白花 → 表示其中一個親代是 雜合子 (Rr)，另一個親代必須是 隱性純合子 (rr)。
-
-The question states: in the F₁ generation, half are red flowers and half are white flowers → meaning one parent must be heterozygous (Rr) and the other must be homozygous recessive (rr).
-
-當 F₁ 的白花個體 (rr) 自交時，F₂ 代全部都是白花 → 證明白花只能是 隱性純合。
-
-When F₁ white plants (rr) self-cross, all F₂ plants are white → proving white flowers can only be homozygous recessive.
-
-因此，紅花必須是 顯性性狀，白花為隱性性狀。
-
-Therefore, red flowers must be the dominant trait, and white flowers the recessive trait.
-
-📌 考試提醒 (Exam Tips)
-確認親代表現型比例，可以倒推出基因型組合。
-
-Check offspring phenotype ratios to deduce the parents’ genotypes.
-
-若某表現型只在純合時才出現 → 它是隱性性狀。
-
-If a trait appears only in the homozygous state → it is recessive.
-
-若某表現型在雜合及純合都能出現 → 它是顯性性狀。
-
-If a trait appears in both heterozygous and homozygous states → it is dominant.",
-2117,"📌 參考答案 (Suggested Answer)
-✅ C. 細胞分裂時染色體的活動所支持。
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-孟德爾提出一對「遺傳因子」控制性狀，但在他生前未受認同。
-
-Mendel proposed that pairs of “hereditary factors” control traits, but his idea was not recognized in his lifetime.
-
-直到後來顯微鏡觀察到染色體在減數分裂時的複製與分離，才證明等位基因會分開進入不同的配子。
-
-It was only later, when microscopes revealed that chromosomes replicate and separate during meiosis, that it was confirmed alleles segregate into different gametes.
-
-這種觀察結果與孟德爾的理論高度吻合，於是遺傳因子的概念才被接受。
-
-This observation matched Mendel’s theory closely, and thus the concept of hereditary factors gained acceptance.
-
-📌 考試提醒 (Exam Tips)
-孟德爾的理論直到染色體行為被觀察到後才獲支持。
-
-Mendel’s theory was only supported after chromosome behavior was observed.
-
-減數分裂中，染色體對的分離 → 等位基因的分離。
-
-In meiosis, separation of chromosome pairs → separation of alleles.
-
-要能連結：基因在染色體上 的證據來自細胞分裂的觀察。
-
-Be able to link: evidence that genes are on chromosomes comes from cell division observations.",
-2118,"📌 參考答案 (Suggested Answer)
-✅ A. 左側視野部分缺失
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-題目顯示的是 視網膜脫落 (retinal detachment) 的早期情況。
-
-The diagram shows the early stage of retinal detachment.
-
-脫落的區域無法接收光線刺激，因此不能產生正常的神經衝動傳遞到大腦。
-
-The detached region cannot receive light stimulation, so no normal nerve impulse is transmitted to the brain.
-
-病人因此在視野中會出現「局部視覺缺損」，如圖 A 左邊的黑影。
-
-As a result, the patient perceives “partial visual loss” in the affected area of the visual field, such as the shadow shown in picture A.
-
-📌 考試提醒 (Exam Tips)
-視網膜脫落 → 局部視野缺損。
-
-Retinal detachment → localized visual field loss.
-
-黃斑病變 → 中央視力下降或消失。
-
-Macular degeneration → central vision loss.
-
-青光眼 → 周邊視力受損。
-
-Glaucoma → peripheral vision impaired.
-
-白內障 → 整體視覺模糊。
-
-Cataract → overall blurred vision.",
-2119,"📌 參考答案 (Suggested Answer)
-✅ C. 小腸
-
-📌 詳細解釋 (Detailed Explanation)
-第 2 點說明：
-
-小腸是消化道中 主要的吸收部位，不僅吸收營養，還包括最多量的水分。
-
-The small intestine is the main site of absorption in the digestive tract, not only for nutrients but also for the largest volume of water.
-
-在腸腔內，當溶解的食物成份被吸收後，水分因滲透壓作用而隨之進入血液。
-
-In the intestinal lumen, as dissolved food substances are absorbed, water follows by osmosis into the blood.
-
-因此，小腸吸收水分的能力遠大於大腸。
-
-Therefore, the small intestine absorbs much more water than the large intestine.
-
-📌 考試提醒 (Exam Tips)
-食道：只負責傳送食物，不吸收。
-
-Esophagus: only transports food, no absorption.
-
-胃：主要進行蛋白質消化，吸收有限。
-
-Stomach: mainly digests protein, very limited absorption.
-
-小腸：最大吸收面積 → 吸收大部分營養及水分。
-
-Small intestine: largest surface area → absorbs most nutrients and water.
-
-大腸：也吸收水分，但主要作用是糞便成形與儲存。
-
-Large intestine: also absorbs water, but mainly for stool formation and storage, less than small intestine.",
-2120,"📌 參考答案 (Answer)
-正確答案：D. 小腸 → 肝臟 → 心臟 → 肺
-Correct Answer: D. Small intestine → Liver → Heart → Lungs
-📌 詳細解釋 (Detailed Explanation)
-小腸產生的二氧化碳會隨血液進入肝門靜脈，先流向肝臟。
-The carbon dioxide produced in the small intestine enters the hepatic portal vein and first passes through the liver.
-
-在肝臟進行物質處理與解毒後，二氧化碳隨血液送往心臟。
-After processing and detoxification in the liver, the carbon dioxide is carried by the blood to the heart.
-
-心臟再把含二氧化碳的血液泵送到肺部，在肺泡進行氣體交換，把二氧化碳排出體外。
-The heart then pumps the carbon dioxide‑rich blood to the lungs, where gas exchange occurs in the alveoli, releasing the carbon dioxide out of the body.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：要分清楚「肝門靜脈」的特殊路徑，所有小腸吸收的血液都要先經過肝臟。
-Exam Tip: Remember the special pathway of the hepatic portal vein — all blood leaving the small intestine first passes through the liver.
-
-考試提醒：不要忽略心臟的角色，因為血液一定要由心臟泵送才能到達肺。
-Exam Tip: Do not forget the role of the heart, as blood must be pumped by the heart before reaching the lungs.
-
-考試提醒：常見錯誤是直接把小腸接到肺，跳過肝臟和心臟，這是不正確的。
-Exam Tip: A common mistake is linking the small intestine directly to the lungs, skipping the liver and heart — this is incorrect.
-",
-2121,"📌 參考答案 (Answer)
-正確答案：C. 只有 2 和 3
-Correct Answer: C. Only 2 and 3
-📌 詳細解釋 (Detailed Explanation)
-結構 1 是膀胱，膀胱的功能是儲存尿液，不參與製造精液。
-Structure 1 is the bladder, which stores urine and does not contribute to semen production.
-
-結構 2 是精囊，會分泌含糖分（果糖）的液體，為精子提供能量，是精液的主要成分來源。
-Structure 2 is the seminal vesicle, which secretes a fructose‑rich fluid that provides energy to sperm, forming the bulk of semen.
-
-結構 3 是前列腺，會分泌少部分液體，幫助精子活動並中和陰道的酸性環境。
-Structure 3 is the prostate gland, which secretes a smaller amount of fluid that aids sperm motility and neutralizes the acidic environment of the vagina.
-
-因此，只有 2 和 3 負責分泌精液，正確答案是 C。
-Therefore, only 2 and 3 contribute to semen production, so the correct answer is C.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：膀胱只和泌尿系統有關，不參與生殖液體的分泌。
-Exam Tip: The bladder belongs only to the urinary system; it does not secrete reproductive fluids.
-
-考試提醒：精囊是主要的精液來源，前列腺則是次要來源。
-Exam Tip: The seminal vesicles are the major contributors to semen, while the prostate gland is a secondary source.
-
-考試提醒：生殖系統題常考混淆構造功能，要熟記「誰分泌、誰貯存、誰輸送」。
-Exam Tip: In reproductive system questions, examiners often test confusion of structures — remember clearly which organs secrete, store, or transport.",
-2122,"📌 參考答案 (Answer)
-正確答案：D. 花粉管
-Correct Answer: D. Pollen tube
-📌 詳細解釋 (Detailed Explanation)
-結構 4 是男性的陰莖，功能是將精液射入女性生殖道，讓精子得以到達卵子。
-Structure 4 is the male penis, which functions to deliver semen into the female reproductive tract, allowing sperm to reach the egg.
-
-花粉管在有花植物中，當花粉落到柱頭後會伸長，形成由花粉粒穿出的管道，將雄性配子輸送至胚珠內。
-In flowering plants, when pollen lands on the stigma, the pollen tube grows and forms a passage from the pollen grain, delivering the male gametes to the ovule.
-
-因此，陰莖與花粉管功能相似，都是把雄性配子輸送至雌性生殖構造以完成受精。
-Therefore, the penis and the pollen tube have analogous functions, as both transport male gametes to female reproductive structures for fertilization.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：容易混淆「花柱」與「花粉管」，花柱只是植物的組織通道，真正輸送雄配子的是花粉管。
-Exam Tip: Students often confuse the style and the pollen tube; the style is part of the carpel, but the pollen tube actually delivers the male gametes.
-
-考試提醒：要抓住題目強調的是「功能相似」而不是「結構相似」。
-Exam Tip: Focus on the question’s wording — it asks for “similar function,” not “similar structure.”
-
-考試提醒：常見考法是比較動物與植物生殖系統的類比，必須清楚知道雙方角色。
-Exam Tip: A common test method is drawing analogies between animal and plant reproductive systems — be clear about the roles on both sides.
-",
-2123,"📌 參考答案 (Answer)
-正確答案：B. 只有 (1) 和 (3)
-Correct Answer: B. Only (1) and (3)
-📌 詳細解釋 (Detailed Explanation)
-椎間盤含有大量水分，可提供緩衝，避免椎骨彼此摩擦受損。
-The intervertebral discs contain large amounts of water, providing cushioning and preventing vertebrae from grinding against each other.
-
-脊髓是由脊髓腔/脊髓管保護的，並不是由椎間盤包圍，因此 (2) 錯誤。
-The spinal cord is protected by the vertebral canal, not surrounded by the intervertebral discs, so statement (2) is incorrect.
-
-椎間盤是可壓縮和具彈性的，能讓脊柱在運動時彎曲。
-The intervertebral discs are compressible and flexible, allowing the spinal column to bend during movement.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：椎間盤的兩大功能是「緩衝」和「增加靈活性」，常考細節。
-Exam Tip: The two main functions of intervertebral discs are “shock absorption” and “adding flexibility,” frequently tested details.
-
-考試提醒：脊髓的保護結構是脊柱骨骼與椎孔，不是椎間盤。
-Exam Tip: The spinal cord is protected by vertebrae and the vertebral canal, not by the intervertebral discs.
-
-考試提醒：遇到判斷題，要留意「包圍」或「保護」這種字眼，容易出陷阱。
-Exam Tip: In true/false questions, watch out for words like “surround” or “protect,” which are common traps.",
-2124,"📌 參考答案 (Answer)
-正確答案：D. (1)、(2) 和 (3)
-Correct Answer: D. (1), (2), and (3)
-📌 詳細解釋 (Detailed Explanation)
-組織液的成分與血漿相似，但沒有紅血球、血小板和血漿蛋白。
-Tissue fluid has a composition similar to plasma but lacks red blood cells, platelets, and plasma proteins.
-
-血液中的白血球（包括 B 細胞、T 細胞和吞噬細胞）可以穿過毛細血管壁進入組織液。
-White blood cells in the blood (including B cells, T cells, and phagocytes) can pass through the capillary walls into the tissue fluid.
-
-因此，三種細胞 (1)、(2) 和 (3) 都能在組織液中找到。
-Therefore, all three cell types — (1), (2), and (3) — can be found in tissue fluid.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：組織液 ≠ 血漿，要記住差別在於沒有紅血球、血小板、以及大部分血漿蛋白。
-Exam Tip: Tissue fluid ≠ plasma; remember the key difference is that it lacks red blood cells, platelets, and most plasma proteins.
-
-考試提醒：白血球能穿過毛細血管到達組織液，所以考 B、T 細胞及吞噬細胞時都要判斷為「有」。
-Exam Tip: White blood cells can migrate into tissue fluid, so always include B cells, T cells, and phagocytes when asked.
-
-考試提醒：題目常設陷阱在於學生誤以為「只有吞噬細胞」能進入組織液，其實所有淋巴球也能。
-Exam Tip: A common trap is to think “only phagocytes” can enter tissue fluid; in fact, lymphocytes can too.",
-2125,"📌 參考答案 (Answer)
-正確答案：D. 淋巴液
-Correct Answer: D. Lymph
-📌 詳細解釋 (Detailed Explanation)
-第一道防線屬於非特異性防禦，包括物理及化學屏障，例如：
-The first line of defense refers to non‑specific defenses, including physical and chemical barriers, such as:
-
-淚液：含有溶菌酶，可殺死細菌。
-Tears: contain lysozyme, which can kill bacteria.
-汗液：含有皮脂和防禦性蛋白，可殺死病原體。
-Sweat: contains sebum and defensive proteins that can kill pathogens.
-黏液：覆蓋呼吸道，能黏住病原體並藉纖毛排走。
-Mucus: lines the respiratory tract, trapping pathogens and removing them via cilia.
-淋巴液則含有淋巴細胞，負責特異性免疫反應，屬於第三道防線，而不是第一道防線。
-Lymph, on the other hand, contains lymphocytes involved in specific immune responses; it belongs to the third line of defense, not the first.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：第一道防線一定是「物理＋化學屏障」，不是細胞免疫。
-Exam Tip: The first line of defense is always “physical + chemical barriers,” not cellular immunity.
-
-考試提醒：淚、汗、黏液都屬於外部分泌物，重點是阻止病原體入侵。
-Exam Tip: Tears, sweat, and mucus are external secretions that prevent pathogen entry.
-
-考試提醒：淋巴液雖與免疫相關，但要歸入第三道防線，常設為題目陷阱。
-Exam Tip: Lymph is related to immunity but belongs to the third line of defense — a common exam trick.",
-2126,"📌 參考答案 (Answer)
-正確答案：B. 胰島素轉化葡萄糖為糖原作貯藏
-Correct Answer: B. Insulin converts glucose into glycogen for storage
-📌 詳細解釋 (Detailed Explanation)
-糖原可儲存在肌肉與肝臟，說法正確。
-Glycogen can be stored in muscles and the liver — this statement is correct.
-
-胰島素本質上是一種激素，它的作用是刺激肝細胞和肌肉細胞把過多的葡萄糖合成糖原；胰島素本身並不直接「轉化」葡萄糖。
-Insulin is a hormone that stimulates liver and muscle cells to convert excess glucose into glycogen; insulin itself does not directly “convert” glucose.
-
-消化過程能將多糖（如澱粉）分解成單糖（如葡萄糖），說法正確。
-During digestion, polysaccharides (such as starch) are broken down into monosaccharides (such as glucose) — this is correct.
-
-蛋白代謝產生的含氮廢物（尿素等）及碳水化合物產物主要在肝臟形成，說法正確。
-Protein metabolism produces nitrogenous wastes (like urea) and carbohydrate compounds mainly in the liver — this is correct.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：激素的作用是「調控」細胞代謝，而不是直接進行化學轉化。
-Exam Tip: Hormones regulate cell metabolism; they do not directly carry out chemical conversions.
-
-考試提醒：肝臟與肌肉都是糖原的儲存地點，不能遺漏。
-Exam Tip: Both the liver and muscles are glycogen storage sites — don’t forget either.
-
-考試提醒：要分清楚「非特異性的物理解釋」與「激素調控」的區別，常是題目設陷阱的地方。
-Exam Tip: Distinguish clearly between “biochemical processes” and “hormonal regulation” — a common trick in exams.",
-2127,"📌 參考答案 (Answer)
-正確答案：B. 增加轉換脂肪成糖原
-Correct Answer: B. Increase the conversion of fat into glycogen
-📌 詳細解釋 (Detailed Explanation)
-當血液葡萄糖水平過高時，胰島素分泌增加，刺激身體細胞吸收並使用更多葡萄糖，因此「增加葡萄糖的使用」正確。
-When blood glucose levels are too high, insulin secretion increases, stimulating body cells to take up and use more glucose — therefore “increasing the use of glucose” is correct.
-
-選項 B 錯誤，因為脂肪與糖原都是能量儲備，但脂肪並不能直接轉換為糖原。
-Option B is incorrect because fat and glycogen are both energy stores, but fat cannot be directly converted into glycogen.
-
-相反地，過多的葡萄糖會被轉換成糖原或脂肪，因此 C 與 D 說法正確。
-Instead, excess glucose is converted into glycogen or fat — so C and D are correct statements.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：血糖過高時的三大調節方式是「增加細胞吸收」、「合成糖原」、「合成脂肪」。
-Exam Tip: The three main adjustments when blood glucose is high are “increase cell uptake,” “synthesize glycogen,” and “synthesize fat.”
-
-考試提醒：脂肪並不會轉換成糖原，兩者屬於不同形式能量儲備。
-Exam Tip: Fat does not convert into glycogen — they are distinct forms of energy storage.
-
-考試提醒：遇到「哪項不正確」題，要反向檢視選項，排除符合生理規律的。
-Exam Tip: For “which is incorrect” questions, check each option backwards, eliminating those consistent with physiology.",
-2128,"📌 參考答案 (Answer)
-正確答案：A. G = 古細菌界，J = 植物界，K = 真細菌界
-Correct Answer: A. G = Archaea, J = Plantae, K = Bacteria
-📌 詳細解釋 (Detailed Explanation)
-根據進化樹顯示，K 分支最早與其他界分離，代表與其他生物關係最遠，因此 K 為真細菌界。
-From the phylogenetic tree, K diverges earliest from the others, showing the most distant relationship, so K represents Bacteria.
-
-古細菌與真細菌最早從共同祖先分化，因此 G 為古細菌界。
-Archaea split from the common ancestor early along with Bacteria, so G represents Archaea.
-
-真菌與植物、動物親源較接近，而植物界比真菌更靠近動物界，因此 J 代表植物界。
-Fungi are evolutionarily closer to plants and animals, but plants are even closer to animals than fungi are; thus J represents the Plant kingdom.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：看進化樹要找「先分支」代表早期分化，通常是細菌和古細菌。
-Exam Tip: In a phylogenetic tree, the earliest branches represent early divergence, usually Bacteria and Archaea.
-
-考試提醒：真細菌 (Bacteria) 與其他真核生物關係最遠；古細菌 (Archaea) 與真核生物相對較近。
-Exam Tip: Bacteria are the most distant from eukaryotes, while Archaea are relatively closer to them.
-
-考試提醒：常考陷阱是把植物與真菌的親源關係判斷錯，以為真菌更接近動物，其實正確是植物更接近動物。
-Exam Tip: A common trap is mixing up plant–fungus–animal relationships; in fact, plants are closer to animals than fungi are.
-",
-2129,"📌 參考答案 (Answer)
-正確答案：C. H 和 J
-
-📌 詳細解釋 (Detailed Explanation)
-生命三域 (Three domains)：
-
-細菌域 (Bacteria Domain)： 真細菌界 (K)
-古菌域 (Archaea Domain)： 古細菌界 (G)
-真核域 (Eukarya Domain)： 包括植物界 (J)、動物界、真菌界 (H)、原生生物界等
-題目問「屬於相同的域」：
-
-G (古細菌) 和 K (真細菌) → 不同域
-G (古細菌) 和 H (真菌) → 不同域
-H (真菌) 和 J (植物) → 都屬於真核域 ✅
-J (植物) 和 K (真細菌) → 不同域
-📌 考試提醒 (Exam Tips)
-考試提醒：生物分類大架構 → 三域六界；域比界更高級。
-Exam Tip: Biological classification hierarchy → 3 domains, 6 kingdoms; domains rank higher than kingdoms.
-
-考試提醒：真核域包含植物、動物、真菌和原生生物。
-Exam Tip: Eukarya includes plants, animals, fungi, and protists.
-
-考試提醒：常見陷阱是把「真菌」誤以為與細菌同域，其實真菌是典型真核生物。
-Exam Tip: A common trap is thinking fungi belong with bacteria — fungi are actually eukaryotes.",
-2130,"📌 答案 (Answer)
-B
-
-📌 詳細解釋 第2 (Detailed Explanation Step 2)
-在四個環境因素中，只有增加相對濕度會降低蒸騰速率。
-Among the four environmental factors, only increasing relative humidity reduces the transpiration rate.
-
-因為相對濕度增加時，氣孔內部與外界之間的水蒸氣濃度差減少。
-This is because higher relative humidity decreases the water vapor concentration gradient between the stomatal cavity and the atmosphere.
-
-梯度減低 → 水分流失減慢 → 植物重量減少的幅度比對照少。
-With a reduced gradient → water loss slows down → plant weight decreases less compared to the control.
-
-因此，對應的曲線應比對照線更平坦，所以答案是 Q。
-Therefore, the corresponding line should be flatter than the control, and the correct answer is Q.
-
-📌 考試提醒 (Exam Tips)
-增加相對濕度會降低蒸騰速率，而非加快。
-Increasing relative humidity decreases transpiration, not accelerates it.
-
-要檢視梯度的改變，而不是只背因素。
-Focus on how the gradient changes, not just memorizing the factors.
-
-圖表題要留意「比對照更平坦或更陡峭」代表蒸騰速率的高低。
-In graph questions, notice whether the line is “flatter or steeper than the control,” as that indicates the transpiration rate.",
-2131,"📌 答案 (Answer)
-B
-
-📌 詳細解釋 第2 (Detailed Explanation Step 2)
-此研究要準確量度植物因蒸騰而失去的水分，必須避免經泥土流失或吸水量改變的干擾。
-To accurately measure water loss due to transpiration, the setup must prevent interference from soil water loss or water uptake.
-
-將花盆包裹在膠袋中能隔絕泥土蒸發的因素，從而更準確地反映蒸騰速率。
-Wrapping the plant pot with a plastic bag prevents soil evaporation, so the measurement reflects transpiration rate more accurately.
-
-選項 A 錯，因為移走落葉不是必要步驟。
-Option A is wrong, since removing fallen leaves is not essential.
-
-選項 C 錯，因為澆水不是必須程序。
-Option C is incorrect, as watering each morning is not a necessary procedure.
-
-選項 D 錯，因為凡士林堵塞氣孔會降低蒸騰速率，干擾實驗。
-Option D is wrong, since applying Vaseline blocks stomata and alters transpiration, interfering with the experiment.
-
-因此，正確答案是 B。
-Thus, the correct answer is B.
-
-📌 考試提醒 (Exam Tips)
-實驗要排除泥土蒸發對結果的影響。
-Experiments must eliminate the effect of soil evaporation on results.
-
-凡士林塗葉片會影響蒸騰，本研究的目的不是封閉氣孔。
-Applying Vaseline alters transpiration, but the purpose here is not to block stomata.
-
-考試見到「控制變數」要想到哪個處理能隔除無關因素。
-When you see “control variables” in exams, think about which treatment removes irrelevant factors.",
-2132,"📌 答案 (Answer)
-A
-
-📌 詳細解釋 第2 (Detailed Explanation Step 2)
-在原生演替時，死亡和腐爛的生物會形成腐殖質，令土壤肥沃。
-During primary succession, dead and decaying organisms form humus, which enriches the soil.
-
-因此土壤的養分水平會增加，而不是減少，所以選項 A 錯誤。
-Thus, soil nutrient levels increase, not decrease, making option A incorrect.
-
-選項 B 正確：隨着更多物種加入，食物網的複雜度會上升。
-Option B is correct: as more species establish, the food web complexity increases.
-
-選項 C 正確：非維管束植物逐漸被維管束植物取代，豐度下降。
-Option C is correct: non-vascular plants are gradually replaced by vascular plants, reducing their abundance.
-
-選項 D 正確：因為高等植物增加，群落可利用的能量也增加。
-Option D is correct: with the growth of higher plants, more energy becomes available to the community.
-
-📌 考試提醒 (Exam Tips)
-原生演替不是養分減少，而是隨着腐殖質增加而變得肥沃。
-In primary succession, nutrients do not decrease; they increase as humus builds up.
-
-要掌握物種更替規律：先是非維管，再被維管植物取代。
-Know the sequence of species replacement: non-vascular first, then vascular plants take over.
-
-隨演替進行，能量供應和食物網複雜度會逐步上升。
-As succession progresses, energy supply and food web complexity gradually increase.",
-2133,"📌 答案 (Answer)
-A
-
-📌 詳細解釋 第2 (Detailed Explanation Step 2)
-在原生演替早期，死亡並開始分解的植物、動物及其排泄物會形成腐殖質。
-In the early stage of primary succession, dead and decomposing plants, animals, and their wastes form humus.
-
-腐殖質逐漸令土壤變得肥沃，養分水平是增加而不是減少。
-Humus gradually enriches the soil, so nutrient level increases rather than decreases.
-
-因此，選項 A 的說法「養分水平減少」是不正確的。
-Therefore, option A, which states “nutrient level decreases,” is wrong.
-
-選項 B 正確：隨着更多物種出現，食物網複雜性會提高。
-Option B is correct: as more species appear, the complexity of the food web increases.
-
-選項 C 正確：非維管束植物會被維管束植物取代，故其豐度會減少。
-Option C is right: non-vascular plants are replaced by vascular plants, so their abundance decreases.
-
-選項 D 正確：隨着樹木和灌木生長，環境提供更多能量予群落生物。
-Option D is correct: with trees and shrubs growing, more energy becomes available to community members.
-
-📌 考試提醒 (Exam Tips)
-原生演替是土壤養分逐步增加而非減少。
-In primary succession, soil nutrients increase step by step, not decrease.
-
-要熟悉物種更替的方向：非維管 → 維管 → 木本植物。
-Be familiar with the sequence of species replacement: non-vascular → vascular → woody plants.
-
-食物網複雜性隨時間增加，最終趨於穩定。
-Food web complexity increases over time, eventually reaching stability.",
-2134,"📌 答案 (Answer)
-C
-
-📌 詳細解釋 第2 (Detailed Explanation Step 2)
-此食物鏈的能量流向是：B（自養生物）→ C（草食動物）→ D（肉食動物）→ A（更高階肉食動物）。
-The energy flow in this food chain is: B (autotroph) → C (herbivore) → D (carnivore) → A (top carnivore).
-
-當種群 D 的數量下降時，它獵食 C 的數量減少，C 的個體數會相對增加。
-When the population of D declines, predation on C decreases, so the population of C will increase.
-
-然而，C 消耗更多 B 的能量，導致流往 A 的能量減少。
-However, as C consumes more of B, the energy available to A decreases.
-
-因此，最終 A 的供應能量減少，令答案是 C。
-Thus, the final outcome is reduced energy supply to A, making option C correct.
-
-📌 考試提醒 (Exam Tips)
-食物鏈題要先釐清誰是生產者、草食者與肉食者。
-In food chain questions, always identify producers, herbivores, and carnivores first.
-
-注意「數量下降」會對上下游物種造成間接影響。
-Be aware that a “population decline” indirectly affects both prey and predators.
-
-能量流動只能由下往上，並且逐級遞減。
-Energy flow always goes upward and decreases at each trophic level.",
-2135,"📌 答案 (Answer)
-A
-
-📌 詳細解釋 第2 (Detailed Explanation Step 2)
-過程 2 是 大氣中的氮轉變為硝酸鹽，這可以由閃電完成。
-Process 2 is conversion of atmospheric nitrogen into nitrates, which can be carried out by lightning.
-
-閃電屬於一種「固氮作用」，其能量把氮氣分子分解並轉為氮氧化物，最後變成硝酸鹽。
-Lightning is a form of “nitrogen fixation,” where its energy breaks nitrogen molecules and forms nitrogen oxides, which dissolve in water to form nitrates.
-
-選項 B 錯：硝化作用對應過程 6 和 4，由硝化細菌進行。
-Option B is wrong: Nitrification corresponds to processes 6 and 4, carried out by nitrifying bacteria.
-
-選項 C 錯：反硝化作用對應過程 3，由反硝化細菌進行。
-Option C is incorrect: Denitrification corresponds to process 3, carried out by denitrifying bacteria.
-
-選項 D 錯：固氮作用中微生物的路徑是過程 1，不是 2。
-Option D is wrong: Biological nitrogen fixation occurs in process 1, not 2.
-
-📌 考試提醒 (Exam Tips)
-閃電也是一種固氮方式，不要只想到細菌。
-Lightning is also a form of nitrogen fixation—not just bacteria.
-
-硝化作用：氨轉為亞硝酸鹽，再轉為硝酸鹽。
-Nitrification: ammonia → nitrites → nitrates.
-
-反硝化作用：硝酸鹽再變回氮氣。
-Denitrification: nitrates → nitrogen gas.",
-2136,"📌 答案 (Answer)
-B
-
-📌 詳細解釋 第2 (Detailed Explanation Step 2)
-在氮循環圖中：
-In the nitrogen cycle diagram:
-
-過程 6：氨轉變成亞硝酸鹽（第一步硝化作用），由硝化細菌完成。
-Process 6: Ammonia → nitrites (first step of nitrification), done by nitrifying bacteria.
-
-過程 2：是由閃電進行的固定作用，並不涉及細菌。
-Process 2: Nitrogen fixation by lightning, not involving bacteria.
-
-因此正確答案是「2 和 6」，其中 6 涉及硝化細菌。
-So the correct answer is “2 and 6,” where 6 specifically involves nitrifying bacteria.
-
-補充：過程 7 雖然涉及分解者（細菌也算），但題目問的是一對過程，最準確組合就是 B。
-Note: Process 7 does involve decomposers (including bacteria), but the question asks for a pair of processes, and the precise match is option B.
-
-📌 考試提醒 (Exam Tips)
-記住硝化作用有兩步：氨 → 亞硝酸鹽 → 硝酸鹽，全由硝化細菌負責。
-Remember nitrification has two steps: ammonia → nitrites → nitrates, both by nitrifying bacteria.
-
-固氮作用不只靠細菌，還有閃電。
-Nitrogen fixation is not only by bacteria but also by lightning.
-
-分解作用也有細菌參與，不過要留意題目問的配對範圍。
-Decomposition also involves bacteria, but pay attention to the specific process pairs asked in the exam.
-",
+📌 詳細解釋
+當研究澱粉酶對澱粉的作用時，澱粉酶的存在與否是自變量。
+When investigating the action of amylase on starch, the presence or absence of amylase is the independent variable.
+試管 P 含有澱粉酶和澱粉，是測試酶活性的實驗組。
+Tube P contains amylase and starch, serving as the experimental setup to test enzyme activity.
+試管 Q 含有蒸餾水和澱粉，作為缺乏澱粉酶的對照實驗。
+Tube Q contains distilled water and starch, acting as a control setup lacking amylase.
+比較試管 P 和 Q 可以清楚顯示澱粉是否因澱粉酶的存在而被分解。
+Comparing tubes P and Q clearly shows whether starch is broken down due to the presence of amylase.
+試管 R 含有澱粉酶和蒸餾水，由於沒有提供澱粉，對研究澱粉酶分解澱粉的目標沒有太大意義。
+Tube R contains amylase and distilled water; since no starch is provided, it has little significance for the objective of studying starch breakdown by amylase.
+因此，只需比較 P 和 Q 的結果即可得出結論。
+Therefore, a conclusion can be drawn just by comparing the results of P and Q.
+
+📌 考試提醒
+在實驗設計中，設立只有單一自變量不同的對照實驗是確保結果有效性的關鍵。
+In experimental design, setting up a control experiment with only a single independent variable difference is crucial to ensure the validity of the results.
+常見錯誤：學生容易誤選包含所有試管的選項，未考慮試管 R 缺乏受測試的基質而無法提供有效對比。
+Common trap：Students easily mistakenly select the option including all tubes, failing to consider that tube R lacks the tested substrate and cannot provide a valid comparison.",
+2110,"📌 參考答案
+B. 只有 (2)
+B. Only (2)
+
+📌 詳細解釋
+在實驗開始時，試管 P 內的澱粉會令碘液從啡色轉為藍黑色。
+At the start of the experiment, the starch in tube P causes the iodine solution to turn from brown to blue-black.
+在 10 分鐘後，澱粉被澱粉酶分解，沒有剩餘澱粉與碘液反應，碘液維持啡色，因此 (1) 測試結果不相同。
+After 10 minutes, starch is broken down by amylase, leaving no starch to react with iodine, so the iodine solution remains brown; thus, test (1) yields different results.
+澱粉酶本身是一種蛋白質，它會將尿蛋白試紙從黃色轉變成綠色。
+Amylase itself is a protein, which will turn the albumin test strip from yellow to green.
+由於酶在反應後不會被改變及消耗，因此尿蛋白試紙在 10 分鐘後仍會維持陽性反應，因此 (2) 測試結果相同。
+Since the enzyme remains unchanged and unconsumed after the reaction, the albumin test strip will still show a positive result after 10 minutes; thus, test (2) yields the same result.
+澱粉並非還原糖，本立德試劑在實驗開始時會維持藍色。
+Starch is not a reducing sugar, so Benedict's reagent remains blue at the start of the experiment.
+在 10 分鐘後，澱粉被分解成還原糖麥芽糖，本立德試驗會產生磚紅色的沉澱物，因此 (3) 測試結果不相同。
+After 10 minutes, starch is broken down into the reducing sugar maltose, causing Benedict's test to form a brick-red precipitate; thus, test (3) yields different results.
+因此，只有選項 B 正確。
+Therefore, only option B is correct.
+
+📌 考試提醒
+酶作為生物催化劑，參與反應但不會在反應過程中被消耗，其化學本質大多為蛋白質。
+Enzymes act as biological catalysts that participate in reactions but are not consumed in the process, and their chemical nature is mostly protein.
+常見錯誤：考生常忘記澱粉酶本身的化學本質是蛋白質，因而誤以為尿蛋白試紙在反應後會變回陰性。
+Common trap：Candidates often forget that the chemical nature of amylase itself is protein, mistakenly thinking that the albumin test strip will turn negative after the reaction.",
+2111,"📌 參考答案
+C. 6
+
+📌 詳細解釋
+人類的 ABO 血型系統受三個多等位基因控制，分別是等位基因 IA、IB 及 i。
+The human ABO blood group system is controlled by three multiple alleles, namely alleles IA, IB, and i.
+在二倍體生物中，每個個體的體細胞只會包含這三個等位基因中的其中兩個。
+In diploid organisms, the somatic cells of each individual will only contain two of these three alleles.
+這些等位基因的可能組合會產生六種不同的基因型，包括 IAIA、IAi、IBIB、IBi、IAIB 及 ii。
+The possible combinations of these alleles produce six different genotypes, including IAIA, IAi, IBIB, IBi, IAIB, and ii.
+因此，ABO 血型系統總共涉及 6 個基因型，選項 C 正確。
+Therefore, the ABO blood group system involves a total of 6 genotypes, making option C correct.
+選項 A 和 B 分別是等位基因的總數目（3個）和表現型的總數目（4個），而不是基因型的數目，故不正確。
+Options A and B represent the total number of alleles (3) and the total number of phenotypes (4) respectively, not the number of genotypes, so they are incorrect.
+選項 D 的數目錯誤，這系統並沒有 8 個基因型組合。
+Option D has an incorrect number, as this system does not have 8 genotype combinations.
+📌 考試提醒
+血型的遺傳展示了多等位基因和共顯性的特徵，總共有 6 種基因型和 4 種表現型。
+The inheritance of blood groups demonstrates the characteristics of multiple alleles and codominance, resulting in a total of 6 genotypes and 4 phenotypes.
+常見錯誤：學生容易將「基因型」的數目（6 種組合）與「表現型」的數目（A、B、AB、O 共 4 種血型）混淆。
+Common trap: Students easily confuse the number of ""genotypes"" (6 combinations) with the number of ""phenotypes"" (4 blood types: A, B, AB, and O).",
+2112,"📌 參考答案
+C. 他們的近視程度不同。
+C. Their degrees of myopia are different.
+
+📌 詳細解釋
+單卵雙生兒的基因在遺傳上是完全一樣的。
+The genes of identical twins are genetically exactly the same.
+耳垂的形狀屬不連續變異，主要由基因決定，受環境影響極小，因此兩人會有相同的耳垂形狀，選項 A 錯誤。
+The shape of earlobes is a discontinuous variation mainly determined by genes and minimally affected by the environment, so both will have the same earlobe shape, making option A incorrect.
+指紋雖然受基因控制，但在子宮發育過程中的微環境差異會導致指紋不完全一樣，在鑑證科學上可分辨兩人，因此選項 B 錯誤。
+Although fingerprints are controlled by genes, micro-environmental differences during uterine development cause them to not be exactly the same, allowing them to be distinguished in forensic science, making option B incorrect.
+近視程度屬於連續變異，極容易受到後天環境（如閱讀習慣、接觸電子螢幕的時間）的影響。
+The degree of myopia is a continuous variation and is highly susceptible to postnatal environmental influences (such as reading habits and screen time).
+由於雙生兒在不同家庭環境下成長，他們的近視程度會有顯著差異，選項 C 正確。
+Since the twins grow up in different family environments, their degrees of myopia will be significantly different, making option C correct.
+雀斑的實際數量會受曝露於紫外線的程度影響，在不同環境成長會導致雀斑數量不同，因此選項 D 錯誤。
+The actual number of freckles is influenced by the degree of exposure to UV light; growing up in different environments will lead to different numbers of freckles, making option D incorrect.
+
+📌 考試提醒
+不連續變異（如血型、耳垂）主要由基因決定；連續變異（如身高、體重、近視）則同時受基因和環境因素影響。
+Discontinuous variation (e.g., blood group, earlobes) is mainly determined by genes; continuous variation (e.g., height, weight, myopia) is influenced by both genetic and environmental factors.
+常見錯誤：學生常誤以為單卵雙生兒的所有身體特徵必定完全相同，忽略了環境因素對連續變異的深遠影響。
+Common trap：Students often mistakenly assume that all physical characteristics of identical twins must be exactly the same, ignoring the profound impact of environmental factors on continuous variation.",
+2113,"📌 參考答案
+A. 父母各自的常染色體。
+A. Autosomes of both parents.
+📌 詳細解釋
+從譜系中可見，正常的個體 1 和個體 2 誕下了有遺傳缺陷的女性個體 6，這證明該遺傳缺陷必定是經常染色體隱性遺傳的。
+From the pedigree, normal individuals 1 and 2 gave birth to female individual 6 with the genetic defect, proving that the genetic defect must be an autosomal recessive inheritance.
+由於個體 6 表現出隱性性狀，她必須從父母雙方各自遺傳一條帶有該缺陷等位基因的染色體。
+Since individual 6 expresses the recessive trait, she must inherit one chromosome carrying the defective allele from each of her parents.
+這遺傳不可能是 Y 染色體連鎖遺傳，因為父親（個體 2）並沒有表現出該遺傳缺陷。
+This inheritance cannot be Y-linked because the father (individual 2) does not express the genetic defect.
+這遺傳亦不可能是 X 染色體連鎖隱性遺傳，否則帶有兩條缺陷 X 染色體的個體 6 必定會從父親遺傳一條缺陷的 X 染色體，從而令父親也表現出遺傳缺陷。
+This inheritance also cannot be X-linked recessive, otherwise individual 6, who has two defective X chromosomes, must have inherited one defective X chromosome from her father, which would cause the father to express the genetic defect as well.
+因此，個體 6 的缺陷等位基因是來自父母各自的常染色體，選項 A 正確。
+Therefore, the defective alleles of individual 6 come from the autosomes of both parents, making option A correct.
+📌 考試提醒
+常染色體隱性遺傳的典型特徵是「無中生有」，即表現型正常的雙親誕下有隱性性狀的子代。
+A typical feature of autosomal recessive inheritance is that phenotypically normal parents can produce offspring with the recessive trait.
+常見錯誤：考生在推斷常染色體遺傳時，常常忘記透過父親的表現型來排除性連鎖遺傳的可能性。
+Common trap: When inferring autosomal inheritance, candidates often forget to rule out the possibility of sex-linked inheritance through the father's phenotype.",
+2114,"📌 參考答案
+A. 由父親獲得正常等位基因。
+A. Obtain the normal allele from the father.
+📌 詳細解釋
+基於常染色體隱性遺傳的模式，有遺傳缺陷的個體 6 的基因型必定是隱性純合型。
+Based on the autosomal recessive inheritance pattern, the genotype of the defective individual 6 must be homozygous recessive.
+因此，她只能將隱性等位基因遺傳給所有的子代。
+Therefore, she can only pass the recessive allele to all her offspring.
+然而，她的子代全都是沒有遺傳缺陷的正常個體。
+However, all her offspring are normal individuals without the genetic defect.
+這代表她的所有子代都必定由父親（個體 7）處遺傳了一條正常的顯性等位基因。
+This means that all her offspring must have inherited a normal dominant allele from their father (individual 7).
+由於父親的顯性等位基因遮蓋了母親的隱性等位基因，所以子代全部表現正常，故選項 A 正確。
+Since the father's dominant allele masks the mother's recessive allele, all offspring appear normal, making option A correct.
+📌 考試提醒
+在常染色體隱性遺傳中，隱性純合型的家長必定會將隱性等位基因傳給下一代。
+In autosomal recessive inheritance, a homozygous recessive parent must pass the recessive allele to the next generation.
+常見錯誤：考生有時會將表現型正常誤解為不帶有任何隱性等位基因，忽略了雜合型載體的存在。
+Common trap: Candidates sometimes misinterpret a normal phenotype as not carrying any recessive alleles, ignoring the existence of heterozygous carriers.",
+2115,"📌 參考答案
+D. 顯性純合型和雜合型
+D. Homozygous dominant and heterozygous
+📌 詳細解釋
+由於個體 1 和 2 都是雜合型載體，他們的正常子代（個體 3 和 4）可能是顯性純合型或雜合型。
+Since individuals 1 and 2 are both heterozygous carriers, their normal offspring (individuals 3 and 4) could be either homozygous dominant or heterozygous.
+因為個體 3 和 4 的基因型無法確定，個體 8 的父母基因型組合會有多種可能性。
+Because the genotypes of individuals 3 and 4 cannot be determined, there are multiple possible combinations for the genotypes of individual 8's parents.
+只要個體 3 和 4 不是同時為隱性純合型（這是已知事實），他們便能誕下表現型正常的個體 8。
+As long as individuals 3 and 4 are not both homozygous recessive (which is a known fact), they can produce the phenotypically normal individual 8.
+因此，個體 8 的基因型同樣可能是顯性純合型或雜合型，這取決於個體 3 和 4 傳遞的等位基因。
+Therefore, the genotype of individual 8 can also be either homozygous dominant or heterozygous, depending on the alleles passed down by individuals 3 and 4.
+故選項 D 正確。
+Thus, option D is correct.
+📌 考試提醒
+在未有表現出隱性性狀的子代數據前，正常表現型個體的基因型均有可能為顯性純合型或雜合型。
+Before having data from offspring expressing the recessive trait, the genotype of a phenotypically normal individual could be either homozygous dominant or heterozygous.
+常見錯誤：學生容易因為個體 8 的外祖父母（個體 1 和 2）帶有隱性等位基因，便錯誤假定個體 8 必定是雜合型。
+Common trap: Students easily incorrectly assume that individual 8 must be heterozygous simply because the maternal grandparents (individuals 1 and 2) carry the recessive allele.",
+2116,"📌 參考答案
+D. 這個品種中，紅色花屬顯性性狀。
+D. In this variety, the red flower is a dominant trait.
+📌 詳細解釋
+F1 子代的白花植株進行自交時，所有 F2 子代均為白花植株。
+When the white-flowered F1 plants undergo self-fertilization, all F2 offspring are white-flowered plants.
+這表明 F1 子代的白花植株必定是純合子，否則自交後會出現不同性狀的分離。
+This indicates that the white-flowered F1 plants must be homozygotes, otherwise, segregation of different traits would occur after self-fertilization.
+已知其中一個親代植株與另一個親代植株雜交時，產生了半數為紅花、半數為白花的 F1 子代。
+It is known that when one parent plant was crossed with another parent plant, F1 offspring consisting of half red flowers and half white flowers were produced.
+要得出 1:1 的分離比例，其中一個親代必須是雜合子，而另一個親代必須是隱性純合子。
+To obtain a 1:1 segregation ratio, one parent must be a heterozygote and the other parent must be a homozygous recessive.
+由於白花植株是純合子，而紅花植株只能是雜合子，因此白色花屬隱性性狀，而紅色花屬顯性性狀，選項 D 正確。
+Since the white-flowered plants are homozygotes and the red-flowered plants can only be heterozygotes, the white flower is a recessive trait and the red flower is a dominant trait, making option D correct.
+📌 考試提醒
+當雜交產生 1:1 的表現型比例時，這通常是一個測交，代表親本為雜合子與隱性純合子。
+When a cross produces a 1:1 phenotypic ratio, it is usually a test cross, indicating the parents are a heterozygote and a homozygous recessive.
+常見錯誤：學生常錯誤以為 F1 出現兩種性狀就代表兩者皆為共顯性，而未有根據 F2 代的自交結果作推論。
+Common trap: Students often mistakenly think that the appearance of two traits in F1 means both are codominant, without deducing from the self-fertilization results of the F2 generation.",
+2117,"📌 參考答案
+C. 細胞分裂時染色體的活動所支持。
+C. Supported by the activity of chromosomes during cell division.
+📌 詳細解釋
+在孟德爾生前，細胞分裂的詳細機制尚未被人類觀察到。
+During Mendel's lifetime, the detailed mechanism of cell division had not yet been observed by humans.
+直到二十世紀初，科學家透過顯微鏡觀察到減數細胞分裂的過程。
+It was not until the early twentieth century that scientists observed the process of meiotic cell division through microscopes.
+在減數細胞分裂期間，染色體的複製和分離顯示每對同源染色體會互相分離。
+During meiotic cell division, the replication and separation of chromosomes show that each pair of homologous chromosomes separates from each other.
+這現象完美解釋了等位基因會分離的假設，而每個配子都會被分配到一對等位基因中的一條。
+This phenomenon perfectly explains the hypothesis that alleles separate, and that each gamete is distributed one allele from a pair.
+因此，染色體的活動為生物特徵由一對「遺傳因子」控制的想法提供了實質支持，選項 C 正確。
+Therefore, the activity of chromosomes provided substantial support for the idea that biological traits are controlled by a pair of ""hereditary factors"", making option C correct.
+📌 考試提醒
+孟德爾的遺傳定律是基於數學統計推導出來的，後來的染色體學說才為其提供了細胞學基礎。
+Mendel's laws of inheritance were derived based on mathematical statistics, and the later chromosome theory provided its cytological basis.
+常見錯誤：考生未能將「遺傳因子」與「等位基因」及「同源染色體」在減數分裂中的分離行為聯繫起來。
+Common trap: Candidates fail to link ""hereditary factors"" with ""alleles"" and the separation behavior of ""homologous chromosomes"" during meiosis.",
+2118,"📌 參考答案
+A. 喪失部分視覺的影像
+A. Image with a loss of partial vision
+📌 詳細解釋
+視網膜是眼睛內含有光感受器的構造。
+The retina is the structure inside the eye that contains photoreceptors.
+由於該病人有部分視網膜脫落，該部分的光感受器便無法受到光線刺激。
+Since the patient has partial retinal detachment, the photoreceptors in that detached part cannot be stimulated by light.
+這導致該區域無法產生神經脈衝，或無法將神經脈衝傳送至大腦的視覺中樞。
+This results in an inability to generate nerve impulses in that area or transmit them to the visual centre of the brain.
+大腦在處理訊息後便無法生成正常的完整影像，因此該人會喪失部分視覺，形成圖 A 的效果。
+After processing the information, the brain is unable to form a normal, complete image, thus the person loses partial vision, resulting in the effect shown in Image A.
+選項 B 錯誤，這是視力模糊或眩光的效果。
+Option B is incorrect; this is the effect of blurred vision or glare.
+選項 C 錯誤，這是中央視力衰退，是黃斑病變的常見病徵。
+Option C is incorrect; this is a decline in central vision, which is a common symptom of macular degeneration.
+選項 D 錯誤，這是整體視力模糊，多因聚焦問題（如近視、老花或白內障）產生。
+Option D is incorrect; this is overall blurred vision, usually caused by focusing problems (like myopia, presbyopia, or cataracts).
+📌 考試提醒
+視網膜脫落會導致脫落位置的光感受器失效，造成相應視野的永久或暫時性盲點。
+Retinal detachment causes the photoreceptors at the detached site to fail, creating a permanent or temporary blind spot in the corresponding visual field.
+常見錯誤：學生常將視網膜脫落的病徵與黃斑病變混淆，誤以為視網膜脫落必定導致中央視力喪失。
+Common trap: Students often confuse the symptoms of retinal detachment with macular degeneration, mistakenly thinking that retinal detachment must lead to a loss of central vision.",
+2119,"📌 參考答案
+C. 小腸
+C. Small intestine
+📌 詳細解釋
+小腸是消化道中進行化學消化及吸收的主要地方。
+The small intestine is the main site for chemical digestion and absorption in the alimentary canal.
+當水溶性的食物成分（如氨基酸及單糖）被主動轉運或擴散吸收進微血管後，腸腔中流質的水勢便會增加（變得較高）。
+When water-soluble food components (such as amino acids and monosaccharides) are absorbed into the blood capillaries by active transport or diffusion, the water potential of the fluid in the intestinal lumen increases (becomes higher).
+這促使大量水分子經滲透作用，順着水勢梯度從小腸被吸收進血液中。
+This prompts a large amount of water molecules to be absorbed from the small intestine into the blood via osmosis down the water potential gradient.
+雖然大腸亦會吸收水份以使固體糞便成形，但其吸收量遠不及小腸。
+Although the large intestine also absorbs water to form solid faeces, the amount absorbed is far less than that of the small intestine.
+胃部和食道幾乎不參與水份的吸收，因此選項 C 正確。
+The stomach and oesophagus hardly participate in water absorption, so option C is correct.
+📌 考試提醒
+大部分水份和營養物質都在小腸被吸收，這與其巨大的表面積（由絨毛和微絨毛構成）有關。
+Most water and nutrients are absorbed in the small intestine, which is related to its massive surface area formed by villi and microvilli.
+常見錯誤：考生常誤以為大腸是吸收水分的主要器官，忽略了小腸在滲透作用下吸收了絕大部分的水分。
+Common trap: Candidates often mistakenly believe that the large intestine is the primary organ for water absorption, ignoring that the small intestine absorbs the vast majority of water through osmosis.",
+2120,"📌 參考答案
+D. 小腸 → 肝臟 → 心臟 → 肺
+D. Small intestine → Liver → Heart → Lungs
+📌 詳細解釋
+在人體中，二氧化碳主要經靜脈系統運輸。
+In the human body, carbon dioxide is mainly transported through the venous system.
+從小腸流出的血液富含營養，必須先經由肝門靜脈運送至肝臟進行解毒和代謝。
+The blood flowing out of the small intestine is rich in nutrients and must first be transported to the liver via the hepatic portal vein for detoxification and metabolism.
+因此，小腸產生的二氧化碳會隨血液首先到達肝臟。
+Therefore, the carbon dioxide produced in the small intestine will follow the blood to the liver first.
+隨後，富含二氧化碳的血液會經肝靜脈流回心臟的右心房。
+Subsequently, the carbon dioxide-rich blood will flow back to the right atrium of the heart via the hepatic vein.
+最後，心臟的右心室會將這帶有二氧化碳的血液泵至肺部，以進行氣體交換並排出體外。
+Finally, the right ventricle of the heart will pump this carbon dioxide-carrying blood to the lungs for gas exchange and elimination from the body.
+這完整路線對應選項 D。
+This complete route corresponds to option D.
+📌 考試提醒
+所有從小腸絨毛微血管流出的血液，都必須經過肝門靜脈進入肝臟。
+All blood flowing out of the blood capillaries of the small intestinal villi must enter the liver through the hepatic portal vein.
+常見錯誤：學生常忘記肝門靜脈的存在，錯誤選擇了直接從小腸流回心臟或肺部的選項。
+Common trap: Students often forget the existence of the hepatic portal vein and incorrectly select options where blood flows directly from the small intestine back to the heart or lungs.",
+2121,"📌 參考答案
+C. 只有 2 和 3
+C. Only 2 and 3
+📌 詳細解釋
+構造 1 標示的是膀胱，負責儲存尿液，並不參與生殖系統中精液的製造。
+Structure 1 indicates the urinary bladder, which is responsible for storing urine and is not involved in the production of semen in the reproductive system.
+構造 2 標示的是精囊，它負責分泌出大部分的精液，為精子提供活動所需的營養。
+Structure 2 indicates the seminal vesicle, which is responsible for secreting most of the semen, providing the necessary nutrients for sperm motility.
+構造 3 標示的是前列腺，它亦會分泌少部分精液，以中和陰道的酸性環境並活化精子。
+Structure 3 indicates the prostate gland, which also secretes a small portion of semen to neutralize the acidic environment of the vagina and activate the sperm.
+因此，只有構造 2 和 3 負責製造精液，選項 C 正確。
+Therefore, only structures 2 and 3 are responsible for producing semen, making option C correct.
+📌 考試提醒
+精液是由精子以及附屬腺體（包括精囊和前列腺）的分泌物混合而成的。
+Semen is a mixture of sperm and the secretions from accessory glands (including seminal vesicles and the prostate gland).
+常見錯誤：考生常將位於生殖器官附近的膀胱誤認為生殖系統的一部分。
+Common trap: Candidates often mistakenly identify the urinary bladder, which is located near the reproductive organs, as part of the reproductive system.",
+2122,"📌 參考答案
+D. 花粉管
+D. Pollen tube
+📌 詳細解釋
+圖中的構造 4 指人類男性的陰莖。
+Structure 4 in the diagram refers to the human male penis.
+陰莖的功能是用來插入女性體內，並射出精液，作為將雄配子（精子）傳送以進行受精的通道。
+The function of the penis is for insertion into the female body and ejaculating semen, acting as a passage to deliver male gametes (sperms) for fertilization.
+在有花植物中，花柱（選項 A）是雌蕊的通道，花藥（選項 B）和花絲（選項 C）則負責製造和支撐花粉。
+In flowering plants, the style (Option A) is the passage of the carpel, while the anther (Option B) and filament (Option C) are responsible for producing and supporting pollen.
+當花粉粒到達柱頭後，會萌發出花粉管，並沿着花柱向下生長。
+When a pollen grain reaches the stigma, it germinates to form a pollen tube, which grows downwards along the style.
+花粉管到達子房後會釋放雄配子，其功能同樣是運送雄配子以進行受精，故與陰莖的功能相似，選項 D 正確。
+After reaching the ovary, the pollen tube releases male gametes; its function is also to transport male gametes for fertilization, which is similar to the function of the penis, making option D correct.
+📌 考試提醒
+生物學上，雖然動物和植物的結構截然不同，但它們為運送配子以確保受精而演化出的通道功能是類近的。
+In biology, although the structures of animals and plants are entirely different, the functions of the passages they evolved to transport gametes to ensure fertilization are analogous.
+常見錯誤：學生容易因為花柱是植物生殖器官的「管道」而誤選 A，忽略了花粉管才是真正載着雄配子前進的對等構造。
+Common trap: Students easily mistakenly select A because the style is a ""tube"" in plant reproductive organs, ignoring that the pollen tube is the equivalent structure that actually carries the male gametes forward.",
+2123,"📌 參考答案
+B. 只有 (1) 和 (3)
+B. Only (1) and (3)
+📌 詳細解釋
+椎間盤位於相鄰的椎骨之間，富含水份，能為脊椎提供緩衝，防止其受壓和磨損，因此 (1) 正確。
+Intervertebral discs are located between adjacent vertebrae and are rich in water, providing a cushion for the spine to prevent it from compression and wear, so (1) is correct.
+脊髓是被椎骨中的脊髓管所包圍及保護，位於椎體和椎間盤的後方，並非被椎間盤包圍，因此 (2) 錯誤。
+The spinal cord is surrounded and protected by the spinal canal within the vertebrae, located behind the vertebral body and intervertebral discs, not surrounded by the intervertebral discs, so (2) is incorrect.
+椎間盤具有彈性並且是可壓縮的，這特性讓堅硬的脊柱能夠進行彎曲和扭動，因此 (3) 正確。
+The intervertebral discs are elastic and compressible, a characteristic that allows the rigid vertebral column to bend and twist, so (3) is correct.
+只有 (1) 和 (3) 正確，故答案為 B。
+Only (1) and (3) are correct, so the answer is B.
+📌 考試提醒
+椎間盤的兩大核心作用是吸震緩衝和提供脊柱靈活性，而神經中樞的保護是由堅硬的骨骼（椎骨）負責。
+The two core functions of intervertebral discs are shock absorption and providing spinal flexibility, whereas the protection of the nerve centre is the responsibility of hard bones (vertebrae).
+常見錯誤：考生會混淆脊髓和椎間盤的相對位置，錯誤以為柔軟的椎間盤具備包圍及保護脊髓的功能。
+Common trap: Candidates confuse the relative positions of the spinal cord and intervertebral discs, mistakenly believing that the soft intervertebral discs have the function of surrounding and protecting the spinal cord.",
+2124,"📌 參考答案
+D. (1)、(2) 和 (3)
+D. (1), (2) and (3)
+📌 詳細解釋
+組織液是由血液中的血漿經微血管壁濾出而成的。
+Tissue fluid is formed by the filtration of blood plasma through the walls of blood capillaries.
+它的成分與血液相若，只是缺乏了體積較大的紅血球、血小板和血漿蛋白。
+Its composition is similar to that of blood, except it lacks the larger red blood cells, platelets, and plasma proteins.
+然而，由血液攜帶的各種白血球，都能夠透過變形運動擠出微血管壁，進入組織液中。
+However, various types of white blood cells carried by the blood can squeeze out of the blood capillary walls through amoeboid movement and enter the tissue fluid.
+這包括了執行特異性免疫的 B 細胞和 T 細胞，以及執行非特異性免疫的吞噬細胞。
+This includes B cells and T cells that perform specific immunity, as well as phagocytes that perform non-specific immunity.
+因此，這三類細胞都可以在組織液中被找到，選項 D 正確。
+Therefore, all three types of cells can be found in the tissue fluid, making option D correct.
+📌 考試提醒
+只有微小的溶質和具有變形穿透能力的白血球能夠離開微血管進入組織液。
+Only small solutes and white blood cells with the ability to undergo amoeboid movement can leave blood capillaries and enter the tissue fluid.
+常見錯誤：考生常誤以為只有吞噬細胞能離開血管前往感染部位，而忽略了淋巴細胞（B 細胞和 T 細胞）亦會在組織液及淋巴系統中巡邏。
+Common trap: Candidates often mistakenly believe that only phagocytes can leave blood vessels to reach infection sites, ignoring that lymphocytes (B cells and T cells) also patrol in the tissue fluid and lymphatic system.",
+2125,"📌 參考答案
+D. 淋巴液
+D. Lymph
+📌 詳細解釋
+人體的第一道防線旨在防止病原體進入身體內，屬於非特異性防禦機制。
+The human body's first line of defence aims to prevent pathogens from entering the body and belongs to the non-specific defence mechanism.
+唾液含有溶菌酶等酶，可以殺死細菌，是第一道防線的一部分。
+Saliva contains enzymes like lysozyme that can kill bacteria, and is part of the first line of defence.
+汗液含有化學成分，同樣可以殺死皮膚表面的病原體。
+Sweat contains chemical components that can also kill pathogens on the skin surface.
+呼吸系統內壁的黏液可以困住病原體，然後使其被纖毛掃走，防止其深入體內。
+Mucus lining the respiratory system can trap pathogens, which are then swept away by cilia, preventing them from going deep into the body.
+然而，淋巴液內的淋巴細胞只能在病原體已經入侵身體後才給出特定的免疫反應，因此屬於第三道防線而非第一道防線，選項 D 正確。
+However, the lymphocytes in the lymph can only give a specific immune response after pathogens have already invaded the body, thus belonging to the third line of defence rather than the first, making option D correct.
+📌 考試提醒
+第一道防線包括物理屏障（如皮膚、纖毛）和化學屏障（如汗液、唾液中的溶菌酶），目的是將病原體阻擋在外。
+The first line of defence includes physical barriers (such as skin and cilia) and chemical barriers (such as sweat and lysozyme in saliva), aiming to keep pathogens out.
+常見錯誤：學生容易把所有的體液都歸類為第一道防線，忽略了淋巴液是在病原體已突破防線並進入組織後才起作用的。
+Common trap: Students easily categorize all body fluids as the first line of defence, ignoring that lymph only comes into play after pathogens have breached the defences and entered the tissues.",
+2126,"📌 參考答案
+B. 胰島素轉化葡萄糖為糖原作貯藏。
+B. Insulin converts glucose into glycogen for storage.
+📌 詳細解釋
+在血液葡萄糖水平調節的模型中，過多的葡萄糖會轉化為糖原，並儲存在肌肉或肝臟中，故選項 A 的陳述正確。
+In the blood glucose level regulation model, excess glucose is converted into glycogen and stored in the muscles or liver, so the statement in option A is correct.
+胰島素是一種由胰臟分泌的激素，它會刺激肝細胞將過多的葡萄糖轉化為糖原。
+Insulin is a hormone secreted by the pancreas that stimulates liver cells to convert excess glucose into glycogen.
+然而，胰島素自身並不能直接參與化學反應進行轉化，故選項 B 的註釋是不正確的。
+However, insulin itself cannot directly participate in the chemical reaction to carry out the conversion, so the annotation in option B is incorrect.
+在消化過程中，多糖（如澱粉）會被酶分解為單糖如葡萄糖，故選項 C 的陳述正確。
+During the digestion process, polysaccharides (such as starch) are broken down by enzymes into monosaccharides like glucose, so the statement in option C is correct.
+肝臟會對過多的氨基酸進行脫氨作用，產生尿素和碳水化合物，故蛋白代謝的產物源自肝臟，選項 D 的陳述正確。
+The liver carries out deamination on excess amino acids, producing urea and carbohydrates, so the products of protein metabolism originate from the liver, making the statement in option D correct.
+📌 考試提醒
+激素（如胰島素）扮演的是信使角色，它與靶細胞膜上的受體結合以啟動細胞內的代謝途徑，而非直接作為酶參與反應。
+Hormones (such as insulin) play the role of messengers; they bind to receptors on the target cell membrane to initiate metabolic pathways inside the cell, rather than participating directly in the reaction as an enzyme.
+常見錯誤：考生常將激素的作用機制過度簡化，錯誤寫出「胰島素將葡萄糖轉化為糖原」這類字眼而失分。
+Common trap: Candidates often oversimplify the mechanism of hormone action, erroneously writing phrases like ""insulin converts glucose into glycogen"" and losing marks.",
+2127,"📌 參考答案
+B. 增加轉換脂肪成糖原
+B. Increase the conversion of fat into glycogen
+
+📌 詳細解釋
+當血液葡萄糖水平高於正常時，胰島素會被釋放以降低血糖水平。
+When the blood glucose level is higher than normal, insulin is released to lower the blood glucose level.
+胰島素會刺激身體細胞攝取更多葡萄糖，從而增加葡萄糖的使用。
+Insulin stimulates body cells to take up more glucose, thereby increasing glucose utilization.
+此外，胰島素會刺激肝細胞和肌肉細胞將血液葡萄糖轉化為糖原作貯藏，並將過多的葡萄糖轉化為脂肪。
+In addition, insulin stimulates liver and muscle cells to convert blood glucose into glycogen for storage, and converts excess glucose into fat.
+然而，身體並不會直接將脂肪轉換成糖原，因此選項 B 中「增加轉換脂肪成糖原」的說法是不正確的。
+However, the body does not directly convert fat into glycogen, so the statement ""increase the conversion of fat into glycogen"" in option B is incorrect.
+故選項 B 為正確答案。
+Therefore, option B is the correct answer.
+
+📌 考試提醒
+胰島素有助降低血糖，其作用機制包括促進細胞攝取葡萄糖、加速葡萄糖轉化為糖原及脂肪。
+Insulin helps lower blood glucose, and its mechanisms of action include promoting cellular uptake of glucose and accelerating the conversion of glucose into glycogen and fat.
+常見錯誤：考生常誤以為脂肪可以與糖原雙向互相轉換，忽略了體內代謝途徑的單向性與差異。
+Common trap: Candidates often mistakenly believe that fat and glycogen can be mutually converted bi-directionally, ignoring the unidirectionality and differences of metabolic pathways in the body.",
+2128,"📌 參考答案
+A. 古細菌界、動物界、真細菌界
+A. Archaea, Animalia, Bacteria
+
+📌 解釋
+在六界親源關係的進化樹中，真細菌界與其他界的關係最為疏遠，因此會是 K。
+In the phylogenetic tree of the six kingdoms, the Eubacteria kingdom is the most distantly related to the other kingdoms, making it K.
+古細菌界較早就已經從共同祖先處分離出來，因此會是 G。
+The Archaea kingdom separated from the common ancestor earlier, making it G.
+而真菌比起植物界更接近動物界，因此 J 代表植物界。
+Since fungi are closer to animals than the plant kingdom is, J represents the plant kingdom.
+故選項 A 正確地顯示了 G、J 和 K 所代表的界。
+Thus, option A correctly indicates the kingdoms represented by G, J, and K.
+
+📌 考試提醒
+在閱讀進化樹時，分支出現得越早的生物群，代表其演化歷史越古老且與其他生物的親源關係越遠。
+When reading a phylogenetic tree, groups that branch out earlier represent more ancient evolutionary histories and more distant relationships with other organisms.
+常見錯誤：考生容易搞混植物與真菌在進化樹上的演化位置，誤認真菌與動物的親源關係較植物更遠。
+Common trap: Candidates easily confuse the evolutionary positions of plants and fungi on the phylogenetic tree, mistakenly thinking that fungi are more distantly related to animals than plants are.",
+2129,"📌 參考答案
+C. H 和 J
+C. H and J
+
+📌 詳細解釋
+生物分類的三域系統包含細菌域、古菌域和真核域。
+The three-domain system of biological classification comprises the Bacteria domain, Archaea domain, and Eukarya domain.
+進化樹中的 G 代表古細菌界，屬於古菌域。
+G in the phylogenetic tree represents the Archaea kingdom, which belongs to the Archaea domain.
+進化樹中的 K 代表真細菌界，屬於細菌域。
+K in the phylogenetic tree represents the Eubacteria kingdom, which belongs to the Bacteria domain.
+進化樹中的 H（真菌）和 J（植物）以及動物界和原生生物界，全部都屬於真核域。
+H (fungi) and J (plants) in the phylogenetic tree, along with the animal and protist kingdoms, all belong to the Eukarya domain.
+因此，H 和 J 屬於相同的域，選項 C 正確。
+Therefore, H and J belong to the same domain, making option C correct.
+
+📌 考試提醒
+三域系統是高於界的生物分類階層，包括細菌域、古菌域及真核域。
+The three-domain system is a taxonomic rank higher than the kingdom, including the Bacteria, Archaea, and Eukarya domains.
+常見錯誤：考生容易忘記真菌是屬於真核域而非細菌域，從而做出錯誤的分類判斷。
+Common trap: Candidates easily forget that fungi belong to the Eukarya domain rather than the Bacteria domain, leading to incorrect classification judgments.",
+2130,"📌 參考答案
+B. Q
+
+📌 詳細解釋
+在四個變化的環境狀況中，只有增加相對濕度才會降低蒸騰速率。
+Among the four changed environmental conditions, only increasing relative humidity will decrease the transpiration rate.
+這是因為氣孔腔和大氣之間的水蒸氣濃度梯度減少了。
+This is because the water vapor concentration gradient between the stomatal cavity and the atmosphere is reduced.
+因此，對應植物重量的減少應該比對照組要更少，即數據線比對照組更平坦。
+Therefore, the decrease in the plant's weight should be less than that of the control group, meaning the data line is flatter than the control group.
+所以代表該條件的線是 Q，選項 B 正確。
+So the line representing this condition is Q, making option B correct.
+
+📌 考試提醒
+相對濕度上升會縮小葉內外水蒸氣濃度梯度，從而減慢蒸騰速率。
+An increase in relative humidity narrows the water vapor concentration gradient between the inside and outside of the leaf, thereby slowing down the transpiration rate.
+常見錯誤：學生常誤以為增加濕度會加速蒸騰作用，忽略了擴散梯度的物理原理。
+Common trap: Students often mistakenly think that increasing humidity accelerates transpiration, ignoring the physical principles of the diffusion gradient",
+2131,"📌 參考答案
+B. 以膠袋包裹着花盆。
+B. Wrap the flower pot with a plastic bag.
+
+📌 詳細解釋
+在研究盆栽植物蒸騰速率的實驗中，泥土表面的水分蒸發會干擾植物自身蒸騰作用的測量。
+In experiments studying the transpiration rate of potted plants, water evaporation from the soil surface can interfere with the measurement of the plant's own transpiration.
+以膠袋包裹着花盆可以有效控制經泥土而流失的水分。
+Wrapping the flower pot with a plastic bag can effectively control water loss through the soil.
+這能使實驗結果更準確地反映葉片蒸騰的速率，故選項 B 是必須的步驟。
+This enables the experimental results to more accurately reflect the rate of leaf transpiration, making option B an essential step.
+選項 A、C 和 D 的做法均會導致實驗結果不準確或破壞植物的正常生理狀態。
+The practices in options A, C, and D would all lead to inaccurate experimental results or disrupt the plant's normal physiological state.
+
+📌 考試提醒
+在測量蒸騰作用的實驗中，必須隔絕盆土蒸發帶來的干擾，通常採用膠袋密封盆土。
+In experiments measuring transpiration, interference from soil evaporation must be isolated, usually by sealing the pot and soil with a plastic bag.
+常見錯誤：學生常誤以為需要用凡士林塗抹整塊葉片或經常澆水，忽略了實驗對控制變數的基本要求。
+Common trap: Students often mistakenly think it is necessary to smear the entire leaf with Vaseline or water frequently, ignoring the basic requirements of experimental control variables.",
+2132,"📌 參考答案
+A. 土壤的養分水平減少。
+A. The nutrient level of the soil decreases.
+
+📌 詳細解釋
+在陸生生境的原生演替期間，死去並開始腐爛的植物、動物和動物糞便會形成腐殖質。
+During primary succession in a terrestrial habitat, dead and decomposing plants, animals, and animal droppings form humus.
+腐殖質會進一步使土壤變得肥沃，因此土壤的養分水平會隨演替進行而增加而非減少，故選項 A 的描述不正確。
+Humus further fertilizes the soil, so the nutrient level of the soil increases rather than decreases as succession proceeds, making the description in option A incorrect.
+隨着演替發展，土地變得足以支持更多形態的生命，增加了食物網的複雜性和生物多樣性，選項 B 正確。
+As succession develops, the land becomes sufficient to support more forms of life, increasing the complexity of the food web and biodiversity, so option B is correct.
+肥沃的土壤厚得足以支持維管束植物生長，使它們成為優勢物種，導致非維管束植物的豐度減少，選項 C 正確。
+Fertile soil becomes thick enough to support the growth of vascular plants, making them dominant species and leading to a decrease in the abundance of non-vascular plants, so option C is correct.
+由於環境有利生產者生長，生產者數量增加令更多能量可以進入食物鏈並提供予群落，選項 D 正確。
+Since the environment is favourable for producer growth, an increase in the number of producers allows more energy to enter the food chain and be provided to the community, so option D is correct.
+
+📌 考試提醒
+原生演替是一個從無到有的過程，土壤會隨着有機物的累積而變得越來越厚和肥沃。
+Primary succession is a process starting from scratch, where the soil becomes thicker and more fertile with the accumulation of organic matter.
+常見錯誤：考生常誤以為演替初期的貧瘠土壤會一直維持不變，忽略了生物殘體累積對土壤養分的提升作用。
+Common trap: Candidates often mistakenly assume that the barren soil in the early stage of succession remains unchanged, ignoring the enhancing effect of accumulated biological remains on soil nutrients.",
+2133,"📌 參考答案
+B. 該種群擁有最大的生物量。
+B. This population has the greatest biomass.
+
+📌 詳細解釋
+自養生物是食物鏈中的生產者，位於營養階級的最底層。
+Autotrophs are the producers in a food chain, located at the lowest trophic level.
+在生態塔中，由於能量在每傳遞一級時都會透過呼吸作用等過程大量流失，生物量通常隨營養階級上升而遞減。
+In an ecological pyramid, since energy is largely lost through processes like respiration at each trophic level passed, biomass generally decreases as the trophic level rises.
+因此，擁有最多生物量的種群 B 便是食物鏈中的自養生物（生產者）。
+Therefore, population B, which possesses the greatest biomass, is the autotroph (producer) in the food chain.
+選項 A、C 和 D 的生物量較小，屬於不同級別的消費者。
+Options A, C, and D have smaller biomass and belong to consumers at different levels.
+
+📌 考試提醒
+在生態系統中，生產者（自養生物）通常佔有最大的生物量和總能量。
+In an ecosystem, producers (autotrophs) usually account for the greatest biomass and total energy.
+常見錯誤：考生容易將生物量塔的階級高低與能量流動的方向混淆，誤選處於頂層的物種。
+Common trap: Candidates easily confuse the hierarchical level of the biomass pyramid with the direction of energy flow, mistakenly selecting the species at the top level.",
+2134,"📌 參考答案
+C. 供應種群A的能量會減少。
+C. The energy supplied to population A will decrease.
+
+📌 詳細解釋
+在該食物鏈中，能量的流向順序會是 B（自養生物）→ C（草食動物）→ D（肉食動物）→ A（高級肉食動物）。
+In this food chain, the order of energy flow is B (autotroph) → C (herbivore) → D (carnivore) → A (top carnivore).
+當作為捕食者的種群 D 之個體數目下降時，對獵物（種群 C）的捕食壓力會減輕。
+When the number of individuals in population D (the predator) decreases, the predation pressure on its prey (population C) is alleviated.
+這會導致種群 C 的個體數目因被捕食減少而上升，而非選項 B 所指的減少。
+This will cause the number of individuals in population C to increase due to reduced predation, rather than decrease as stated in option B.
+由於種群 C 增加，更多能量會被 C 消耗，導致流向更高級消費者（種群 A）的能量減少，因此選項 C 正確。
+As population C increases, more energy is consumed by C, resulting in less energy flowing to the higher-level consumer (population A); thus option C is correct.
+
+📌 考試提醒
+食物鏈中捕食者與獵物的數量波動呈此消彼長的動態平衡，且能量在傳遞過程中會逐級遞減。
+Population fluctuations of predators and prey in a food chain exhibit a dynamic equilibrium of rise and fall, and energy decreases step by step during transfer.
+常見錯誤：考生常忽略能量流動的級級遞減關係，誤以為某個種群數量上升會帶來無條件的能量增加。
+Common trap: Candidates often overlook the step-by-step decreasing relationship of energy flow, mistakenly thinking that an increase in a certain population brings an unconditional increase in energy.",
+2135,"📌 參考答案
+A. 閃電。
+A. Lightning.
+
+📌 詳細解釋
+在氮循環中，大氣中的氮氣需要被轉化為植物可吸收的硝酸鹽或其他含氮化合物。
+In the nitrogen cycle, atmospheric nitrogen needs to be converted into nitrates or other nitrogen-containing compounds absorbable by plants.
+過程 2 代表大氣中的氮透過閃電的高能量直接轉化成氮氧化物，再溶於雨水中形成硝酸鹽進入泥土。
+Process 2 represents atmospheric nitrogen being directly converted into nitrogen oxides through the high energy of lightning, which then dissolves in rainwater to form nitrates entering the soil.
+這屬於非生物的固氮作用，因此過程 2 代表閃電，選項 A 正確。
+This belongs to abiotic nitrogen fixation, so process 2 represents lightning, making option A correct.
+選項 B、C 和 D 的過程分別對應硝化作用、反硝化作用及生物固氮作用，與過程 2 不符。
+The processes in options B, C, and D correspond to nitrification, denitrification, and biological nitrogen fixation respectively, and do not match process 2.
+
+📌 考試提醒
+閃電能提供巨大能量，促使空氣中的氮氣與氧氣化合，是自然界中重要的非生物固氮途徑。
+Lightning can provide huge energy to prompt the combination of nitrogen and oxygen in the air, serving as an important abiotic nitrogen fixation pathway in nature.
+常見錯誤：考生常誤以為氮循環中的所有固氮過程都必須由細菌完成，忽略了閃電的物理固氮作用。
+Common trap: Candidates often mistakenly think that all nitrogen-fixation processes in the nitrogen cycle must be completed by bacteria, ignoring the physical nitrogen fixation by lightning.",
+2136,"📌 參考答案
+B. 2 和 6
+B. 2 and 6
+
+📌 詳細解釋
+在氮循環中，過程 6 代表由亞硝酸細菌將氨轉變成亞硝酸鹽，屬於硝化作用的一部分，涉及細菌的作用。
+In the nitrogen cycle, process 6 represents the conversion of ammonia into nitrites by nitrite bacteria, which is part of nitrification and involves the action of bacteria.
+過程 4 代表由硝酸細菌將亞硝酸鹽轉變成硝酸鹽，同樣涉及細菌的作用。
+Process 4 represents the conversion of nitrites into nitrates by nitrate bacteria, which also involves the action of bacteria.
+相反，過程 2 是由大氣閃電引起的非生物固氮作用，並不涉及細菌。
+In contrast, process 2 is abiotic nitrogen fixation caused by atmospheric lightning and does not involve bacteria.
+綜合各選項的配對，涉及細菌作用的過程組合可在選項中選出正確對應。
+Synthesizing the pairings of various options, the combination of processes involving bacterial action can be correctly identified from the choices.
+
+📌 考試提醒
+氮循環中的硝化作用與反硝化作用均由特定的泥土細菌催化進行。
+Both nitrification and denitrification in the nitrogen cycle are catalyzed by specific soil bacteria.
+常見錯誤：學生常把閃電固氮（過程 2）誤認為是由細菌進行的生物固氮，導致配對錯誤。
+Common trap: Students often mistakenly identify lightning nitrogen fixation (process 2) as biological nitrogen fixation carried out by bacteria, leading to incorrect pairing.",
 21p101,"📌 參考答案 
 
 (a)
