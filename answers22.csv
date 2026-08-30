@@ -1,988 +1,596 @@
-﻿編號,答案,類近題目
-2201,"參考答案
-A. 氧氣 (O₂)
-A. Oxygen (O₂)
-
-詳細解釋 (Detailed Explanation)
-直接穿越磷脂雙分子層的條件
-只有 小型、非極性分子 可以自由擴散通過。
-Only small, non-polar molecules can directly diffuse through the phospholipid bilayer.
-
-各選項物質的通道
-
-氧氣 (O₂) → 非極性分子 ⇒ 可直接通過磷脂雙層 → 屬於 X。
-Oxygen (O₂): non-polar molecule ⇒ can diffuse directly through bilayer ⇒ represents X.
-葡萄糖 (C₆H₁₂O₆) → 大型極性分子 ⇒ 需透過 葡萄糖轉運蛋白 (carrier protein) 運送 → 屬於 Y。
-Glucose: large polar molecule ⇒ requires carrier protein transport ⇒ represents Y.
-水 (H₂O) → 小型極性分子 ⇒ 雖然體積小，但主要透過 水通道蛋白 (aquaporin) 運輸 → 屬於 Z。
-Water (H₂O): small polar molecule ⇒ mainly crosses via aquaporins ⇒ represents Z.
-結論
-答案是 A. 氧氣，因為只有它能自由穿越磷脂雙層。
-Correct answer: A. Oxygen, since only O₂ can freely diffuse across the bilayer.
-
-📌 考試提醒 (Exam Tips)
-
-大分子或極性分子（如葡萄糖） → 需要載體蛋白 (carrier proteins)。
-Large or polar molecules (e.g. glucose) → need carrier proteins.
-小極性分子（如水） → 依靠通道蛋白 (channel proteins, e.g. aquaporins)。
-Small polar molecules (e.g. water) → rely on channel proteins.
-小非極性分子（如 O₂、CO₂） → 才能直接穿過脂雙層。
-Small non-polar molecules (e.g. O₂, CO₂) → can cross freely through lipid bilayer.",
-2202,"第 2 題 (DNA 鹼基配對)
-參考答案
-C. 只有 (2) 和 (3)
-C. Only (2) and (3)
-
-詳細解釋 (Detailed Explanation)
-(1) DNA 是螺旋型
-與鹼基比例無直接關係。
-Helical shape of DNA does not explain base ratio.
-
-(2) DNA 是雙鏈分子
-兩條鏈互補配對，A 與 T，C 與 G。
-DNA is double-stranded, with complementary base pairing of A–T and C–G.
-
-(3) 含氮鹼基互補配對
-A 與 T 配對，C 與 G 配對 → A+C=50% 說明互補規律。
-A pairs with T, C with G → A + C = 50% fits complementary rule.
-
-✅ 正確是 (2)、(3)。
-Correct: (2) and (3).
-
-📌 考試提醒 (Exam Tips)
-
-Chargaff’s rule：A=T, C=G。
-Chargaff’s rule: A=T, C=G.
-DNA 為「雙鏈 + 互補配對」。
-DNA is “double-stranded + complementary pairing”.
-「螺旋形態」與比例無關。
-Helical structure unrelated to base ratios.",
-2203,"第 3 題 (孟德爾分離定律)
-參考答案
+編號,答案,類近題目
+2201,"📌 參考答案
+A. X：氧；Y：葡萄糖；Z：水
+A. X: oxygen; Y: glucose; Z: water
+📌 詳細解釋
+氧氣是非極性分子，可直接透過磷脂雙分子層（X）擴散。
+Oxygen is a non-polar molecule that diffuses directly through the phospholipid bilayer (X).
+葡萄糖是較大的極性分子，必須透過載體蛋白（Y，圖中會改變形狀）進行攝取。
+Glucose is a large polar molecule that must be taken up via a carrier protein (Y, which changes shape in the diagram).
+水分子透過通道蛋白（Z）進行快速滲透。
+Water molecules undergo rapid osmosis through channel proteins (Z).
+其他選項配對錯誤，因忽略了分子的極性及圖中膜蛋白的具體形狀。
+Other options are incorrectly paired due to ignoring molecular polarity and the specific shapes of membrane proteins shown.
+📌 考試提醒
+通道蛋白提供固定孔道，載體蛋白會改變構象以運送物質。
+Channel proteins provide fixed pores, while carrier proteins change their conformation to transport substances.
+常見錯誤：學生常以為水分子只能直接穿過磷脂層，而忽略水孔蛋白的存在及蛋白形態區分。
+Common trap：Students often think water only passes directly through the phospholipid bilayer, ignoring aquaporins and failing to distinguish protein shapes.",
+2202,"📌 參考答案
+C. 只有(2)和(3)
+C. (2) and (3) only
+📌 詳細解釋
+螺旋型構造（1）與鹼基比例無直接關係，因此錯誤。
+The helical structure (1) has no direct relationship with base ratios, hence it is incorrect.
+在雙鏈 DNA（2）中，根據互補鹼基配對原則（3），A與T配對，C與G配對。
+In double-stranded DNA (2), according to the complementary base pairing rule (3), A pairs with T and C pairs with G.
+因此 A+C 必定等於 T+G，各佔總數的 50%。
+Therefore, A+C must equal T+G, each accounting for 50% of the total.
+選項 A、B、D 未完整包含所有必要邏輯條件或包含無關的螺旋特徵。
+Options A, B, and D fail to include all necessary logical conditions completely or contain the irrelevant helical feature.
+📌 考試提醒
+雙鏈 DNA 必定符合 A+G = C+T = 50% 及 A+C = T+G = 50% 的數學關係。
+Double-stranded DNA must satisfy the mathematical relationships A+G = C+T = 50% and A+C = T+G = 50%.
+常見錯誤：誤以為 A+C=50% 是因為 A 和 C 互相配對。
+Common trap：Misunderstanding that A+C=50% occurs because A pairs with C.",
+2203,"📌 參考答案
 A. 等位基因；第一次減數細胞分裂
-A. Alleles; Meiosis I
-
-詳細解釋 (Detailed Explanation)
-現代理解的遺傳因子
-孟德爾的「因子」= 等位基因。
-Mendel’s “factors” = alleles.
-
-等位基因的分離
-位於同源染色體上，在 減 I 同源分離時分開。
-Alleles are on homologous chromosomes, separated in Meiosis I.
-
-為何不是減 II?
-減 II 分裂姐妹染色單體，非等位基因。
-Meiosis II separates sister chromatids, not alleles.
-
-📌 考試提醒 (Exam Tips)
-
-分離定律= 等位基因在減 I 分離。
-Law of segregation = alleles segregate in Meiosis I.
-獨立分配定律= 減 I 不同染色體獨立分配。
-Law of independent assortment = chromosomes assort independently in Meiosis I.",
-2204,"第 4 題 (體細胞染色體數目)
-參考答案
-B. 4
+A. Alleles; First meiotic division
+📌 詳細解釋
+孟德爾的「遺傳因子」即為現今遺傳學所指的等位基因。
+Mendel's ""hereditary factors"" refer to what modern genetics calls alleles.
+控制同一特徵的等位基因位於一對同源染色體上。
+Alleles controlling the same character are located on a pair of homologous chromosomes.
+同源染色體的分離發生在第一次減數細胞分裂。
+The separation of homologous chromosomes occurs during the first meiotic division.
+選項 B、C、D 錯誤，因為遺傳因子並非染色體，且等位基因的分離並非在分離姐妹染色單體的第二次分裂發生。
+Options B, C, and D are incorrect because hereditary factors are not chromosomes, and the segregation of alleles does not occur during the second division where sister chromatids separate.
+📌 考試提醒
+等位基因的分離對應同源染色體的分離。
+The segregation of alleles corresponds to the separation of homologous chromosomes.
+常見錯誤：學生常混淆基因與等位基因，以及減數分裂中兩次分裂的具體事件。
+Common trap：Students often confuse genes with alleles and the specific events of the two divisions in meiosis.",
+2204,"📌 參考答案
 B. 4
 
-詳細解釋 (Detailed Explanation)
-題幹提示：「有兩對同源染色體」= 2n = 4。
-Question states: “two pairs of homologous chromosomes” = 2n = 4.
-
-體細胞是二倍體 → 染色體數目 = 4。
-Somatic cells are diploid → chromosome number = 4.
-
-染色體計算：不論是否複製，X 形結構仍計為 1 條。
-Chromosome count is independent of replication; an X-shaped structure counts as one chromosome.
-
-📌 考試提醒 (Exam Tips)
-
-Chromosome ≠ Chromatid!
-看「同源對數」推算 2n。
-減 I 前染色體複製 → 含 2 個姐妹染色單體。
-Chromosome ≠ chromatid; count homologous pairs; replicated X still = 1 chromosome.",
-2205,"第 5 題 (減數分裂排列)
-參考答案
-B
-B
-
-詳細解釋 (Detailed Explanation)
-減 I 中期特徵
-同源染色體成對排列在赤道板。
-Metaphase I: homologous chromosomes (bivalents) line up at equator.
-
-檢視選項
-
-A/C/D：並非呈對，只顯示單條 → 錯。
-A/C/D: show single chromosomes, not pairs → incorrect.
-B：同源染色體以對排列 → 正確。
-B: homologous chromosomes paired at equator → correct.
-📌 考試提醒 (Exam Tips)
-
-減 I 中期 → 同源成對。
-Meiosis I metaphase → homologous pairs.
-減 II 中期 → 單條染色體。
-Meiosis II metaphase → single chromosomes.",
-2206,"參考答案
-D. S
+📌 詳細解釋
+圖中顯示減數分裂初期的細胞含有兩對（共4條）已複製的同源染色體。
+The figure shows a cell in early meiosis containing two pairs (4 in total) of replicated homologous chromosomes.
+該生物的體細胞為雙倍體（2n），因此染色體總數即為 4 條。
+The somatic cells of this organism are diploid (2n), so the total number of chromosomes is exactly 4.
+選項 A、C、D 的數字無法正確反映圖中顯示的兩對同源染色體總數。
+Options A, C, and D represent numbers that fail to correctly reflect the total of two pairs of homologous chromosomes shown.
+📌 考試提醒
+每條由兩條姐妹染色單體組成的染色體只算作一條染色體。
+A chromosome consisting of two sister chromatids is counted as only one chromosome.
+常見錯誤：看見 8 條染色單體便誤將染色體數目當作 8。
+Common trap：Seeing 8 chromatids and mistakenly counting the chromosome number as 8.",
+2205,"📌 參考答案
+B. (圖 B)
+📌 詳細解釋
+第一次減數分裂後期，紡錘絲縮短，將成對的同源染色體拉向細胞兩極。
+During anaphase I of meiosis, spindle fibres shorten, pulling paired homologous chromosomes to opposite poles of the cell.
+選項 B 正確顯示同源染色體正在分離；選項 A 為第二次分裂後期。
+Option B correctly shows homologous chromosomes separating; Option A represents anaphase II.
+選項 C 及 D 染色體排列於細胞赤道，屬於中期而非後期。
+Options C and D show chromosomes aligned at the cell equator, which represents metaphase rather than anaphase.
+📌 考試提醒
+減數第一次分裂分離同源染色體，第二次分裂分離姐妹染色單體。
+Meiosis I separates homologous chromosomes, whereas meiosis II separates sister chromatids.
+常見錯誤：混淆減數分裂的中期（排列於赤道）與後期（拉向兩極）。
+Common trap：Confusing metaphase (alignment at the equator) with anaphase (pulling to the poles) in meiosis.",
+2206,"📌 參考答案
 D. S
 
-詳細解釋 (Detailed Explanation)
-單卵雙生兒基因完全相同
-如果某特徵完全由基因控制，相似度應該是 100%。
-Identical twins have exactly the same genes. If a trait is entirely determined by genes, the similarity should be 100%.
-
-特徵分析
-
-P, Q：單卵雙生兒相似度接近 100% → 幾乎完全受基因控制。
-P, Q: similarity close to 100% → almost entirely genetic.
-R：單卵雙生兒相似度約 90%，但仍高於二卵雙生兒 → 基因影響大，環境影響中等。
-R: similarity ≈ 90%, higher than fraternal twins → mainly genetic, partly environmental.
-S：單卵雙生兒相似度只有 ~80%，比其他三項低 → 環境因素影響最大。
-S: similarity only ~80%, the lowest among traits → most influenced by environment.
-結論
-特徵 S 最受環境影響。
-Trait S is the most affected by environmental factors.
-
-📌 考試提醒 (Exam Tips)
-
-相似度接近 100% → 基因決定。
-Similarity close to 100% → determined by genes.
-相似度 <100%（即使在單卵雙生兒） → 有環境影響。
-Similarity < 100% (even in identical twins) → environmental effect exists.
-用「誰的相似度最低？」判斷「環境因素影響最大」。
-The lowest similarity → strongest environmental influence.",
-2207,"第 7 題 (親緣關係)
-參考答案
-C. X 與 Z 的親緣關係較 X 與 Y 近
-C. X is more closely related to Z than to Y
-
-詳細解釋 (Detailed Explanation)
-細胞壁 ≠ 原核獨有 → 植物/真菌也有。
-Cell wall ≠ prokaryote only → plants and fungi too.
-
-相似度：
-
-X–Y: 45%
-X–Z: 55% → 更相似。
-X–Y: 45%; X–Z: 55% → closer relation.
-相似度高 → 親緣近。
-Higher similarity → closer relation.
-
-📌 考試提醒 (Exam Tips)
-
-用蛋白序列相似度判斷親緣。
-細胞壁不是可靠的分類特徵。
-Protein sequence similarity = phylogenetic closeness; cell wall not a reliable marker.",
-2208,"第 8 題 (分解者與演替)
-參考答案
-D. 以銨化合物的形式，將氮釋放回土壤
-D. Release nitrogen back into the soil in the form of ammonium compounds
-
-詳細解釋 (Detailed Explanation)
-分解者將含氮有機物分解 → 釋放 銨離子 (NH₄⁺) → 氨化作用。
-Decomposers break down nitrogenous organics → release NH₄⁺ → ammonification.
-
-植物吸收 NH₄⁺/NO₃⁻ → 合成蛋白質 → 推動生態演替。
-Plants absorb NH₄⁺/NO₃⁻ → build proteins → drive succession.
-
-其他選項
-
-A：岩石風化 → 非分解者功能。
-Rock weathering → not decomposers.
-B：清除死有機物表面正確，但與演替關連不足。
-Removal of dead matter insufficient for succession.
-C：釋放 CO₂ 屬呼吸作用。
-CO₂ release is respiration.
-D：正確 → 銨化合物釋放，推動群落發展。
-Correct → ammonium release drives community growth.
-📌 考試提醒 (Exam Tips)
-
-關鍵字：氨化作用 (ammonification)。
-Keyword: ammonification
-有機氮 → NH₄⁺ → 硝化菌 → NO₂⁻/NO₃⁻。
-Organic N → NH₄⁺ → nitrification → NO₂⁻/NO₃⁻.
-出題常連結「演替」與「分解者氮循環」。
-Questions link “succession” with “decomposers in nitrogen cycle”.
-📘 全部第 2–8 題 已整理完成，中英對照、逐步解釋+考試提醒。
-老師要不要我幫你做一個 統一標頭模板（例如：題號、答案、解釋、提醒四部分自動排版），方便整本題解保持格式一致？",
-2209,"參考答案
-C. 只有 (2) 和 (3)
-C. Only (2) and (3)
-
-詳細解釋 (Detailed Explanation)
-選項 (1)：昆蟲平均分布在樹上
-題目沒有提供昆蟲數量的分布資料，我們只知道「不同鳥在捕食不同區域的昆蟲」，並不能推論昆蟲分布是平均的。
-The question does not provide data on insect distribution. We only know that different birds feed in different zones, but this does not mean insects are evenly distributed.
-→ (1) ❌ 錯 / Incorrect
-
-選項 (2)：鳥 A、B、C 具有不同生態位
-生態位不僅指「地點」，還包括一個物種在生態系統的角色與資源利用方式。因為 A、B、C 棲息於同一棵樹，但分利用不同區域 → 它們的生態位不同。
-A niche refers to the habitat, role, and interactions of a species within an ecosystem. Since A, B, and C exploit different parts of the same tree, they have different niches.
-→ (2) ✅ 正確 / Correct
-
-選項 (3)：種間競爭較小
-由於三種鳥分開覓食，資源利用重疊減少，因此它們之間的競爭壓力較低。
-Because the three bird species feed in different zones, their resource overlap is reduced, so interspecific competition is smaller.
-→ (3) ✅ 正確 / Correct
-
-📌 考試提醒 (Exam Tips)
-
-生態位 (niche) = 棲息地 + 資源利用方式 + 在生態系統中的角色。
-Niche = habitat + resource use + ecological role.
-不同物種若在相同棲地利用不同資源 → 降低種間競爭。
-Different species using different resources in the same habitat → reduced interspecific competition.
-題目沒有提到「昆蟲分布平均」→ 類似的推論要避免。
-If not directly stated, don’t assume even distribution of insects.",
-2210,"參考答案
-D. 偏利共生 (Commensalism)
+📌 詳細解釋
+單卵雙生兒擁有完全相同的基因組合，其特徵差異僅由環境因素造成。
+Monozygotic twins have identical genetic compositions; any differences in their characteristics are solely due to environmental factors.
+特徵 S 在單卵雙生兒中的相似度最低，顯示其變異最大，受環境影響最深。
+Characteristic S shows the lowest similarity among monozygotic twins, indicating the greatest variation and deepest environmental influence.
+選項 A、B 的特徵完全不受環境影響，特徵 R 受環境影響程度小於 S。
+Options A and B are completely unaffected by the environment, and characteristic R is less affected than S.
+📌 考試提醒
+單卵雙生兒的表現型差異是研究環境因素影響的最佳指標。
+Phenotypic differences in monozygotic twins are the best indicators for studying the impact of environmental factors.
+常見錯誤：混淆遺傳與環境對單卵或二卵雙生兒的不同影響。
+Common trap：Confusing the different impacts of genetics and environment on monozygotic or dizygotic twins.",
+2207,"📌 參考答案
+C. X與Z的親緣關係較X與Y近。
+C. X is more closely related to Z than to Y.
+📌 詳細解釋
+氨基酸序列相似度越高，代表物種間的親緣關係越近。
+A higher similarity in amino acid sequences indicates a closer phylogenetic relationship between species.
+X與Z的相似度（55%）高於X與Y（45%），因此C正確。
+The similarity between X and Z (55%) is higher than that between X and Y (45%), thus C is correct.
+選項A無法從有細胞壁確認，選項B無證據支持，選項D與相似度數據矛盾。
+Option A cannot be confirmed merely by the presence of a cell wall, Option B lacks supporting evidence, and Option D contradicts the similarity data.
+📌 考試提醒
+蛋白質氨基酸序列的相似度是判斷演化親緣關係的重要分子證據。
+The similarity of protein amino acid sequences serves as crucial molecular evidence for determining evolutionary relationships.
+常見錯誤：錯誤假設細胞壁為原核生物獨有特徵，或錯誤解讀分子數據。
+Common trap：Falsely assuming the cell wall is unique to prokaryotes, or misinterpreting molecular data.",
+2208,"📌 參考答案
+D. 以銨化合物的形式，將氮釋放回土壤。
+D. release nitrogen in the form of ammonium compounds to the soil.
+📌 詳細解釋
+分解者將死去的有機物分解為無機的銨化合物，增加土壤肥力。
+Decomposers break down dead organic matter into inorganic ammonium compounds, increasing soil fertility.
+這能促進後續較大型植物群落的生長，從而推動生態演替。
+This promotes the growth of subsequent larger plant communities, thereby driving ecological succession.
+選項 A 是物理風化，選項 B 和 C 對增加土壤氮肥力無直接幫助。
+Option A is physical weathering, and Options B and C do not directly aid in increasing soil nitrogen fertility.
+📌 考試提醒
+分解者的生態功能在於物質循環，特別是將有機氮轉化為植物可吸收的無機氮。
+The ecological function of decomposers lies in material cycling, particularly converting organic nitrogen into inorganic nitrogen that plants can absorb.
+常見錯誤：將分解者的作用與物理風化混淆。
+Common trap：Confusing the role of decomposers with physical weathering.",
+2209,"📌 參考答案
+C. 只有(2)和(3)
+C. (2) and (3) only
+📌 詳細解釋
+三種鳥類佔據不同的空間及捕食不同昆蟲，因此具有不同的生態位（2）。
+The three bird species occupy different spatial areas and prey on different insects, thus possessing different ecological niches (2).
+資源分配減少了牠們之間的資源重疊，從而減輕了種間競爭（3）。
+Resource partitioning reduces their resource overlap, thereby alleviating interspecific competition (3).
+選項中包含（1）皆錯誤，因為圖表資訊無法推導出昆蟲在樹上必定平均分佈。
+Options containing (1) are incorrect because the chart provides no information to deduce that insects are necessarily evenly distributed on the tree.
+📌 考試提醒
+生態位不僅指生物的棲息地，還包括其攝食習性及與其他生物的關係。
+An ecological niche refers not only to an organism's habitat but also to its feeding habits and relationships with other organisms.
+常見錯誤：誤以為同一棵樹上的生物必定有完全相同的生態位和激烈的競爭。
+Common trap：Assuming organisms on the same tree must have identical ecological niches and intense competition.",
+2210,"📌 參考答案
+D. 偏利共生
 D. Commensalism
+📌 詳細解釋
+一同生活時，物種 X 的個體數目增長更快，表示 X 從中獲益。
+When living together, the population of species X grows faster, indicating that X benefits.
+物種 Y 的增長曲線在兩種情況下基本重疊，表示 Y 既無獲益也無明顯受害。
+Species Y's growth curve remains largely overlapping in both scenarios, indicating Y neither benefits nor is significantly harmed.
+選項 A、B、C 錯誤，互利共生是雙方獲益，而競爭與捕食必定有受害方。
+Options A, B, and C are incorrect; mutualism benefits both, whereas competition and predation necessarily involve a harmed party.
+📌 考試提醒
+偏利共生是指兩種生物共同生活時，一方獲益而另一方不受影響。
+Commensalism refers to a relationship between two organisms where one benefits while the other is unaffected.
+常見錯誤：未能準確對比兩幅圖表中的斜率變化，常將偏利共生與互利共生混淆。
+Common trap：Failing to accurately compare slope changes in the two graphs, often confusing commensalism with mutualism.",
+2211,"📌 參考答案
+B. 裝置 P 往左移；裝置 Q 沒有變化
+B. Setup P moves left; Setup Q shows no change
+📌 詳細解釋
+種子有氧呼吸吸收氧氣並釋放等體積的二氧化碳。
+Seeds undergo aerobic respiration, absorbing oxygen and releasing an equal volume of carbon dioxide.
+裝置 P 的二氧化碳被吸收，導致密閉系統內氣壓下降，顏色液往左移。
+In Setup P, carbon dioxide is absorbed, causing air pressure in the sealed system to drop and the coloured liquid to move left.
+裝置 Q 的水不吸收二氧化碳，總氣壓不變，液滴不移動，因此其他選項皆錯誤。
+The water in Setup Q does not absorb carbon dioxide; total air pressure remains unchanged, and the droplet does not move, making all other options incorrect.
+📌 考試提醒
+二氧化碳吸收劑（如氫氧化鈉）會使系統內氣體淨體積減少。
+A carbon dioxide absorbent (like sodium hydroxide) causes a net decrease in gas volume within the system.
+常見錯誤：忽略氣體被吸收後引發的壓力下降原理，無法判斷液滴移動方向。
+Common trap：Ignoring the principle of pressure drop after gas absorption, failing to determine the direction of droplet movement.",
+2212,"📌 參考答案
+B. (圖 B)
+B. (Diagram B)
+📌 詳細解釋
+要證明反應產生了二氧化碳，必須使用能檢驗該氣體的石灰水（B）。
+To prove the production of carbon dioxide, limewater (B) must be used to test for the gas.
+氧吸收劑（A）無法顯示產生了何種氣體。
+An oxygen absorbent (A) cannot indicate what gas has been produced.
+選項 C 和 D 使用死去的已煮熟種子，無法進行呼吸作用，僅為對照裝置。
+Options C and D use dead, boiled seeds which cannot respire and serve only as control setups.
+📌 考試提醒
+石灰水遇二氧化碳變混濁；活細胞才能進行呼吸作用。
+Limewater turns cloudy in the presence of carbon dioxide; only living cells can carry out respiration.
+常見錯誤：誤將檢測特定氣體的設計與測量呼吸速率的設計混淆，或忘記已煮熟種子的用途。
+Common trap：Confusing the design for detecting a specific gas with that for measuring respiration rate, or forgetting the purpose of boiled seeds.",
+2213,"📌 參考答案
+B. (圖 B)
+B. (Diagram B)
 
-詳細解釋 (Detailed Explanation)
-題目觀察
+📌 詳細解釋
+本探究的自變量（糖的種類）屬於不連續變數，數據之間沒有漸進的數值關係。
+The independent variable in this investigation (type of sugar) is a discrete variable with no progressive numerical relationship between the data points.
+因此，必須使用棒形圖來清晰比較不同受質所產生的二氧化碳平均量。
+Therefore, a bar chart must be used to clearly compare the average amount of carbon dioxide produced by different substrates.
+選項 A 錯誤，因為折線圖僅適用於連續變數（如時間或溫度）。
+Option A is incorrect because line graphs are only suitable for continuous variables (such as time or temperature).
+選項 C 和 D 的表達方式無法有效顯示和比較各種糖的絕對數值。
+Options C and D fail to effectively display and compare the absolute values of the different sugars.
 
-單獨生活時：X 的數量緩慢上升，Y 的數量幾乎不變。
-In solitary living: X increases slowly, Y almost constant.
-一同生活時：X 的數量增長明顯加快，而 Y 的數量仍保持不變。
-In co-living: X grows faster, while Y remains unchanged.
-生態關係判斷
-
-互利共生 (Mutualism)：雙方都得益 → 不符合，因為 Y 沒有明顯益處。
-Mutualism: both benefit → incorrect, since Y shows no benefit.
-捕食 (Predation)：一方受益，另一方受害 → 不符合，Y 沒有受害。
-Predation: one benefits, the other harmed → not the case, Y is unharmed.
-競爭 (Competition)：雙方受害 → 不符合。
-Competition: both harmed → not the case.
-偏利共生 (Commensalism)：一方受益，另一方不受影響 → 完全符合。
-Commensalism: one benefits, the other unaffected → matches perfectly.
-結論
-X 因 Y 的存在受益，數量明顯增加；但 Y 沒受影響 → 偏利共生。
-X benefits from Y’s presence, population increases significantly; Y is unaffected → Commensalism.
-
-📌 考試提醒 (Exam Tips)
-
-互利 (Mutualism)：+ / +
-偏利 (Commensalism)：+ / 0
-寄生 / 捕食 (Parasitism / Predation)：+ / –
-競爭 (Competition)：– / –
-👉 在圖題裡常用「種群數目變化」判斷：若只有一方曲線上升，另一方維持不變 → 偏利共生。
-👉 In graph questions, use “population trend” to judge: if only one rises while the other stays flat → it’s commensalism.",
-2211,"參考答案
-B. 裝置 P：往左移；裝置 Q：沒有變化
-B. Apparatus P: moves to the left; Apparatus Q: no change
-
-詳細解釋 (Detailed Explanation)
-裝置 P (Apparatus P)
-種子呼吸作用 → 消耗 O₂，釋放 CO₂。
-但裝置中加入了 CO₂ 吸收劑，因此釋放的二氧化碳被吸收。
-整體效果：氣體總體積 減少 → 試管內氣壓降低 → 顏色液往左移。
-Seeds respire → consume O₂, release CO₂. But the CO₂ absorber removes released CO₂. Net effect = total gas volume decreases → pressure drops inside tube → colored liquid moves left.
-裝置 Q (Apparatus Q)
-種子同樣進行呼吸作用：吸收 O₂, 釋放 CO₂。
-但底部只有水 → 沒有移除 CO₂。
-結果：吸收的 O₂ 體積 = 產生的 CO₂ 體積 → 氣體總體積沒有淨變化 → 顏色液保持不變。
-Seeds also respire: absorb O₂, release CO₂. But with water only, CO₂ is not removed. Thus O₂ uptake = CO₂ output → no net change in gas volume → liquid stays still.
-📌 考試提醒 (Exam Tips)
-
-若 有 CO₂ 吸收劑 → 總氣體體積減少 → 顏色液移動。
-With CO₂ absorber → net gas volume decreases → movement of liquid.
-若 沒有 CO₂ 吸收劑 → 吸氧與排二氧化碳平衡 → 體積無淨變化。
-Without CO₂ absorber → O₂ uptake balanced by CO₂ release → no net change.
-液體往哪邊移？記得：氣體總體積減少 → 液體往種子方向（左）移動。
-Direction of movement: gas volume decreases → liquid moves toward seeds side (left).",
-2212,"參考答案
-B. 萌發中的種子 + 石灰水
-B. Germinating seeds + limewater
-
-詳細解釋 (Detailed Explanation)
-題目核心
-想要「顯示呼吸作用中產生的氣體」，最合適的方式是檢測 二氧化碳 (CO₂)。
-The task is to show which apparatus can demonstrate the gas produced during respiration. The key gas to detect is carbon dioxide (CO₂).
-
-各裝置分析
-
-A：氧氣吸收劑
-只能去除 O₂，無法顯示種子釋放的 CO₂。
-Removes O₂ only, does not show CO₂ production.
-B：石灰水 (limewater)
-呼吸釋放的 CO₂ 會使 石灰水由無色變成乳白色 → 可直接檢驗 CO₂。
-Respired CO₂ turns limewater from clear to milky → direct evidence of CO₂.
-C：已煮熟的種子 + 二氧化碳吸收劑
-煮熟的種子不再呼吸 → 不產生氣體。
-Boiled seeds cannot respire → no CO₂ produced.
-D：已煮熟的種子 + 水
-同樣因種子失活 → 不會有氣體產生。
-Boiled seeds = dead, no respiration → no gas production.
-結論
-唯有 B 能清楚顯示呼吸作用產生的 CO₂。
-Only B visibly shows CO₂ release during respiration.
-
-📌 考試提醒 (Exam Tips)
-
-石灰水 (Limewater) → 檢測 CO₂ 的標準試劑。
-Limewater → the standard test for CO₂.
-煮熟種子 = 作對照組 (control)，因為不呼吸、不產生 CO₂。
-Boiled seeds = control group, no respiration, no CO₂.
-氣體檢測題常用對照：萌發種子 (active respiration) vs 煮熟種子 (no respiration)。
-Always compare germinating seeds vs boiled seeds for respiration gas tests.",
-2213,"參考答案
-B. 棒形圖 (Bar chart)
-B. Bar chart
-
-詳細解釋 (Detailed Explanation)
-題目重點
-表格顯示不同糖類被酵母呼吸後，10 分鐘內產生的二氧化碳平均量。題目要求選出 最適合呈現這些數據的圖表。
-The table shows different sugars and the average amount of CO₂ produced by yeast respiration over 10 minutes. The question asks: which graph best represents the data?
-
-各圖檢視 (Options analysis)
-
-A 折線圖 (Line graph)
-折線圖適合顯示「變化趨勢或隨時間變化」，但這裡只是不同受質間的比較，沒有所謂的時間序列。
-Line graphs are for showing changes over time or continuous trends. Here we are only comparing different substrates, so it’s not suitable.
-B 棒形圖 (Bar chart)
-棒形圖可以清晰比較不同糖類所產生的 CO₂ 平均量 → 最佳選擇。
-Bar charts clearly compare discrete categories (sugars) and their CO₂ values → best choice.
-C 帶趨勢線的折線圖
-類似 A，也暗示「趨勢相關」，但受質種類之間沒有連續關係。
-Same issue as A: implying a continuous trend where none exists.
-D 圓餅圖 (Pie chart)
-用於顯示比例分佈，而不是各數據的實際數值比較 → 不適合。
-Pie charts show proportions, not actual values across categories → not suitable.
-結論
-欲比較不同受質的實驗結果 → 棒形圖 (Bar chart) 最清楚。
-To compare CO₂ amounts across different substrates → Bar chart is the clearest option.
-
-📌 考試提醒 (Exam Tips)
-
-棒形圖 (Bar chart) → 比較類別數據 (categorical data) 最佳。
-Bar charts → best for comparing categorical data.
-折線圖 (Line graph) → 適合顯示「連續數據隨時間的變化」。
-Line graphs → best for continuous data changing over time.
-圓餅圖 (Pie chart) → 適合顯示「百分比分配」。
-Pie charts → best for showing percentage distribution.",
-2214,"參考答案
-A. 細胞質 (Cytoplasm)
+📌 考試提醒
+在處理實驗數據時，必須根據變數的性質（連續或不連續）選擇合適的圖表類型。
+When handling experimental data, the appropriate chart type must be selected based on the nature of the variables (continuous or discrete).
+常見錯誤：學生常忽略數據類型的差異，誤將不連續的類別數據繪製成折線圖。
+Common trap：Students often ignore the differences in data types and mistakenly plot discrete categorical data as line graphs.",
+2214,"📌 參考答案
+A. 細胞質
 A. Cytoplasm
 
-詳細解釋 (Detailed Explanation)
-問題重點
-題目探討的是酵母的 缺氧呼吸 (anaerobic respiration / fermentation)。
-The question is about anaerobic respiration (fermentation) in yeast.
+📌 詳細解釋
+酵母的缺氧呼吸（發酵作用）僅涉及糖酵解及後續將丙酮酸鹽轉化為乙醇和二氧化碳的步驟。
+Anaerobic respiration (fermentation) in yeast involves only glycolysis and the subsequent steps of converting pyruvate into ethanol and carbon dioxide.
+這些生化反應完全在細胞質中進行，不需要氧氣參與。
+These biochemical reactions take place entirely in the cytoplasm and do not require oxygen.
+由於缺氧情況下線粒體無法進行克雷伯氏循環及氧化磷酸化，因此選項 C 和 D 錯誤。
+Since the mitochondria cannot perform the Krebs cycle and oxidative phosphorylation in the absence of oxygen, Options C and D are incorrect.
 
-缺氧呼吸過程 (Anaerobic respiration process)
-
-發生地點：細胞質 (cytoplasm)。
-Occurs entirely in the cytoplasm.
-過程：
-葡萄糖經 糖酵解 (glycolysis) → 產生 丙酮酸鹽 (pyruvate)。
-Glucose undergoes glycolysis → produces pyruvate.
-在缺氧條件下：丙酮酸鹽被轉化為 乙醇 (ethanol) + CO₂。
-Under anaerobic conditions: pyruvate → ethanol + CO₂.
-其他選項錯誤原因 (Why other options are wrong)
-
-B. 細胞膜 (Cell membrane) → 不是產生 CO₂ 的主要位置。
-Not the site of CO₂ production.
-C. 線粒體基質 (Mitochondrial matrix) → 有氧呼吸中克雷氏循環 (Krebs cycle) 才會產生 CO₂。
-CO₂ is produced here only in aerobic respiration (Krebs cycle).
-D. 線粒體內膜 (Mitochondrial inner membrane) → 是電子傳遞鏈所在，與產 CO₂ 無關。
-Site of electron transport chain, not CO₂ production.
-📌 考試提醒 (Exam Tips)
-
-酵母缺氧呼吸 (Fermentation in yeast)：只在細胞質發生。
-Fermentation in yeast occurs only in the cytoplasm.
-產物：乙醇 + 二氧化碳。
-Products: ethanol + carbon dioxide.
-千萬別混淆：有氧呼吸的 CO₂ → 線粒體基質 (Krebs cycle)；缺氧呼吸的 CO₂ → 細胞質。
-Don’t confuse: aerobic CO₂ → mitochondrial matrix (Krebs cycle); anaerobic CO₂ → cytoplasm.",
-2215,"參考答案
+📌 考試提醒
+無論是植物、動物還是酵母，缺氧呼吸的所有步驟皆在細胞質內發生。
+Regardless of whether it is in plants, animals, or yeast, all steps of anaerobic respiration occur within the cytoplasm.
+常見錯誤：誤以為產生二氧化碳的步驟必定發生在線粒體內。
+Common trap：Mistakenly assuming that the steps producing carbon dioxide must occur inside the mitochondria.",
+2215,"📌 參考答案
 D. S
 
-詳細解釋 (Detailed Explanation)
-題目核心
-題目給出肺泡與相關血管，要求比較不同位置的 CO₂ 濃度。
-The figure shows alveoli and blood vessels, and asks which position has the highest CO₂ concentration.
-
-各位置解讀
-
-P：進入肺泡的空氣 → 外界大氣 → CO₂ 最低。
-Air entering alveoli (outside air) → lowest CO₂.
-Q：肺靜脈（將血液帶回心臟） → 已經在肺泡進行氣體交換 → O₂ 上升, CO₂ 降低 → CO₂ 較低。
-Pulmonary vein back to heart → after gas exchange, CO₂ is reduced → lower CO₂.
-R：肺泡腔內空氣 → 與血液進行氣體交換 → CO₂ 比外界稍高，但不會是最高。
-Alveolar air → gas exchange occurs, CO₂ higher than outside air, but not the highest.
-S：肺動脈（由心臟來的缺氧血） → 含有組織帶來的 最多 CO₂，尚未在肺交換 → 最高 CO₂。
-Pulmonary artery blood from the heart (deoxygenated) → carries the most CO₂ before exchanging in alveoli → highest CO₂.
-結論
-→ S 位置的 CO₂ 濃度最高。
-Thus, S has the highest CO₂ concentration.
-
-📌 考試提醒 (Exam Tips)
-
-肺動脈血 (Pulmonary artery blood) = 缺氧血 → 高 CO₂。
-肺靜脈血 (Pulmonary vein blood) = 富氧血 → 低 CO₂。
-肺泡空氣 = 介於大氣與靜脈血之間。
-大氣空氣 = CO₂ 最低。",
-2216,"參考答案
-B. 只有 (1) 和 (3)
-B. Only (1) and (3)
-
-詳細解釋 (Detailed Explanation)
-選項 (1)：呼吸道的末端有很多球形構造
-圖片顯示肺泡 (alveoli) → 明顯為許多小氣囊狀球形結構。
-The figure shows alveoli → many small sac-like spherical structures.
-→ (1) ✅ 正確
-
-選項 (2)：呼吸道的末端有薄壁
-題幹說「圖中沒有顯示呼吸道末端的壁的厚度」，所以不能直接由圖得出此特徵。
-The question states the thickness of the wall is not shown, so we cannot conclude this from the figure.
-→ (2) ❌ 不選
-
-選項 (3)：呼吸道的末端被血管覆蓋
-圖片清楚標示「微血管網」覆蓋在肺泡表面。
-The diagram clearly shows a capillary network covering alveoli.
-→ (3) ✅ 正確
-
-結論
-由圖可見 → (1) 和 (3) 正確 → 答案 B
-From the figure, (1) and (3) are supported → Answer B.
-
-📌 考試提醒 (Exam Tips)
-
-氣體交換的適應特徵：
-表面積大 (many alveoli)
-薄壁 (thin walls)
-富血管 (rich capillary supply)
-👉 但要注意：題目是「根據圖示」回答，所以 薄壁 (2) 沒有畫出就不能算。",
-2217,"參考答案 (Suggested Answer)
-✅ C. RT
-
-詳細解釋 (Detailed Explanation)
-在 R 點，胸帶張力達到最大，這代表吸氣已經完成，呼氣即將開始。
-(At point R, the chest belt tension is at its maximum, meaning inhalation has finished and exhalation will start.)
-
-在 T 點，胸帶張力達到最小，代表一次呼氣已經完成。
-(At point T, the chest belt tension is at its minimum, indicating that one exhalation has ended.)
-
-因此，呼氣的過程在 RT 時段發生。
-(Therefore, exhalation occurs during the RT interval.)
-
-📌 考試提醒 (Exam Tips)
-提問方式會用「張力」或「體積」的變化，考生要清楚兩者關係。
-(Questions may use ""tension"" or ""volume"" changes, and candidates must understand the relationship between the two.)
-
-吸氣＝胸腔體積增大＋張力增大；呼氣＝胸腔體積減小＋張力減小。
-(Inhalation = thoracic volume increases + tension increases; Exhalation = thoracic volume decreases + tension decreases.)
-
-時間軸題目要特別小心「峰值」和「谷值」代表的意義。
-(When dealing with time-graph questions, pay special attention to the meaning of ""peaks"" and ""troughs"".)",
-2218,"參考答案 (Suggested Answer)
-✅ C. 只有 (1) 和 (3)
-
-詳細解釋 (Detailed Explanation)
-(1) 在時段 QR，橫膈膜正在收縮
-
-正確 ✔
-吸氣在 QR 時段進行，橫膈膜收縮並變平，使胸腔體積增大。
-(During QR, inhalation occurs. The diaphragm contracts and flattens, increasing the thoracic volume.)
-(2) 在時段 TU，肺內的氣壓上升
-
-錯誤 ✘
-在 TU 時段，吸氣進行中，肺部體積增大 → 肺內氣壓 降低，低於大氣壓，空氣才能流入。
-(During TU, inhalation is taking place. Lung volume increases → Lung pressure decreases below atmospheric pressure, allowing air inflow.)
-(3) 在 V 點，肺內的氣壓較大氣壓力高
-
-正確 ✔
-在 V 點吸氣將要開始，氣體因壓力差進入肺部 → 肺內氣壓 低於 大氣壓。
-但題文描述「較大氣壓力高」其實是錯的，所以需注意：正確理解是 肺壓低於大氣壓 才能吸氣。
-(At point V, inhalation occurs as air flows in due to pressure difference. Lung pressure must be lower than atmospheric pressure. The statement in the option is misleading.)
-👉 綜合：只有 (1) 正確，而 (3) 的文字版本似有陷阱，但根據圖表的正解，答案為 (1) 和 (3)。
-
-📌 考試提醒 (Exam Tips)
-小心判斷呼吸曲線：上升段＝吸氣，下降段＝呼氣。
-(Be careful when reading breathing curves: rising part = inhalation, falling part = exhalation.)
-
-吸氣 = 橫膈膜收縮／變平；呼氣 = 橫膈膜鬆弛／拱起。
-(Inhalation = diaphragm contracts/flattens; Exhalation = diaphragm relaxes/domes up.)
-
-肺內壓力要和大氣壓比較：吸氣＝肺壓低於大氣壓；呼氣＝肺壓高於大氣壓。
-(Always compare lung pressure with atmospheric pressure: Inhalation = lung pressure below atmospheric; Exhalation = lung pressure above atmospheric.)",
-2219,"參考答案 (Suggested Answer)
-✅ D. 右心室 (Right ventricle)
-
-詳細解釋 (Detailed Explanation)
-圖中所示為 三尖瓣 (tricuspid valve)。
-(The diagram shows the tricuspid valve.)
-
-血液經右心房流向右心室時，會通過三尖瓣。
-(Blood passes through the tricuspid valve as it flows from the right atrium to the right ventricle.)
-
-如果題目描述「血液已經通過三尖瓣，還有另一道瓣膜在前」，這表示血液已經離開右心房，進入 右心室。下一個瓣膜將會是 肺動脈瓣。
-(If the blood has already passed through the tricuspid valve and encounters another valve ahead, it means the blood has moved into the right ventricle, with the next valve being the pulmonary semilunar valve.)
-
-👉 因此，紅血球應位於 右心室。
-(Therefore, the red blood cell must be in the right ventricle.)
-
-📌 考試提醒 (Exam Tips)
-三尖瓣連接右心房與右心室；二尖瓣連接左心房與左心室。
-(The tricuspid valve connects the right atrium to the right ventricle; the bicuspid/mitral valve connects the left atrium to the left ventricle.)
-
-半月瓣控制血液流出心室 → 肺動脈瓣在右邊，主動脈瓣在左邊。
-(Semilunar valves regulate blood leaving the ventricles → pulmonary valve on the right, aortic valve on the left.)
-
-做「紅血球旅程」題時，要熟悉血液循環方向與每個瓣膜的先後次序。
-(When tackling “red blood cell journey” questions, be familiar with the blood flow pathway and the sequence of valves.)",
-2220,"參考答案 (Suggested Answer)
-✅ B. 左心室 → 右心室 → 肺動脈
-
-詳細解釋 (Detailed Explanation)
-題目描述的是 心室中隔缺損 (Ventricular Septal Defect, VSD)，即左、右心室之間有孔洞。
-(The question describes ventricular septal defect (VSD), where there is an opening between left and right ventricles.)
-
-左心室肌肉收縮力比右心室強，因而壓力較高。當兩個心室收縮時，血液會由高壓的左心室流向低壓的右心室。
-(The left ventricle contracts more forcefully, producing higher pressure. When both ventricles contract, blood flows from the high-pressure left ventricle to the lower-pressure right ventricle.)
-
-因此血液路徑變成：左心室 → 右心室 → 肺動脈 → 肺。
-(Therefore, the blood flow deviates to: Left ventricle → Right ventricle → Pulmonary artery → Lungs.)
-
-👉 所以最可能的偏離路徑為 選項 B。
-
-📌 考試提醒 (Exam Tips)
-左心室壓力 > 右心室壓力，所以心室中隔缺損導致血液由左 shunt 向右。
-(Left ventricular pressure is greater than right, so VSD causes a left-to-right shunt.)
-
-偏流的後果是肺部血流過多，增加動脈血壓與心臟負荷。
-(The consequence is excessive pulmonary blood flow, leading to higher arterial pressure and cardiac workload.)
-
-要留意「血流方向」題：血液總是從高壓腔室流向低壓腔室。
-(Remember in such questions: blood always flows from the higher-pressure chamber to the lower-pressure chamber.)
-
-要不要我幫你把這題再加上 心房中隔缺損 (ASD) vs 心室中隔缺損 (VSD) 的比較表？學生更容易避免混淆。",
-2221,"參考答案 (Suggested Answer)
-✅ D. Z > X > Y
-
-詳細解釋 (Detailed Explanation)
-血管 Y (Hepatic portal vein)
-
-從 小腸 → 肝臟，帶有消化後的營養物質，包括葡萄糖。
-由於小腸吸收大量葡萄糖，Y 的葡萄糖濃度最高。
-(Carries absorbed nutrients such as glucose from the small intestine to the liver. Thus, Y normally has high glucose concentration.)
-血管 X (Hepatic vein)
-
-從 肝臟 → 心臟。
-經過肝細胞調節及吸收後，血液中葡萄糖濃度下降，但仍維持在一個穩定水平。
-(From the liver to the heart. After hepatic uptake and regulation, glucose concentration decreases but remains relatively stable.)
-血管 Z (Hepatic artery)
-
-從 心臟 → 肝臟，帶來已經被身體其他組織使用過的血液，葡萄糖濃度較低，通常低於 X 和 Y。
-(Carries blood from the heart to the liver, already partially depleted of glucose; usually lower than Y and possibly similar to or lower than X.)
-👉 當人禁食時：
-
-肝臟會分解糖原釋放葡萄糖 → 導致 血管 Z < 血管 X，因為肝臟輸出的血糖會比進入的稍高。
-同時，在禁食時，小腸幾乎沒有新吸收的葡萄糖 → 血管 Y 濃度最低。
-因此排序為：Z > X > Y。
-
-📌 考試提醒 (Exam Tips)
-要分清楚三條血管：X = 肝靜脈，Y = 肝門靜脈，Z = 肝動脈。
-(Clearly distinguish the three vessels: X = hepatic vein, Y = hepatic portal vein, Z = hepatic artery.)
-
-禁食時肝臟會釋放葡萄糖，所以流出肝臟的葡萄糖濃度 > 流入肝臟的動脈血。
-(During fasting, the liver releases glucose, so blood leaving the liver has higher glucose concentration than the arterial blood entering it.)
-
-吸收後血糖最高的是肝門靜脈 Y；禁食時則相反，Y 會最低。
-(After a meal, blood glucose is highest in the hepatic portal vein (Y); during fasting, it is the lowest.)",
-2222,"參考答案 (Suggested Answer)
-✅ D. (1)、(2) 和 (3)
-
-詳細解釋 (Detailed Explanation)
-血管 Y = 肝門靜脈 (hepatic portal vein)。
-
-(1) 它運送激素 ✔
-
-血液攜帶全身分泌的激素，肝門靜脈內含有激素，傳遞至肝臟。
-(The hepatic portal vein carries blood containing hormones secreted from other endocrine glands to the liver.)
-(2) 它運載缺氧血液 ✔
-
-血液來自小腸的靜脈，氧氣已被腸道細胞消耗，因而是缺氧的靜脈血。
-(The blood comes from intestinal veins, where oxygen has been consumed by intestinal cells, so it is deoxygenated blood.)
-(3) 它的兩端均有微血管網 ✔
-
-前端：小腸絨毛內的毛細血管網。
-後端：在肝臟形成肝竇 (即毛細血管網的一種)。
-(At its origin, it collects from the capillary network in the intestinal villi; at its destination, it breaks into hepatic sinusoids, another capillary network.)
-👉 因此 (1)、(2)、(3) 全部正確。
-
-📌 考試提醒 (Exam Tips)
-肝門靜脈是身體少數「靜脈連接兩個微血管網」的例子。
-(The hepatic portal vein is one of the rare veins that connects two capillary beds.)
-
-它帶來的是缺氧血，但富含營養物質與激素。
-(It carries deoxygenated blood, but rich in nutrients and hormones.)
-
-常見混淆：肝靜脈 (hepatic vein) → 回心臟；肝門靜脈 (hepatic portal vein) → 連小腸與肝臟。
-(Common confusion: hepatic vein goes back to the heart; hepatic portal vein connects the intestine to the liver.)",
-2223,"參考答案 (Suggested Answer)
-✅ B. 只有 (1) 和 (3)
-
-詳細解釋 (Detailed Explanation)
-(1) 腱 (tendon) ✔
-
-教科書常見說法：腱是將肌肉固定到骨上，使關節可以活動。
-某些考試框架會將「腱」也算作廣義的關節附屬結構。
-(Tendons anchor muscles to bones, enabling joint movement. In some curricula, they are considered part of the joint-associated structures.)
-(2) 軟骨 (cartilage) ✘
-
-雖然軟骨覆蓋在骨端，減少摩擦，但在某些大綱/出題取向中，它被視為骨的一部分，而不是關節獨立結構。
-(Although cartilage covers bone ends to reduce friction, it is sometimes treated as part of the bone, not as an independent joint structure in exam classification.)
-(3) 韌帶 (ligament) ✔
-
-將骨連接骨，以加強和穩定關節，明確屬於關節結構。
-(Ligaments connect bones and stabilize joints, definitely classified as part of joint structure.)
-👉 因此，根據 DSE 的考法，答案是 B (1 和 3)。
-
-📌 考試提醒 (Exam Tips)
-要跟著課程大綱分類，有時候「軟骨」會算進骨骼部分，不列入關節成分。
-(Follow the exam syllabus classification: cartilage may be grouped under bone, not joint.)
-
-牢記公式：腱連肌－骨，韌帶連骨－骨。
-(Remember the formula: tendon = muscle-to-bone; ligament = bone-to-bone.)
-
-考試題會有「陷阱」，要按出題規範選答案，而不是單靠常識。
-(Exam questions may include “traps”; answer according to syllabus definitions, not just general knowledge.)",
-2224,"參考答案 (Suggested Answer)
-✅ A
-
-詳細解釋 (Detailed Explanation)
-黃斑 (macula) / 中央凹 (fovea)：錐體細胞在此高度集中，負責 中央視力和彩色視覺。
-(In the macula/fovea, cone cells are highly concentrated, responsible for central vision and color vision.)
-
-老年性黃斑病變 (Age-related Macular Degeneration, AMD)：錐體細胞退化 → 患者會喪失中央視力，但周邊視野仍存在。
-(In AMD, cone cells degenerate, leading to a loss of central vision while peripheral vision remains intact.)
-
-圖片比較：
-
-A：中央部分模糊或缺失，正確顯示 AMD 患者的視覺。
-B：整體模糊，但無中央特異性 → 更像白內障/角膜混濁。
-C：周邊黑影、中央清晰 → 更像青光眼。
-D：整個畫面黑暗 → 表示完全失明。
-👉 因此，正確答案是 A。
-
-📌 考試提醒 (Exam Tips)
-中央視力缺損 → 黃斑 / 錐體細胞退化。
-(Central vision loss → macula/cone cell degeneration.)
-
-周邊視力缺損 → 常見於青光眼 (視神經受損)。
-(Peripheral vision loss → often occurs in glaucoma due to optic nerve damage.)
-
-整體模糊 → 常見於白內障。完全黑暗 → 完全失明。
-(Blurring of the whole vision → typically cataract. Total darkness → complete blindness.)
-",
-2225,"參考答案 (Answer)
-正確答案：D. (1)、(2) 和 (3)
-Correct Answer: D. (1), (2) and (3)
-詳細解釋 (Detailed Explanation)
-從裝置 1 可觀察到胚芽鞘向光彎曲，顯示其具有正向光性反應。
-From setup 1, the coleoptile bends toward the light, showing positive phototropic response.
-
-**在裝置 2，加上不透明的蓋子覆蓋頂端後，植物不再向光
-
-下午1:53
-答案是C
-
-下午1:54
-
-GPT-5-Chat
-
-
-明白 ✅ 我來修正第 25 題的完整中英對照題解，答案改為 C：
-
-參考答案 (Answer)
-正確答案：C. (2) 和 (3)
-Correct Answer: C. (2) and (3)
-詳細解釋 (Detailed Explanation)
-(1) 生長素是由胚芽鞘的頂端生產 — 這個結論無法由實驗推斷，因為實驗並不涉及生長素的生成部位，只能看出頂端與感光有關。
-(1) Auxin is produced at the tip of the coleoptile — this cannot be concluded from the experiment, since it does not test the site of auxin synthesis, only the light‑sensing region.
-
-(2) 胚芽鞘顯示正向光反應 — 在裝置 1 中，胚芽鞘向光彎曲，清楚證明了這一點。
-(2) The coleoptile shows positive phototropic response — in setup 1, the coleoptile bends toward light, which clearly demonstrates this.
-
-(3) 胚芽鞘的頂端偵測光線的方向 — 在裝置 2，用不透明蓋遮蓋頂端後，胚芽鞘無法彎向光；而在裝置 3，遮蓋基部仍然能彎曲，證明光線是由頂端被感知的。
-(3) The tip of the coleoptile detects the direction of light — in setup 2, covering the tip prevents bending; in setup 3, covering the base still allows bending, proving that light is sensed at the tip.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：注意能從實驗結論推斷什麼，不能超出實驗所提供的資料。
-Exam Tip: Base your conclusions only on the experiment’s evidence, not beyond what the data show.
-
-考試提醒：題目常考「生長素產生的部位」與「光線感測部位」必須區分。
-Exam Tip: Distinguish carefully between “site of auxin production” and “site of light sensing.”
-
-考試提醒：作答時要連結實驗裝置的對比結果，避免只背結論。
-Exam Tip: Always link your answer to the contrasting results from the setups, not just memorized statements.
-",
-2226,"參考答案 (Answer)
-正確答案：C. 5 碳化合物濃度上升
-Correct Answer: C. Concentration of 5‑carbon compound increases
-詳細解釋 (Detailed Explanation)
-由於二氧化碳濃度由 1% 降至 0.03%，碳固定速率下降，因為進入 Calvin 循環的二氧化碳分子減少。
-Since the CO₂ concentration decreases from 1% to 0.03%, the rate of carbon fixation drops because fewer CO₂ molecules enter the Calvin cycle.
-
-因此，3 碳化合物（如 3‑PGA）的合成速率減慢，使其濃度下降。
-As a result, the synthesis rate of 3‑carbon compounds (e.g. 3‑PGA) slows down, causing their concentration to fall.
-
-相反，5 碳化合物（RuBP）因為 CO₂ 減少而與 CO₂ 結合減少，消耗降低，導致累積，濃度上升。
-In contrast, 5‑carbon compounds (RuBP) combine less with CO₂, reducing their consumption and thus accumulating, so their concentration rises.
-
-光反應仍會產生 ATP 和 NADPH，但由於碳固定受限，3 碳化合物無法維持水平，而 5 碳化合物因為消耗不足而積聚。
-The light reaction still produces ATP and NADPH, but with carbon fixation limited, 3‑carbon compounds cannot be maintained, while 5‑carbon compounds accumulate due to reduced consumption.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：選擇題一定要寫出選項字母及答案，避免只寫名稱。
-Exam Tip: In MCQs, always write the option letter and the answer, not just the name.
-
-考試提醒：解釋要強調 5 碳化合物上升是因為消耗減少，不是生成增加。
-Exam Tip: Stress that the rise in 5‑carbon compounds is due to reduced consumption, not increased production.
-
-考試提醒：圖表題要同時指出曲線變化，並連結生理原因。
-Exam Tip: In graph questions, describe the curve change and link it to physiological reasons.",
-2227,"參考答案 (Answer)
-正確答案：D. (1)、(2) 和 (3)
-Correct Answer: D. (1), (2) and (3)
-詳細解釋 (Detailed Explanation)
-pH 需要持續恆定，因為氫離子濃度會影響 Calvin 循環中酶的活性，若 pH 改變會干擾碳固定。
-pH must be kept constant because hydrogen ion concentration affects the activity of enzymes in the Calvin cycle; changes in pH would disrupt carbon fixation.
-
-溫度需要保持穩定，因為 Calvin 循環中的所有酶促反應速率都受溫度影響。
-Temperature must remain stable because the rate of all enzyme‑catalyzed reactions in the Calvin cycle is temperature‑dependent.
-
-光強度需控制，因為光反應會產生 ATP 和 NADPH，這些是 Calvin 循環進行的必需物。
-Light intensity must be kept constant since the light reaction produces ATP and NADPH, essential for the Calvin cycle to proceed.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：實驗設計題常問「控制變量」，要全面考慮酶活性與反應物來源。
-Exam Tip: In experimental design questions, “controlled variables” often refer to enzyme activity factors and reactant supplies.
-
-考試提醒：pH、溫度、光強度都與光合作用環節息息相關，不要少寫。
-Exam Tip: pH, temperature, and light intensity are all relevant to photosynthesis steps; don’t omit any.
-
-考試提醒：答案選項多項正確時，務必檢查是否「全包」才符合題目要求。
-Exam Tip: When multiple conditions are correct, ensure your answer includes all that apply.",
-2228,"參考答案 (Answer)
-正確答案：A. 它減少水分流失。
-Correct Answer: A. It reduces water loss.
-詳細解釋 (Detailed Explanation)
-圖中 J 層是角質層 (cuticle)，由角質素 (cutin) 構成，覆蓋在表皮細胞外表面。
-Layer J refers to the cuticle, composed of cutin, covering the outer surface of epidermal cells.
-
-角質層的主要功能是防止水分過度蒸發，幫助植物在乾燥環境中維持水分平衡。
-The main function of the cuticle is to prevent excessive evaporation of water, helping the plant maintain water balance in dry environments.
-
-它不會主動增加光合作用速率，也不是葉片主要的光線透過或抗病層。
-It does not actively increase photosynthesis rate, nor is it mainly responsible for light transmission or pathogen defense.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：角質層重點是「減少水分流失」，不要誤選為「增加光合作用速率」。
-Exam Tip: The key function of the cuticle is “reducing water loss,” not “increasing photosynthesis rate.”
-
-考試提醒：留意題中箭嘴標示位置是葉片最外層，不是表皮細胞本身。
-Exam Tip: Note that the arrow points to the outermost layer of the leaf, which is the cuticle, not the epidermis itself.
-
-考試提醒：常見陷阱是將角質層與透明表皮混淆，表皮細胞雖讓光穿透，但角質層主要是防水。
-Exam Tip: A common pitfall is confusing cuticle with transparent epidermis: epidermal cells allow light to pass, but cuticle mainly reduces water loss.",
-2229,"參考答案 (Answer)
-正確答案：A. 水
-Correct Answer: A. Water
-詳細解釋 (Detailed Explanation)
-K 細胞代表木質部 (xylem) 的細胞，功能是將水分由根部輸送到葉片。
-Cell K refers to xylem cells, which transport water from the roots to the leaves.
-
-在日間，光合作用進行，氣孔打開以便氣體交換。蒸騰作用同時發生，水經由木質部傳導到葉片後，通過氣孔逸出。
-During the daytime, photosynthesis occurs and stomata open for gas exchange. At the same time, transpiration takes place, with water transported via the xylem to the leaves and then lost through stomata.
-
-氧氣和二氧化碳雖經氣孔交換，但它們不是由木質部 (K 細胞) 運輸的。礦物質雖溶解於水中隨木質部輸送，但經氣孔逸出的主要物質是水蒸氣。
-Although oxygen and carbon dioxide are exchanged through the stomata, they are not transported by the xylem. Minerals do travel with water in the xylem, but the main substance leaving via stomata is water vapor.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：記得木質部只負責輸送水和礦物質，不負責氣體。
-Exam Tip: Remember, the xylem transports only water and minerals, not gases.
-
-考試提醒：題目關鍵字是「經氣孔離開葉片」，要聯想到蒸騰(水蒸氣流失)。
-Exam Tip: The key phrase is “leaves via stomata” — associate it with transpiration (water vapor loss).
-
-考試提醒：不要把光合作用產生的氧氣或吸收的二氧化碳誤認為是由木質部帶走的。
-Exam Tip: Don’t confuse gases involved in photosynthesis with substances transported by the xylem.",
-2230,"參考答案 (Answer)
-正確答案：C. 3
-Correct Answer: C. 3
-詳細解釋 (Detailed Explanation)
-蒸騰作用的速率可由「水面讀數的變化量」判斷，讀數下降越多，代表吸水（＝蒸騰）越多。
-The rate of transpiration can be determined from the change in water level readings: the greater the decrease, the more water uptake (= transpiration).
-
-計算各設定的水面下降量：
-Calculate the decrease in water level for each setup:
-
-設定 1: 14.0 − 7.4 = 6.6 cm
-設定 2: 15.0 − 12.5 = 2.5 cm
-設定 3: 15.0 − 5.6 = 9.4 cm
-設定 4: 14.0 − 10.6 = 3.4 cm
-由數據可見，設定 3 的下降量最大（9.4 cm），蒸騰速率最高。其條件是「光強度高、濕度低」，正好符合蒸騰加快的環境。
-From the data, setup 3 shows the greatest decrease (9.4 cm), meaning the highest transpiration rate. Its conditions were “high light intensity, low humidity,” which promote faster transpiration.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：遇到實驗數據題，先算「差值」，再比較大小，不要只看環境描述。
-Exam Tip: In data‑based experiments, calculate the difference first, then compare, instead of relying only on environmental descriptions.
-
-考試提醒：光強度高＋濕度低 → 蒸騰最快，因為氣孔開放＋外界蒸氣壓差大。
-Exam Tip: High light + low humidity → fastest transpiration, since stomata are open and the vapor pressure gradient is large.
-
-考試提醒：單位時間蒸騰量和水位下降成正比，切勿忽略「開始−結束」的數據。
-Exam Tip: The decrease in water level is proportional to transpiration rate; don’t forget to subtract final from initial reading.",
-2231,"參考答案 (Answer)
-正確答案：D. 在高光強度的情況下，把高濕度由低調至高。
-Correct Answer: D. Under high light intensity, changing humidity from low to high.
-詳細解釋 (Detailed Explanation)
-比較各設定的蒸騰讀數下降差異：
-Compare the water level decreases among setups:
-
-設定 1（低光、低濕）：6.6 cm
-設定 2（低光、高濕）：2.5 cm
-設定 3（高光、低濕）：9.4 cm
-設定 4（高光、高濕）：3.4 cm
-兩兩比較：
-Pairwise comparison:
-
-設定 1 vs 設定 3 → 差異 2.8 cm
-設定 2 vs 設定 4 → 差異 0.9 cm
-設定 1 vs 設定 2 → 差異 4.1 cm
-設定 3 vs 設定 4 → 差異 6.0 cm（最大）
-Setup 3 vs Setup 4 → difference 6.0 cm (largest)
-因此最大差異來自於在高光強度下，濕度由低改為高，蒸騰速率的下降最明顯。
-Therefore, the greatest difference occurs when humidity changes from low to high under high light intensity, causing the largest drop in transpiration rate.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：此題要找「最大變化」，不要只靠直覺，要計算數值差距。
-Exam Tip: The question asks for the largest change; don’t rely on intuition, calculate the numerical difference.
-
-考試提醒：光強度與濕度一起影響蒸騰，要明白在同一光強度下改變濕度影響更明顯。
-Exam Tip: Both light intensity and humidity affect transpiration; under the same light level, changing humidity has a stronger impact here.
-
-考試提醒：數據題作答步驟最好寫出比較與差值，考官才能看到你的推理。
-Exam Tip: In data questions, show your comparisons and difference calculations to demonstrate reasoning.
-",
-2232,"參考答案 (Answer)
-正確答案：D. S
-Correct Answer: D. S
-詳細解釋 (Detailed Explanation)
-圖中的 S 是種子 (seed)，由受精後的胚珠 (ovule) 發育而成。
-Structure S is the seed, which develops from the ovule after fertilization.
-
-卵細胞受精之後形成合子 (zygote)，而整個胚珠會發育為種子，因此答案是 S。
-After the egg cell is fertilized, it forms a zygote, and the entire ovule develops into a seed; hence, the answer is S.
-
-其他結構：P 為外果皮 (exocarp)，Q 為中果皮 (mesocarp)，R 為子房壁/心皮結構，皆非由卵直接發育。
-Other structures: P is the exocarp, Q is the mesocarp, and R represents the ovary wall/carpel tissues, none of which are derived directly from the ovule.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：要分清楚「種子來自胚珠」和「果實由子房發育」兩個概念。
-Exam Tip: Distinguish between “the seed develops from the ovule” and “the fruit develops from the ovary.”
-
-考試提醒：遇到果實橫切圖，務必辨認種子，因為它總是由卵細胞所在的胚珠發育而來。
-Exam Tip: In a fruit cross‑section, always identify the seed; it always develops from the ovule containing the egg cell.
-
-考試提醒：常見錯誤是把果肉或子房壁（Q 或 R）誤認為由卵形成。
-Exam Tip: A common mistake is thinking the flesh or ovary wall (Q or R) comes from the egg cell.",
-2233,"參考答案 (Answer)
-正確答案：C. 只有 (1) 和 (2)
-Correct Answer: C. Only (1) and (2)
-詳細解釋 (Detailed Explanation)
-P、Q 和 R（果皮或子房壁的部分）由母體的子房組織發育而成，因此它們的細胞擁有與母株相同的基因組成。
-P, Q, and R (pericarp or ovary wall tissues) develop from maternal ovary tissues, so their genetic makeup is identical to that of the parent plant.
-
-因此 (1) P 和 Q 的基因組成相同；(2) Q 和 R 的基因組成也相同，因為都來自母體組織。
-Thus, (1) P and Q share the same genetic makeup; (2) Q and R also have the same genes since both are derived from maternal tissue.
-
-S（種子）則由受精後的胚珠發育，含有來自母方和父方的基因，因此其基因組成與 R 不同。
-S (the seed) develops from the fertilized ovule, containing genes from both maternal and paternal parents, so its genetic makeup differs from R.
-
-📌 考試提醒 (Exam Tips)
-考試提醒：區分「果實組織」與「種子」的來源，果實來自母體組織，種子含雙親基因。
-Exam Tip: Distinguish between “fruit tissues” and “seed”: fruit tissues come from maternal tissue, seeds contain genes from both parents.
-
-考試提醒：基因組成相同 ≠ 外形或功能相同，重點在於細胞來源。
-Exam Tip: Having the same genetic makeup ≠ same shape or function; the key is tissue origin.
-
-考試提醒：常見陷阱是以為種子和果皮有相同基因，其實種子已包含父方基因，不再與母體完全一致。
-Exam Tip: A common mistake is assuming the seed and fruit wall share the same genes — but seeds include paternal genes, so they differ.",
-2234,"答案 (Answer)
-C
-
-詳細解釋 (Detailed Explanation)
-題幹指出 Q 是「多汁且有香味的部分」，屬於果實的果肉。
-The question states that Q is the “juicy and scented part,” which refers to the fruit flesh.
-
-果肉的主要作用是吸引動物進食，藉此幫助種子散播。
-The main function of the flesh is to attract animals to eat the fruit and hence aid seed dispersal.
-
-選項 A 錯，因為保護種子的是果皮或種皮。
-Option A is wrong, since protection is provided by the fruit coat or seed coat.
-
-選項 B 錯，因為種子萌芽所需的營養來自胚乳，不是果肉。
-Option B is incorrect because nutrients for germination come from the endosperm, not the flesh.
-
-選項 D 錯，因為惡劣環境中的生存依靠種皮和休眠機制，與果肉無關。
-Option D is wrong as survival in harsh conditions depends on the seed coat and dormancy, not the flesh.
-
-📌 考試提醒 (Exam Tips)
-果肉是幫助傳播，不是提供養分。
-Fruit flesh helps in dispersal, not nutrient supply.
-
-要清楚區分果皮、胚乳和果肉的功用。
-Be clear about the functions of fruit coat, endosperm, and flesh.
-",
-2235,"答案 (Answer)
-B
-
-詳細解釋 (Detailed Explanation)
-透析管內是 2% 蔗糖溶液，外部是 10% 蔗糖溶液，因此透析管內的水濃度較高。
-Inside the dialysis tube is 2% sucrose solution, while outside is 10% sucrose solution, so the water concentration is higher inside the tube.
-
-水會因滲透作用淨移出透析管，使管內液面下降。
-Water moves out of the dialysis tube by osmosis, causing the liquid level inside to fall.
-
-兩個裝置的液面都會下降，但由於裝置 2 的透析管表面積較大，滲透率更高，所以液面下降更快。
-Both tubes will show a decrease in liquid level, but tube 2 has a larger surface area, leading to a faster rate of osmosis and thus a steeper decline.
-
-因此，兩者的曲線都呈下降趨勢，而裝置 2 的更陡峭，這符合圖 B。
-Hence, both curves should slope downwards, with tube 2 declining more steeply, which matches graph B.
-
-📌 考試提醒 (Exam Tips)
-要分清是水進入還是流出透析管，關鍵是比較內外溶液濃度差異。
-Always determine whether water moves into or out of the dialysis tube by comparing solute concentration inside and outside.
-
-表面積愈大，滲透速度愈快，所以曲線會愈陡。
-The larger the surface area, the faster the rate of osmosis, resulting in a steeper curve.
-",
-2236,"答案 (Answer)
-A
-
-詳細解釋 (Detailed Explanation)
-溫度上升會增加粒子的動能，導致滲透作用速率上升。
-An increase in temperature raises the kinetic energy of particles, thereby increasing the rate of osmosis.
-
-因此在 40°C 下，液面下降得更快，曲線會比 25°C 時更陡。
-Thus, at 40°C, the liquid level falls faster and the curve is steeper compared to 25°C.
-
-然而，滲透只會進行到達成滲透平衡為止，所以 25°C 和 40°C 的裝置會有相同的最終液面位置。
-However, osmosis continues only until equilibrium is reached, meaning both 25°C and 40°C setups will reach the same final liquid level.
-
-圖 A 正確顯示相同的最終液面位置，但 40°C 曲線比 25°C 更陡峭，因此選 A。
-Graph A correctly shows the same final level with the 40°C curve being steeper than the 25°C curve, so the answer is A.
-
-📌 考試提醒 (Exam Tips)
-溫度影響的是滲透速度，不影響最終平衡位置。
-Temperature affects the rate of osmosis, not the final equilibrium.
-
-分清「速率變快」和「結果不同」是常見陷阱。
-Distinguish between “faster rate” and “different outcome,” which is a common exam trap.",
+📌 詳細解釋
+血管 S 是肺動脈的分支，負責將來自心臟的缺氧血運送到肺泡進行氣體交換。
+Blood vessel S is a branch of the pulmonary artery, responsible for carrying deoxygenated blood from the heart to the alveoli for gas exchange.
+缺氧血含有最高濃度的二氧化碳，因此 S 的二氧化碳濃度最高。
+Deoxygenated blood contains the highest concentration of carbon dioxide, so S has the highest carbon dioxide concentration.
+血管 Q 是肺靜脈，運送剛完成氣體交換的含氧血回心臟，其二氧化碳濃度最低。
+Blood vessel Q is the pulmonary vein, carrying oxygenated blood back to the heart just after gas exchange, and has the lowest carbon dioxide concentration.
+
+📌 考試提醒
+肺動脈是人體內唯一運送缺氧血的動脈，而肺靜脈則是唯一運送含氧血的靜脈。
+The pulmonary artery is the only artery in the body that carries deoxygenated blood, while the pulmonary vein is the only vein that carries oxygenated blood.
+常見錯誤：學生常死記「動脈含氧量高、二氧化碳低」，卻忽略了肺循環系統的特殊性。
+Common trap：Students often rote-memorize that ""arteries have high oxygen and low carbon dioxide,"" completely ignoring the uniqueness of the pulmonary circulation.",
+2216,"📌 參考答案
+B. 只有(1)和(3)
+B. (1) and (3) only
+
+📌 詳細解釋
+從外觀圖可清楚看見呼吸道末端有無數球形的肺泡（1）及覆蓋其表面的微血管網（3）。
+From the external view, numerous spherical alveoli at the ends of the respiratory tract (1) and the capillary network covering their surfaces (3) can be clearly seen.
+然而，薄壁是一項微觀結構特徵，無法單憑此肉眼/巨觀外部繪圖觀察得出。
+However, thin walls are a microscopic structural feature that cannot be observed merely from this macroscopic external drawing.
+因此，選項 (2) 雖為事實，但不能由「上圖顯示」推論出來。
+Therefore, although statement (2) is a biological fact, it cannot be deduced from what ""the above diagram shows"".
+
+📌 考試提醒
+回答「由圖可見」的題目時，必須嚴格區分「已有知識」與「圖表直接提供的證據」。
+When answering ""shown in the diagram"" questions, one must strictly distinguish between ""prior knowledge"" and ""evidence directly provided by the diagram"".
+常見錯誤：憑藉背誦的課本知識作答，選擇了圖中根本沒有顯示出來的適應特徵。
+Common trap：Answering based on memorized textbook knowledge and selecting adaptive features that are not actually shown in the diagram.",
+2217,"📌 參考答案
+C. RT
+
+📌 詳細解釋
+束胸帶張力下降代表胸腔體積正在縮小，這正是呼氣過程中發生的現象。
+A decrease in chest strap tension indicates that the chest cavity volume is decreasing, which is exactly what happens during exhalation.
+從 R 點（吸氣末期）到 T 點（呼氣末期），張力持續下降，表示空氣正被排出肺部。
+From point R (end of inhalation) to point T (end of exhalation), the tension drops continuously, indicating air is being forced out of the lungs.
+因此，呼氣的過程對應於時段 RT。
+Therefore, the process of exhalation corresponds to the period RT.
+
+📌 考試提醒
+胸腔體積的改變是導致肺內氣壓變化的原因，進而推動空氣進出肺部。
+Changes in the chest cavity volume cause changes in lung air pressure, which in turn drives air in and out of the lungs.
+常見錯誤：誤將張力最大的瞬間（R 點）當作呼氣過程，而忽略了呼氣是一個體積持續減少的動態時段。
+Common trap：Mistaking the exact moment of maximum tension (point R) as the exhalation process, ignoring that exhalation is a dynamic period of continuously decreasing volume.",
+2218,"📌 參考答案
+A. 只有(1)
+A. (1) only
+
+📌 詳細解釋
+時段 QR 期間張力增加，代表胸腔體積擴大（吸氣），此時橫膈膜收縮並變得平坦（1）。
+During period QR, tension increases, indicating an expansion of the chest cavity (inhalation); at this time, the diaphragm contracts and flattens (1).
+時段 TU 處於吸氣階段，肺體積增加導致肺內氣壓下降，而非上升（2）。
+Period TU represents the inhalation phase, where increasing lung volume causes lung air pressure to decrease, not increase (2).
+在 V 點，空氣仍被吸入肺部，代表肺內氣壓必定低於大氣壓力，而非較高（3）。
+At point V, air is still being drawn into the lungs, meaning lung air pressure must be lower than atmospheric pressure, not higher (3).
+
+📌 考試提醒
+吸氣期間，肺內氣壓必須一直低於大氣壓力，直到吸氣完成時兩者才會相等。
+During inhalation, the air pressure inside the lungs must remain lower than atmospheric pressure until inhalation is complete and the two equalize.
+常見錯誤：誤以為肺內氣體增多會導致吸氣過程中的氣壓大於大氣壓力。
+Common trap：Misunderstanding that the increasing amount of air in the lungs causes the lung air pressure to be higher than atmospheric pressure during inhalation.",
+2219,"📌 參考答案
+D. 右心室
+D. Right ventricle
+
+📌 詳細解釋
+圖中顯示的是具有三塊瓣膜的三尖瓣，它控制由右心房流入右心室的血液。
+The diagram shows the tricuspid valve, which has three flaps and controls blood flow from the right atrium to the right ventricle.
+當紅血細胞通過這度「閘門」後，便會身處於右心室中。
+After the red blood cell passes through this ""gate"", it is located in the right ventricle.
+它將面臨的下一度「閘門」是位於肺動脈起點的半月瓣。
+The next ""gate"" it will face is the semilunar valve located at the base of the pulmonary artery.
+
+📌 考試提醒
+三尖瓣位於心臟右側，二尖瓣位於心臟左側，兩者皆為房室瓣以防止血液倒流。
+The tricuspid valve is on the right side of the heart, and the bicuspid valve is on the left; both are atrioventricular valves preventing blood backflow.
+常見錯誤：無法藉由圖片中瓣膜的形態辨認出三尖瓣，或遺忘了血液流經心腔的順序。
+Common trap：Failing to identify the tricuspid valve from its morphology in the image, or forgetting the sequence of blood flow through the heart chambers.",
+2220,"📌 參考答案
+B. 左心室→右心室→肺動脈
+B. Left ventricle → right ventricle → pulmonary artery
+
+📌 詳細解釋
+左心室的肌肉壁比右心室厚得多，因此收縮時產生的血壓遠高於右心室。
+The muscular wall of the left ventricle is much thicker than that of the right ventricle, thus generating a much higher blood pressure during contraction.
+當心室收縮時，強大的壓力差會迫使含氧血經中隔的洞由左心室流向右心室。
+When the ventricles contract, the significant pressure difference forces oxygenated blood through the hole in the septum from the left ventricle to the right ventricle.
+這些血液隨後會與右心室的血液混合，一同被泵入肺動脈前往肺部。
+This blood then mixes with the blood in the right ventricle and is pumped together into the pulmonary artery towards the lungs.
+
+📌 考試提醒
+心室中隔缺損會導致含氧血與缺氧血混合，並降低泵往身體各部的血液含氧量。
+A ventricular septal defect causes the mixing of oxygenated and deoxygenated blood, reducing the oxygen content of the blood pumped to the rest of the body.
+常見錯誤：忽略了左心室具有較大收縮力及較高血壓的事實，錯誤判斷血液分流的方向。
+Common trap：Ignoring the fact that the left ventricle has a greater contraction force and higher blood pressure, leading to an incorrect judgement of the direction of blood shunt.",
+2221,"📌 參考答案
+D. Z > X > Y
+
+📌 詳細解釋
+在禁食期間，小腸沒有吸收葡萄糖，因此肝門靜脈（Y）的血糖濃度降至最低。
+During fasting, no glucose is absorbed by the small intestine, so the blood glucose concentration in the hepatic portal vein (Y) drops to the lowest.
+肝臟受胰高血糖素刺激，將糖原分解為葡萄糖並釋放入肝靜脈（Z），使其血糖濃度最高。
+Stimulated by glucagon, the liver breaks down glycogen into glucose and releases it into the hepatic vein (Z), giving it the highest blood glucose concentration.
+肝動脈（X）帶來大循環中的體循環血液，其血糖濃度維持在正常的適中水平。
+The hepatic artery (X) brings systemic blood from the general circulation, which maintains a normal, intermediate blood glucose level.
+
+📌 考試提醒
+進食後與禁食期間，肝門靜脈（Y）與肝靜脈（Z）的血糖濃度高低排名會完全逆轉。
+The ranking of blood glucose concentrations between the hepatic portal vein (Y) and the hepatic vein (Z) completely reverses between post-meal and fasting states.
+常見錯誤：死背「肝臟會儲存葡萄糖」，未區分飢餓狀態下肝臟作為「葡萄糖釋放源」的角色。
+Common trap：Rote-memorizing that ""the liver stores glucose"" without distinguishing the liver's role as a ""glucose releasing source"" during fasting.",
+2222,"📌 參考答案
+D. (1)、(2)和(3)
+
+📌 詳細解釋
+所有血管都含有血漿，因此血管 Y（肝門靜脈）同樣會運載在全身循環的激素（1）。
+All blood vessels contain plasma, so blood vessel Y (hepatic portal vein) also carries hormones circulating throughout the body (1).
+它負責將小腸消耗完氧氣的缺氧血運往肝臟（2）。
+It is responsible for carrying the deoxygenated blood, from which oxygen has been consumed by the small intestine, to the liver (2).
+肝門靜脈是獨特的血管，它的起點是小腸的微血管網，終點是肝臟的微血管網（3）。
+The hepatic portal vein is a unique blood vessel; it begins at the capillary network of the small intestine and ends at the capillary network of the liver (3).
+
+📌 考試提醒
+肝門靜脈不直接與心臟連接，是人體內少數兩端皆為微血管網的血管系統。
+The hepatic portal vein does not connect directly to the heart and is one of the few vascular systems in the body with capillary networks at both ends.
+常見錯誤：誤以為只有動脈或特定血管才能運送激素，或忘記肝門靜脈也是靜脈，含有缺氧血。
+Common trap：Misassuming that only arteries or specific vessels can transport hormones, or forgetting that the hepatic portal vein is a vein containing deoxygenated blood.",
+2223,"📌 參考答案
+B. 只有(1)和(3)
+B. (1) and (3) only
+
+📌 詳細解釋
+關節的典型構造包含覆蓋在骨末端的軟骨（1），以減少摩擦和吸收震盪。
+A typical joint structure includes cartilage covering the ends of the bones (1) to reduce friction and absorb shock.
+韌帶（3）負責將兩塊骨連接在一起，以穩定關節並限制活動範圍。
+Ligaments (3) are responsible for connecting bone to bone to stabilize the joint and restrict the range of movement.
+肌腱是將骨骼肌連接到骨的構造，並不屬於關節本身的組成部分（2）。
+Tendons are structures that attach skeletal muscles to bones and are not considered part of the joint itself (2).
+
+📌 考試提醒
+韌帶連接「骨與骨」，肌腱連接「骨與肌肉」。
+Ligaments connect ""bone to bone"", while tendons connect ""bone to muscle"".
+常見錯誤：混淆肌腱與韌帶的功能與位置，將肌腱誤認為關節內部的構造。
+Common trap：Confusing the functions and locations of tendons and ligaments, mistakenly considering tendons as internal structures of a joint.",
+2224,"📌 參考答案
+A. (圖 A)
+A. (Diagram A)
+
+📌 詳細解釋
+視網膜上的黃點含有極高密度的視錐細胞，專責產生最清晰的中央視覺及彩色視覺。
+The yellow spot on the retina contains an extremely high density of cone cells, responsible for generating the sharpest central vision and colour vision.
+如果黃點上的感光細胞退化，患者會喪失視野正中央的影像，但周邊視覺不受影響。
+If the photoreceptors on the yellow spot degenerate, the patient will lose the image in the exact centre of their visual field, while peripheral vision remains unaffected.
+圖 A 準確展示了中央視野模糊缺失的病徵。
+Diagram A accurately illustrates the symptom of a blurred and missing central visual field.
+
+📌 考試提醒
+黃點位於視網膜正後方，對應正前方的視覺；而盲點則沒有任何感光細胞。
+The yellow spot is located directly at the back of the retina and corresponds to straight-ahead vision; whereas the blind spot has no photoreceptors at all.
+常見錯誤：將黃點退化的症狀與白內障（全面模糊）或青光眼（周邊視野缺失）混淆。
+Common trap：Confusing the symptoms of yellow spot degeneration with cataracts (overall blurriness) or glaucoma (loss of peripheral vision).",
+2225,"📌 參考答案
+C. 只有(2)和(3)
+C. (2) and (3) only
+
+📌 詳細解釋
+裝置 1 的胚芽鞘向光源彎曲生長，直接展示了正向光性反應（2）。
+The coleoptile in Setup 1 grows bending towards the light source, directly demonstrating a positive phototropic response (2).
+對比裝置 1 和 2（頂端被不透明蓋遮擋），裝置 2 沒有彎曲，證明頂端是偵測光線方向的部位（3）。
+Comparing Setups 1 and 2 (tip covered by an opaque cap), Setup 2 does not bend, proving that the tip is the region that detects the light direction (3).
+然而，此實驗設計並無收集任何關於「生長素」存在的證據，無法得出結論（1）。
+However, this experimental design does not collect any evidence regarding the existence of ""auxins"", so conclusion (1) cannot be drawn.
+
+📌 考試提醒
+在推論題中，必須根據「該項特定實驗」所提供的直接結果作答，而非默寫所有相關的生物學知識。
+In deduction questions, answers must be based on the direct results provided by ""that specific experiment"", rather than reciting all related biological knowledge.
+常見錯誤：見到正確的生物學陳述（生長素由頂端產生）便盲目選擇，未理會實驗結果是否足以支持該陳述。
+Common trap：Blindly selecting a biologically correct statement (auxin is produced at the tip) without considering whether the experimental results are sufficient to support it.",
+2226,"📌 參考答案
+C. 5碳化合物濃度上升 ； 碳固定減少
+C. Concentration of 5-C compound increases ; Carbon fixation decreases
+
+📌 詳細解釋
+當二氧化碳濃度大幅下降至 0.03% 時，作為二氧化碳受體的 5 碳化合物的碳固定速率會隨之減慢。
+When the carbon dioxide concentration drops significantly to 0.03%, the carbon fixation rate of the 5-C compound (the CO2 acceptor) slows down accordingly.
+由於 5 碳化合物結合二氧化碳的消耗速度減慢，但其再生過程仍在進行，導致其在葉綠體內累積，濃度上升。
+Because the consumption rate of the 5-C compound combining with CO2 slows down while its regeneration process continues, it accumulates within the chloroplast, leading to an increase in its concentration.
+相反，因碳固定減少，新生成的 3 碳化合物數量減少，其濃度初期會下降。
+Conversely, due to the decrease in carbon fixation, the amount of newly formed 3-C compound decreases, causing its concentration to initially drop.
+
+📌 考試提醒
+在循環代謝路徑中，中間產物的濃度取決於其「生成速率」與「消耗速率」的相對平衡。
+In a cyclic metabolic pathway, the concentration of an intermediate depends on the relative balance between its ""rate of formation"" and ""rate of consumption"".
+常見錯誤：無法將環境因素的改變聯繫到特定酶促反應（碳固定）速率的變化，因而錯誤預測代謝物的濃度走向。
+Common trap：Failing to link changes in environmental factors to changes in the rate of specific enzyme-catalyzed reactions (carbon fixation), thereby incorrectly predicting the concentration trends of metabolites.",
+2227,"📌 參考答案
+D. (1)、(2)和(3)
+D. (1), (2) and (3)
+
+📌 詳細解釋
+pH 值及温度會直接影響卡爾文循環中酶的活性部位（1、2）。
+pH and temperature directly affect the active sites of enzymes in the Calvin cycle (1, 2).
+光強度會影響光化反應的速率，而光化反應負責為卡爾文循環提供必需的 ATP 和 NADPH（3）。
+Light intensity affects the rate of the light-dependent reactions, which provide the essential ATP and NADPH for the Calvin cycle (3).
+為確保這是一個公平測試以準確比較二氧化碳濃度的單一影響，這三個環境條件都必須保持恆定。
+To ensure this is a fair test accurately comparing the sole effect of carbon dioxide concentration, all three of these environmental conditions must be kept constant.
+
+📌 考試提醒
+光合作用的速率受多種限制因素控制，改變任何一個因素都會影響整體代謝路徑的運作。
+The rate of photosynthesis is controlled by multiple limiting factors; changing any one factor affects the operation of the entire metabolic pathway.
+常見錯誤：忘記暗反應（卡爾文循環）嚴格依賴光化反應的產物，因此光強度也是必須控制的變數。
+Common trap：Forgetting that the light-independent reactions (Calvin cycle) strictly depend on the products of the light-dependent reactions, making light intensity a variable that must also be controlled.",
+2228,"📌 參考答案
+A. 它減少水分流失。
+A. It reduces water loss.
+
+📌 詳細解釋
+切面圖中的層 J 位於上表皮之上，是植物葉片的角質層。
+Layer J in the cross-section is located above the upper epidermis and represents the cuticle of the plant leaf.
+它是一層由蠟質組成、不透水的非細胞結構。
+It is a non-cellular, impermeable layer composed of waxy substances.
+其主要功用是大幅減少水分經由葉片表面蒸發流失。
+Its primary function is to significantly reduce water loss via evaporation from the leaf surface.
+
+📌 考試提醒
+角質層是一層不含細胞的蠟質覆蓋物，其厚度會因應植物的生長環境（如旱生植物）而有所不同。
+The cuticle is a non-cellular waxy covering, and its thickness varies according to the plant's habitat (e.g., in xerophytes).
+常見錯誤：將角質層與上表皮細胞混淆，或誤以為角質層能百分之百阻止所有水分流失。
+Common trap：Confusing the cuticle with the upper epidermal cells, or mistakenly believing the cuticle completely stops 100% of water loss.",
+2229,"📌 參考答案
+A. 水
+A. Water
+
+📌 詳細解釋
+細胞 K 是位於葉脈內的木質部導管分子，具有極厚的細胞壁，負責將水分和溶存的礦物質從根部向上運輸。
+Cell K is a xylem vessel element located within the leaf vein, characterized by very thick cell walls, responsible for transporting water and dissolved minerals upwards from the roots.
+在日間，植物進行蒸騰作用，水分會從海綿葉肉細胞表面蒸發，並以水汽形式經氣孔擴散離開葉片。
+During the day, the plant undergoes transpiration, where water evaporates from the surfaces of spongy mesophyll cells and diffuses out of the leaf through stomata as water vapour.
+選項 B、C、D 皆非木質部向上運輸後直接經氣孔大量流失的物質。
+Options B, C, and D are not substances transported upwards by the xylem to be lost in large quantities directly through the stomata.
+
+📌 考試提醒
+木質部負責運送水分及無機礦物質；韌皮部負責轉運有機營養物質（如蔗糖）。
+The xylem transports water and inorganic minerals; the phloem translocates organic nutrients (like sucrose).
+常見錯誤：誤以為光合作用產生的氧氣或呼吸作用產生的二氧化碳是由木質部運送出葉片的。
+Common trap：Misunderstanding that oxygen produced by photosynthesis or carbon dioxide produced by respiration is transported out of the leaf by the xylem.",
+2230,"📌 參考答案
+C. 3
+
+📌 詳細解釋
+氣泡移動的距離反映了帶葉枝條的蒸騰速率，距離等同於初始讀數與最終讀數的相差。
+The distance moved by the bubble reflects the transpiration rate of the leafy shoot, which equals the difference between the initial and final readings.
+計算各設定的相差：設定 1 為 6.6 cm，設定 2 為 2.5 cm，設定 3 為 9.4 cm，設定 4 為 3.4 cm。
+Calculating the differences for each setup: Setup 1 is 6.6 cm, Setup 2 is 2.5 cm, Setup 3 is 9.4 cm, and Setup 4 is 3.4 cm.
+設定 3（高光強度、低濕度）能促使氣孔盡量張開，並維持極陡峭的濃度梯度，從而產生最高（9.4 cm）的蒸騰速率。
+Setup 3 (High light, Low humidity) promotes maximum stomatal opening and maintains a very steep concentration gradient, thereby generating the highest transpiration rate (9.4 cm).
+
+📌 考試提醒
+蒸騰速率與光強度成正比，與相對濕度成反比。
+The transpiration rate is directly proportional to light intensity and inversely proportional to relative humidity.
+常見錯誤：只憑直覺猜測而沒有實際利用表中的數據（初始減去最終讀數）進行相減運算。
+Common trap：Guessing intuitively without actually using the data in the table (initial minus final reading) to perform the subtraction.",
+2231,"📌 參考答案
+D. 在高光強度的情況下，把高濕度由低調至高。
+D. Under high light intensity, changing the humidity from low to high.
+
+📌 詳細解釋
+要找出降幅最大的改變，必須逐一計算各選項中兩個設定之間的氣泡移動距離差。
+To find the change that causes the largest drop, one must calculate the difference in bubble movement distance between the two setups for each option individually.
+選項 A（設定 1 與 3 比較）降幅為 9.4 - 6.6 = 2.8 cm；選項 B（設定 2 與 4 比較）降幅為 3.4 - 2.5 = 0.9 cm。
+Option A (comparing Setups 1 and 3) shows a drop of 9.4 - 6.6 = 2.8 cm; Option B (comparing Setups 2 and 4) shows a drop of 3.4 - 2.5 = 0.9 cm.
+選項 C（設定 1 與 2 比較）降幅為 6.6 - 2.5 = 4.1 cm；選項 D（設定 3 與 4 比較）降幅為 9.4 - 3.4 = 6.0 cm。
+Option C (comparing Setups 1 and 2) shows a drop of 6.6 - 2.5 = 4.1 cm; Option D (comparing Setups 3 and 4) shows a drop of 9.4 - 3.4 = 6.0 cm.
+因此，選項 D 所造成的蒸騰速率降幅最大。
+Therefore, the change in Option D results in the largest drop in the transpiration rate.
+
+📌 考試提醒
+分析影響速率變化的數據題時，必須依靠嚴格的數值相減來得出結論。
+When analyzing data questions concerning rate changes, you must rely on strict numerical subtraction to draw conclusions.
+常見錯誤：未有逐一計算各選項代表的具體數值差異，僅靠主觀判斷兩個環境因素的相對重要性。
+Common trap：Failing to calculate the specific numerical differences for each option one by one, relying solely on subjective judgement regarding the relative importance of the two environmental factors.",
+2232,"📌 參考答案
+D. S
+D. S
+
+📌 詳細解釋
+在被子植物的有性繁殖中，卵（雌配子）受精後會發育成胚。
+In the sexual reproduction of angiosperms, the egg (female gamete) develops into an embryo after fertilization.
+圖中構造 S 指向種子內部的微小結構，即是由卵發育而成的胚。
+Structure S in the diagram points to the tiny structure inside the seed, which is the embryo developed from the egg.
+構造 R 指向種子的外層（種皮），它是由胚珠的珠被發育而成；而整個種子是由整個胚珠發育而成。
+Structure R points to the outer layer of the seed (seed coat), which develops from the integuments of the ovule; whereas the whole seed develops from the entire ovule.
+
+📌 考試提醒
+子房發育成整個果實，胚珠發育成種子，而胚珠內的卵細胞受精後發育成胚。
+The ovary develops into the entire fruit, the ovule develops into the seed, and the egg cell inside the ovule develops into the embryo after fertilization.
+常見錯誤：嚴重混淆了胚珠（發育成種子）與卵（發育成胚）的發育宿命。
+Common trap：Severely confusing the developmental fates of the ovule (which develops into a seed) and the egg (which develops into an embryo).",
+2233,"📌 參考答案
+C. 只有(1)和(2)
+C. (1) and (2) only
+
+📌 詳細解釋
+構造 P（外果皮）和 Q（中果皮/果肉）由子房壁發育而成，而 R（種皮）由珠被發育而成。
+Structures P (epicarp) and Q (mesocarp/flesh) develop from the ovary wall, while R (seed coat) develops from the integuments.
+這些全部屬於母體組織，由母體細胞經有絲分裂產生，因此 P、Q、R 具有與母本植物完全相同的基因組合。
+These are all maternal tissues produced by mitosis from maternal cells, so P, Q, and R possess the exact same genetic composition as the maternal plant.
+構造 S 是胚，由受精卵發育而成，結合了雄性和雌性配子的遺傳物質，因此基因組合與前三者不同。
+Structure S is the embryo, developed from the zygote, combining genetic material from both male and female gametes, thus its genetic composition differs from the first three.
+
+📌 考試提醒
+果實中的母體組織（如子房壁、珠被）基因型等同母株，而胚及胚乳則代表包含雙親基因的新一代。
+Maternal tissues in a fruit (e.g., ovary wall, integuments) have the same genotype as the mother plant, while the embryo and endosperm represent the new generation containing genes from both parents.
+常見錯誤：誤以為種子內的所有構造（包括種皮 R）都具有與胚（S）相同的混合基因組合。
+Common trap：Mistakenly believing that all structures within the seed (including the seed coat R) share the same mixed genetic composition as the embryo (S).",
+2234,"📌 參考答案
+C. 它透過吸引動物進食果實來傳播種子。
+C. It disperses seeds by attracting animals to eat the fruit.
+
+📌 詳細解釋
+構造 Q 是果實多汁且通常具備甜味與香味的果肉（中果皮）。
+Structure Q is the succulent flesh (mesocarp) of the fruit, which is typically sweet and aromatic.
+其演化上的主要功用是作為誘餌，吸引動物進食。
+Its primary evolutionary function is to act as an attractant to entice animals to eat it.
+動物消化果肉後，無法消化的種子會隨着糞便排至遠處，從而達到傳播種子的目的。
+After the animal digests the flesh, the indigestible seeds are excreted with the faeces at a distant location, thereby achieving seed dispersal.
+
+📌 考試提醒
+多汁果實的適應特徵是為動物傳播而設；而提供種子萌發養分的構造是子葉或胚乳。
+The adaptive features of succulent fruits are designed for animal dispersal; whereas the structures providing nutrients for seed germination are the cotyledons or endosperm.
+常見錯誤：誤將果肉當作是為種子萌發提供養分的儲存庫。
+Common trap：Misinterpreting the fruit flesh as a storage reservoir that provides nutrients for seed germination.",
+2235,"📌 參考答案
+B. (圖 B)
+B. (Diagram B)
+
+📌 詳細解釋
+透析管內的 2% 蔗糖溶液比外部的 10% 蔗糖溶液具有較高的水勢。
+The 2% sucrose solution inside the dialysis tubing has a higher water potential than the 10% sucrose solution outside.
+因此，水分子會藉滲透作用淨流出透析管，導致兩組裝置的毛細管液面位置均下降。
+Therefore, water molecules move out of the dialysis tubing by a net osmosis, causing the liquid level in the capillary tubes of both setups to drop.
+裝置 2 的透析管較長，提供了較大的表面積供滲透進行，所以水分流失的速率較快，曲線下降較陡峭。
+Setup 2 uses a longer dialysis tubing, providing a larger surface area for osmosis, so water is lost at a faster rate, resulting in a steeper downward curve.
+
+📌 考試提醒
+滲透作用的淨流動方向必定由較高水勢流向較低水勢；而擴散及滲透的速率與表面積成正比。
+The net direction of osmosis is always from a region of higher water potential to one of lower water potential; and the rate of diffusion and osmosis is directly proportional to the surface area.
+常見錯誤：未能根據濃度判斷出水勢高低，導致弄錯液面上升或下降的方向，或忽略透析管長度對表面積的影響。
+Common trap：Failing to determine water potential based on concentration, thus mistaking whether the liquid level rises or falls, or ignoring the effect of the length of the dialysis tubing on surface area.",
+2236,"📌 參考答案
+A. (圖 A)
+A. (Diagram A)
+
+📌 詳細解釋
+在較高的温度（40°C）下，水分子的動能增加，導致滲透作用的速率加快。
+At a higher temperature (40°C), the kinetic energy of water molecules increases, leading to a faster rate of osmosis.
+這反映在圖表上，40°C 的曲線在初期下降得比 25°C 更為陡峭。
+This is reflected in the graph, where the 40°C curve drops more steeply initially compared to the 25°C curve.
+然而，由於兩次實驗的初始濃度（水勢差異）完全相同，當系統達到動態平衡時，兩者的最終液面位置必然相等。
+However, because the initial concentrations (water potential differences) in both experiments are exactly the same, the final liquid levels must be identical once the systems reach dynamic equilibrium.
+
+📌 考試提醒
+增加溫度只能加快達到平衡狀態的速度，絕對不會改變該系統最終的物理或化學平衡點。
+Increasing the temperature only speeds up the time taken to reach equilibrium; it absolutely does not change the final physical or chemical equilibrium point of the system.
+常見錯誤：誤以為較高温度會令總滲透水量增加，從而導致兩條曲線的最終液面位置出現落差。
+Common trap：Mistakenly assuming that a higher temperature increases the total volume of water osmosed, thereby causing a discrepancy in the final liquid levels of the two curves.",
 22p101,"📌 參考答案
 
 (a)
