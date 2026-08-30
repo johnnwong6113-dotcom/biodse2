@@ -1,245 +1,112 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 1901,"📌 參考答案
-✅ 答案：B — Q
-
-📖 詳細解釋 (Detailed Explanation)
-P 是葉綠體雙層膜，負責維持細胞器完整。
-P is the double membrane of the chloroplast, responsible for maintaining the organelle’s structural integrity.
-
-Q 是類囊體（thylakoid），葉綠素（chlorophyll）附著於其膜上，負責吸收光能進行光合作用的光反應階段。
-Q represents the thylakoid, whose membrane contains chlorophyll molecules responsible for absorbing light energy during the light-dependent stage of photosynthesis.
-
-R 是葉綠體基質（stroma），當中含有酵素，為卡爾文循環（Calvin Cycle）的進行場所，用以固定二氧化碳。
-R is the stroma, which contains enzymes for the Calvin Cycle, where carbon dioxide is fixed into organic molecules.
-
-S 是澱粉粒（starch grain），是光合作用後期儲存能量的主要形式。
-S is a starch grain, which stores the end products of photosynthesis, mainly starch for later energy use.
-
-因此，在光合作用的光反應過程中，吸收光的主要結構是 Q — 類囊體膜。
-Therefore, during the light reaction of photosynthesis, the main structure responsible for absorbing light energy is Q — the thylakoid membrane.
-
-💡 考試提醒 (Exam Tips)
-1️⃣ 認識葉綠體主要結構的功能：外膜、內膜、類囊體、基質。
-Know the main structures and their functions in a chloroplast: outer membrane, inner membrane, thylakoid, and stroma.
-
-2️⃣ 光反應與暗反應發生位置不同： 光反應於類囊體膜上進行，暗反應（卡爾文循環）於基質中進行。
-Remember that the light‑dependent reactions occur on the thylakoid membranes, while the light‑independent reactions (Calvin Cycle) occur in the stroma.
-
-3️⃣ 澱粉粒的出現代表葉綠體活躍進行光合作用。
-The presence of starch grains indicates active photosynthesis.
-
-4️⃣ 若題目問「吸收光能的部位」或「含葉綠素的結構」，關鍵字即為「類囊體膜」。
-If the question asks for the structure absorbing light energy or containing chlorophyll, the keyword to recall is thylakoid membrane.
-
-✅ 總結 (Summary)
-吸收光能的結構是類囊體（Q）。
-The structure that absorbs light during photosynthesis is the thylakoid (Q).",
-1902,"📌 參考答案 
-✅ 答案：D — R 產生的葡萄糖
-Answer: D — Glucose produced in region R
-
-📖 詳細解釋 (Detailed Explanation)
-題目指出提供放射性標記氧的二氧化碳給植物細胞進行光合作用。
-The question states that radioactive oxygen-labelled carbon dioxide is supplied to plant cells for photosynthesis.
-
-在光合作用過程中，氧氣不是由二氧化碳產生，而是由水分子的光解（水的分解）釋放出來。
-In photosynthesis, oxygen gas is not produced from carbon dioxide but from the photolysis of water molecules.
-
-因此，任何在 Q（類囊體）中產生的氧氣都不會含有放射性。
-Therefore, any oxygen produced in Q (thylakoids) will not contain radioactivity.
-
-相反，二氧化碳中的碳會在卡爾文循環中被固定到碳水化合物，如葡萄糖中。
-In contrast, the carbon from carbon dioxide is fixed into carbohydrates such as glucose during the Calvin cycle.
-
-卡爾文循環發生在葉綠體的基質（R），因此最終在該處形成的葡萄糖會帶有放射性標記。
-The Calvin cycle occurs in the stroma (R) of the chloroplast, so the glucose produced there will carry the radioactive label.
-
-結論：放射性應出現在 R 產生的葡萄糖中。
-Conclusion: The radioactivity will be detected in the glucose produced in region R.
-
-💡 考試提醒 (Exam Tips)
-1️⃣ 必須分清光反應與暗反應的地點與產物。
-Always distinguish between light reactions (in thylakoid membranes) and light-independent reactions (Calvin Cycle) (in stroma).
-
-光反應：在類囊體膜上進行，產生 ATP、NADPH 和 O₂（來自 H₂O）。
-Light reactions: Occur on thylakoid membranes, producing ATP, NADPH, and O₂ (from water).
-
-暗反應：在基質中進行，利用 ATP 和 NADPH 固定 CO₂ 形成葡萄糖。
-Dark reactions: Occur in the stroma, using ATP and NADPH to fix CO₂ into glucose.
-
-2️⃣ 若題目談「放射性二氧化碳」，放射性碳必定出現在糖或有機分子中，而非氧氣。
-If radioactive carbon dioxide is used, the radioactive carbon will appear in sugars or organic molecules, not in oxygen gas.
-
-3️⃣ 類囊體（Q）與基質（R）的功能常是 DSE 常考的對比題。要記：Q 吸光造能量；R 用能生糖。
-Functions of thylakoids (Q) and stroma (R) are frequently tested opposites. Remember: Q — absorbs light to make energy; R — uses energy to make sugar.
-
-✅ 總結 (Summary)
-放射性被偵測於 R 產生的葡萄糖中，因為卡爾文循環於基質中利用二氧化碳合成糖。
-Radioactivity is detected in glucose produced in R, as the Calvin cycle in the stroma fixes CO₂ to form sugars.",
-1903,"📌 參考答案 (Reference Answer)
-✅ 答案：B — 只有 (2)
-Answer: B — Only (2)
-
-📖 詳細解釋 (Detailed Explanation)
-(1) 氧化磷酸化作用
-在此階段（mitochondrial inner membrane），電子傳遞鏈傳遞電子以產生 ATP 和 水。
-In this stage (on the mitochondrial inner membrane), the electron transport chain transfers electrons to produce ATP and water.
-
-過程中並未釋放 CO₂，因為所有碳元素早在之前階段已被氧化。
-No CO₂ is released because all carbon atoms have already been oxidized in earlier stages.
-
-(2) 克雷伯氏循環（Krebs Cycle）
-在此過程中，乙酰輔酶 A (2 C) 與 4 C 化合物結合成 6 C 化合物；
-In this process, acetyl‑CoA (2 C) combines with a 4‑carbon compound to form a 6‑carbon compound.
-
-隨後經兩次脫羧反應產生 CO₂ 並移除兩個碳原子。
-It then undergoes two decarboxylation reactions, releasing CO₂ and removing two carbon atoms.
-
-因此，Krebs 循環是細胞呼吸過程中釋放 CO₂ 的主要階段。
-Therefore, the Krebs Cycle is the main stage in cellular respiration where CO₂ is released.
-
-(3) 葡萄糖轉化為丙酮酸鹽（糖酵解 Glycolysis）
-此過程發生於細胞質中，將 glucose (6 C) 轉化為 pyruvate (3 C)。
-This process occurs in the cytoplasm, converting glucose (6 C) into pyruvate (3 C).
-
-全程沒有碳損失，因此不會釋放 CO₂。
-No carbon atoms are lost, so no CO₂ is released.
-
-💡 考試提醒 (Exam Tips)
-1️⃣ 記住哪個階段釋放 CO₂： 只在克雷伯氏循環（Krebs Cycle）和連接反應（Link reaction – 丙酮酸→乙酰輔酶 A）中釋放。
-Remember: CO₂ is released only in the Krebs Cycle and the link reaction (pyruvate → acetyl‑CoA).
-
-2️⃣ 氧化磷酸化產生 ATP 與 H₂O，並不產生 CO₂。
-Oxidative phosphorylation yields ATP and H₂O, but not CO₂.
-
-3️⃣ 糖酵解不需氧，發生於細胞質，不釋放 CO₂。
-Glycolysis occurs in the cytoplasm without O₂ and releases no CO₂.
-
-4️⃣ 若題目問「二氧化碳釋放」關鍵字 → 想起 Krebs Cycle 或 Link reaction。
-If the question mentions “release of CO₂,” the key words to recall are Krebs Cycle or Link reaction.
-",
-1904,"📘參考答案 ：B
-
-🧩詳細解釋 Detailed Explanation
-在卡爾文循環中，5-C 複合物（即二氧化碳受體，RuBP）會與 CO₂ 結合形成兩個 3-C 複合物。
-In the Calvin cycle, the 5-carbon compound (RuBP, the CO₂ acceptor) combines with CO₂ to form two 3-carbon compounds.
-
-選項 A：正確。5-C 複合物可轉化為 3-C 複合物，這步驟只涉及酶作用，與光無關，因此在黑暗中仍可發生。
-Option A: Correct. The 5-C compound can convert into a 3-C compound through enzymatic catalysis, independent of light, so it can still occur in the dark.
-
-選項 B：錯誤。5-C 複合物不會直接與 CO₂ 生成葡萄糖，而是先生成 3-C 複合物，再經 NADPH 還原形成碳水化合物。
-Option B: Incorrect. The 5-C compound does not directly combine with CO₂ to form glucose; it first forms two 3-C compounds, which are then reduced by NADPH to form carbohydrates.
-
-選項 C：正確。再生 5-C 複合物需要光化反應產生的 ATP 供能，因此在黑暗中無法再生。
-Option C: Correct. Regeneration of the 5-C compound requires ATP from the light-dependent reaction, so it cannot proceed in the dark.
-
-選項 D：正確。再生 5-C 複合物同時也依賴光反應產生的 NADPH 作還原劑，黑暗中 NADPH 無法再生，因此再生過程停止。
-Option D: Correct. The regeneration also depends on NADPH from the light reaction as a reducing agent; in darkness, NADPH cannot be regenerated, so the regeneration stops.
-
-🎯考試提醒 Exam Tips
-🟢 此題常考於 光合作用的光反應與暗反應（卡爾文循環）分工。
-This question commonly tests the distinction between the light-dependent and light-independent (Calvin cycle) reactions in photosynthesis.
-
-🔹 記住：
-
-光反應提供 ATP 和 NADPH。
-The light reaction supplies ATP and NADPH.
-暗反應使用這些產物來固定 CO₂ 及再生 RuBP。
-The dark reaction uses them to fix CO₂ and regenerate RuBP.
-⚠️ 常犯錯誤：以為 RuBP 可直接與 CO₂ 生成葡萄糖。
-Common mistake: assuming RuBP directly forms glucose with CO₂ — it does not.
-
-🔍 小提示：
-當圖表中顯示 5-C 複合物濃度下降、3-C 複合物短暫上升後下降，代表光反應停止（無 ATP、NADPH 補充），卡爾文循環隨即受阻。
-When the graph shows a drop in 5-C compound and a temporary rise then fall in 3-C compound, it means the light reaction has stopped (no more ATP or NADPH supplied), halting the Calvin cycle.",
-1905,"📌參考答案 Reference Answer
-✅ D
-來自樹冠底部的葉子較大，因為它們可以收集穿越樹冠頂部的光線。
-Leaves from the lower crown are larger because they can collect the light that passes through the upper crown.
-
-📘詳細解釋 Detailed Explanation
-樹冠的頂部葉子接受強烈陽光，而底部葉子則被上層遮蔭。
-Leaves at the top of the crown receive intense sunlight, while those at the bottom are shaded by upper leaves.
-
-為適應光線強度的不同，樹會在不同位置長出性狀不同的葉子。
-To adapt to varying light intensity, the tree develops leaves with different characteristics at different positions.
-
-樹冠頂部的葉子通常較小、較厚，以避免強光造成水分過度流失與光傷害。
-Top-crown leaves are usually smaller and thicker to reduce water loss and avoid light damage.
-
-相反地，樹冠底部的葉子較大、較薄，能擴大接收面積以吸取較弱的光線進行光合作用。
-Conversely, lower-crown leaves are larger and thinner to increase surface area for capturing weaker light for photosynthesis.
-
-因此，底部葉子較大的主要原因並非儲存食物，而是為了更有效地吸收光能。
-Therefore, the main reason lower leaves are larger is not for storing food, but to absorb light more effectively.
-
-🧠考試提醒 Exam Tips
-🌿 葉子形態的差異是植物對環境光照適應的結果。
-Leaf size and shape differences are adaptations to varying light conditions in the environment.
-
-☀️ 上層葉：高光區 → 小而厚，防止水分流失
-Upper leaves: high-light zones → small and thick to prevent water loss.
-
-🌤 下層葉：弱光區 → 大而薄，提高光能吸收
-Lower leaves: low-light zones → large and thin to increase light absorption.
-
-❌ 常見誤區：
-錯誤以為葉子變小是因為缺水或為了儲存更多食物。
-A common mistake is assuming leaves are smaller due to water shortage or larger to store more food.
-
-✅ 記住要點：
-葉子大小的差別是由光照強度差異造成的形態適應。
-Key point: Leaf size differences arise from morphological adaptation to light intensity differences.",
-1906,"📘參考答案 Answer
-答案：A
-
-🧩詳細解釋 Detailed Explanation
-碘液測試可用來檢驗澱粉，陽性反應時，碘液會由棕色變成藍黑色。
-The iodine test is used to detect starch; a positive result is shown by a colour change from brown to blue-black.
-
-光合作用只有在同時具備二氧化碳、光線和葉綠素時，才會進行。
-Photosynthesis occurs only when carbon dioxide, light, and chlorophyll are all present.
-
-在本題裝置中，葉子被分成三個區域來測試三種條件。
-In this setup, the leaf is divided into three areas to test three different conditions.
-
-1️⃣ 被玻璃瓶罩住的部分，雖有光但二氧化碳被吸收劑移除，無法進行光合作用。
-The part enclosed in the glass bottle receives light but has no CO₂ due to the absorber; thus, photosynthesis cannot occur.
-
-2️⃣ 被木塞遮蓋的部分無法接收光線，因此也不能進行光合作用。
-The part covered by the cork block receives no light, so photosynthesis also stops there.
-
-3️⃣ 沒被木塞遮蓋、也沒被玻璃瓶封住的綠色部分擁有光、CO₂及葉綠素，能合成葡萄糖並轉化為澱粉。
-The uncovered green part outside the bottle has light, CO₂, and chlorophyll, allowing it to produce glucose and convert it into starch.
-
-4️⃣ 黃色部分缺乏葉綠素，即使條件合適，也無法進行光合作用。
-The yellow part lacks chlorophyll and therefore cannot photosynthesize even under suitable conditions.
-
-因此，只有暴露在陽光下且為綠色的葉片部分會呈藍黑色，其餘部分保持棕色。
-Hence, only the exposed green region turns blue-black, while all other parts remain brown.
-
-🎯考試提醒 Exam Tips
-🟢 澱粉測試是檢驗光合作用產物，而非直接測光合作用速率。
-The starch test verifies the products of photosynthesis, not the rate of photosynthesis itself.
-
-🔹 記住光合作用三個必要條件：
-Remember the three essential factors for photosynthesis:
-
-光線 —— 提供能量。
-Light — provides energy.
-二氧化碳 —— 為碳源。
-Carbon dioxide — provides the carbon source.
-葉綠素 —— 捕捉光能。
-Chlorophyll — captures light energy.
-⚠️ 常犯錯誤：
-
-忘記去除葉綠素（脫綠步驟），導致碘液測試不準。
-Forgetting to remove chlorophyll (decolourisation step), which makes iodine test inaccurate.
-以為黃色部分也會變藍黑色。
-Thinking that yellow regions (without chlorophyll) can also turn blue-black — they won’t.
-✅ 小技巧：
-觀察結果時，只有有光、有CO₂、有葉綠素的部分會呈藍黑色。
-When interpreting results, only regions with light, CO₂, and chlorophyll will turn blue-black.",
+B — Q
+B — Q
+📌 詳細解釋
+P 是葉綠體膜，負責維持細胞器的完整性。
+P is the chloroplast membrane, responsible for maintaining the integrity of the organelle.
+Q 是類囊體，葉綠素附著於其上並吸收光能以進行光化反應。
+Q is the thylakoid, where chlorophyll is attached to absorb light energy for the light-dependent reactions.
+R 是基質，內含酶，是卡爾文循環發生的場所。
+R is the stroma, containing enzymes where the Calvin cycle takes place.
+S 是澱粉粒，是植物儲存能量的主要形式，也是光合作用的最終產物。
+S is a starch grain, which is the main form of energy storage in plants and the final product of photosynthesis.
+因此，在光合作用時吸收光的構造是 Q。
+Therefore, the structure that absorbs light during photosynthesis is Q.
+📌 考試提醒
+類囊體膜含有葉綠素，負責捕捉光能轉化為化學能。
+The thylakoid membrane contains chlorophyll, which captures light energy to convert into chemical energy.
+常見錯誤：學生常混淆類囊體（光化反應）與基質（卡爾文循環）的功能與位置。
+Common trap：Students often confuse the functions and locations of the thylakoid (light-dependent reactions) and the stroma (Calvin cycle).",
+1902,"📌 參考答案
+D — R 產生的葡萄糖
+D — Glucose produced in R
+📌 詳細解釋
+光合作用產生的氧氣是來自水分子的光解，而不是二氧化碳。
+The oxygen produced in photosynthesis comes from the photolysis of water molecules, not from carbon dioxide.
+因此，在 Q（類囊體）產生的氧氣不會帶有放射性。
+Therefore, the oxygen produced in Q (thylakoids) will not be radioactive.
+來自氣室的二氧化碳會擴散至 R（基質），並與 5-C 複合物結合。
+Carbon dioxide from the air space diffuses into R (stroma) and combines with a 5-C compound.
+在酶、ATP 及 NADPH 的協助下，卡爾文循環會利用二氧化碳合成葡萄糖。
+With the help of enzymes, ATP, and NADPH, the Calvin cycle uses carbon dioxide to synthesize glucose.
+因此，帶有放射性標記碳原子的會是 R 產生的葡萄糖。
+Thus, the radioactively labelled carbon atoms will be found in the glucose produced in R.
+📌 考試提醒
+卡爾文循環在葉綠體基質中進行，負責碳的固定以生成有機物。
+The Calvin cycle takes place in the stroma of the chloroplast and is responsible for carbon fixation to produce organic matter.
+常見錯誤：誤以為光化反應產生的氧氣源自二氧化碳，或錯誤以為二氧化碳在類囊體被固定。
+Common trap：Mistakenly believing that the oxygen produced in the light-dependent reactions originates from carbon dioxide, or that carbon dioxide is fixed in the thylakoids.",
+1903,"📌 參考答案
+B — 只有 (2)
+B — Only (2)
+📌 詳細解釋
+氧化磷酸化作用產生水和 ATP，並使 NAD 和 FAD 再生，過程中不會釋出二氧化碳。
+Oxidative phosphorylation produces water and ATP, and regenerates NAD and FAD, without releasing carbon dioxide.
+在克雷伯氏循環中，當 6-C 複合物被逐步氧化以再生 4-C 複合物時，會釋放二氧化碳以去除碳原子。
+In the Krebs cycle, carbon dioxide is released to remove carbon atoms when the 6-C compound is gradually oxidized to regenerate the 4-C compound.
+葡萄糖轉化為丙酮酸鹽（糖酵解）的過程中，僅產生 ATP 及 NADH，沒有碳的流失，因此不釋出二氧化碳。
+In the conversion of glucose to pyruvate (glycolysis), only ATP and NADH are produced without carbon loss, so no carbon dioxide is released.
+因此，只有克雷伯氏循環的過程釋出二氧化碳。
+Therefore, only the process in the Krebs cycle releases carbon dioxide.
+📌 考試提醒
+二氧化碳僅在糖酵解後的連接反應及克雷伯氏循環中，透過脫羧反應釋放。
+Carbon dioxide is only released through decarboxylation in the link reaction and the Krebs cycle following glycolysis.
+常見錯誤：忘記糖酵解只涉及將 6-C 的葡萄糖分解為兩分子 3-C 的丙酮酸鹽，誤以為此過程會釋出二氧化碳。
+Common trap：Forgetting that glycolysis only involves breaking down a 6-C glucose into two 3-C pyruvate molecules, and mistakenly thinking it releases carbon dioxide.",
+1904,"📌 參考答案
+B
+B
+📌 詳細解釋
+在卡爾文循環中，5-C 複合物轉化為 3-C 複合物只涉及酶的作用，不需光能，因此在黑暗中仍可進行。
+In the Calvin cycle, the conversion of a 5-C compound into a 3-C compound involves only enzymes and does not require light energy, so it can occur in darkness.
+5-C 複合物不能與二氧化碳直接結合形成葡萄糖，而是先形成 3-C 複合物，再轉化為丙糖磷酸，最後合成葡萄糖。
+The 5-C compound cannot directly combine with carbon dioxide to form glucose; it first forms 3-C compounds, which are converted to triose phosphate, and finally synthesized into glucose.
+因此，選項 B 的描述錯誤，是題目的正確答案。
+Therefore, the description in Option B is incorrect, making it the correct answer for this question.
+光化反應產生的 ATP 提供能量將丙糖磷酸轉化回 5-C 複合物，沒有光則無法進行再生。
+ATP produced from the light-dependent reactions provides energy to convert triose phosphate back to the 5-C compound; without light, regeneration cannot occur.
+若沒有光線產生 NADPH，3-C 複合物便不能轉化為丙糖磷酸，5-C 複合物的再生過程隨之停止。
+Without light to produce NADPH, the 3-C compound cannot be converted to triose phosphate, and the regeneration process of the 5-C compound stops.
+📌 考試提醒
+卡爾文循環需要光化反應所產生的 ATP 和 NADPH 來推動 3-C 複合物的還原及 5-C 複合物的再生。
+The Calvin cycle requires ATP and NADPH produced from the light-dependent reactions to drive the reduction of 3-C compounds and the regeneration of the 5-C compound.
+常見錯誤：錯誤以為 5-C 複合物能直接與二氧化碳結合成葡萄糖，忽略了丙糖磷酸等中間產物。
+Common trap：Mistakenly believing that the 5-C compound can directly combine with carbon dioxide to form glucose, ignoring intermediates like triose phosphate.",
+1905,"📌 參考答案
+D
+D
+📌 詳細解釋
+樹冠層底部的葉子被頂部遮蔽，無法獲得足夠的陽光進行光合作用。
+Leaves at the bottom of the tree crown are shaded by the top and cannot receive enough sunlight for photosynthesis.
+葉子越大，接收陽光照射的表面面積就越大，藉此可以收集足夠的光能。
+The larger the leaf, the greater the surface area exposed to sunlight, allowing it to collect sufficient light energy.
+樹冠頂部的葉子沒有水分不足的問題，因為蒸騰拉力能使水分不斷流動。
+Leaves at the top of the crown do not face water shortages because the transpiration pull keeps water flowing continuously.
+底部的葉子光合作用速率較慢，不太可能產生並儲存更多食物。
+Leaves at the bottom have a slower rate of photosynthesis and are unlikely to produce and store more food.
+📌 考試提醒
+植物葉片的大小和形態是適應環境光照強度的特徵，以極大化光合作用的效率。
+The size and morphology of plant leaves are adaptive features to environmental light intensity to maximize the efficiency of photosynthesis.
+常見錯誤：將葉片變小誤解為缺乏水分的結果，或錯誤假設大葉片的唯一用途是儲存食物。
+Common trap：Misinterpreting smaller leaves as a result of water shortage, or falsely assuming that the only purpose of large leaves is to store food.",
+1906,"📌 參考答案
+A
+
+📌 詳細解釋
+玻璃瓶內的部分因化學藥品吸收了二氧化碳，缺乏原料，無法進行光合作用。
+The part inside the glass bottle lacks carbon dioxide due to the absorbing chemical, so it cannot perform photosynthesis.
+木塞遮蓋的部分無法接收光線，因此也不能進行光合作用。
+The part covered by the cork cannot receive light, so photosynthesis cannot occur there either.
+黃色部分本身缺乏葉綠素，無法吸收光能，同樣不能進行光合作用。
+The yellow part lacks chlorophyll to absorb light energy, so it also cannot perform photosynthesis.
+只有暴露於陽光下的綠色部分能進行光合作用產生葡萄糖，並合成為澱粉，在碘液試驗中呈藍黑色。
+Only the green part exposed to sunlight can perform photosynthesis to produce glucose, which is synthesized into starch and turns blue-black in the iodine test.
+📌 考試提醒
+光合作用必須同時具備光線、二氧化碳及葉綠素，缺一不可。
+Photosynthesis requires the simultaneous presence of light, carbon dioxide, and chlorophyll; none can be missing.
+常見錯誤：忘記斑葉的黃色部分缺乏葉綠素，誤以為只要有光和二氧化碳就會呈藍黑色。
+Common trap：Forgetting that the yellow part of a variegated leaf lacks chlorophyll, mistakenly thinking it will turn blue-black as long as light and carbon dioxide are present.",
 1907,"✅ 參考答案 Answer
 C – 3 個獨立變項
 
@@ -273,207 +140,108 @@ Remember: an independent variable is one that is manipulated by the investigator
 葉綠素 (chlorophyll)
 📚 小提示：這三者是光合作用三大必要條件，題目若問「涉及多少個獨立變項」，大多答案就是 3。
 Tip: These three are the essential requirements for photosynthesis; when asked “how many independent variables,” the answer is usually 3.",
-1908,"📘參考答案 Answer
-答案：A
+1908,"📌 參考答案
+A
 
-🧩詳細解釋 Detailed Explanation
-吞噬作用（Endocytosis）
-需要能量使細胞膜運動、包圍並吞入物質形成囊泡。
-Requires energy for the cell membrane to move and engulf materials by forming vesicles.
+📌 詳細解釋
+吞噬作用是主動過程，需要能量使細胞膜運動並形成偽足，不依賴濃度梯度。
+Phagocytosis is an active process requiring energy to move the cell membrane and form pseudopodia, independent of a concentration gradient.
+主動轉運需要載體蛋白逆濃度梯度運送物質，同樣需要能量輸入。
+Active transport requires carrier proteins to move substances against a concentration gradient, which also requires energy input.
+滲透作用是被動過程，不需要能量，僅取決於溶液的濃度梯度（水勢梯度）。
+Osmosis is a passive process that requires no energy and depends solely on the concentration gradient (water potential gradient) of the solutions.
+擴散作用是被動過程不需能量；而滲透作用不一定需要膜蛋白。
+Diffusion is a passive process requiring no energy; and osmosis does not necessarily require membrane proteins.
+📌 考試提醒
+吞噬作用涉及細胞膜的大幅度變形，必須消耗 ATP 來推動。
+Phagocytosis involves significant deformation of the cell membrane and strictly requires the consumption of ATP.
+常見錯誤：混淆了主動轉運和吞噬作用對膜蛋白的需求，吞噬作用依賴細胞膜包圍而非單一載體蛋白。
+Common trap：Confusing the requirement of membrane proteins for active transport and phagocytosis; phagocytosis relies on cell membrane engulfment rather than a single carrier protein.",
+1909,"📌 參考答案
+B — 只有 (1) 和 (3)
+B — Only (1) and (3)
+📌 詳細解釋
+使用較大的針筒可以增加容量，收集更大體積的氧氣。
+Using a larger syringe increases the capacity to collect a larger volume of oxygen.
+減少加入過氧化氫溶液的體積，即減少了受質量，從而減少產生的氧氣體積。
+Reducing the volume of hydrogen peroxide solution added decreases the amount of substrate, thereby reducing the volume of oxygen produced.
+錐形瓶的大小只改變容器空間，完全不會影響過氧化氫酶分解受質所產生氧氣的總體積。
+The size of the conical flask only changes the container space and does not affect the total volume of oxygen produced by the catalase decomposing the substrate.
+因此，改動 (1) 和 (3) 才能有效收集數據。
+Therefore, modifying (1) and (3) can effectively allow data collection.
+📌 考試提醒
+在酶的實驗中，生成物的最大體積取決於受質的總量，而非反應容器的大小。
+In enzyme experiments, the maximum volume of product depends on the total amount of substrate, not the size of the reaction container.
+常見錯誤：誤以為錐形瓶較大會改變反應環境，從而影響所收集到的氣體體積。
+Common trap：Mistakenly believing that a larger conical flask would alter the reaction environment, thereby affecting the volume of gas collected.",
+1910,"📌 參考答案
+A
 
-主動轉運（Active transport）
-需要能量及載體蛋白來逆濃度梯度輸送物質。
-Requires both energy and carrier proteins to move substances against their concentration gradient.
+📌 詳細解釋
+改變溫度會改變過氧化氫酶的活性，從而影響產生氧氣的速率。
+Changing the temperature alters the activity of catalase, thereby affecting the rate of oxygen production.
+在 0-W 時段，反應仍在進行，氣體體積的增加取決於反應速率，最能反映酶的活性。
+During the 0-W interval, the reaction is still ongoing, and the increase in gas volume depends on the reaction rate, which best reflects enzyme activity.
+在時間 X、Y 和 Z，所有受質已被消耗，收集的氣體體積已達到最大值。
+At times X, Y, and Z, all substrates have been consumed, and the collected gas volume has reached its maximum.
+氣體體積最大值只取決於受質量，不受酶活性的變化影響。
+The maximum gas volume depends only on the amount of substrate and is not affected by changes in enzyme activity.
+📌 考試提醒
+量度酶活性的最佳時機是反應的初始階段，因受質濃度充足且不受反應終點影響。
+The best time to measure enzyme activity is during the initial stage of the reaction, as the substrate concentration is sufficient and unaffected by the reaction end point.
+常見錯誤：錯誤選擇整段時間（0-Z），忽略了反應末期受質耗盡導致氣體體積恆定的事實。
+Common trap：Mistakenly selecting the entire period (0-Z), ignoring the fact that the gas volume becomes constant at the end of the reaction due to substrate depletion.",
+1911,"📌 參考答案
+B
 
-滲透作用（Osmosis）
-是一種被動過程，不需能量，僅取決於水勢差（濃度梯度）。
-A passive process that requires no energy, depending solely on water potential (concentration) gradient.
+📌 詳細解釋
+只有當外在溶液的濃度高於細胞內的濃度時，溶質才會順濃度梯度擴散至細胞內。
+Only when the concentration of the external solution is higher than that inside the cell will the solute diffuse into the cell down the concentration gradient.
+因此，當外在溶液濃度達至 X 後，細胞才會開始吸收該溶質。
+Therefore, the cell will only start absorbing the solute after the external solution concentration reaches X.
+擴散作用是被動過程，擴散速率與濃度梯度成正比。
+Diffusion is a passive process, and the rate of diffusion is directly proportional to the concentration gradient.
+圖 B 正確顯示了超過濃度 X 後，初始吸收速率隨外在溶液濃度呈直線上升。
+Graph B correctly shows that beyond concentration X, the initial absorption rate increases linearly with the external solution concentration.
+📌 考試提醒
+擴散速率的快慢直接取決於兩地之間的濃度差異。
+The rate of diffusion depends directly on the concentration difference between the two regions.
+常見錯誤：將溶質擴散的濃度平衡點與水勢的等滲狀態混為一談，或誤選曲線圖。
+Common trap：Confusing the concentration equilibrium point for solute diffusion with the isotonic state for water potential, or mistakenly choosing the curved graphs.",
+1912,"📌 參考答案
+D
 
-因此，能量輸入 → 吞噬作用；膜蛋白 → 主動轉運；濃度梯度 → 滲透作用 是正確的配對。
-Therefore, the correct combination is Energy input = Endocytosis; Membrane protein = Active transport; Concentration gradient = Osmosis.
+📌 詳細解釋
+卵子和精子都是經過減數分裂產生的配子，兩者都帶有 22 條常染色體和 1 條性染色體。
+Both the ovum and sperm are gametes produced through meiosis, and both carry 22 autosomes and 1 sex chromosome.
+因此，兩者染色體的數目完全相同。
+Therefore, both have the exact same number of chromosomes.
+卵子遠比精子大，因此細胞質的量亦遠比精子多。
+The ovum is much larger than the sperm, so the amount of cytoplasm is also much greater than that of the sperm.
+卵子的食物貯備會用於胚胎的早期發育，而精子的食物貯備極少，僅為精子的運動提供能量。
+The food reserves of the ovum are used for early embryonic development, whereas the sperm has very few food reserves, only providing energy for motility.
+📌 考試提醒
+卵子是人體最大的細胞，高度特化以儲存大量細胞質及養分供受精後發育；而精子則高度精簡以利游動。
+The ovum is the largest cell in the human body, highly specialized to store a large amount of cytoplasm and nutrients for post-fertilization development; whereas the sperm is highly streamlined for swimming.
+常見錯誤：誤以為男女性配子的大小相若，忽略了卵子為了孕育胚胎而保留了絕大部分的細胞質。
+Common trap：Assuming that male and female gametes are similar in size, ignoring that the ovum retains the vast majority of the cytoplasm to nourish the embryo.",
+1913,"📌 參考答案
+D
 
-❌ 其他選項錯誤原因
-選項	錯誤原因	Explanation
-B	擴散是被動過程，不需能量；滲透不一定需膜蛋白。	Diffusion is passive and requires no energy; osmosis can occur without membrane proteins.
-C	吞噬作用需能量，因此屬主動過程，但不依靠「濃度梯度」進行。	Endocytosis is an energy-requiring (active) process but not dependent on a concentration gradient.
-D	滲透作用為被動過程，不需能量；而擴散僅在某些情況下（例如離子通道）才需膜蛋白。	Osmosis is passive and energy-free; diffusion usually doesn’t need membrane proteins except in facilitated diffusion.
-🎯考試提醒 Exam Tips
-🟢 記住跨膜運輸四大類：
-Remember the four main membrane transport methods:
-
-方法	                               是否需能量	是否需蛋白	方向	                 備註
-擴散 Diffusion	             ✗	                     ✗	高 → 低	  被動運輸
-滲透 Osmosis	                         ✗	          可有可無   水沿濃度梯度	  水分子通過半透膜
-主動轉運 Active transport	 ✓	                     ✓	低 → 高	   需 ATP 驅動
-吞/吐作用 Endocytosis/Exocytosis	✓	✗	不受濃度限制	膜形成囊泡包裹物質
-⚠️ 小心混淆：「擴散 → 不需能量」，「主動轉運 → 需能量及蛋白」，「吞噬/吐出 → 需膜運動及能量」。
-Be careful not to confuse: “Diffusion = no energy,” “Active transport = needs energy and proteins,” “Endo-/exocytosis = involves membrane movement and energy.”",
-1909,"📘 參考答案
-答案：B（只有 (1) 和 (3)）
-Answer: B (Only (1) and (3))
-
-📖 詳細解釋
-使用較大的針筒可以收集更多體積的氧氣。
-Using a larger syringe allows a greater volume of oxygen gas to be collected.
-
-錐形瓶的體積只影響反應液的空間，不會改變產生氧氣的體積。
-The size of the conical flask only affects the space for the reaction mixture and does not change the volume of oxygen produced.
-
-減少加入的過氧化氫溶液的體積，會減少可分解的過氧化氫分子，從而減少產生的氧氣體積。
-Reducing the volume of hydrogen peroxide solution means fewer substrate molecules are available for decomposition, thus less oxygen is produced.
-
-換句話說，若初步實驗氧氣量過多超出收集限制，應增加收集裝置容量或減少底物用量。
-In other words, if the initial experiment produces more oxygen than can be collected, increase the collection device’s capacity or reduce the amount of substrate used.
-
-🧠 考試提醒
-✅ 若題目涉及「氣體收集量超出量度器具容量」，首先要確定如何擴大收集容量或降低產氣量。
-✅ When the question mentions gas volume exceeding collection capacity, think of either increasing the collection capacity or reducing gas production.
-
-⚠️ 注意分辨「限制反應物」與「非限制反應物」：此題反應中，過氧化氫是底物，酶量固定，因此調整底物量可控制氣體生成。
-⚠️ Distinguish between the limiting reactant and non-limiting reactant: here, hydrogen peroxide is the substrate while enzyme concentration is fixed, so altering substrate amount controls gas output.
-
-❌ 改變錐形瓶大小不會影響反應中產生的氣體體積，只影響實驗裝置外觀，故非有效方法。
-❌ Changing the size of the conical flask does not affect the gas volume produced; it only alters apparatus space, so it is not an effective modification.
-
-總結 / Summary:
-應使用更大的針筒以容納更多氧氣，並減少過氧化氫溶液體積，以防氧氣產量超出收集極限。
-A larger syringe should be used to collect more oxygen, and the volume of hydrogen peroxide solution reduced to avoid exceeding the syringe’s collection limit.",
-1910,"📌參考答案 
-
-✅ A – 
-0 至 W 時段 (0–W interval)
-最能反映不同溫度對產生氧氣速率的影響。
-This interval best reflects the effect of temperature on the rate of oxygen production.
-
-📘詳細解釋 Detailed Explanation
-改變溫度會影響過氧化氫酶的活性，從而改變反應速率。
-Changing the temperature alters the activity of catalase, thereby changing the reaction rate.
-
-在時間 0–W 之間，反應仍在進行中，氧氣體積隨時間穩定上升。
-Between 0 and W, the reaction is still ongoing, and the oxygen volume increases steadily with time.
-
-在這階段，氧氣的生成速率直接反映了酶活性，因此適合用來比較不同溫度下的效果。
-During this stage, the rate of oxygen production directly reflects enzyme activity, making it suitable for comparing effects under different temperatures.
-
-到了 X、Y 或 Z 時，所有過氧化氫底物幾乎被分解完畢，氣體體積達到恆定值。
-At points X, Y, or Z, nearly all hydrogen peroxide substrates are decomposed, and gas volume reaches a plateau.
-
-此時氧氣體積的最大值取決於原本的底物量，與酶的活性已無關，因此不宜作比較。
-At this stage, the final gas volume depends only on the initial substrate amount and no longer reflects enzyme activity, so it is unsuitable for comparison.
-
-因此，0–W 時段 是最能量度酶活性的時間範圍。
-Therefore, the 0–W interval is the most appropriate period to measure enzyme activity.
-
-🧠考試提醒 Exam Tips
-🧪 酶實驗比較速率時，應選擇反應進行中的線性階段，而不是反應終點。
-When comparing enzyme rates, always select the linear phase of the reaction, not the end point.
-
-🌡 不同溫度會使酶的結構或活性中心改變。
-Different temperatures can alter the enzyme’s structure or active site.
-
-🌿 過高溫度會令酶失活；溫度太低則降低活性。
-Excessive heat leads to enzyme denaturation; too low a temperature slows activity.
-
-📈 當氧氣體積增長呈線性時（如 0–W），可準確比較不同條件下反應速率。
-When the oxygen volume increases linearly (as in 0–W), it allows accurate comparison of reaction rates under different conditions.
-
-⚠️ 常見錯誤：選擇 X–Z 時段，因為這時反應已停止，體積不再增加，無法反映速率。
-Common mistake: choosing X–Z, since reaction has stopped and gas volume no longer changes, making rate comparison meaningless.",
-1911,"📌參考答案 
-
-✅ B
-只有圖 B 正確展示了以擴散作用吸收溶質時的初始速率變化。
-Only graph B correctly shows the initial rate of solute uptake by diffusion.
-
-📘詳細解釋 Detailed Explanation
-只有當外在溶液的濃度高於細胞內的濃度時，溶質才會由高濃度區域擴散進入細胞。
-Solute diffuses into the cell only when the external concentration is higher than that inside the cell.
-
-當外在溶液濃度達到 X（即細胞內濃度）時，兩者濃度相等，沒有濃度梯度，因此沒有淨擴散。
-When the external concentration equals X (the internal concentration), no concentration gradient exists, so no net diffusion occurs.
-
-超過此濃度後（外在濃度 > X），擴散速率與濃度差成正比，所以圖線為通過 X 點後的直線關係。
-Beyond this point (external > X), the diffusion rate is directly proportional to the concentration difference, giving a straight line through X.
-
-因此，圖 B 是唯一符合被動擴散理論的選項。
-Hence, graph B is the only one consistent with passive diffusion behavior.
-
-🧠考試提醒 Exam Tips
-💡 擴散原則：
-擴散速率 ∝ 濃度梯度。
-Diffusion rate is proportional to the concentration gradient.
-
-🌿 當濃度內外相等時（等滲 X 點），淨擴散速率為零。
-At isotonic point (X), net diffusion rate is zero.
-
-📈 若外部濃度繼續增加，擴散速率線性提高。
-If external concentration increases further, diffusion rate increases linearly.
-
-❌ 常見錯誤：
-
-圖 A 錯誤，因為它顯示在低濃度時已有吸收。
-Graph A is wrong because it shows uptake even when external concentration is below X.
-圖 C 錯誤，這種飽和曲線代表促進擴散或主動運輸，非簡單擴散。
-Graph C represents facilitated or active transport, not simple diffusion.
-圖 D 錯誤，因為擴散速率與濃度差呈線性，而非指數上升。
-Graph D is wrong because diffusion rate is linear with concentration difference, not exponential.",
-1912,"✅ 參考答案：D
-
-🧠詳細解釋：
-卵子和精子都屬於人類的配子 (gametes)，在減數分裂後各自含有 23 條染色體。
-Both the ovum and the sperm are human gametes, each containing 23 chromosomes after meiosis.
-
-這包括 22 條常染色體 (autosomes) 與 1 條性染色體 (sex chromosome)。
-This consists of 22 autosomes and 1 sex chromosome.
-
-卵子固定攜帶 X 性染色體，而精子則可能攜帶 X 或 Y 性染色體。
-The ovum always carries an X chromosome, while the sperm may carry either an X or Y chromosome.
-
-因此，雖然精子間可分 X 或 Y 型，但卵子與精子均擁有相同數目的染色體 (23)。
-Therefore, even though sperm differ by X or Y, both gametes have the same total number of chromosomes (23).
-
-🧠考試提醒：
-✅ 題目問「染色體數目」時，要注意是 數目 (number)，而非類型或大小。
-Always note whether the question asks about chromosome number, not type or size.
-
-⚠️ 「基因數目」(選項 A) 為陷阱： Y 染色體的基因明顯少於 X 染色體。
-Be cautious of “number of genes” (option A) — the Y chromosome carries far fewer genes than the X chromosome.
-
-⚠️ 卵子的細胞質量遠大於精子，所以 B 錯。
-Eggs are much larger than sperm, so B is incorrect.
-
-⚠️ 卵子含大量營養物儲備以供胚胎早期發育，精子的儲備則極少，所以 C 錯。
-Eggs store nutrients for early embryonic growth, while sperm have minimal reserves — thus C is incorrect.",
-1913,"✅ 參考答案：D
-
-🧠詳細解釋
-五邊形圖案代表與含氮鹼基結合的五碳糖。
-The pentagon represents the five-carbon sugar that binds to the nitrogenous base.
-
-圓形代表 DNA 鏈中連接五碳糖的磷酸鹽基團。
-The circular shape represents the phosphate group connecting deoxyribose sugars in the DNA strand.
-
-因此：
-Therefore:
-
-W 是磷酸鹽 (phosphate group)
-X 是糖 (deoxyribose sugar)
-根據模型中不同花紋的矩形，可知代表不同的含氮鹼基。
-According to the model, rectangles with different patterns represent different nitrogenous bases.
-
-Y 和 Z 是互補鹼基配對。若 Y 為腺嘌呤 (A)，則其對應鹼基 Z 為胸腺嘧啶 (T)；若 Y 為鳥嘌呤 (G)， Z 則為胞嘧啶 (C)。
-Y and Z form a complementary base pair. If Y is adenine (A), Z is thymine (T); if Y is guanine (G), Z is cytosine (C).
-
-🧠考試提醒
-題目通常以 「形狀符號對應 DNA 結構」 考查概念，記住：
-In this type of question, symbols represent parts of the DNA structure — remember:
-
-結構	圖形提示	英文名	功能
-圓形	 磷酸鹽	Phosphate	鏈接糖形成骨架 → phosphodiester bond
-五邊形 脫氧核糖	Deoxyribose	接含氮鹼基 + 連磷酸鹽
-矩形	 含氮鹼基	Nitrogenous base	遺傳密碼位點 (互補配對) 
-✅ 互補配對規則：A–T ； G–C。
-Complementary pairing rule: A–T and G–C.",
+📌 詳細解釋
+五邊形代表與含氮鹼基結合的五碳糖，圓形代表連接五碳糖的磷酸鹽，因此 X 是糖，W 是磷酸鹽。
+The pentagon represents the 5-carbon sugar bound to the nitrogenous base, and the circle represents the phosphate connecting the sugars, so X is sugar and W is phosphate.
+從圖可見，Y 和 Z 分別位於兩對不同的鹼基對上，它們不能是互相配對的互補鹼基。
+From the figure, Y and Z are located on two different base pairs; they cannot be complementary bases pairing with each other.
+若 Y 是腺嘌呤，與它配對的鹼基必須是胸腺嘧啶，則 Z 必須是另一對鹼基對中的胞嘧啶或鳥嘌呤。
+If Y is adenine, its pairing base must be thymine, so Z must be cytosine or guanine from the other base pair.
+因此，選項 D（Z 為鳥嘌呤）最有可能分辨出各分子。
+Therefore, Option D (Z being guanine) is the most likely combination to identify each molecule.
+📌 考試提醒
+DNA 雙螺旋結構中，腺嘌呤必定與胸腺嘧啶配對，胞嘧啶必定與鳥嘌呤配對。
+In the DNA double helix structure, adenine always pairs with thymine, and cytosine always pairs with guanine.
+常見錯誤：錯誤以為圖中位於同側的鹼基（Y 和 Z）是同一對互補鹼基。
+Common trap：Mistakenly assuming that bases on the same side (Y and Z) in the diagram form a complementary base pair.",
 1914,"✅ 參考答案：D（(1)、(2) 和 (3) 均可出現）
 
 🧠詳細解釋：
@@ -560,33 +328,23 @@ Biconcave shape → increases surface area for gas exchange.
 ⚠️ 常見錯誤：
 以為紅血球不能獲得能量或血紅蛋白會用完。
 Common mistake: assuming RBCs cannot generate energy or that hemoglobin gets “used up.”",
-1916,"✅ 參考答案：D
+1916,"📌 參考答案
+D
 
-🧠詳細解釋
-視桿細胞負責在光線不足時的視覺，即「暗視覺」。
-Rod cells are responsible for vision under dim light conditions, known as scotopic vision.
-
-在光線昏暗時，若影像落在視桿細胞較多的視網膜區域，視覺會更清晰。
-Under dim light, an image falling on an area of the retina with more rod cells is seen more clearly.
-
-視桿細胞主要分佈於視網膜外圍，其密度遠高於視錐細胞。
-Rod cells are mainly distributed around the peripheral retina, with a much higher density than cone cells.
-
-視錐細胞集中在黃斑（特別是中央凹）並負責彩色及明亮環境下的視覺。
-Cone cells are concentrated in the fovea of the macula, specialized for color and bright‑light vision.
-
-因此，在昏暗環境中，視錐細胞功能降低，而視桿細胞主導。
-Thus, in a dim room, cone cell activity decreases while rod cells dominate.
-
-若垃圾桶影像落在視網膜外圍、視桿細胞密集區，志德會看得更清楚。
-If the image of the trash bin falls on the outer retina, where rod cells are abundant, he will see it more clearly.
-
-🧠考試提醒
-✅ 記住：「明亮—錐細胞 (cones)，昏暗—桿細胞 (rods)。」
-Remember: “Bright — cones, Dim — rods.”
-
-⚠️ 黃斑區幾乎全為錐細胞，昏暗時不適合聚焦影像。
-The macula (especially the fovea) contains almost only cones, so it's not effective under dim conditions.",
+📌 詳細解釋
+視桿細胞主要負責光線不足時的視覺，而視錐細胞則負責彩色視覺及強光下的視覺。
+Rod cells are primarily responsible for vision in dim light, while cone cells are responsible for colour vision and vision in bright light.
+視網膜外周的視桿細胞分佈密度遠高於視錐細胞。
+The density of rod cells at the peripheral retina is much higher than that of cone cells.
+在光線暗淡的房間內，若垃圾桶的影像落在視桿細胞較多的視網膜外周，志德能看見得更清楚。
+In a dimly lit room, if the image of the trash bin falls on the peripheral retina where rod cells are more abundant, Chi-tak can see it more clearly.
+黃點雖然負責最清晰的視覺，但它主要由視錐細胞組成，在弱光環境下無法有效運作。
+Although the yellow spot is responsible for the sharpest vision, it mainly consists of cone cells and cannot function effectively in dim light.
+📌 考試提醒
+視網膜上的黃點含有最高密度的視錐細胞，而外周則佈滿負責暗視覺的視桿細胞。
+The yellow spot on the retina contains the highest density of cone cells, while the periphery is packed with rod cells responsible for scotopic vision.
+常見錯誤：誤以為黃點在任何光線條件下都能提供最清晰的影像，忽略了感光細胞種類的作用。
+Common trap：Mistakenly believing that the yellow spot provides the clearest image under all lighting conditions, ignoring the roles of different photoreceptor cells.",
 1917,"📘 參考答案 Answer
 ✅ C — 角膜 (Cornea)
 
@@ -857,42 +615,23 @@ Close during relaxation → prevent backflow.
 4️⃣ 記憶法：
 「壓高者推閉，壓低者接納。」
 Mnemonic: “High pressure closes, low pressure allows flow.”",
-1923,"✅ 參考答案 / Suggested Answer
-答案：C. X 和 Y
+1923,"📌 參考答案
+C
 
-💡 詳細解釋 / Detailed Explanation
-
-W 是 琺瑯質 (enamel)，X 是 象牙質 (dentine)，Y 是 牙骨質 (cement)。
-W is enamel, X is dentine, and Y is cementum.
-
-琺瑯質（W）是牙齒最外層，不具生命，主要由無機物構成，約 96% 為羥磷灰石（calcium phosphate crystalline salts）。
-Enamel (W) is the outermost layer of the tooth and is non-living, composed mainly of inorganic material — about 96% hydroxyapatite (a calcium phosphate crystal).
-
-雖然琺瑯質含有最多的鈣質，但它不是活組織，不能自我修復。
-Although enamel contains the highest calcium content, it is not a living tissue and cannot repair itself.
-
-象牙質（X）與牙骨質（Y）則是活組織 (living tissues)，
-Dentine (X) and cementum (Y), on the other hand, are living tissues.
-
-它們內含細胞（如成牙本質細胞與牙骨母細胞），並且含有大量鈣鹽使其堅硬。
-They contain cells (like odontoblasts and cementoblasts) and have a large amount of calcium salts that make them hard.
-
-因此，X 和 Y 既是活組織，又含有豐富的鈣鹽。
-Therefore, both X and Y are living tissues rich in calcium salts.
-
-⚠️ 考試提醒 / Exam Tips
-
-1️⃣ 琺瑯質 (Enamel)：最硬，但無生命；受損後不能修復。
-Enamel: Hardest substance but non-living; cannot regenerate once damaged.
-
-2️⃣ 象牙質 (Dentine)：活的組織，由牙髓細胞分泌，能有限度修復。
-Dentine: Living tissue formed by odontoblasts; can repair slightly.
-
-3️⃣ 牙骨質 (Cementum)：活組織，連接牙齒與牙周韌帶。
-Cementum: Living tissue that anchors the tooth to the periodontal ligament.
-
-4️⃣ 所以考題若問「含大量鈣鹽的活組織」，選 象牙質 (X) 和 牙骨質 (Y)。
-Hence, when asked for “living tissues containing calcium salts,” choose X (dentine) and Y (cementum).",
+📌 詳細解釋
+W 是琺瑯質，位於牙齒最外層，雖然含有大量鈣鹽，但它是沒有生命的組織。
+W is enamel, located at the outermost layer of the tooth; although it contains abundant calcium salts, it is a non-living tissue.
+X 是象牙質，構成牙齒的主體，含有大量鈣鹽使其堅硬，且屬於活組織。
+X is dentine, forming the bulk of the tooth; it contains a large amount of calcium salts for hardness and is a living tissue.
+Y 是包圍並支撐牙根的顎骨，它同樣是含有豐富鈣鹽的活組織。
+Y is the jawbone surrounding and supporting the tooth root; it is also a living tissue rich in calcium salts.
+因此，同時符合「含大量鈣鹽」及「活組織」兩個條件的只有 X（象牙質）和 Y（顎骨）。
+Therefore, only X (dentine) and Y (jawbone) meet both conditions of ""containing abundant calcium salts"" and being a ""living tissue"".
+📌 考試提醒
+琺瑯質是人體最堅硬的部分，由高濃度的無機鈣鹽組成，但不含活細胞，受損後無法自行修復。
+Enamel is the hardest part of the human body, composed of high concentrations of inorganic calcium salts, but it lacks living cells and cannot repair itself when damaged.
+常見錯誤：混淆了牙齒各層的性質，誤以為最堅硬的琺瑯質是活組織。
+Common trap：Confusing the properties of different tooth layers, mistakenly believing the hardest enamel is a living tissue.",
 1924,"✅ 參考答案 / Suggested Answer
 答案：C. 8
 
@@ -926,69 +665,23 @@ Permanent teeth have 32 in total, including premolars and wisdom teeth.
 4️⃣ 記憶法：
 「乳齒每象限五顆：二門一犬二臼。」
 Mnemonic: “Each quadrant of baby teeth has 5 — two incisors, one canine, two molars.”",
-1925,"📌 參考答案 Answer
-答案：C（只有試管 (2) 和 (3)）
+1925,"📌 參考答案
+C
 
-📖 詳細解釋 Detailed Explanation
-
-脫脂牛奶主要含有小分子的碳水化合物（雙糖與單糖）及蛋白質，只含極少量脂肪。
-Skimmed milk mainly contains small carbohydrates (disaccharides and monosaccharides) and proteins, with only traces of fat.
-
-因此它幾乎沒有澱粉，而唾液澱粉酶只能分解澱粉。
-Hence it contains almost no starch, while salivary amylase can act only on starch.
-
-試管 (1)：脫脂牛奶 + 唾液
-Test tube (1): Skimmed milk + Saliva
-
-唾液中的澱粉酶可將澱粉分解為麥芽糖。
-The amylase in saliva converts starch to maltose.
-
-但脫脂牛奶中沒有澱粉，故不會發生化學性消化。
-However, since skimmed milk contains no starch, no chemical digestion occurs.
-
-試管 (2)：脫脂牛奶 + 胃液
-Test tube (2): Skimmed milk + Gastric juice
-
-胃液含有胃蛋白酶，可將蛋白質分解為短肽。
-Gastric juice contains pepsin, which digests proteins into short peptides.
-
-所以此處會發生蛋白質的化學性消化。
-Therefore, chemical digestion of proteins takes place here.
-
-試管 (3)：脫脂牛奶 + 腸液（含酶）
-Test tube (3): Skimmed milk + Intestinal juice (with enzymes)
-
-腸液內含多種酶，例如胰澱粉酶與蛋白酶，可分解碳水化合物和蛋白質。
-The intestinal juice contains various enzymes (such as amylase and protease) that digest carbohydrates and proteins.
-
-因此試管 (3) 中也會進行化學性消化。
-Hence, chemical digestion also occurs in test tube (3).
-
-總結而言，只有試管 (2) 與 (3) 出現化學性消化反應。
-In summary, only test tubes (2) and (3) undergo chemical digestion.
-
-🧭 考試提醒 Exam Tips
-
-考試時要根據食材成分與酶的底物專一性來判斷反應是否會發生。
-In exams, always consider the food composition and the enzyme’s substrate specificity to determine whether digestion occurs.
-
-唾液酶只分解澱粉，不會作用於蛋白質或乳糖。
-Salivary amylase only acts on starch, not on proteins or lactose.
-
-胃蛋白酶則只在酸性環境下分解蛋白質。
-Pepsin in gastric juice works only in an acidic environment to digest proteins.
-
-腸液中含有多種酶，是最能進行全面化學性消化的部分。
-Intestinal juice contains multiple enzymes and is the main site for most chemical digestion.
-
-溫度 37 °C 模擬人體內部環境，有助於酶達至最佳活性。
-The 37 °C water bath simulates body temperature, allowing enzymes to work at optimal activity.
-
-✅ 最後重點：
-✅ Key Point:
-
-記得看清「消化需要酶與合適底物」——沒有底物，即使有酶也不會產生反應。
-Always remember that digestion requires both an enzyme and its specific substrate — without either, no reaction will occur.",
+📌 詳細解釋
+脫脂牛奶的主要成分是較細小的碳水化合物和蛋白質，只含有極少量脂質。
+Skimmed milk mainly consists of small carbohydrates and proteins, containing only a very small amount of lipids.
+試管 (1) 的唾液含唾液澱粉酶，但脫脂牛奶中幾乎沒有澱粉，因此不會發生化學性消化。
+Saliva in test tube (1) contains salivary amylase, but since skimmed milk lacks starch, no chemical digestion occurs.
+試管 (2) 的胃液含蛋白酶，能將牛奶中的蛋白質催化分解成肽，從而發生化學性消化。
+Gastric juice in test tube (2) contains protease, which catalyzes the breakdown of proteins in the milk into peptides, causing chemical digestion.
+試管 (3) 的胰液含胰腺碳水化合物酶和蛋白酶，同樣能對牛奶成分進行化學性消化。
+Pancreatic juice in test tube (3) contains pancreatic carbohydrases and proteases, which also chemically digest the milk components.
+📌 考試提醒
+不同消化液含有特定種類的酶，必須與相應的受質配合才能進行化學性消化。
+Different digestive juices contain specific types of enzymes and must match their corresponding substrates for chemical digestion to occur.
+常見錯誤：學生常以為唾液澱粉酶能分解所有碳水化合物，忽略了它只能專一性地作用於澱粉。
+Common trap：Students often assume salivary amylase can break down all carbohydrates, ignoring its specificity solely for starch.",
 1926,"📌 參考答案 Answer
 答案：A
 
@@ -1030,533 +723,188 @@ Energy per gram = 1E × 0.3 + 1E × 0.6 + 2E × 0.1�
 
 因此，每克食物 A 能產生最高的能量。
 Therefore, food A produces the highest energy per gram.",
-1927,"📖 📌 參考答案 Answer
-答案：C
-
-📖 詳細解釋 Detailed Explanation
-
-血管 X 和 Z 的肌肉壁較厚、管腔較小，是臍帶動脈，將血液由胎兒輸送到胎盤。
-Vessels X and Z have thicker muscular walls and narrower lumens; they are umbilical arteries that carry blood from the fetus to the placenta.
-
-血管 Y 的血管壁較薄、管腔較大，是臍帶靜脈，將血液由胎盤送回胎兒。
-Vessel Y has a thinner wall and wider lumen; it is the umbilical vein, carrying blood from the placenta to the fetus.
-
-選項 A
-Option A
-臍帶動脈輸送的是缺氧血，而臍帶靜脈輸送含氧血。
-The umbilical arteries carry deoxygenated blood, while the umbilical vein carries oxygenated blood.
-
-因此血管 Y 內的血氧量應較血管 X 高。
-Therefore, the oxygen content in Y is higher than in X.
-
-（此選項所說「X 含氧量高於 Y」是錯的。）
-(This statement claiming “X has more oxygen than Y” is false.)
-
-選項 B
-Option B
-血管 Z 和 X 都是臍帶動脈，血糖量應相近。
-Vessels Z and X are both umbilical arteries, so their glucose levels should be similar.
-
-（所以若說兩者血糖量不同，也是不正確的。）
-(Hence, any option claiming a difference in glucose between them is wrong.)
-
-選項 C ✅
-Option C – Correct
-
-臍帶靜脈（血管 Y）把營養物質（如胺基酸）由母體輸送至胎兒。
-The umbilical vein (vessel Y) transports nutrients (such as amino acids) from the mother to the fetus.
-
-養分經胎兒代謝後，血液再經臍帶動脈（血管 X 與 Z） 送回胎盤。
-After metabolism in the fetus, waste-laden blood is sent back to the placenta through the umbilical arteries (X and Z).
-
-因此，血管 Y 中的血含有較多營養與氧氣；血管 X 及 Z 則含有較多廢物。
-Thus, vessel Y has higher nutrient and oxygen levels, while vessels X and Z contain more waste products.
-
-選項 D
-Option D
-臍帶動脈輸送的血液含二氧化碳量最高，因為要把廢氣帶往胎盤排出。
-The umbilical arteries carry blood rich in carbon dioxide, to be cleared via the placenta.
-
-因此血管 Z 內二氧化碳含量高於 Y。
-Hence, CO₂ in Z is higher than in Y.
-
-（本選項若說反過來，則屬錯誤。）
-(This statement is false if it claims the reverse.)
-
-✅ 總結 Summary
-
-血管	  性質	血液流向	    含氧量 含營養量	含二氧化碳量
-X、Z	臍帶動脈	胎兒 ➜ 胎盤	低	低	       高
-Y	臍帶靜脈	胎盤 ➜ 胎兒	高	高	       低
-🧭 考試提醒 Exam Tips
-1️⃣ 臍帶共有 2 條動脈 + 1 條靜脈。
-The umbilical cord contains two arteries and one vein.
-
-2️⃣ 名稱根據「血流方向」，動脈離胎兒、靜脈回胎兒。
-Names are based on blood flow relative to the fetus — arteries leave the fetus, veins return to it.
-
-3️⃣ 臍帶靜脈血為含氧血，這是與成人循環不同的特例。
-The umbilical vein carries oxygenated blood, which is opposite to the usual adult pattern.
-
-4️⃣ 常見錯誤：以為「動脈一定含氧」、「靜脈一定缺氧」 — 胎兒循環並非如此。
-Common mistake: assuming “arteries always carry oxygenated blood” — this rule does not apply in fetal circulation.
-
-🌟 重點 Key Point
-
-臍帶靜脈（Y）👉 含氧且富營養；
-Umbilical vein (Y)",
-1928,"📌 參考答案 Answer
-答案：B
-
-（即只有 (1) 和 (3) 正確）
-(Only statements (1) and (3) are correct.)
-
-📖 詳細解釋 Detailed Explanation
-
-比較四組裝置可研究生長素在莖內的轉運方向與影響因素。
-By comparing the four setups, we can study the direction and factors affecting auxin transport in the stem.
-
-放射性標記的生長素可用來追蹤其運輸的位置。
-Radioactively labelled auxin is used to trace its movement through the tissue.
-
-(1) 生長素在莖部的轉運不受地心吸力影響。
-(1) The transport of auxin in the stem is not affected by gravity.
-
-比較裝置 (1) 與 (4)， 或 (2) 與 (3)， 即使上下顛倒，放射性分布結果相同。
-Comparing setups (1) and (4), or (2) and (3), the distribution pattern remains the same even when inverted.
-
-這表示生長素的運輸不受重力影響。
-This shows that auxin transport is independent of gravity.
-
-✅ 因此 (1) 正確。
-✅ Therefore, (1) is correct.
-
-(2) 生長素在莖部的轉運涉及主動運輸。
-(2) Auxin transport in the stem involves active transport.
-
-實驗僅示範生長素從高濃度一端移向無生長素的一端。
-The experiment only shows movement of auxin from a region of high to low concentration.
-
-這說明它能沿着濃度梯度以被動方式擴散，但沒有證據顯示需能量參與。
-This demonstrates passive movement along the concentration gradient, without proving energy requirement.
-
-⛔ 因此 (2) 錯誤。
-⛔ Hence, (2) is incorrect.
-
-(3) 生長素在莖內主要沿 a → b 方向傳送。
-(3) Auxin is mainly transported from region a to region b in the stem.
-
-比較 (1) 與 (3)， 或 (2) 與 (4)：
-Comparing (1) and (3), or (2) and (4):
-
-若含生長素的瓊脂放在切口 a， 放射性可傳到 b；
-When the auxin plate is placed at cut a, radioactivity appears at b;
-
-反之放在 b， 傳送不完全。
-But if placed at b, transport to a is limited or absent.
-
-證明生長素正常情況下由上端 (a) 向下端 (b) 移動。
-This proves that auxin normally moves downward from the apex (a) to the base (b).
-
-✅ 因此 (3) 正確。
-✅ Therefore, (3) is correct.
-
-🧠 考試提醒 Exam Tips
-
-觀察題中瓊脂板位置與放射性分佈方向，即可推論生長素的流向。
-Observe the agar block position and radioactive pattern to deduce auxin movement.
-
-生長素的極性運輸由頂端向基部，與重力無關。
-Auxin shows polar transport from apex to base, independent of gravity.
-
-此運輸通常是「方向性」且受細胞膜運輸蛋白控制。
-This movement is directional, controlled by membrane transport proteins.",
-1929,"📌參考答案 | Suggested Answer
-✅ 正確答案：A
-
-📌詳細解釋 | Detailed Explanation
-
-題目要求找出山坡斜度是否影響植物物種的分布。
-The question asks how to investigate whether the slope of a hillside affects the distribution of plant species.
-
-研究物種於環境梯度（例如由山腳到山頂）上的分布變化，應採用樣線取樣法（transect）。
-To study how species distribution changes along an environmental gradient (e.g. from the foot to the top of a hill), a transect method is used.
-
-樣線是一條沿著某方向（在此為山坡方向）放置的線。
-A transect is a line placed along a specific direction (in this case, up the slope).
-
-研究者沿線記錄或取樣線上接觸到的植物物種，便可觀察物種隨斜度變化而出現的分布趨勢。
-Researchers record or sample the plant species touching the line to observe how species distribution changes with slope.
-
-因此，選項 A 「沿著山坡攤放一條樣線，並記錄觸到樣線的植物物種」最合適。
-Therefore, option A — “laying a transect line along the slope and recording the species touching the line” — is most appropriate.
-
-選項 B 為環繞山坡放樣線，未反映斜度變化，故不適合。
-Option B suggests placing a transect around the slope, which does not represent a gradient in slope steepness, so it is inappropriate.
-
-選項 C 及 D 使用樣方（quadrats），是估算生物多寡或密度的方法，而非研究沿梯度的分布變化。
-Options C and D use quadrats, a method for estimating abundance or density, not for studying distribution along a gradient.
-
-總結而言：樣線取樣法（A）能準確顯示植物物種隨山坡斜度改變的分布模式。
-In summary, the transect method (A) effectively shows how plant species distribution changes with hill slope gradient.
-
-📌考試提醒 | Exam Tips
-
-✅ 若題目提及環境梯度（如光照、濕度、高度、坡度），應選用樣線取樣法（transect）。
-If the question mentions an environmental gradient (such as light intensity, humidity, altitude, or slope), choose the transect method.
-
-✅ 若題目提及估算數量、密度或覆蓋率，則使用**樣方（quadrat）**取樣法。
-If the question asks to estimate number, density, or coverage, use the quadrat method.
-
-✅ 樣線通常搭配非生物因素的測量，例如坡度、溫度、光照，以分析分布的原因。
-A transect is usually accompanied by measuring abiotic factors (e.g. slope, temperature, light) to explain the observed distribution.
-
-✅ 要牢記：樣線 → 研究分布變化；樣方 → 研究數量多少。
-Remember: Transect → distribution pattern, Quadrat → population size.
-
-📘精簡總結 | Quick Summary
-
-目標：研究植物分布與坡度關係。
-Goal: To study the relationship between plant distribution and slope.
-方法：沿山坡放樣線記錄植物物種（選 A）。
-Method: Place a transect along the slope and record species (Option A).
-常見錯誤：使用樣方或繞山一圈 → 無法顯示斜度差異。
-Common error: Using quadrats or circling around the slope → slope gradient not represented.",
-1930,"📌參考答案 | Suggested Answer
-✅ 正確答案：C 幼苗葉子的總表面面積
-
-📌詳細解釋 | Detailed Explanation
-
-題目要求找出可在一段時間內持續記錄幼苗生長的最合適參數。
-The question asks for the most suitable parameter to record the growth of a seedling continuously over a period of time.
-
-1️⃣ 為什麼乾質量不合適 | Why Dry Mass is Unsuitable
-測量乾質量需要將幼苗烘乾至恒重 ，會直接殺死幼苗。
-Measuring dry mass requires drying the seedling to constant weight, which kills it.
-因此不能對同一株幼苗進行重複測量。
-Therefore, it cannot be measured repeatedly on the same plant.
-這種方法僅適用於比較不同組別幼苗的最終生長量，並非連續監察。
-This method is suitable only for comparing final growth between groups, not for continuous monitoring.
-
-2️⃣ 為什麼鮮質量不可靠 | Why Fresh Mass is Inaccurate
-測量鮮質量時，若把幼苗從泥土取出，會損傷根部，影響其後的生長。
-When measuring fresh mass, removing the seedling from soil damages the roots and affects future growth.
-若連同泥土及容器一起稱重，又會因水分蒸發或吸收而導致重量變化。
-If weighed together with soil and container, water gain or loss alters the total mass.
-因此，即使可重複測量，結果也不準確。
-Hence, even though it can be repeated, the results are unreliable.
-
-3️⃣ 為什麼葉面積最理想 | Why Leaf Area is Most Suitable
-幼苗葉子的總表面面積是最能反映其生長良好的指標。
-The total leaf surface area best reflects the healthy growth of a seedling.
-雖然它不能顯示萌芽前的變化，但幼苗在長出葉片後，葉面會隨時間增加並不易脫落。
-Although it does not indicate pre‑germination changes, leaf surfaces expand steadily after leaf emergence and rarely drop off.
-此外，測量葉面積不會對植物造成損害，可連續觀察與記錄。
-Furthermore, measuring leaf area is non‑destructive, allowing continuous and consistent observation.
-
-4️⃣ 為什麼出現第一片葉所需的時間不合適 | Why Time for First Leaf is Unreliable
-出現第一片葉子所需的時間只代表萌芽階段的初步發展。
-The time needed for the appearance of the first leaf only indicates an early stage of development.
-它無法反映植物在萌芽後的進一步生長速率或健康狀況。
-It does not reflect subsequent growth rate or overall health of the seedling.
-因此，此參數不能作為持續生長的量化指標。
-Therefore, this parameter cannot serve as a continuous measurement of growth.
-
-📌考試提醒 | Exam Tips
-
-✅ 若題目提及「一段時間內記錄生長」，應選擇不破壞植株且可連續測量的參數。
-If the question says “record growth over a period of time”, choose a non‑destructive, repeatable parameter.
-
-✅ 若題目提及「比較不同組別」或「獲取最終生長結果」，可使用乾質量。
-If it mentions “comparing groups” or “final growth result”, dry mass may be used.
-
-✅ 鮮質量常受水分波動影響，不宜作精確生長比較。
-Fresh mass is easily affected by water variation and is not reliable for precise comparison.
-
-✅ 葉面面積反映光合作用潛能，是生長研究中常用的間接指標。
-Leaf area reflects photosynthetic capacity and is a common non‑destructive growth indicator.",
-1931,"📌參考答案 | Suggested Answer
-✅ 正確答案：C
-✅ Males and females have similar lengths of adolescent growth periods.
-
-📌詳細解釋 | Detailed Explanation
-題目提供一張顯示人類不同年齡身高增長速率的圖表。
-The question provides a graph showing human height growth rate at different ages.
-
-橫軸代表年齡，縱軸代表年身高增長率。
-The x‑axis represents age, while the y‑axis shows the annual height growth rate.
-
-從圖中可見，出生後增長速率極高，隨後急降，進入幼兒期後速率保持在低水平。
-From the graph, the growth rate is highest after birth, then sharply drops and remains low during childhood.
-
-到了青春期，男女生的身高增長速率再次上升。
-During adolescence, both boys and girls exhibit another rise in the growth rate.
-
-根據圖表，女性在約 8 歲時開始再次上升，在 18 歲左右回落至 0。
-According to the graph, females’ growth rate starts to increase around age 8 and falls back to 0 at about 18 years old.
-
-男性則在 10 歲左右開始上升，在 20 歲時回落至 0。
-For males, the rate begins to rise around 10 and drops to 0 at 20.
-
-因此，男女的青春期生長期均約 10 年。
-Thus, both males and females have an adolescent growth period of about 10 years.
-
-由此可推論，選項 C 是正確的。
-Hence, option C is correct.
-
-❌ 分析錯誤選項 | Explanation of Incorrect Options
-A – 由 0 到 4 歲時，腦部迅速生長。
-A – From age 0 to 4, the brain grows rapidly.
-圖中顯示的只是「身高增長」並非腦部生長，因此無法得出此結論。
-The graph shows height growth rate, not brain growth, so this cannot be inferred.
-
-B – 20 歲後，男性生長率沒有改變。
-B – After 20 years old, the male growth rate does not change.
-圖表只顯示至 20 歲的資料，無後續資料支持此說法。
-The graph only provides data up to 20 years old; nothing beyond that is shown.
-
-D – 女性生殖器官在 10 歲時開始生長。
-D – Female reproductive organs start to develop at 10 years old.
-此圖並未表示任何特定器官的生長，只顯示身高變化。
-The graph shows overall height growth, not the growth of specific organs.
-
-📌考試提醒 | Exam Tips
-✅ 若圖題標示「身高增長速率」，請集中理解為整體身體長度的變化，不可推論特定器官的發育。
-If a graph shows “height growth rate”, focus on overall body length, not specific organ growth.
-
-✅ 青春期快速生長代表荷爾蒙作用導致身體高度迅速上升，之後趨於平穩。
-A growth spurt during puberty indicates hormonal influence causing rapid height increase followed by stabilization.
-
-✅ 辨識圖中峰值與下降點能幫助確定青春期開始與結束年齡。
-Identifying the peak and decline points helps determine the start and end of puberty.
-
-✅ 20 歲左右生長速率接近 0，表示骨骼及身高皆基本定型。
-When the rate approaches 0 around 20 years of age, it means skeletal growth and height have stabilized.",
-1932,"📌參考答案 | Suggested Answer
-✅ 正確答案：D
-✅  Photosynthetic products cannot be transported to the roots for respiration.
-
-📌詳細解釋 | Detailed Explanation
-
-題目顯示樹幹基部被環狀切去一圈樹皮。
-The question shows a tree trunk whose bark has been completely removed in a ring near its base.
-
-這種操作稱為「環狀剝皮（ring barking 或 girdling）」。
-This process is called ring barking or girdling.
-
-1️⃣ 發生了什麼 | What Happened
-切口破壞了樹皮及其下的韌皮部組織。
-The cut damages the bark together with the phloem tissue beneath it.
-木質部仍保留在較內層，因此導水作用不受影響。
-The xylem, located deeper inside, remains intact, so water conduction is not affected.
-
-2️⃣ 對樹木的影響 | Effect on the Tree
-水分與礦物質仍能透過木質部由根部運往葉片。
-Water and minerals can still travel upward from the roots to the leaves through the xylem.
-因此，蒸騰作用及光合作用都能照常進行。
-Therefore, transpiration and photosynthesis can still continue.
-
-然而，韌皮部已被切斷，葉片製造的有機養分（如蔗糖）無法向下運送至根部與果實。
-However, the phloem is cut, preventing organic nutrients (e.g. sugars) produced in the leaves from being transported downward to the roots and fruits.
-
-根部得不到足夠的養分進行呼吸作用，最終會因缺乏能量而死亡。
-The roots cannot perform respiration due to lack of energy supply and will eventually die.
-當根部死亡後，樹木也會失去吸收水分與礦物質的能力，整棵樹隨之枯死。
-Once the roots die, water and mineral uptake cease, leading to the tree’s ultimate death.
-
-因此，正確選項是 D ：光合作用產物不能運送到根部進行呼吸作用。
-Hence, the correct option is D: The photosynthetic products cannot be transported to the roots for respiration.
-
-3️⃣ 為什麼其他選項錯誤 | Why Other Options Are Incorrect
-A 與 B – 水分不能輸送到葉片
-A and B – Water cannot be transported to the leaves
-水分與礦物質的運輸依賴木質部，而非韌皮部；木質部未受損，輸水功能正常。
-Water transport depends on the xylem, which remains intact, so these statements are wrong.
-
-C – 礦物質不能上運作蛋白質合成
-C – Minerals cannot move up for protein synthesis
-礦物質的上運同樣通過木質部，因此不受環狀切皮影響。
-Mineral transportation also occurs through the xylem and is unaffected by the bark removal.
-
-📌考試提醒 | Exam Tips
-
-✅ 記住：
-木質部 (xylem) → 運輸水與礦物質，由根 → 葉。
-Xylem → transports water and minerals upwards from roots to leaves.
-
-韌皮部 (phloem) → 運輸有機物（糖類、氨基酸等），由葉 → 非光合作用部位。
-Phloem → transports organic substances (e.g. sucrose, amino acids) from leaves to non‑photosynthetic parts.
-
-✅ 若圖中有「環狀切皮」或「樹皮被割去」，立即聯想到韌皮部傳輸被切斷。
-If you see “ring barking” or “bark removed”, immediately think “phloem transport severed”.
-
-✅ 考試時關鍵提示字：
-「有機養分無法輸送 → 根部死亡 → 樹木枯死」。
-Exam clue phrase: “No organic nutrient transport → roots die → tree dies.”
-",
-1933,"📌參考答案 | Suggested Answer
-✅ 正確答案：B
-Q and R are nitrifying bacteria.
-
-📌詳細解釋 | Detailed Explanation
-
-題目展示氮循環的幾個步驟與涉及的細菌種類。
-The question shows several steps in the nitrogen cycle and the types of bacteria involved.
-
-根據圖中信息：
-According to the diagram:
-
-細菌 P 位於豆科植物根瘤內。
-Bacterium P is located inside the root nodules of a leguminous plant.
-細菌 S 分解有機物；
-Bacterium S decomposes organic matter.
-細菌 Q 和 R 將銨化合物轉變成含氧氮化合物；
-Bacteria Q and R convert ammonium compounds into oxygen‑containing nitrogen compounds.
-細菌 T 將硝酸鹽轉化為氮氣。
-Bacterium T converts nitrates into nitrogen gas.
-1️⃣ 細菌 P — 固氮細菌 | Bacterium P – Nitrogen‑Fixing Bacterium
-細菌 P 寄生於豆科植物的根瘤內，如 Rhizobium 屬。
-Bacterium P lives symbiotically inside the legume root nodules (e.g. Rhizobium species).
-它能把大氣中的氮氣固定成硝酸鹽或銨離子，供植物吸收利用。
-It converts atmospheric nitrogen (N₂) into nitrates or ammonium ions usable by the plant.
-此作用對植物生長有利，因此 P 屬於固氮細菌，而非寄生細菌。
-This benefits the plant, so P is a nitrogen‑fixing bacterium, not a parasitic one.
-
-2️⃣ 細菌 S — 分解細菌 | Bacterium S – Decomposer Bacterium
-細菌 S 將動植物屍體與廢物分解，釋放含氮有機物並轉化為銨化合物。
-Bacterium S decomposes dead organisms and waste, releasing nitrogen compounds and converting them into ammonium compounds.
-因此 S 為分解細菌（腐敗細菌），而非反硝化細菌。
-Thus, S is a decomposer (putrefying bacterium), not a denitrifying bacterium.
-
-3️⃣ 細菌 Q 與 R — 硝化細菌 | Bacteria Q and R – Nitrifying Bacteria
-Q 和 R 負責將銨化合物（NH₄⁺）氧化為亞硝酸鹽與硝酸鹽。
-Q and R oxidize ammonium compounds (NH₄⁺) into nitrites and nitrates.
-此過程稱為「硝化作用（nitrification）」，因此 Q 和 R 均為硝化細菌。
-This process is called nitrification, hence Q and R are nitrifying bacteria.
-
-4️⃣ 細菌 T — 反硝化細菌 | Bacterium T – Denitrifying Bacterium
-細菌 T 將土壤中的硝酸鹽還原為氣態氮（N₂），釋放回大氣。
-Bacterium T reduces soil nitrates back to gaseous nitrogen (N₂), returning it to the atmosphere.
-因此 T 屬於反硝化細菌。
-Therefore, T is a denitrifying bacterium.
-
-✳️ 結論 | Conclusion
-根據以上分析，細菌 Q 與 R 是硝化細菌，能將銨化合物轉化為亞硝酸鹽與硝酸鹽。
-Based on the above, bacteria Q and R are nitrifying bacteria, converting ammonium compounds into nitrites and nitrates.
-所以正確答案是選項 B。
-Therefore, the correct choice is B.
-
-📌考試提醒 | Exam Tips
-✅ 熟記氮循環主要步驟：
-Memorize the key steps of the nitrogen cycle:
-
-步驟	過程名稱	                                 主要細菌	                             功能
-1	固氮作用 Nitrogen fixation	固氮細菌 e.g. Rhizobium	將 N₂ → NH₄⁺ / NO₃⁻
-2	分解作用 Ammonification	分解細菌	                       有機氮 → NH₄⁺
-3	硝化作用 Nitrification	硝化細菌 (Q 與 R)	             NH₄⁺ → NO₂⁻ → NO₃⁻
-4	反硝化作用 Denitrification	反硝化細菌 (T)	              NO₃⁻ → N₂
-
-✅ 牢記傳輸方向：氮氣經由固氮進入生物體，再透過反硝化回大氣。
-Remember the flow: nitrogen enters biotic forms by fixation and returns to the atmosphere through denitrification.
-
-✅ 圖中若出現「根瘤」＝固氮；「屍體分解」＝分解；「NO₂⁻→NO₃⁻」＝硝化；「NO₃⁻→N₂」＝反硝化。
-If the diagram shows “root nodule → fixing”, “decomposition → ammonia”, “NO₂⁻→NO₃⁻ → nitrification”, or “NO₃⁻→N₂ → denitrification,” match accordingly.
-",
-1934,"📌參考答案 
-✅ C
-
-
-📌詳細解釋
-
-真菌是生態系中的分解者，分解生物屍體或有機廢物。
-Fungi are decomposers in the ecosystem, breaking down dead organisms and organic waste.
-
-它們將有機物分解成可重用的無機營養，如氨、硝酸鹽等，回歸環境。
-They convert organic matter into reusable inorganic nutrients, such as ammonia and nitrates, returning them to the environment.
-
-在圖中的細菌中，只有細菌 S以有機物為食，負責分解牛糞等廢物。
-Among the bacteria shown, only bacterium S feeds on organic matter, decomposing waste such as cow dung.
-
-因此，細菌 S 的作用與真菌相似，都是分解者 (decomposer)。
-Therefore, bacterium S plays a role similar to fungi — both are decomposers.
-
-📌考試提醒
-
-要清楚區分在氮循環中的各類細菌功能。
-Be sure to distinguish the roles of different bacteria in the nitrogen cycle.
-
-細菌類型	功能	英文對照
-P	固氮菌（豆科根瘤菌）	Nitrogen-fixing bacteria (in root nodules)
-Q、R	硝化菌，將NH₄⁺變為NO₂⁻、NO₃⁻	Nitrifying bacteria – convert NH₄⁺ to NO₂⁻/NO₃⁻
-S	腐生細菌，分解有機廢物	Saprophytic bacteria – decompose organic waste
-T	反硝化菌，將NO₃⁻變為N₂ 氣體	Denitrifying bacteria – convert NO₃⁻ to N₂ gas
-⚠️ 真菌和細菌 S 皆為分解者，但在作用上與固氮或硝化菌不同。
-⚠️ Both fungi and bacterium S are decomposers, unlike nitrogen-fixing or nitrifying bacteria.",
-1935,"📌參考答案 
-✅ 參考答案：A
-
-📌詳細解釋
-
-第二型糖尿病患者的身體細胞對胰島素反應不足。
-Type II diabetic patients have body cells that are insulin resistant.
-
-因此，當血糖和胰島素水平升高時，他們的肝細胞與肌肉細胞無法將葡萄糖轉化為糖原儲存。
-Therefore, when blood glucose and insulin levels are high, their liver and muscle cells fail to convert glucose into glycogen for storage.
-
-結果是糖原儲備量較少。
-As a result, they have a limited glycogen store.
-
-在長時間運動的過程中，健康的人會利用糖原分解成葡萄糖以供能量。
-During prolonged exercise, healthy individuals use stored glycogen to supply glucose for energy.
-
-但二型糖尿病患者由於缺乏足夠的糖原，當血糖下降後無法進行補充，因此容易出現低血糖與暈眩。
-However, since type II diabetics lack sufficient glycogen reserves, they cannot replenish glucose when blood sugar drops, leading to hypoglycemia and dizziness.
-
-📌考試提醒
-
-✅ 胰島素（insulin）促進葡萄糖進入細胞並合成糖原。
-Insulin facilitates glucose uptake by cells and stimulates glycogen synthesis.
-
-⚠️ 二型糖尿病患者的特徵是胰島素抗性，不是胰島素缺乏。
-Type II diabetes is characterized by insulin resistance, not deficiency of insulin.
-
-⚠️ 長時間運動後血糖降低並非因升糖素不足，而是因糖原儲備不足。
-The drop in blood sugar after long exercise is due to insufficient glycogen stores, not lack of glucagon.
-
-總結 / Summary
-二型糖尿病患者運動後因糖原儲備不足，無法維持血糖水平，因此可能出現暈眩。
-Type II diabetics may feel dizzy after prolonged exercise because insufficient glycogen stores cannot maintain blood glucose level.
-
-✅ 答案 / Answer: A — 糖原儲備不足導致血糖過低
-✅ A — Lack of glycogen reserves causes blood glucose to fall too low",
-1936,"📌參考答案
+1927,"📌 參考答案
 C
 
-📌詳細解釋
+📌 詳細解釋
+血管 X 和 Z 具較厚的肌肉壁和較細小的管腔，因此是臍帶動脈，負責將血液從胚胎輸送至胎盤。
+Vessels X and Z have thicker muscular walls and narrower lumens; they are umbilical arteries responsible for transporting blood from the embryo to the placenta.
+血管 Y 具較薄的血管壁和較大的管腔，因此是臍帶靜脈，負責將血液從胎盤輸送至胚胎。
+Vessel Y has a thinner vessel wall and a larger lumen; it is the umbilical vein responsible for transporting blood from the placenta to the embryo.
+臍帶動脈輸送缺氧血，而臍帶靜脈輸送含氧血，因此血管 Y 內的血含氧量較血管 X 高（選項 A 錯誤）。
+The umbilical arteries transport deoxygenated blood, while the umbilical vein transports oxygenated blood, so the oxygen content in vessel Y is higher than in vessel X (Option A is incorrect).
+血管 Z 和血管 X 都是臍帶動脈，因此兩者的血含葡萄糖量應相近（選項 B 錯誤）。
+Vessels Z and X are both umbilical arteries, so their blood glucose content should be similar (Option B is incorrect).
+臍帶靜脈將營養物質（包括氨基酸）從母親的血液輸送至胚胎，其含氨基酸量較臍帶動脈（血管 X）高，故選項 C 正確。
+The umbilical vein transports nutrients (including amino acids) from the mother's blood to the embryo, so its amino acid content is higher than that of the umbilical arteries (vessel X), making Option C correct.
+臍帶動脈將二氧化碳含量高的血液輸送至胎盤清除，因此血管 Z 內的血含二氧化碳量較血管 Y 高（選項 D 錯誤）。
+The umbilical arteries transport blood with a high carbon dioxide content to the placenta for removal, so the carbon dioxide content in vessel Z is higher than in vessel Y (Option D is incorrect).
+📌 考試提醒
+臍帶靜脈將富含氧氣和營養的血液帶給胎兒，而臍帶動脈則將缺氧且富含代謝廢物的血液帶離胎兒。
+The umbilical vein carries oxygen- and nutrient-rich blood to the fetus, whereas the umbilical arteries carry deoxygenated and waste-rich blood away from the fetus.
+常見錯誤：錯誤以為所有動脈都輸送含氧血，並忽略了胎兒循環的特殊性。
+Common trap：Mistakenly assuming that all arteries carry oxygenated blood and ignoring the uniqueness of the fetal circulation.",
+1928,"📌 參考答案
+B
 
-抗體是由特化的 B 細胞（稱為漿細胞）分泌出來的。
-Antibodies are secreted by specialized B cells, known as plasma cells.
+📌 詳細解釋
+比較裝置 (1) 和 (4) 以及裝置 (2) 和 (3)，可觀察到即使將整個裝置垂直倒置，實驗結果亦不會受影響。
+By comparing setups (1) and (4) as well as setups (2) and (3), it can be observed that even if the whole setup is vertically inverted, the experimental results are not affected.
+這表示生長素在莖部的轉運不受地心吸力影響，因此結論 (1) 正確。
+This indicates that auxin transport in the stem is not affected by gravity, so conclusion (1) is correct.
+四個裝置都顯示生長素是從高濃度的一端轉運至沒有生長素的一端。
+All four setups show that auxin is transported from the end with a high concentration to the end without auxin.
+這可能是通過不需要能量的被動過程（擴散作用）沿濃度梯度轉運，無法單憑此結果推斷是否涉及主動運輸，因此結論 (2) 錯誤。
+This could be transported down the concentration gradient via a passive process (diffusion) that does not require energy; it cannot be deduced from this result alone whether active transport is involved, so conclusion (2) is incorrect.
+比較裝置 (1) 和 (3) 以及裝置 (2) 和 (4)，若把含生長素的瓊脂板放在切口 a，生長素可輸送到整條莖切段。
+Comparing setups (1) and (3) as well as setups (2) and (4), if the auxin-containing agar block is placed at cut a, auxin can be transported to the entire stem segment.
+若放在切口 b，則輸送不完全，證明在正常情況下生長素主要沿 a 至 b 的方向進行，結論 (3) 正確。
+If placed at cut b, the transport is incomplete, proving that under normal conditions auxin is mainly transported in the direction from a to b, making conclusion (3) correct.
+📌 考試提醒
+生長素在植物體內的轉運具有極性，通常是單向地從莖頂向下轉運。
+Auxin transport in plants exhibits polarity, usually moving unidirectionally downwards from the shoot apex.
+常見錯誤：錯誤以為生長素的轉運完全依賴地心吸力，或過度推論實驗結果證明了主動運輸。
+Common trap：Mistakenly believing that auxin transport depends entirely on gravity, or over-inferring that the experimental results prove active transport.",
+1929,"📌 參考答案
+A
 
-漿細胞在受抗原刺激後，會由 B 淋巴球分化而成，並大量製造和釋放抗體到血液中。
-After stimulation by antigens, B lymphocytes differentiate into plasma cells, which produce and release antibodies into the bloodstream.
+📌 詳細解釋
+為了納入非生物因素（即山坡的斜度）的變化，取樣測量必須沿著山坡的斜度方向進行。
+To incorporate changes in the abiotic factor (i.e., the slope of the hill), sampling must be conducted along the direction of the slope.
+樣線（Transect）適合用於研究物種在環境梯度上的分佈範圍。
+A transect is suitable for studying the distribution range of species along an environmental gradient.
+因此，沿著山坡擺放一條樣線並記錄觸到樣線的植物物種，是最合適的取樣方法。
+Therefore, laying a transect along the slope and recording the plant species touching the transect is the most appropriate sampling method.
+環繞山坡擺放樣線並無法反映斜度高低帶來的環境差異。
+Placing a transect around the slope cannot reflect the environmental differences caused by varying slope heights.
+樣方（Quadrat）則主要適合用於估算生物的數量或密度，而不是用來研究分佈的漸變模式。
+A quadrat is mainly suitable for estimating the abundance or density of organisms, rather than for studying gradual changes in distribution patterns.
+📌 考試提醒
+樣線是用來研究環境梯度（如斜度、光照強度）如何影響生物分佈範圍的最佳方法。
+A transect is the best method to study how an environmental gradient (e.g., slope, light intensity) affects the distribution range of organisms.
+常見錯誤：錯誤選擇樣方，忽略了樣方只適合用於估算同一生境內的生物多寡，而非研究梯度分佈。
+Common trap：Mistakenly choosing a quadrat, ignoring that a quadrat is only suitable for estimating the abundance of organisms in a uniform habitat, not for studying gradient distribution.",
+1930,"📌 參考答案
+C
+C
+📌 詳細解釋
+測量幼苗的乾質量會殺死幼苗，因此不可能在一段時間內對同一株植物進行連續測量。
+Measuring the dry mass kills the seedling, making it impossible to take continuous measurements on the same plant over a period of time.
+測量盆栽幼苗的鮮質量需要將幼苗連根拔起，這會傷害根部並影響其後生長；若連泥土測量則受水分影響而不準確。
+Measuring the fresh mass of a potted seedling requires uprooting it, which damages the roots and affects future growth; measuring it with soil is inaccurate due to fluctuations in water content.
+幼苗出現第一塊葉子所需的時間只是單一數據，無法作為一段時間內連續生長的指標。
+The time needed for the seedling to develop its first leaf is a single data point and cannot serve as an indicator of continuous growth over a period.
+幼苗葉子的總表面面積可以連續量度而不傷害植物，且新生的葉子不易掉落，是反映其生長的良好指標。
+The total surface area of the seedling's leaves can be measured continuously without harming the plant, and new leaves do not fall off easily, making it a good indicator of its growth.
+📌 考試提醒
+在持續觀察植物生長的實驗中，必須選擇非破壞性的測量參數。
+In experiments continuously observing plant growth, a non-destructive measurement parameter must be chosen.
+常見錯誤：忘記測量乾質量必須先烘乾植物，誤以為乾質量適用於持續性的生長監察。
+Common trap：Forgetting that measuring dry mass requires drying the plant first, mistakenly believing that dry mass is suitable for continuous growth monitoring.",
+1931,"📌 參考答案
+C
 
-記憶 B 細胞只是用來在第二次入侵時更快啟動免疫反應，並不直接產生抗體。
-Memory B cells exist to accelerate the immune response on re‑infection, but they do not directly produce antibodies.
+📌 詳細解釋
+該圖表只顯示了整體身高的生長速率，並無顯示大腦或女性生殖器官的生長情況，因此無法推斷選項 A 和 D。
+The graph only shows the overall height growth rate and does not indicate the growth of the brain or female reproductive organs, so options A and D cannot be inferred.
+圖表僅涵蓋至 20 歲的數據，並沒有提供 20 歲之後生長是否改變的資料，因此選項 B 無法被推斷。
+The graph only covers data up to 20 years old and provides no information on whether growth changes after 20, so option B cannot be inferred.
+根據圖表，女性的生長速率在 8 歲開始上升，並在 18 歲時回落至零，這段青年期持續了 10 年。
+According to the graph, the growth rate for females starts to rise at 8 years old and drops back to zero at 18 years old, meaning this adolescent period lasts for 10 years.
+男性的生長速率則在 10 歲開始上升，並在 20 歲時回落至零，這段青年期的長度同樣是 10 年。
+The growth rate for males starts to rise at 10 years old and drops back to zero at 20 years old, meaning the length of this adolescent period is also 10 years.
+因此，男性和女性的青年期長短一樣。
+Therefore, males and females have a similar length of the adolescent growth period.
+📌 考試提醒
+解讀生長曲線時，必須嚴格根據圖表提供的數據得出結論，不可過度引申至未提及的器官。
+When interpreting growth curves, conclusions must be drawn strictly based on the data provided in the graph without over-inferring to unmentioned organs.
+常見錯誤：錯誤以為生長速率跌至零代表某個階段的結束便可隨意推測其他器官的發展。
+Common trap：Mistakenly assuming that a growth rate dropping to zero allows for arbitrary speculation about the development of other organs.",
+1932,"📌 參考答案
+D
 
-特化 T 細胞則包括輔助性 T 細胞（活化 B 細胞）及殺手 T 細胞（殺死受感染細胞），也不會分泌抗體。
-Specialized T cells include helper T cells (which activate B cells) and cytotoxic T cells (which kill infected cells), but they do not secrete antibodies.
+📌 詳細解釋
+環繞樹幹的新切口破壞了位於樹幹外圍的韌皮部。
+The new cut surrounding the trunk damages the phloem located at the outer region of the trunk.
+水分和礦物質是通過位於莖部核心的木質部向上轉運的，這部分未受切口影響，因此轉運正常。
+Water and minerals are transported upwards through the xylem near the core of the stem, which is unaffected by the cut, so this transport remains normal.
+韌皮部受損後，葉片進行光合作用產生的有機養分（如糖分）便不能向下轉運到根部。
+After the phloem is damaged, the organic nutrients (e.g., sugars) produced by photosynthesis in the leaves cannot be transported downwards to the roots.
+根部細胞因缺乏葡萄糖進行呼吸作用而無法產生能量，最終導致根部死亡，隨後整棵樹死去。
+Root cells fail to produce energy due to the lack of glucose for respiration, eventually leading to root death and subsequently the death of the entire tree.
+📌 考試提醒
+木質部負責將水分及礦物質由根部向上運輸；韌皮部負責將光合作用產物向下或向上運輸至植物各部。
+The xylem is responsible for transporting water and minerals upwards from the roots; the phloem is responsible for transporting photosynthetic products downwards or upwards to various plant parts.
+常見錯誤：混淆了木質部與韌皮部的位置與功能，誤以為剝去樹皮會切斷水分的向上運輸。
+Common trap：Confusing the positions and functions of the xylem and phloem, mistakenly believing that removing the bark severs the upward transport of water.",
+1933,"📌 參考答案
+B
 
-📌考試提醒
+📌 詳細解釋
+細菌 P 生存在豆科植物的根瘤內，是將氮氣轉化為銨化合物的固氮細菌，它與植物互利共生，並非寄生細菌。
+Bacterium P lives in the root nodules of leguminous plants and is a nitrogen-fixing bacterium that converts nitrogen gas into ammonium compounds; it has a mutualistic relationship with the plant and is not a parasitic bacterium.
+細菌 S 分解牛糞等有機廢物，將當中的含氮化合物轉化為銨化合物，是分解者細菌而非反硝化細菌。
+Bacterium S decomposes organic wastes like cow dung, converting the nitrogenous compounds within into ammonium compounds; it is a putrefying bacterium, not a denitrifying bacterium.
+細菌 Q 和 R 將銨化合物氧化為含氮化合物（亞硝酸鹽和硝酸鹽），因此它們是硝化細菌。
+Bacteria Q and R oxidize ammonium compounds into nitrogenous compounds (nitrites and nitrates), so they are nitrifying bacteria.
+固氮細菌負責將空氣中的氮氣轉化為銨化合物，圖中的細菌 R 並沒有進行此反應。
+Nitrogen-fixing bacteria are responsible for converting atmospheric nitrogen into ammonium compounds, which is not the reaction performed by bacterium R in the diagram.
+📌 考試提醒
+在氮循環中，硝化細菌負責將銨化合物轉化為亞硝酸鹽，再轉化為硝酸鹽。
+In the nitrogen cycle, nitrifying bacteria are responsible for converting ammonium compounds into nitrites, and then into nitrates.
+常見錯誤：將硝化細菌與固氮細菌的功能混淆，或無法透過流程圖中的反應物與產物辨識細菌種類。
+Common trap：Confusing the functions of nitrifying bacteria with nitrogen-fixing bacteria, or failing to identify the bacteria based on the reactants and products in the flowchart.",
+1934,"📌 參考答案
+C
 
-✅ 抗體 = 漿細胞（特化 B 細胞）製造。
-Antibodies = produced by plasma cells (specialized B cells).
+📌 詳細解釋
+真菌在生態系統中扮演分解者的角色，透過分解生物屍體或無生命的有機物來攝取養分。
+Fungi play the role of decomposers in an ecosystem, obtaining nutrients by breaking down dead bodies or non-living organic matter.
+在圖中，細菌 S 分解牛糞（有機廢物），將其轉化為銨化合物。
+In the diagram, bacterium S decomposes cow dung (organic waste) and converts it into ammonium compounds.
+因此，細菌 S 也是分解者，與真菌在物質循環中的角色相似。
+Therefore, bacterium S is also a decomposer, having a role similar to fungi in the cycling of materials.
+細菌 P 為固氮細菌，細菌 Q 與 R 為硝化細菌，細菌 T 為反硝化細菌，它們皆不屬於分解者。
+Bacterium P is a nitrogen-fixing bacterium, Q and R are nitrifying bacteria, and T is a denitrifying bacterium; none of them are decomposers.
+📌 考試提醒
+分解者（如真菌和腐敗細菌）能分泌酶到體外消化有機物，讓有用的元素（如碳、氮）重返生態系統。
+Decomposers (like fungi and putrefying bacteria) secrete enzymes externally to digest organic matter, allowing useful elements (like carbon and nitrogen) to return to the ecosystem.
+常見錯誤：學生未能聯繫真菌的腐生營養方式與圖中細菌 S 分解牛糞的相似性。
+Common trap：Students fail to connect the saprophytic nutrition of fungi with the similarity of bacterium S decomposing cow dung in the diagram.",
+1935,"📌 參考答案
+A
 
-⚠️ 記憶 B / T 細胞只負責記錄抗原，不直接作戰。
-Memory B and T cells store antigen information but do not directly fight.
+📌 詳細解釋
+II 型糖尿病患者的身體細胞對胰島素敏感度不足，無法作出正常反應。
+The body cells of Type II diabetes patients lack sensitivity to insulin and fail to respond normally.
+因此，即使胰島素水平高，他們的肝細胞和肌肉細胞也不會將多餘的葡萄糖轉化為糖原儲存。
+Therefore, even when insulin levels are high, their liver and muscle cells do not convert excess glucose into glycogen for storage.
+在長時間運動期間，健康人士會將儲存的糖原轉化為葡萄糖以進行呼吸作用。
+During prolonged exercise, healthy individuals convert stored glycogen into glucose to carry out respiration.
+由於患者缺乏足夠的糖原儲備，當血糖降至低水平時便無法有效補充，導致血糖過低而感到暈眩。
+Since patients lack sufficient glycogen reserves, they cannot effectively replenish glucose when blood glucose drops to a low level, resulting in low blood sugar and dizziness.
+📌 考試提醒
+II 型糖尿病的主因是靶細胞對胰島素產生抗性，而非缺乏胰島素。
+The main cause of Type II diabetes is that target cells develop resistance to insulin, rather than a lack of insulin production.
+常見錯誤：誤以為 II 型糖尿病患者的胰高血糖素不足，或錯誤以為暈眩是因為血糖升得太高。
+Common trap：Mistakenly believing that Type II diabetics lack glucagon, or falsely assuming that dizziness is caused by excessively high blood sugar.",
+1936,"📌 參考答案
+C
 
-⚠️ 殺手 T 與輔助 T 細胞屬於細胞性免疫，而抗體屬於體液性免疫。
-Cytotoxic and helper T cells are part of cell‑mediated immunity, while antibodies function in humoral immunity.
-",
+📌 詳細解釋
+當特定的抗原入侵身體時，會激活相對應的 B 細胞。
+When a specific antigen invades the body, it activates the corresponding B cells.
+這些 B 細胞隨後會進行分裂及分化，成為特化的 B 細胞。
+These B cells then undergo division and differentiation to become specialized B cells.
+特化的 B 細胞負責產生並釋放大量針對該抗原的抗體到血液中。
+Specialized B cells are responsible for producing and releasing large amounts of antibodies specific to that antigen into the blood.
+記憶 B 細胞和記憶 T 細胞只負責在日後同種抗原再次入侵時迅速啟動免疫反應，不會直接產生抗體。
+Memory B cells and memory T cells are only responsible for rapidly initiating an immune response upon subsequent invasion by the same antigen; they do not produce antibodies directly.
+📌 考試提醒
+抗體是體液免疫反應的產物，專門由特化的 B 細胞負責合成及分泌。
+Antibodies are products of the humoral immune response, exclusively synthesized and secreted by specialized B cells.
+常見錯誤：錯誤以為 T 細胞或記憶細胞具備分泌抗體的能力。
+Common trap：Mistakenly believing that T cells or memory cells have the ability to secrete antibodies.",
 19p101,"(a)
 (i) 物理屏障：A、D（皮膚、血凝塊）
 (i) Physical barrier: A, D (skin, blood clot)
