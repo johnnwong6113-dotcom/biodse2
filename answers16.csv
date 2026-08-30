@@ -1,4 +1,4 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 1601,"📌 答案 (Answer)
 C. Y
 
@@ -354,47 +354,29 @@ Higher CO₂ → higher rate, until other factor limits.
 Affects enzyme activity in Calvin cycle.
 
 👉 圖中的差異 (x vs y) 來自 溫度，因為 CO₂ 濃度與光強度相同。",
-1610,"📌 答案 (Answer)
+1610,"📌 參考答案
 C. 有更多二氧化碳作為光合作用的原料
 C. More carbon dioxide as the raw material for photosynthesis
 
-📌 詳細解釋 (Detailed Explanation)
-曲線 P：25℃，0.4% CO₂
-曲線 Q：25℃，0.04% CO₂
-唯一不同 → 二氧化碳濃度
-👉 P 的光合作用速率比 Q 高，是因為 P 提供更多 CO₂ 作為暗反應 (Calvin cycle) 的原料，加快碳固定 → 提升光合作用速率。
+📌 詳細解釋
+曲線 P 與 Q 的唯一分別在於二氧化碳的濃度。
+The only difference between curves P and Q is the carbon dioxide concentration.
+二氧化碳是光合作用卡爾文循環中的受質之一。
+Carbon dioxide is one of the substrates in the Calvin cycle of photosynthesis.
+較高的二氧化碳濃度提供更多原料，直接導致光合作用速率增加，因此選項 C 是最能解釋此現象的直接原因。
+A higher carbon dioxide concentration provides more raw materials, directly increasing the rate of photosynthesis, making option C the most direct explanation.
+雖然較高的大氣二氧化碳濃度會令濃度梯度較陡峭，從而使二氧化碳更快擴散進入氣孔，但這只是間接原因，故選項 B 並非最佳答案。
+Although a higher atmospheric carbon dioxide concentration creates a steeper concentration gradient that allows carbon dioxide to diffuse into the stomata faster, this is only an indirect cause, so option B is not the best answer.
+選項 A 錯誤，因為即使 P 表現出較高的速率，我們也不能由此推論它已具備所有的最適條件。
+Option A is incorrect because even though P shows a higher rate, we cannot infer that it possesses all optimal conditions.
+選項 D 錯誤，因為題目要求比較的是曲線 P 與 Q 在不同條件下的分別，而非 P 與大氣環境的比較。
+Option D is incorrect because the question requires a comparison between curves P and Q under different conditions, rather than a comparison between P and the atmospheric environment.
 
-為什麼其他選項不對？
-A. P 具備所有最適條件
-
-不夠精確，因為圖已知溫度相同，關鍵是在 CO₂ 濃度不同。
-Too vague; root cause is CO₂ concentration, not ""all optimal conditions"".
-❌
-B. 二氧化碳更快擴散進入葉子
-
-即使擴散快，若濃度不高，仍不能顯著提升速率。
-Faster diffusion alone is not the key; concentration matters.
-❌
-C. 有更多二氧化碳作為原料
-
-直接原因 → 暗反應速率上升。
-Direct cause → Calvin cycle rate increases.
-✅ 正確。
-D. P 的 CO₂ 濃度較大氣高得多
-
-雖然事實正確，但只是描述數據差異，沒有指出影響光合作用速率的生理原因。
-Factual but not explanatory; doesn’t address mechanism.
-❌
-📌 考試提醒 (Exam Tips)
-光合作用限制因素 (Limiting factors)
-
-光強度 Light intensity → 光反應能量供應
-二氧化碳濃度 CO₂ concentration → 暗反應原料 (Calvin cycle substrate)
-溫度 Temperature → 酵素活性對暗反應有影響
-關鍵理解 Key point：
-
-CO₂ ↑ → 提供更多碳骨架 → 增快葡萄糖合成 → 光合作用速率 ↑
-Increasing CO₂ → more carbon skeletons → faster glucose production → higher photosynthesis rate",
+📌 考試提醒
+當題目要求選出「最能解釋」的選項時，考生必須仔細區分現象背後的直接生化原因與間接物理影響。
+When asked to choose the option that ""best explains"" a phenomenon, candidates must carefully distinguish between the direct biochemical cause and indirect physical effects.
+常見錯誤：考生往往只留意到描述事實正確的選項（如氣體擴散速率加快）便立刻選擇，而忽略了該選項未能直指生化反應的根本原因。
+Common trap：Candidates often select an option merely because it states a factual truth (such as a faster rate of gas diffusion) without realizing that it fails to pinpoint the fundamental cause of the biochemical reaction.",
 1611,"📌 答案 (Answer)
 D.
 X = 光強度 Light intensity
@@ -474,113 +456,69 @@ Counting experiments → use low magnification, more samples → reduce error.
 
 觀察細胞細節：才用 高倍數。
 For detailed cell structures → use high magnification.",
-1613,"📌 參考答案 (Answer Key)
-13. B（肝靜脈）
+1613,"📌 參考答案
+B. 肝靜脈
+B. Hepatic vein
 
-📌 詳細解釋 (中英對照 | Detailed Explanation)
+📌 詳細解釋
+尿素是氨基酸在肝臟進行脫氨作用後的代謝廢物。
+Urea is the metabolic waste produced from the deamination of amino acids in the liver.
+肝靜脈負責將血液運離肝臟，因此其尿素含量在所有血管中最高。
+The hepatic vein carries blood away from the liver, thus it has the highest urea content among all blood vessels.
+選項 A 不正確，因為血液經過腎臟過濾後，腎靜脈的尿素含量已大幅下降。
+Option A is incorrect because the blood has been filtered by the kidneys, significantly lowering the urea content in the renal vein.
+選項 C 不正確，因為肺靜脈主要負責將含氧血由肺部運回心臟，與尿素濃度無直接關係。
+Option C is incorrect because the pulmonary vein mainly carries oxygenated blood from the lungs to the heart, which is not directly related to urea concentration.
+選項 D 不正確，因為肝門靜脈負責將小腸吸收的養分運送至肝臟，尚未進行脫氨作用。
+Option D is incorrect because the hepatic portal vein transports absorbed nutrients from the small intestine to the liver, prior to deamination.
 
-尿素 (urea)
+📌 考試提醒
+肝靜脈是人體內尿素濃度最高的血管，而腎靜脈則是尿素濃度最低的血管。
+The hepatic vein is the blood vessel with the highest urea concentration in the body, while the renal vein has the lowest.
+常見錯誤：學生常誤以為肝門靜脈含有大量代謝廢物，實際上它主要運送腸道吸收的葡萄糖和氨基酸。
+Common trap: Students often mistakenly think the hepatic portal vein contains a lot of metabolic wastes; in reality, it mainly transports glucose and amino acids absorbed from the intestines.
 
-由 肝臟 (liver) 進行 脫氨作用 (deamination)，將氨基酸代謝後的含氮廢物轉化而來。
-Urea is produced in the liver during deamination, where nitrogenous waste from amino acid metabolism is converted.
-血管比較 (Comparison of blood vessels):
+Q14 ❌ 舊",
+1614,"📌 參考答案
+B.
+B.
 
-A 腎靜脈 (renal vein): 血液已經過濾 → 尿素含量下降。
-Renal vein: blood already filtered → lower urea content.
-B 肝靜脈 (hepatic vein): 血液剛從肝臟排出，尿素生成最多 → 尿素濃度最高。
-Hepatic vein: blood just leaving liver, urea produced freshly → highest concentration.
-C 肺靜脈 (pulmonary vein): 主要運送富氧血液，與尿素無直接關係。
-Pulmonary vein: mainly transports oxygenated blood, not related to urea concentration.
-D 肝門靜脈 (hepatic portal vein): 將腸道吸收的養分送往肝臟，尿素濃度不高。
-Hepatic portal vein: carries nutrients from intestines to liver, low in urea.
-➡ 答案 = B 肝靜脈
+📌 詳細解釋
+兩個物種之間的核苷酸差異愈少，代表牠們的親緣關係愈接近。
+The fewer nucleotide differences between two species, the closer their evolutionary relationship.
+根據圖表，物種 P 與 Q 的差異最少（只有 4），顯示兩者親緣關係最接近，在進化樹上最遲分支。
+According to the table, species P and Q have the fewest differences (only 4), indicating they are closest relatives and diverged most recently on the evolutionary tree.
+同樣地，物種 R 與 S 的差異為 11，顯示兩者構成另一個親緣關係較近的群體。
+Similarly, species R and S have 11 differences, showing they form another closely related group.
+物種 T 與其餘四個物種的差異最大（介乎 19 至 22），因此 T 最早與其他物種分離。
+Species T has the largest differences from the other four species (ranging from 19 to 22), so T diverged earliest from the rest.
+因此，最能說明這五個物種親緣關係的進化樹是選項 B。
+Therefore, the evolutionary tree that best illustrates the phylogenetic relationships of these five species is option B.
 
-📌 考試提醒 Exam Tips (中英對照)
+📌 考試提醒
+建構進化樹時，核苷酸或氨基酸序列的差異數目直接反映物種分離的時間。
+When constructing an evolutionary tree, the number of differences in nucleotide or amino acid sequences directly reflects the time of divergence.
+常見錯誤：學生有時會誤以為核苷酸差異數目越大代表親緣關係越近，實際上差異越大代表分支時間越早。
+Common trap: Students sometimes wrongly assume a larger number of nucleotide differences means a closer relationship; actually, a larger difference indicates an earlier time of divergence.",
+1615,"📌 參考答案
+B. 細胞壁
+B. Cell wall
 
-高尿素濃度血管 High urea blood vessel:
+📌 詳細解釋
+真細菌屬於原核生物，其特徵是缺乏真核及膜包圍的細胞器。
+Eubacteria are prokaryotes, characterized by the lack of a true nucleus and membrane-bound organelles.
+大多數原核生物的細胞外圍都具有由肽聚醣組成的細胞壁。
+Most prokaryotes have a cell wall made of peptidoglycan surrounding their cells.
+選項 A 不正確，因為原核生物沒有細胞核，其遺傳物質為游離於細胞質內的環狀 DNA。
+Option A is incorrect because prokaryotes lack a nucleus; their genetic material is circular DNA free in the cytoplasm.
+選項 C 及 D 不正確，因為葉綠體和線粒體均為膜包圍的細胞器，僅存在於真核生物中。
+Options C and D are incorrect because chloroplasts and mitochondria are membrane-bound organelles found only in eukaryotes.
 
-肝靜脈 (Hepatic vein) → 因為肝臟是尿素製造的主要場所。
-低尿素濃度 Low urea blood vessel:
-
-腎靜脈 (Renal vein)，因為腎臟已經將尿素排出至尿液。
-容易混淆的陷阱 Common trap:
-學生常誤選「肝門靜脈」，但它運送的是腸道吸收的葡萄糖、胺基酸等養分，不是代謝廢物。
-Students often mistakenly choose ""hepatic portal vein,"" but it carries nutrients (glucose, amino acids) from intestines, not waste products.",
-1614,"Q14
-📌 參考答案 (Answer Key)
-14. B
-
-📌 詳細解釋 (中英對照 | Detailed Explanation)
-
-題意 (Question meaning):
-圖表給出五個物種 P、Q、R、S、T 的「核苷酸差異數」。差異越少 → 親緣關係越近。
-Table shows nucleotide differences between 5 species (P, Q, R, S, T). Fewer differences = closer evolutionary relationship.
-1. 找最接近的物種 Find the closest pair
-P 與 Q：差異 4 → 最小 → 最近的親緣。
-P & Q: difference = 4 → smallest → closest relatives.
-2. 找次接近關係 Find next closest relations
-P 與 S：差異 11
-Q 與 S：差異 11
-→ 顯示 P、Q 與 S 構成一小群。
-P & S: difference 11
-Q & S: difference 11
-→ P,Q,S form a clade.
-3. 其他物種關係 Others
-P–R = 12，Q–R = 12 → R 與 (P,Q) 關係稍遠。
-S–R = 22，距離最遠。
-T 與 P,Q,R,S 差異約 19~22，顯示 T 距離更遠，是最外圍的一支。
-P–R=12, Q–R=12 → R relatively distant.
-S–R=22 → farthest.
-T differences 19–22 → most distant branch.
-4. 樹狀推理 Tree reasoning
-先合併 P & Q，再與 S 合群，
-然後接近 R，最後才連到最遠的 T。
-➡ 符合的樹狀圖 = 選項 B。
-
-📌 考試提醒 Exam Tips (中英對照)
-
-建構分子親緣樹的核心原則：
-
-分子差異越少 → 親緣越近。
-分子差異越大 → 分支越早出現。
-Rule: Smaller nucleotide differences = closer relation; larger differences = earlier divergence.
-常見陷阱 (Trap):
-學生常誤以為要看「數字最大」決定誰最近，其實是要挑「數字最小」→ 代表親緣最近。
-Students often mistake ""largest difference"" as closer; actually ""smallest difference"" = closer relative.",
-1615,"Q15
-📌 參考答案 (Answer Key)
-15. B（細胞壁）
-
-📌 詳細解釋 (中英對照 | Detailed Explanation)
-
-題目中的物種（Q14 裡提到的五個新物種）都是從深層冰層樣本中發現，是 原核生物 (prokaryotes)。
-The species in question (from Q14) are prokaryotes, discovered in deep ice cores.
-
-選項分析 (Options analysis):
-
-A 細胞核 (nucleus)：原核生物沒有真正的細胞核，DNA 集中於擬核區 (nucleoid)。
-Prokaryotes lack a true nucleus; DNA is in a nucleoid region.
-B 細胞壁 (cell wall)：大多數原核生物（例：細菌）都有細胞壁。✅
-Most prokaryotes (ex: bacteria) have cell walls. ✅
-C 葉綠體 (chloroplasts)：是真核細胞（植物/藻類）特有，原核生物沒有。
-Found in eukaryotes only (plants, algae), absent in prokaryotes.
-D 線粒體 (mitochondria)：也是真核細胞特有，原核生物沒有。
-Also eukaryote-specific, absent in prokaryotes.
-➡ 答案 = B 細胞壁
-
-📌 考試提醒 Exam Tips (中英對照)
-
-原核生物 (Prokaryotes):
-
-有：細胞膜、細胞壁（多為肽聚醣）、核糖體、擬核 DNA
-無：細胞核、葉綠體、線粒體、其他膜狀胞器
-Prokaryotes:
-Have: cell membrane, cell wall (peptidoglycan), ribosomes, nucleoid DNA
-Lack: nucleus, chloroplasts, mitochondria, other membrane-bound organelles
-關鍵區分點 Key distinction:
-
-是否有膜狀胞器 (membrane-bound organelles)
-原核生物 沒有，真核生物 有。",
+📌 考試提醒
+原核生物具備細胞壁、細胞膜及核糖體，但絕對沒有線粒體、葉綠體及細胞核。
+Prokaryotes possess a cell wall, cell membrane, and ribosomes, but absolutely lack mitochondria, chloroplasts, and a nucleus.
+常見錯誤：學生常把原核生物的細胞壁與植物的細胞壁混淆，忽略了原核生物細胞壁的主要成分是肽聚醣而非纖維素。
+Common trap: Students often confuse the prokaryotic cell wall with the plant cell wall, forgetting that the main component of the prokaryotic cell wall is peptidoglycan, not cellulose.",
 1616,"Q16
 📌 參考答案 (Answer Key)
 16. C
@@ -624,50 +562,29 @@ At ventricle → artery exits (aorta & pulmonary artery).
 Atrial systole → AV valves open, semilunar valves closed.
 心室收縮 → 房室瓣關，半月瓣開。
 Ventricular systole → AV valves closed, semilunar valves open.",
-1617,"📌 參考答案 (Answer Key)
-17. C
+1617,"📌 參考答案
+C. Z內血液的葡萄糖含量較W內的高。
+C. The glucose content of the blood in Z is higher than that in W.
 
-📌 詳細解釋 (中英對照 | Detailed Explanation)
+📌 詳細解釋
+右心房（Z）接收來自全身的缺氧血，這些血液隨後會被泵入右心室（Y）並流向肺部。
+The right atrium (Z) receives deoxygenated blood from the whole body, which is then pumped into the right ventricle (Y) and flows to the lungs.
+在肺部進行氣體交換期間，肺部細胞會進行呼吸作用並消耗血液中的葡萄糖。
+During gas exchange in the lungs, lung cells carry out respiration and consume glucose from the blood.
+當血液經肺靜脈返回左心房（W）時，其葡萄糖含量已經下降，因此右心房（Z）的葡萄糖含量較左心房（W）高。
+When the blood returns to the left atrium (W) via the pulmonary vein, its glucose content has decreased, so the right atrium (Z) has a higher glucose content than the left atrium (W).
+選項 A 不正確，因為右心房（Z）接收的是來自全身各處的缺氧血，而非由肺來的含氧血。
+Option A is incorrect because the right atrium (Z) receives deoxygenated blood from the rest of the body, not oxygenated blood from the lungs.
+選項 B 不正確，雖然心臟是同步泵血，但左右心房並非主動泵血的主要腔室，且題目陳述不夠準確反映血壓差。
+Option B is incorrect; although the heart pumps blood synchronously, the atria are not the main chambers for active pumping, and the statement poorly reflects the pressure differences.
+選項 D 不正確，因為左心室（X）泵出的血液需流經全身，其距離遠大於右心室（Y）泵往肺部的距離。
+Option D is incorrect because the blood pumped by the left ventricle (X) travels through the entire body, a much greater distance than the blood pumped by the right ventricle (Y) to the lungs.
 
-圖解位置 Recap diagram labels
-Z = 右心房 (right atrium)
-Y = 右心室 (right ventricle)
-X = 左心室 (left ventricle)
-W = 左心房 (left atrium)
-選項分析 Options Analysis
-A（錯 Wrong）
-
-Z = 右心房，接受來自大靜脈（上腔、下腔靜脈）的血液 → 低氧血 (deoxygenated blood)，不是肺靜脈。
-Z = right atrium, receives blood from vena cava → deoxygenated, not from pulmonary vein.
-B（錯 Wrong）
-
-Z（右心房）與 Y（右心室）的血液性質相同（都攜帶低氧血），但收縮與舒張並非同步。
-Z (RA) and Y (RV) do contain same type of blood (deoxygenated), but they do not contract/relax simultaneously.
-C（對 Correct）
-
-W = 左心房，接受肺靜脈血液（含高濃度葡萄糖與氧）；
-This blood passes into X = 左心室 → 全身；
-所以 W 的血液葡萄糖含量比 Z（右心房）高。
-W (left atrium) receives oxygenated, nutrient-rich blood from pulmonary vein;
-Z (right atrium) receives deoxygenated blood from body.
-→ W has higher glucose concentration. ✅
-D（錯 Wrong）
-
-X（左心室）泵血距離最遠（要送到全身），比 Y（右心室送到肺）遠得多。
-Left ventricle pumps farther (to the body) vs. right ventricle (to lungs). So this statement is incorrect.
-📌 考試提醒 Exam Tips (中英對照)
-
-右心房 (RA, right atrium) → 收集 全身回流的低氧血。
-Right atrium → collects systemic deoxygenated blood.
-
-左心房 (LA, left atrium) → 收集 來自肺部的含氧血。
-Left atrium → collects oxygenated blood from lungs.
-
-右心室 (RV, right ventricle) → 將血送往 肺臟。
-Right ventricle → pumps blood to lungs.
-
-左心室 (LV, left ventricle) → 將血送往 全身，泵血壓力最大。
-Left ventricle → pumps blood to body, strongest pressure.",
+📌 考試提醒
+血液流經任何活躍器官（包括肺部）時，該器官的細胞都會消耗葡萄糖和氧氣以進行呼吸作用。
+When blood flows through any active organ (including the lungs), the cells of that organ consume glucose and oxygen for respiration.
+常見錯誤：學生常以為肺靜脈返回心臟的血液不僅含氧量高，連養分也最高，忽略了肺部組織自身的代謝消耗。
+Common trap: Students often mistakenly think that the blood returning to the heart via the pulmonary vein is highest in both oxygen and nutrients, ignoring the metabolic consumption by lung tissues themselves.",
 1618,"📌 參考答案 (Answer Key)
 18. D
 
@@ -740,42 +657,29 @@ G2: 為分裂做準備 (prepares for mitosis/meiosis)
 
 R 階段已經進入「分裂過程」，不是純間期。
 Stage R already includes division → not purely interphase.",
-1620,"📌 參考答案 (Answer Key)
-20. D（由 S 轉 T）
- D (From S to T)
+1620,"📌 參考答案
+D. 由 S 轉 T
+D. From S to T
 
-📌 詳細解釋 (中英對照 | Detailed Explanation)
+📌 詳細解釋
+在減數細胞分裂的過程中，同源染色體會在第一次核分裂時分離。
+During meiotic cell division, homologous chromosomes separate during the first nuclear division.
+姊妹染色單體則會在第二次核分裂時被紡錘絲拉開而分離。
+Sister chromatids are separated by spindle fibres during the second nuclear division.
+圖中由階段 S 至階段 T 的 DNA 含量發生了第二次減半，這正正代表著第二次減數細胞分裂。
+The transition from stage S to stage T in the graph shows the second halving of DNA content, which exactly represents the second meiotic cell division.
+選項 A 不正確，因為由 P 轉 Q 是 DNA 複製的階段。
+Option A is incorrect because the transition from P to Q is the DNA replication stage.
+選項 B 不正確，因為由 Q 轉 R 的 DNA 含量維持不變，細胞正為分裂作準備。
+Option B is incorrect because the DNA content remains unchanged from Q to R, while the cell prepares for division.
+選項 C 不正確，因為由 R 轉 S 代表第一次減數細胞分裂，此時分離的是同源染色體。
+Option C is incorrect because the transition from R to S represents the first meiotic division, where homologous chromosomes separate.
 
-減數分裂 Meiosis:
-
-同源染色體對（homologous chromosomes）
-→ 在第一次減數分裂 (Meiosis I) 分離。
-→ DNA 含量從 4C → 2C。
-姐妹染色單體（sister chromatids）
-→ 在第二次減數分裂 (Meiosis II) 分離。
-→ DNA 含量再度減半，2C → 1C。
-圖解對應 (Graph interpretation):
-
-R → S = 第一次減數分裂（同源染色體分開）。
-S → T = 第二次減數分裂（姐妹染色單體分開）。
-➡ 因此答案 = D：由 S → T。
-→ Sister chromatids separate during S to T transition (Meiosis II).
-
-📌 考試提醒 Exam Tips (中英對照)
-
-Meiosis I: separates homologous chromosomes.
-
-Meiosis II: separates sister chromatids.
-
-DNA 含量變化 DNA content changes:
-
-Replication: 2C → 4C
-After meiosis I: 4C → 2C
-After meiosis II: 2C → 1C
-陷阱提醒 Trap:
-學生常誤以為「姐妹染色單體在 R → S 分開」，但其實 那是同源染色體分開。
-Students often mistake R → S as separation of sister chromatids, but it is actually separation of homologous chromosomes.
-",
+📌 考試提醒
+減數分裂包含兩次連續的細胞分裂：第一次分離同源染色體，第二次分離姊妹染色單體。
+Meiosis involves two consecutive cell divisions: the first separates homologous chromosomes, and the second separates sister chromatids.
+常見錯誤：學生經常混淆同源染色體與姊妹染色單體的分離時機，誤以為第一次分裂就已經分開了姊妹染色單體。
+Common trap: Students frequently confuse the timing of the separation of homologous chromosomes and sister chromatids, mistakenly thinking that sister chromatids are separated in the first division.",
 1621,"📌 參考答案 (Answer Key)
 21. D（4）
 
@@ -832,271 +736,125 @@ Phloem = organic food (sugar) → bidirectional.
 常見陷阱 Trap:
 學生常把 木質部 誤認為跟「輸送」有關，但要注意木質部只輸送水；營養要靠 韌皮部。
 Students often misidentify xylem as nutrient transport; remember: xylem = water, phloem = food.",
-1623,"📌 參考答案 (Suggested Answer)
-答案：A（1）。
-Answer: A (1).
+1623,"📌 參考答案
+A. 1
 
-📌 詳細解釋 (Detailed Explanation)
+📌 詳細解釋
+圖中的標籤 1 是根毛，負責從土壤中吸收水分及礦物質。
+Label 1 in the diagram points to a root hair, which is responsible for absorbing water and minerals from the soil.
+植物吸收礦物質離子往往需要透過主動運輸來抵抗濃度梯度。
+The absorption of mineral ions by plants often requires active transport against a concentration gradient.
+主動運輸需要消耗大量能量，因此根毛細胞含有較多線粒體以透過呼吸作用提供 ATP。
+Active transport consumes a large amount of energy, thus root hair cells contain more mitochondria to provide ATP through respiration.
+選項 B、C 及 D 均不正確，因為皮層（2）、韌皮部（3）及木質部（4）的細胞代謝活躍度與主動吸收相比通常較低，故線粒體數量不及根毛多。
+Options B, C, and D are incorrect because the metabolic activity of cells in the cortex (2), phloem (3), and xylem (4) is generally lower compared to active absorption, so they contain fewer mitochondria than root hairs.
 
-(1) 根毛 (Root hair)
+📌 考試提醒
+任何牽涉高強度主動運輸的細胞（如根毛細胞、小腸絨毛上皮細胞）都必定含有大量線粒體。
+Any cell involved in intensive active transport (such as root hair cells and intestinal villi epithelial cells) must contain a large number of mitochondria.
+常見錯誤：學生有時會誤以為負責運輸水分的木質導管含有線粒體，其實成熟的木質導管是死細胞，缺乏細胞器。
+Common trap: Students sometimes mistakenly think that xylem vessels, which transport water, contain mitochondria; in reality, mature xylem vessels are dead cells and lack organelles.",
+1624,"📌 參考答案
+C. 只有 (2) 和 (3)
+C. Only (2) and (3)
 
-功能：吸收土壤中的水分和無機鹽類（礦物質）。
-過程：吸收礦物質需要 主動運輸 (active transport)，這需要大量 ATP。
-線粒體作用：提供能量 (ATP) 給主動運輸 → 因此線粒體數量最多。
-Function: Absorbs water and minerals from soil.
-Process: Mineral uptake requires active transport, demanding lots of ATP.
-Mitochondria: Supply ATP for active transport → highest concentration of mitochondria here.
-(2) 皮層 (Cortex)
-主要功能是暫時儲存養分，細胞內線粒體含量相對較少。
-Mainly for temporary storage of food; contains comparatively fewer mitochondria.
+📌 詳細解釋
+液面位置上升表示水分淨移動至透析管內，即透析管內的水勢低於透析管外。
+The rise in the liquid level indicates a net movement of water into the dialysis tubing, meaning the water potential inside the tubing is lower than that outside.
+這推斷出透析管內溶液 S 的濃度較大，因此 x 的值大於 y 的值，即陳述 (2) 正確。
+This infers that the concentration of solution S inside the dialysis tubing is higher, so the value of x is greater than the value of y, meaning statement (2) is correct.
+由於發生了滲透，可推論出溶液 S 的溶質不能穿過透析管，否則溶質會擴散以平衡濃度，液面便不會上升，即陳述 (3) 正確。
+Since osmosis occurred, it can be deduced that the solute of solution S cannot pass through the dialysis tubing; otherwise, the solute would diffuse to balance the concentration, and the liquid level would not rise, meaning statement (3) is correct.
+陳述 (1) 不正確，因為在滲透過程中，擴散進入透析管內的是水分子，而不是溶液。
+Statement (1) is incorrect because during osmosis, it is water molecules that diffuse into the dialysis tubing, not the solution.
 
-(3) 周皮/內皮層 (Endodermis)
-調控水鹽進入導管，但代謝活動沒根毛那麼強烈。
-Regulates flow into xylem but is less metabolically active compared with root hairs.
-
-(4) 中央木質部 (Xylem in stele)
-主要功能是運輸水和無機鹽，而不是能量需求高的活動。
-Functions for water and mineral transport, not energy-demanding activities.
-
-📌 考試提醒 (Exam Tips)
-
-根毛細胞 (Root hair cells) → 最多線粒體（因吸收→主動運輸→需 ATP）。
-
-Root hair cells → most mitochondria (absorption → active transport → ATP demand).
-
-如果題目問「哪裡有大量線粒體」→ 常見答案就是 根毛或活躍運輸的細胞。
-
-If a question asks “where are mitochondria abundant” → usual answer is root hairs or cells doing active transport.",
-1624,"📌 參考答案 (Suggested Answer)
-答案：C（只有 (2) 和 (3)）。
-
-📌 詳細解釋 (Detailed Explanation)
-
-題目裝置說明：
-透析管 (dialysis tubing) 裝有 較濃的溶液 S (x%)，外面則是 較稀的溶液 S (y%)。
-透析管相當於半透膜，只允許水分子通過，不允許大分子或溶質通過。
-The dialysis tubing contains a more concentrated solution S (x%), while the beaker has a more dilute solution S (y%).
-Dialysis tubing acts like a semi-permeable membrane: it allows water molecules through, but not solute molecules.
-
-經過三小時，觀察到「管內液面上升」，代表有水進入透析管 → 發生了 滲透作用 (osmosis)。
-After three hours, liquid level inside the tube rises, showing that water entered → osmosis occurred.
-
-逐一判斷 (Evaluate each statement):
-
-(1) 溶液 S 擴散進入透析管內。
-❌ 錯誤。半透膜不允許溶質 S 通過，只有水分子能進入。
-❌ Wrong. Dialysis tubing does not allow solute S to diffuse in; only water molecules move.
-
-(2) x% 的濃度 > y% 的濃度。
-✅ 正確。外液較稀、內液較濃，水才會由外進入內 → 液面上升。
-✅ Correct. Inside is more concentrated, outside is more dilute, so water enters → level rises.
-
-(3) 溶液 S 的溶質不能穿透透析管。
-✅ 正確。實驗結論與透析管的半透性相符。
-✅ Correct. Explains why only water moves, not solute.
-
-📌 結論 (Conclusion)
-因此，能從液面上升推斷的正確項目是：
-(2) 內側濃度 > 外側濃度
-(3) 溶質不能通過膜
-Therefore, the valid conclusions from the rise in liquid level are:
-(2) Inside concentration > outside concentration
-(3) Solute cannot cross the membrane
-
-→ 答案是 C。
-
-📌 考試提醒 (Exam Tips)
-
-🌱 滲透作用三步法：
-
-找濃度高 (High solute, low water potential)
-找濃度低 (Low solute, high water potential)
-水分子必定由「水多 → 水少」方向移動 (towards more solute).
-🌱 半透膜 (semi-permeable membrane) → 只對 水分子自由通行；溶質若無特別通道，無法進出。",
-1625,"📌 參考答案 (Suggested Answer)
-答案：D（用較長的透析管）。
-Answer: D (Using a longer dialysis tubing).
-
-📌 詳細解釋 (Detailed Explanation)
-
-題目關鍵： 問的是「液面位置上升得較快」= 滲透速率增加。
-Key point: The question asks about “liquid level rising faster” = increased rate of osmosis.
-
-逐一分析 (Option by option):
-
-A. 用較小量的 y% 溶液 S
-❌ 錯。溶液的體積變化不會影響濃度，滲透速率取決於濃度差，不取決於外液多少。
-❌ Wrong. Changing volume does not alter concentration; osmosis depends on concentration gradient, not volume.
-
-B. 用較大量的 y% 溶液 S
-❌ 同樣錯。外液體積增加不影響濃度差，滲透速率不會因此加快。
-❌ Wrong again. Increasing external solution volume does not change concentration difference, so no faster osmosis.
-
-C. 用較短的毛細管
-❌ 錯。毛細管的長短影響的是「液面上升的顯示幅度」而非滲透速率。速率的快慢與毛細管無直接關係。
-❌ Wrong. Shorter tubes only make the liquid rise appear larger for a given volume of water, but do not affect the actual rate of osmosis.
-
+📌 考試提醒
+解釋滲透作用時，必須使用「水勢」（Water potential）及「差異透性膜」等字眼，絕不能單以「濃度差」作答。
+When explaining osmosis, terms like ""water potential"" and ""differentially permeable membrane"" must be used; answering solely with ""concentration difference"" is unacceptable.
+常見錯誤：學生常將水分淨移動描述為溶液的移動，或忽略了差異透性膜對溶質的阻擋作用。
+Common trap: Students often describe the net movement of water as the movement of a solution, or they overlook the blocking effect of the differentially permeable membrane on solutes.",
+1625,"📌 參考答案
 D. 用較長的透析管
-✅ 正確。透析管越長 → 表面積越大 → 可進行滲透的區域更大 → 滲透速率增加 → 液面上升得更快。
-✅ Correct. A longer dialysis tubing increases surface area → more area for osmosis → higher osmosis rate → liquid level rises faster.
+D. Use a longer dialysis tubing
 
-📌 考試提醒 (Exam Tips)
+📌 詳細解釋
+較長的透析管能提供較大的表面面積。
+A longer dialysis tubing can provide a larger surface area.
+較大的表面面積能增加水分子透過差異透性膜擴散的速率，從而使液面位置較快上升。
+A larger surface area increases the rate of diffusion of water molecules across the differentially permeable membrane, thus causing the liquid level to rise faster.
+選項 A 和 B 不正確，因為改變溶液的容量並不會改變水勢梯度，因此不會改變滲透的速率。
+Options A and B are incorrect because changing the volume of the solution does not change the water potential gradient, and therefore does not alter the rate of osmosis.
+選項 C 不正確，使用較短的毛細管只會影響可觀測的總長度，對滲透的實際速率毫無影響。
+Option C is incorrect because using a shorter capillary tube only affects the observable total length, having no effect on the actual rate of osmosis.
 
-🌱 滲透作用速率 ∝ 膜的表面積、濃度差大小、膜的通透性。
-🌱 Osmosis rate ∝ membrane surface area, concentration difference, permeability of membrane.
+📌 考試提醒
+滲透速率主要受表面面積、水勢梯度以及擴散距離（膜的厚度）影響。
+The rate of osmosis is mainly affected by the surface area, the water potential gradient, and the diffusion distance (thickness of the membrane).
+常見錯誤：學生常誤以為增加溶液的體積就能提供更大的壓力差來加速滲透，其實真正驅動滲透的是水勢梯度。
+Common trap: Students often mistakenly believe that increasing the volume of the solution provides a greater pressure difference to accelerate osmosis; in fact, the true driving force is the water potential gradient.",
+1626,"📌 參考答案
+A. 只有 (1) 和 (2)
+A. Only (1) and (2)
 
-🌱 容量大小 (volume) 不影響速率，濃度差才是關鍵。
-🌱 Size of solution volume doesn’t matter; concentration gradient is key.
+📌 詳細解釋
+糖酵解發生在細胞質中，過程中葡萄糖被分解，同時產生並釋放 NADH。
+Glycolysis occurs in the cytoplasm, during which glucose is broken down, producing and releasing NADH.
+克雷伯氏循環發生在線粒體基質內，進一步氧化衍生物，亦會釋放大量 NADH。
+The Krebs cycle takes place in the mitochondrial matrix, further oxidizing derivatives and also releasing a large amount of NADH.
+氧化磷酸化發生在線粒體內膜上，此步驟是將 NADH 氧化回 NAD⁺ 以生成 ATP，並非釋放 NADH。
+Oxidative phosphorylation occurs on the inner mitochondrial membrane; this step oxidizes NADH back to NAD⁺ to generate ATP, rather than releasing NADH.
+因此，只有步驟 (1) 及 (2) 會釋放 NADH。
+Therefore, only steps (1) and (2) release NADH.
 
-🌱 毛細管長度影響「液面上升高度」觀察結果，但不是滲透的本質速率。
-🌱 Tube length affects height of visible liquid rise, but not actual osmosis speed.",
-1626,"📌 參考答案 (Suggested Answer)
-答案：A（只有 (1) 和 (2)）。
-
-📌 詳細解釋 (Detailed Explanation)
-
-(1) 糖酵解 (Glycolysis)
-
-發生在細胞質 (cytoplasm)。
-每分子葡萄糖分解產生 2 NADH。
-In the cytoplasm.
-Each glucose molecule produces 2 NADH.
-✅ → 的確會釋放 NADH。
-✅ → Correct, NADH is released.
-
-(2) 克雷伯氏循環 (Krebs / Citric Acid Cycle)
-
-發生在粒線體基質 (mitochondrial matrix)。
-每分子葡萄糖經完全氧化 → 6 NADH 由此釋放。
-Occurs in mitochondrial matrix.
-One glucose fully oxidized → 6 NADH are produced here.
-✅ → 也是 NADH 的主要來源之一。
-✅ → Also a major source of NADH.
-
-(3) 氧化磷酸化 (Oxidative phosphorylation / ETC)
-
-發生在粒線體內膜。
-在此階段，NADH 被氧化 → 釋出高能電子進入電子傳遞鏈，NADH 轉回 NAD⁺。
-This step consumes NADH (oxidizes it), releasing high-energy electrons into ETC, regenerating NAD⁺.
-❌ → 不是生成 NADH，而是消耗 NADH。
-❌ → Does not produce NADH, but uses it.
-
-📌 結論 (Conclusion)
-因此，只有：
-
-(1) 糖酵解 Glycolysis
-(2) 克雷伯氏循環 Krebs Cycle
-會產生 NADH。
-
-答案：A。
-Answer: A.
-
-📌 考試提醒 (Exam Tips)
-
-🌱 糖酵解 = 少量 NADH（2）
-🌱 Glycolysis = small amount of NADH (2)
-
-🌱 克雷伯氏循環 = 主要來源（6）
-🌱 Krebs Cycle = major source (6)
-
-🌱 氧化磷酸化 = 用掉 NADH，產生 ATP
-🌱 Oxidative phosphorylation = consumes NADH, produces ATP",
-1627,"📌 參考答案 (Suggested Answer)
-答案：B（酵在極端的溫度下變性）。
-Answer: B (Enzymes denature at extreme temperatures).
-
-📌 詳細解釋 (Detailed Explanation)
-
-逐一分析選項：
-
-A. 酶是由細胞產生的。
-✅ 正確。酶是蛋白質，由細胞內核糖體經粗糙內質網合成。
-✅ Correct. Enzymes are proteins synthesized by ribosomes in cells (via rough ER).
-
+📌 考試提醒
+需氧呼吸的三個主要階段中，NADH 主要在糖酵解和克雷伯氏循環中生成，並在氧化磷酸化中被消耗。
+Among the three main stages of aerobic respiration, NADH is primarily produced in glycolysis and the Krebs cycle, and is consumed during oxidative phosphorylation.
+常見錯誤：學生常混淆產生 NADH 的階段與消耗 NADH 來製造 ATP 的電子傳遞鏈步驟。
+Common trap: Students often confuse the stages that produce NADH with the electron transport chain step that consumes NADH to generate ATP.",
+1627,"📌 參考答案
 B. 酶在極端的溫度下變性。
-❌ 錯誤。事實上：
+B. Enzymes denature at extreme temperatures.
 
-高溫下 → 酶會變性，活性永久失去。
-低溫下 → 酶只是活性降低或不活躍，並 不會變性，升溫後可恢復。
-❌ Wrong. Actually:
-At high temperature → enzymes denature irreversibly.
-At low temperature → enzymes are inactive due to reduced kinetic energy, but not denatured and can regain activity when rewarmed.
-👉 所以「極端低溫」時說變性 是 錯誤描述。
-👉 Thus the claim “enzymes denature at extreme temperatures” (implying also low) is incorrect.
+📌 詳細解釋
+高溫會改變酶的活躍部位形狀，導致酶永久失去活性，這稱為變性。
+High temperatures change the shape of the active site, causing the enzyme to permanently lose its activity; this is called denaturation.
+然而，在極端低溫下，分子動能減少，酶只是處於不活躍狀態，並不會變性。
+However, at extremely low temperatures, the kinetic energy of molecules decreases, and the enzyme is merely inactive, not denatured.
+因此，指出酶在所有極端溫度下均會變性的選項 B 是不正確的描述。
+Therefore, option B, which states that enzymes denature at all extreme temperatures, is the incorrect description.
+選項 A 正確，酶是蛋白質，由細胞的粗糙內質網上的核糖體合成。
+Option A is correct; enzymes are proteins synthesized by ribosomes on the rough endoplasmic reticulum of cells.
+選項 C 正確，能催化相同生化反應但分子結構不同的酶被稱為同功酶。
+Option C is correct; enzymes that catalyze the same biochemical reaction but have different molecular structures are called isoenzymes.
+選項 D 正確，酶具專一性，當遇上相同的受質時必定產生相同的生成物。
+Option D is correct; enzymes are specific, so when they encounter the same substrate, they will definitely produce the same products.
 
-C. 同一反應可以由多於一種特定酶來催化。
-✅ 正確（同功酶 isoenzymes 的存在）。不同的酶可能催化相同的反應，例如乳酸脫氫酶的 isoforms。
-✅ Correct. Isoenzymes exist; different enzymes can catalyze the same reaction (e.g., lactate dehydrogenase isoforms).
+📌 考試提醒
+酶只會在高溫或極端 pH 值下發生變性，在低溫下只會變得不活躍。
+Enzymes only denature at high temperatures or extreme pH values; they only become inactive at low temperatures.
+常見錯誤：學生常誤以為酶在極端低溫下也會像高溫一樣發生變性並永久失效。
+Common trap: Students often mistakenly think that enzymes also denature and permanently lose function at extremely low temperatures, just as they do at high temperatures.",
+1628,"📌 參考答案
+C. 滲透作用，流體靜壓，流體靜壓
+C. Osmosis, Hydrostatic pressure, Hydrostatic pressure
 
-D. 每次遇上相同受質，酶均會產生相同生成物。
-✅ 正確。酶活性具有專一性（specificity）：相同底物在相同條件下 → 產物一致。
-✅ Correct. Enzymes are specific: same substrate under same conditions → same product.
+📌 詳細解釋
+在微血管的小動脈端，血壓遠大於組織液的流體靜壓。
+At the arteriole end of the capillary, the blood pressure is much higher than the hydrostatic pressure of the tissue fluid.
+壓力的差異迫使血漿及溶解物質流出微血管形成組織液，因此 S 代表流體靜壓。
+This pressure difference forces blood plasma and dissolved substances out of the capillary to form tissue fluid, so S represents hydrostatic pressure.
+在微血管的小靜脈端，由於血漿蛋白留在血液中，血液的水勢低於組織液。
+At the venule end of the capillary, because plasma proteins remain in the blood, the water potential of the blood is lower than that of the tissue fluid.
+水分因此透過滲透作用從組織液淨移動回微血管，因此 P 代表滲透作用。
+Water thus moves from the tissue fluid back into the capillary by osmosis, so P represents osmosis.
+當組織液積聚使壓力上升時，多餘的組織液會順著流體靜壓的差異流入淋巴微管（R），因此 Q 代表流體靜壓。
+When the accumulation of tissue fluid increases its pressure, the excess tissue fluid flows into the lymph capillary (R) down the hydrostatic pressure gradient, so Q represents hydrostatic pressure.
 
-📌 結論 (Conclusion)
-只有 B 是錯誤陳述。
-Only B is incorrect.
-
-📌 考試提醒 (Exam Tips)
-
-🌱 高溫 → 蛋白質變性、結構永久改變。
-🌱 High temp → irreversible denaturation.
-
-🌱 低溫 → 分子動能減少，只是反應速率下降，可逆！
-🌱 Low temp → reduced kinetic energy, enzyme becomes inactive but NOT denatured, reversible.
-
-🌱 考題常陷阱：把「酶在低溫失活」錯寫成「低溫變性」。
-🌱 Classic trap: confusing “inactive at low temp” with “denatured at low temp.”",
-1628,"📌 參考答案 (Suggested Answer)
-答案：C（P = 流體靜壓, Q = 滲透壓, S = 流體靜壓）。
-Answer: C (P = Hydrostatic pressure, Q = Osmotic pressure, S = Hydrostatic pressure).
-
-📌 詳細解釋 (Detailed Explanation)
-
-圖中顯示毛細血管與組織液/細胞的液體流動：
-
-S → 組織液由毛細血管動脈端流出
-
-動脈端血壓高，毛細血管內的 流體靜壓 (hydrostatic pressure) 大於滲透壓，迫使血漿中的液體滲出 → 組織液。
-Arterial end of capillary: high blood pressure (hydrostatic pressure) > osmotic pressure → plasma forced out → tissue fluid.
-➡ 因此，S 由 流體靜壓 主導。
-P → 組織液回流進入毛細血管靜脈端
-
-在靜脈端：靜脈血壓下降，血液中有大量蛋白（不能隨水排出），因此血漿的滲透壓相對較高。
-這個滲透壓把水分子從組織液「拉回」毛細血管內。
-Venous end: lower hydrostatic pressure, plasma proteins retained → relatively high osmotic pressure → draws water back.
-➡ 因此，P 由 滲透壓 主導。
-Q → 組織液進入淋巴管
-
-當組織液多於回流時，剩下的液體會進入淋巴管。
-淋巴管吸收主要靠內部較低壓力、靠鄰近組織壓縮推動液體流入。
-This drainage into lymph vessels happens because hydrostatic pressure pushes excess fluid into lymphatics.
-➡ 因此，Q 由 流體靜壓 支配。
-📌 總結 (Summary)
-
-P = 回流到毛細血管 (由滲透壓主導)
-
-P = Return to capillary (driven by osmotic pressure)
-
-Q = 流入淋巴管 (主要靠流體靜壓)
-
-Q = Entry into lymphatic (driven by hydrostatic pressure)
-
-S = 流出毛細血管動脈端 (靠流體靜壓)
-
-S = Outflow at arterial end of capillary (driven by hydrostatic pressure)
-
-👉 所以正確組合是 C。
-
-📌 考試提醒 (Exam Tips)
-
-🌱 動脈端 (Arterial end) → 血壓高 → 組織液流出 → 靜壓主導。
-🌱 Arterial end → high blood pressure → fluid leaves → hydrostatic pressure dominates.
-
-🌱 靜脈端 (Venous end) → 血壓低、膠體滲透壓較高 → 水分回吸 → 滲透壓主導。
-🌱 Venous end → low blood pressure, plasma protein osmotic pull → fluid reabsorbed → osmotic pressure dominates.
-
-🌱 多餘組織液 → 進入淋巴 → 靠流體壓差。
-🌱 Excess tissue fluid → enters lymph → due to hydrostatic pressure gradient.",
+📌 考試提醒
+解釋組織液回流微血管時，必須指出血液中含有較多血漿蛋白，導致其水勢較低。
+When explaining the return of tissue fluid to the capillary, you must state that the blood contains more plasma proteins, resulting in a lower water potential.
+常見錯誤：學生常以「滲透壓」或「濃度差」來解釋水分回流，但在 DSE 評卷準則中，必須準確使用「水勢」一詞。
+Common trap: Students often use ""osmotic pressure"" or ""concentration difference"" to explain the return of water; however, in DSE marking schemes, the term ""water potential"" must be accurately used.",
 1629,"📌 參考答案 (Suggested Answer)
 答案：B（右心房）。
 Answer: B (Right atrium).
@@ -1129,37 +887,29 @@ Tissue fluid → lymph → lymph vessel → lymph trunk (thoracic duct/right lym
 
 🌱 左心房/左心室 → 與「含氧動脈血」有關，不會直接連接組織液回流路徑。
 🌱 Left atrium/ventricle → deal with oxygenated blood, not the return path of lymph.",
-1630,"📌 參考答案 (Suggested Answer)
-答案：A（路徑 1）。
+1630,"📌 參考答案
+A. 1
+A. 1
 
-📌 詳細解釋 (Detailed Explanation)
-能量在營養級之間會不斷流失，通常只有大約 10% 能傳遞到下一級。
-Energy is lost between trophic levels, with usually only about 10% transferred to the next level.
+📌 詳細解釋
+在食物鏈中，能量在營養級之間流動時會以熱能、未消化物及排泄物的形式大量流失。
+In a food chain, a large amount of energy is lost as heat, undigested matter, and excretory products when it flows between trophic levels.
+因此，經過越多次能量轉移（即營養級愈高），最終能轉移至下一級的能量就愈少。
+Therefore, the more energy transfers there are (i.e., the higher the trophic level), the less energy is eventually transferred to the next level.
+路徑 3（草 → 兔）和路徑 4（草 → 草蜢）均是第一至第二營養級的轉移，能量流失最少。
+Path 3 (Grass → Rabbit) and Path 4 (Grass → Grasshopper) are both transfers from the first to the second trophic level, with the least energy lost.
+路徑 2（小鼠 → 鷹）是第二至第三營養級的轉移。
+Path 2 (Mouse → Eagle) is a transfer from the second to the third trophic level.
+路徑 1（蜥蜴 → 鷹）則是第三至第四營養級的轉移，經歷了最多次連續的能量流失。
+Path 1 (Lizard → Eagle) is a transfer from the third to the fourth trophic level, having undergone the most consecutive energy losses.
+因此，路徑 1 兩營養級之間的能量轉移最小。
+Therefore, the energy transfer between the two trophic levels in path 1 is the smallest.
 
-營養級越高，能量可用量越少，因此能量轉移量也就越小。
-The higher the trophic level, the less energy is available, so the energy transfer is smaller.
-
-路徑 4（草 → 草蝗）僅涵蓋第一與第二營養級，能量轉移較大。
-Path 4 (Grass → Grasshopper) involves just the first and second trophic levels, so it transfers more energy.
-
-路徑 2（小鼠 → 鷹）與路徑 3（兔 → 鷹）則是從第二營養級到第三營養級，能量仍然較多。
-Path 2 (Mouse → Eagle) and Path 3 (Rabbit → Eagle) are transfers from the second to the third trophic level, so they still transfer relatively more energy.
-
-相反地，路徑 1（草蝗 → 蜥蜴 → 鷹）已經跨越到第四營養級，因此能量轉移是所有選項中最小的。
-In contrast, Path 1 (Grasshopper → Lizard → Eagle) reaches the fourth trophic level, so the energy transfer is the smallest among all options.
-
-所以由小到大的能量轉移量次序為：1 < 2 ≈ 3 < 4。
-Therefore, from smallest to largest, the energy transfer order is: 1 < 2 ≈ 3 < 4.
-
-📌 考試提醒 (Exam Tips)
-記住「能量金字塔」原則，能量沿食物鏈向上逐級減少。
-Remember the “energy pyramid” rule: energy decreases step by step along the food chain.
-
-最小的能量轉移通常出現在最長的食物鏈或最高的營養級。
-The smallest energy transfer usually occurs in the longest chain or at the highest trophic level.
-
-答題時先找出營養級最多的一條路徑，通常就是正確答案。
-When answering, identify the path with the most trophic levels; that is usually the correct answer.",
+📌 考試提醒
+在食物網中比較能量轉移量時，必須準確數出該箭頭處於第幾個營養級之間的轉移。
+When comparing the amount of energy transferred in a food web, you must accurately count which trophic levels the arrow represents.
+常見錯誤：學生常因看錯食物網的箭頭方向及路徑長度，錯誤判斷生物所處的營養級。
+Common trap: Students often misjudge the trophic level of organisms by misreading the direction of arrows and the length of paths in a food web.",
 1631,"📌 參考答案 (Suggested Answer)
 答案：D（X = 萼片，Y = 子房）。
 Answer: D (X = sepal, Y = ovary).
@@ -1206,30 +956,27 @@ Food reserves for seed germination → are provided by cotyledons or endosperm, 
 
 保護種子主要靠 種皮，果實的保護作用屬於次要。
 Seed protection mainly depends on the seed coat; the fruit’s protection is secondary.",
-1633,"📌 參考答案 (Suggested Answer)
-答案：B（只有 (1) 和 (3)）。
-Answer: B (Only (1) and (3)).
+1633,"📌 參考答案
+B. 只有 (1) 和 (3)
+B. Only (1) and (3)
 
-📌 詳細解釋 (Detailed Explanation)
-肺位於胸腔中，完全由肋骨籠包圍並受到保護。
-The lungs are located in the thoracic cavity, completely enclosed and protected by the rib cage.
+📌 詳細解釋
+肋骨籃的主要功能是保護位於胸腔內的重要器官。
+The main function of the rib cage is to protect the vital organs located in the thoracic cavity.
+肺部（1）完全位於胸腔內，受肋骨籃的包圍及保護。
+The lungs (1) are located entirely within the thoracic cavity and are enclosed and protected by the rib cage.
+心臟（3）亦位於胸腔中央稍偏左的位置，受到肋骨籃及胸骨的嚴密保護。
+The heart (3) is also located in the center of the thoracic cavity slightly to the left, tightly protected by the rib cage and sternum.
+肝臟（2）則是消化系統的器官，主要位於腹腔右上方，並不在肋骨籃的保護範圍內。
+The liver (2) is an organ of the digestive system, mainly located in the upper right quadrant of the abdominal cavity, and is not within the protective bounds of the rib cage.
+因此，只有肺和心臟是受肋骨籃保護的器官。
+Therefore, only the lungs and the heart are organs protected by the rib cage.
 
-心臟同樣位於胸腔，位於兩肺之間，也被肋骨籠保護。
-The heart is also in the thoracic cavity, situated between the lungs, and protected by the rib cage as well.
-
-肝臟則主要位於腹腔的右上方，並不完全受肋骨籠保護，所以不在答案之內。
-The liver is mainly in the upper right part of the abdominal cavity; it is not fully enclosed by the rib cage, so it is not included.
-
-因此，只有肺和心臟受肋骨籠保護。
-Therefore, only the lungs and the heart are protected by the rib cage.
-
-📌 考試提醒 (Exam Tips)
-記住「肋骨籠」只保護胸腔器官 → 主要是肺和心臟。
-Remember the rib cage protects only the thoracic organs → mainly the lungs and the heart.
-
-肝臟是腹腔器官，即使部分位置在胸骨下方，也不屬於肋骨籠完全保護的範圍。
-The liver is an abdominal organ; although part of it extends below the ribs, it is not fully within the rib cage’s protection.
-",
+📌 考試提醒
+胸腔與腹腔由橫膈膜分隔，肋骨籃僅覆蓋及保護橫膈膜以上的胸腔器官。
+The thoracic and abdominal cavities are separated by the diaphragm; the rib cage only covers and protects the thoracic organs above the diaphragm.
+常見錯誤：學生常因肝臟位置較高而誤以為它同樣受肋骨籃完全保護，忽略了它屬於腹腔器官。
+Common trap: Students often mistakenly think the liver is fully protected by the rib cage because of its high position, ignoring that it is an abdominal organ.",
 1634,"📌 參考答案 (Suggested Answer)
 答案：D（氮氣為銨離子）。
 Answer: D (Nitrogen gas → ammonium ion).
@@ -1256,35 +1003,29 @@ Do not confuse it with nitrification, which converts NH₄⁺ → NO₂⁻/NO₃
 
 豆科植物的根瘤細菌屬於共生固氮，與其他土壤自由固氮細菌相互區分。
 The root nodule bacteria of legumes are examples of symbiotic nitrogen fixation, different from free-living nitrogen-fixing bacteria in the soil.",
-1635,"📌 參考答案 (Suggested Answer)
-答案：A。
+1635,"📌 參考答案
+A. 1, 2, 3, 4 反應相同，5 較少，6 較多
+A. 1, 2, 3, 4 have the same response, 5 is less, 6 is more
 
-📌 詳細解釋 (Detailed Explanation)
-胚芽鞘 1 和 2：頂端被黑暗塑膠片覆蓋，無法接受光刺激，因此各方向生長相同。
-Coleoptiles 1 and 2: The tips are covered with opaque caps, so they cannot perceive light, and thus grow equally in all directions.
+📌 詳細解釋
+本實驗比較不同瓊脂塊收集到的生長素濃度對除去頂端的胚芽鞘生長的影響。
+This experiment compares the effect of auxin concentrations collected in different agar blocks on the growth of decapitated coleoptiles.
+裝置 1 和 2 處於黑暗中，生長素均勻向下擴散，因此瓊脂塊 1 和 2 收集到相等數量的生長素。
+Setups 1 and 2 are in the dark, and auxin diffuses uniformly downwards, so agar blocks 1 and 2 collect equal amounts of auxin.
+裝置 3 和 4 雖然受單向光照射，但中間的塑膠片完全阻擋了生長素向背光側橫向擴散，故瓊脂塊 3 和 4 收集到的生長素份量相同，與 1 和 2 無異。
+Although setups 3 and 4 are exposed to unilateral light, the plastic sheet in the middle completely blocks the lateral diffusion of auxin to the shaded side, so agar blocks 3 and 4 collect the same amount of auxin, which is identical to 1 and 2.
+因此，放上瓊脂塊 1、2、3 和 4 的除去頂端胚芽鞘會有相同幅度的生長。
+Therefore, the decapitated coleoptiles topped with agar blocks 1, 2, 3, and 4 will show the same magnitude of growth.
+裝置 5 和 6 中，塑膠片只分開了頂端底部及瓊脂塊，生長素能在頂端尖端處向背光側（6 的一邊）橫向擴散。
+In setups 5 and 6, the plastic sheet only separates the base of the tip and the agar blocks, allowing auxin to diffuse laterally at the very apex towards the shaded side (side 6).
+結果瓊脂塊 6 收集到的生長素多於瓊脂塊 5，所以胚芽鞘 6 的生長幅度最大，而胚芽鞘 5 的生長幅度最少。
+As a result, agar block 6 collects more auxin than agar block 5, causing coleoptile 6 to have the greatest growth and coleoptile 5 to have the least.
 
-胚芽鞘 3 和 4：頂端被透明塑膠片覆蓋，仍能感應光線，受單側光作用後，胚芽鞘會向光彎曲。
-Coleoptiles 3 and 4: The tips are covered with transparent caps, which still allow light perception, so under unilateral light the coleoptiles bend toward the light.
-
-胚芽鞘 5：頂端被黑暗塑膠片包裹，側面被單側光照射，但因頂端無法感光，不能產生生長素不均分布，因此生長反應較少。
-Coleoptile 5: The tip is covered by an opaque cap, and unilateral light shines on the side, but since the tip cannot sense light, auxin redistribution does not occur, so the growth response is reduced.
-
-胚芽鞘 6：側端被黑暗塑膠片覆蓋，頂端暴露在單側光下，可以感受光刺激，因此頂端產生生長素重新分布，導致彎向光源。
-Coleoptile 6: Only the side is covered by an opaque shield, while the tip is exposed to unilateral light, allowing the tip to sense light; auxin is redistributed, and bending toward the light occurs.
-
-因此，胚芽鞘 1、2、3、4 的生長反應相似，彎曲程度大；胚芽鞘 5 的生長反應最少；胚芽鞘 6 的反應介乎兩者之間。
-Therefore, coleoptiles 1, 2, 3, and 4 have similar growth responses, bending strongly; coleoptile 5 has the least response; and coleoptile 6 shows an intermediate response.
-
-📌 考試提醒 (Exam Tips)
-頂端才是感受光線並調控生長素分布的關鍵部位。
-The tip is the key site for perceiving light and controlling auxin distribution.
-
-黑暗塑膠片（不透光）能阻隔感光，透明塑膠片則不會影響感光。
-Opaque caps block light perception, while transparent caps do not affect light perception.
-
-胚芽鞘向光彎曲的本質是生長素在陰光側濃度較高，刺激該側更長。
-Phototropism happens because auxin accumulates on the shaded side, causing cells there to elongate more.
-",
+📌 考試提醒
+單向光不會改變生長素的總產量，只會引致生長素由受光側向背光側橫向擴散。
+Unilateral light does not change the total production of auxin; it only causes the lateral diffusion of auxin from the illuminated side to the shaded side.
+常見錯誤：學生常忽略圖中塑膠片插入的深度差異，未能察覺裝置 5 和 6 的尖端未被完全分隔，允許了生長素橫向移動。
+Common trap: Students often overlook the difference in the insertion depth of the plastic sheets in the diagram, failing to notice that the apexes of setups 5 and 6 are not fully separated, which permits the lateral movement of auxin.",
 1636,"📌 參考答案 (Suggested Answer)
 答案：D（沒有生長素的瓊脂塊 + 除去頂端的胚芽鞘）。
 Answer: D (Coleoptile with tip removed and agar block without auxin).
