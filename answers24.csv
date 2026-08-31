@@ -1,4 +1,4 @@
-﻿編號,答案,類近題目
+編號,答案,類近題目
 24p101,"📌參考答案
 
 1(a) 神經控制使用神經遞質作為信號分子，而激素控制則使用激素（或荷爾蒙）。
@@ -850,3 +850,653 @@ High-risk individual: Draw only one highest DNA band (closest to the sample well
 The sample wells should be placed on the side connected to the cathode (negative pole) or on the right-hand side of the diagram.
 這是因為 DNA 碎片本身帶有負電荷，通電後它們會離開樣本孔，向著陽極（正極）的方向移動。
 This is because the DNA fragments inherently carry a negative charge; once energized, they will migrate away from the sample wells towards the anode (positive pole).  ."",""""",
+2401,"📌 參考答案
+C. 只有(2)和(3)
+📌 詳細解釋
+題目考核植物合成不同細胞結構所需的化學元素。
+The question tests the chemical elements required by plants to synthesize different cellular structures.
+(1) 細胞壁主要由纖維素組成，其化學成分僅含碳、氫和氧，不需要氮和磷。
+(1) Cell walls are mainly composed of cellulose, containing only carbon, hydrogen, and oxygen, without the need for nitrogen and phosphorus.
+(2) 葉綠素的分子結構中含有氮和鎂，因此合成葉綠素必須吸收氮化合物。
+(2) The molecular structure of chlorophyll contains nitrogen and magnesium, so absorbing nitrogen compounds is essential for its synthesis.
+(3) 細胞膜的主要成分是磷脂雙層，合成磷脂必須吸收磷化合物。
+(3) The main component of cell membranes is a phospholipid bilayer, and synthesizing phospholipids requires absorbing phosphorus compounds.
+因此，只有(2)和(3)需要肥料中的氮和磷。
+Therefore, only (2) and (3) require nitrogen and phosphorus from fertilizers.
+📌 考試提醒
+礦物質功能 (Functions of minerals)：氮用於合成蛋白質和葉綠素；磷用於合成核酸（DNA/RNA）、ATP 及磷脂。
+Functions of minerals: Nitrogen is used to synthesize proteins and chlorophyll; phosphorus is used to synthesize nucleic acids (DNA/RNA), ATP, and phospholipids.
+常見錯誤：學生常誤以為細胞壁是由蛋白質構成，忽略了其主要成分是碳水化合物（纖維素）。
+Common trap: Students often mistakenly assume the cell wall is made of proteins, overlooking that its main component is a carbohydrate (cellulose).",
+2402,"📌 參考答案
+A. 單鏈，脫氧核糖
+A. Single-stranded, Deoxyribose
+📌 詳細解釋
+題目要求根據含氮鹼基的數量推斷病毒遺傳物質的結構。
+The question requires deducing the structure of the viral genetic material based on the quantities of nitrogenous bases.
+該遺傳物質含有胸腺嘧啶（T），這證明它是 DNA，因此五碳醣必定是脫氧核糖。
+The genetic material contains thymine (T), which proves it is DNA, so the pentose sugar must be deoxyribose.
+在雙鏈 DNA 中，根據鹼基互補配對原則，腺嘌呤（A）的數量必須等於胸腺嘧啶（T），而鳥嘌呤（G）必須等於胞嘧啶（C）。
+In double-stranded DNA, according to the principle of complementary base pairing, the amount of adenine (A) must equal thymine (T), and guanine (G) must equal cytosine (C).
+由於數據顯示 A (1966) 不等於 T (1749)，且 G (2343) 極度不等於 C (8)，這證明該核酸缺乏互補配對。
+Since the data shows A (1966) does not equal T (1749), and G (2343) is vastly unequal to C (8), it proves this nucleic acid lacks complementary pairing.
+因此，這必定是一組單鏈 DNA。
+Therefore, this must be a single-stranded DNA.
+📌 考試提醒
+鹼基互補配對定律 (Base pairing rule)：在所有雙鏈 DNA 中，A=T 及 C=G 必定成立。
+Base pairing rule: In all double-stranded DNA, A=T and C=G must hold true.
+常見錯誤：學生一看到有 A、T、C、G 就直覺選雙鏈，忽略了必須核對鹼基比例是否為 1:1 來驗證雙鏈結構。
+Common trap: Students intuitively select double-stranded when seeing A, T, C, and G, forgetting they must check if the base ratio is 1:1 to verify the double-stranded structure.",
+2403,"📌 參考答案
+A. 只有(1)
+A. (1) only
+📌 詳細解釋
+題目展示了人類與老鼠細胞融合後，表面蛋白隨時間而混合分布的實驗。
+The question shows an experiment where surface proteins mix and distribute over time after fusing a human cell with a mouse cell.
+0分鐘時，紅綠兩種蛋白分佈在細胞的兩側；40分鐘後，兩種蛋白均勻散佈。
+At 0 minutes, the red and green proteins are separated on two sides of the cell; after 40 minutes, both proteins are evenly scattered.
+這種表面蛋白能橫向移動的現象，直接證明了細胞膜內的磷脂和蛋白質分子能夠自由移動。
+This phenomenon of surface proteins moving laterally directly proves that phospholipid and protein molecules within the cell membrane can move freely.
+這正是流體鑲嵌模型中「流動性」的特徵。
+This is exactly the characteristic of ""fluidity"" in the fluid mosaic model.
+細胞膜的差異透性（控制物質進出）和不對稱構造（內外層蛋白質分布不同）雖然是事實，但無法解釋本實驗中的蛋白移動現象。
+Although the differential permeability (controlling substance transport) and asymmetrical structure (different protein distribution on inner and outer layers) of the cell membrane are facts, they cannot explain the protein movement observed in this experiment.
+📌 考試提醒
+細胞膜流動性 (Membrane fluidity)：磷脂雙層如同液體，容許當中的蛋白質分子改變位置，是細胞融合、吞噬作用的基礎。
+Membrane fluidity: The phospholipid bilayer acts like a fluid, allowing embedded protein molecules to change positions, which is the basis for cell fusion and phagocytosis.
+常見錯誤：學生容易把「差異透性」當作細胞膜的萬能答案，沒有針對題目的實驗現象（蛋白質位移）作出精確配對。
+Common trap: Students often treat ""differential permeability"" as a universal answer for cell membranes, failing to precisely match the experimental phenomenon (protein displacement) in the question.  ",
+2404,"📌 參考答案
+B.   
+📌 詳細解釋
+圖中顯示減數細胞分裂初期的細胞，內有 4 條已經過 DNA 複製的染色體（每條由兩條染色單體組成）。
+The figure shows a cell in the prophase of meiosis, containing 4 chromosomes that have undergone DNA replication (each consisting of two chromatids).
+此時細胞內共有 8 條染色單體，總 DNA 量被定義為 $\beta$。
+At this moment, the cell has a total of 8 chromatids, and the total DNA amount is defined as $\beta$.
+在同一生物中，一個不再分裂的體細胞（處於 G1 期）同樣含有 4 條染色體，但它們未經複製（每條只有一條染色單體）。
+In the same organism, a non-dividing somatic cell (in G1 phase) also contains 4 chromosomes, but they are unreplicated (each has only one chromatid).
+由於體細胞只有 4 條染色單體的 DNA 含量，其 DNA 量是分裂初期細胞（8 條染色單體）的一半。
+Since the somatic cell only has the DNA content of 4 chromatids, its DNA amount is half that of the cell in early division (8 chromatids).
+因此，體細胞的 DNA 量為 $1/2 \beta$。
+Therefore, the DNA amount of the somatic cell is $1/2 \beta$.
+📌 考試提醒
+DNA 含量變化 (DNA content variation)：未複製的染色體只含 1 個 DNA 分子；複製後的「X」形染色體含 2 個 DNA 分子。
+DNA content variation: Unreplicated chromosomes contain only 1 DNA molecule; replicated ""X""-shaped chromosomes contain 2 DNA molecules.
+常見錯誤：學生常混淆染色體數目與 DNA 含量，誤以為體細胞的 DNA 量與減數分裂初期的母細胞相同，忽略了 DNA 複製的影響。
+Common trap: Students often confuse chromosome number with DNA content, mistakenly assuming a somatic cell has the same DNA amount as a parent cell in early meiosis, ignoring the effect of DNA replication.  ",
+2405,"📌 參考答案
+A. 只有(1)和(2)
+📌 詳細解釋
+減數細胞分裂會產生單倍體（n）的子細胞（配子），細胞內不再含有同源染色體。
+Meiosis produces haploid (n) daughter cells (gametes), which no longer contain homologous chromosomes.
+母細胞含有兩對同源染色體：一對長染色體（黑與白）和一對短染色體（黑與白）。
+The parent cell contains two pairs of homologous chromosomes: one long pair (black and white) and one short pair (black and white).
+正常的子細胞必須從每一對同源染色體中獲得恰好一條染色體，即「一長一短」。
+A normal daughter cell must receive exactly one chromosome from each homologous pair, meaning ""one long and one short"".
+圖(1)包含一條長黑和一條短白，圖(2)包含一條長白和一條短黑，兩者均是正常的單倍體組合。
+Figure (1) contains one long black and one short white, and figure (2) contains one long white and one short black, both being normal haploid combinations.
+圖(3)缺乏長染色體卻有兩條短染色體，屬於異常的非分離現象，不屬於正常的子細胞組合。
+Figure (3) lacks a long chromosome but has two short chromosomes, which is an abnormal non-disjunction phenomenon and not a normal daughter cell combination.
+📌 考試提醒
+單倍體配子 (Haploid gametes)：每個配子必須擁有該物種全套染色體中的各一條，絕不能有遺漏或重複。
+Haploid gametes: Each gamete must possess exactly one of every chromosome from the species' full set, without any omission or duplication.
+常見錯誤：學生只數算子細胞內的染色體總數（2條），卻沒有仔細觀察是否來自不同的同源染色體對（大小特徵）。
+Common trap: Students only count the total number of chromosomes in the daughter cell (2), without carefully observing whether they come from different homologous chromosome pairs (size characteristics).  ",
+2406,"📌 參考答案
+C. 獨立分配定律 / 第一次減數細胞分裂
+C. Law of independent assortment / First meiotic division
+📌 詳細解釋
+題目探討產生圖(1)或圖(2)不同染色體組合的原因。
+The question explores the reason for producing different chromosome combinations like Figure (1) or Figure (2).
+非同源染色體（即長染色體對與短染色體對）在配子形成時可以自由組合，長黑配短黑或長黑配短白皆可，這正是「獨立分配定律」的定義。
+Non-homologous chromosomes (i.e., the long pair and the short pair) can assort freely during gamete formation, allowing long black to pair with short black or long black with short white, which is the definition of the ""Law of Independent Assortment"".
+這個過程發生在第一次減數細胞分裂的中期及後期，當時各對同源染色體隨機排列在細胞赤道上並分離。
+This process occurs during metaphase and anaphase of the first meiotic division, when homologous chromosome pairs align randomly at the cell equator and separate.
+分離定律只解釋單一對等位基因（一對同源染色體）的分開，不能解釋不同對染色體之間的自由組合。
+The Law of Segregation only explains the separation of a single pair of alleles (one pair of homologous chromosomes) and cannot explain the free combination between different pairs of chromosomes.
+📌 考試提醒
+獨立分配定律發生時機 (Timing of Independent Assortment)：非同源染色體的隨機排列發生於減數分裂 I。
+Timing of Independent Assortment: The random alignment of non-homologous chromosomes occurs during Meiosis I.
+常見錯誤：學生常把分離定律與獨立分配定律混淆，記住「分離」針對一對同源染色體，而「獨立分配」針對多對於非同源染色體之間的互動。
+Common trap: Students often confuse the Law of Segregation with the Law of Independent Assortment; remember ""segregation"" applies to one pair of homologous chromosomes, while ""independent assortment"" applies to the interaction between multiple non-homologous pairs.",
+2407,"📌 參考答案
+D. 卡爾文循環：ATP是能量來源 / 光化反應：光是能量來源
+D. Calvin cycle: ATP is the energy source / Photochemical reactions: Light is the energy source
+📌 詳細解釋
+選項A錯誤，光化反應產生氧氣，但卡爾文循環並非主要產生水。
+Option A is wrong; photochemical reactions produce oxygen, but the Calvin cycle is not characterized primarily by producing water.
+選項B錯誤，光化反應是產生 NADPH，而卡爾文循環才是消耗 NADPH。
+Option B is wrong; photochemical reactions produce NADPH, whereas the Calvin cycle is the one that consumes NADPH.
+選項C錯誤，兩者的發生位置完全顛倒了，卡爾文循環在基質發生，光化反應在基粒發生。
+Option C is wrong; their locations are completely reversed; the Calvin cycle occurs in the stroma, while photochemical reactions occur in the grana.
+選項D正確，卡爾文循環利用 ATP（和 NADPH）作為還原二氧化碳的能量來源，而光化反應則直接依賴光能分解水及合成 ATP。
+Option D is correct; the Calvin cycle uses ATP (and NADPH) as the energy source to reduce carbon dioxide, while photochemical reactions directly rely on light energy to split water and synthesize ATP.
+📌 考試提醒
+光合作用兩大階段 (Two main stages of photosynthesis)：光化反應在基粒將光能轉為化學能（ATP, NADPH），卡爾文循環在基質利用這些化學能固定碳。
+Two main stages of photosynthesis: Photochemical reactions convert light energy into chemical energy (ATP, NADPH) in grana, and the Calvin cycle uses this chemical energy to fix carbon in the stroma.
+常見錯誤：學生極易混淆光合作用中各物質（水、二氧化碳、ATP、NADPH）的消耗與產出階段。
+Common trap: Students easily confuse the consumption and production stages of various substances (water, carbon dioxide, ATP, NADPH) in photosynthesis.",
+2408,"📌 參考答案
+D. 這農作物在 20°C 有最大的食物淨生產。
+D. The crop has the maximum net food production at 20°C.
+📌 詳細解釋
+植物的淨生長或淨食物生產取決於「光合作用速率減去呼吸作用速率」的差值。
+The net growth or net food production of a plant depends on the difference between the ""photosynthetic rate minus the respiration rate"".
+從圖表可見，在 20°C 時，光合作用速率遠高於呼吸作用速率，兩條曲線的垂直差距最大，代表累積最多的生物質量。
+From the graph, at 20°C, the photosynthetic rate is much higher than the respiration rate, and the vertical gap between the two curves is the largest, representing the highest accumulation of biomass.
+其他選項分析：
+Analysis of other options:
+A不正確，在 30°C 時雖然光合作用最高，但呼吸作用也很高，淨生長不是最大。
+A is incorrect; although photosynthesis is highest at 30°C, respiration is also high, so net growth is not at its maximum.
+B不正確，在 40°C 仍有光合作用，氣孔開放仍有蒸騰作用，植物依然會吸收水分。
+B is incorrect; at 40°C, photosynthesis is still occurring, and stomata remain open allowing transpiration, so the plant still absorbs water.
+C不正確，補償點是光合作用速率等於呼吸作用速率的點（曲線相交處），圖中相交點約在 37°C 至 38°C 之間而非 35°C。
+C is incorrect; the compensation point is where the photosynthetic rate equals the respiration rate (where the curves intersect), which in the graph is between 37°C and 38°C, not 35°C.
+📌 考試提醒
+補償點與淨生產 (Compensation point and net production)：當光合作用大於呼吸作用，植物才有淨生長；兩者相等時為補償點，植物淨生長為零。
+Compensation point and net production: Plants only have net growth when photosynthesis is greater than respiration; when both are equal, it is the compensation point, and net growth is zero.
+常見錯誤：學生常誤看圖表的頂峰（如光合作用 30°C）為最大生長點，忽略了植物自身呼吸作用也會消耗養分。
+Common trap: Students often mistakenly identify the peak of the graph (e.g., photosynthesis at 30°C) as the maximum growth point, ignoring that the plant's own respiration also consumes nutrients.  ",
+2409,"📌 參考答案
+B. 只有(2)
+B. (2) only
+📌 詳細解釋
+題目問及在高溫下光合作用與呼吸作用速率雙雙急劇下降的原因。
+The question asks for the reason behind the sharp decline in both photosynthetic and respiration rates at high temperatures.
+光合作用和呼吸作用均是一連串由酶（酵素）催化的代謝反應。
+Both photosynthesis and respiration are a series of metabolic reactions catalyzed by enzymes.
+當溫度超過最適溫度（例如 40°C 以上），酶的活性部位會發生變性，導致代謝速率急降。
+When the temperature exceeds the optimum temperature (e.g., above 40°C), the active sites of enzymes denature, leading to a sharp drop in metabolic rates.
+其他選項分析：
+Analysis of other options:
+(1) 不正確，在極高溫下氣孔可能關閉以減少水分流失，蒸騰速率未必會持續增加，且這不是細胞內代謝崩潰的直接主因。
+(1) is incorrect; at extremely high temperatures, stomata may close to reduce water loss, so the transpiration rate may not continue to increase, and it is not the direct main cause of the breakdown of intracellular metabolism.
+(3) 不正確，光合作用和呼吸作用在不同細胞器發生只是客觀事實，完全不能解釋為何兩者速率會隨高溫下降。
+(3) is incorrect; occurring in different organelles is merely an objective fact and completely fails to explain why both rates decrease with high temperatures.
+📌 考試提醒
+酶的熱變性 (Thermal denaturation of enzymes)：極高溫會破壞維持酶三維結構的化學鍵，使活性部位變形，永久喪失催化能力。
+Thermal denaturation of enzymes: Extremely high temperatures break the chemical bonds maintaining the enzyme's three-dimensional structure, altering the active site and causing permanent loss of catalytic ability.
+常見錯誤：學生在分析生態或生理圖表時，容易忽視最底層的生化機制（所有生命活動皆受酶控制）。
+Common trap: When analyzing ecological or physiological graphs, students easily overlook the underlying biochemical mechanisms (all life activities are controlled by enzymes).  ",
+2410,"📌 參考答案
+D. 肝臟 / 劇烈運動後
+D. Liver / After vigorous exercise
+📌 詳細解釋
+人體骨骼肌在劇烈運動期間進行缺氧呼吸，會產生大量乳酸累積在肌肉中。
+Human skeletal muscles undergo anaerobic respiration during vigorous exercise, producing a large amount of lactic acid that accumulates in the muscles.
+然而，肌肉細胞本身並不會把乳酸徹底分解。
+However, the muscle cells themselves do not completely break down the lactic acid.
+這些乳酸會隨血液被運送到肝臟。
+This lactic acid is transported via the blood to the liver.
+在劇烈運動後的恢復期，肝臟會利用額外吸入的氧氣（償還氧債），將乳酸氧化分解為二氧化碳和水，或轉化為糖原。
+During the recovery period after vigorous exercise, the liver uses the extra inhaled oxygen (repaying the oxygen debt) to oxidize and break down lactic acid into carbon dioxide and water, or convert it to glycogen.
+因此，分解發生在肝臟，時間是劇烈運動後。
+Therefore, the breakdown occurs in the liver, during the period after vigorous exercise.
+📌 考試提醒
+乳酸代謝路徑 (Lactic acid metabolic pathway)：產生於肌肉（缺氧時），分解於肝臟（需氧時，以償還氧債）。
+Lactic acid metabolic pathway: Produced in muscles (during anaerobic conditions), broken down in the liver (during aerobic conditions, to repay oxygen debt).
+常見錯誤：學生常以為「哪裡製造就哪裡分解」，誤選在肌肉中分解乳酸。
+Common trap: Students often assume ""where it is produced is where it is broken down,"" mistakenly selecting that lactic acid is broken down in the muscles.",
+2411,"📌 參考答案
+C. 鯊魚的身體已很適應海洋生境。
+C. The body of sharks is well adapted to the marine habitat.
+📌 詳細解釋
+鯊魚被稱為「活化石」，是因為牠們的形態在數百萬年來幾乎沒有改變。
+Sharks are called ""living fossils"" because their morphology has hardly changed over millions of years.
+這反映了牠們原有的身體構造已經極度適應其海洋生境。
+This reflects that their original body structures are already highly adapted to their marine habitat.
+由於生境的選擇壓力未有促使牠們演化出新的形態，因此外貌得以維持。
+Since the selection pressure of the habitat has not driven them to evolve new forms, their appearance is maintained.
+其他選項與這演化現象無直接關係。
+Other options are not directly related to this evolutionary phenomenon.
+📌 考試提醒
+自然選擇 (Natural selection)：當生物已經高度適應穩定的環境時，變異未必能帶來生存優勢，物種形態便會趨於穩定。
+Natural selection: When organisms are already highly adapted to a stable environment, variations may not bring survival advantages, and the species' morphology tends to remain stable.
+常見錯誤：學生常以為「活化石」代表該物種沒有進化能力，其實是因為環境壓力沒有逼使牠們改變。
+Common trap: Students often think ""living fossils"" mean the species lacks evolutionary ability, but it is actually because environmental pressure hasn't forced them to change.",
+2412,"📌 參考答案
+A. 戴帽長臂猿跟大猩猩及人類有共同的祖先。
+A. Crowned gibbons share a common ancestor with gorillas and humans.
+📌 詳細解釋
+題目要求解讀靈長類動物的親緣關係樹狀圖。
+The question requires interpreting the phylogenetic tree of primates.
+從圖中可見，戴帽長臂猿、大猩猩和人類的分支追溯回去會交匯於同一個節點，代表牠們擁有共同祖先。
+From the diagram, the branches of the crowned gibbon, gorilla, and human converge at the same node when traced back, representing a common ancestor.
+B錯誤，大猩猩與人類的關係最近，與環尾狐猴的關係比與白面僧面猴更遠。
+B is incorrect; gorillas are most closely related to humans and further from ring-tailed lemurs than from white-faced sakis.
+C錯誤，白面僧面猴與捲尾猴是姊妹群，擁有共同祖先，但本身不是祖先。
+C is incorrect; the white-faced saki and capuchins are sister groups sharing a common ancestor, but the saki itself is not the ancestor.
+D錯誤，分支點的位置代表分歧的時間，不能直接等同於兩者的差異程度。
+D is incorrect; the position of the branching points represents the time of divergence and cannot be directly equated to the degree of difference between them.
+📌 考試提醒
+親緣關係圖 (Phylogenetic tree)：分支點（節點）代表共同祖先，分支越晚（越近現在）交匯，代表親緣關係越相近。
+Phylogenetic tree: Branching points (nodes) represent common ancestors; the later (closer to present) the branches converge, the closer the phylogenetic relationship.
+常見錯誤：學生常誤看圖表上下排列的順序來判斷親疏，必須沿著線條追溯尋找最近的共同分支點。
+Common trap: Students often mistakenly judge relationships by the top-to-bottom order on the chart; they must trace the lines back to find the most recent common branching point.",
+2413,"📌 參考答案
+D. (1)、(2)和(3)
+
+📌 詳細解釋
+建構親緣關係樹需要尋找物種間的演化證據。
+Constructing a phylogenetic tree requires looking for evolutionary evidence among species.
+(1) 化石紀錄能提供祖先形態和演化時序的直接證據。
+(1) Fossil records provide direct evidence of ancestral forms and evolutionary timelines.
+(2) 比較 DNA 序列可以精確量度物種間的遺傳差異，差異越小關係越近。
+(2) Comparing DNA sequences can accurately measure genetic differences between species; smaller differences mean closer relationships.
+(3) 比較關鍵蛋白（如細胞色素c）的氨基酸序列，同樣能反映基因差異，是分子層面的重要證據。
+(3) Comparing the amino acid sequences of key proteins (e.g., cytochrome c) also reflects genetic differences and is important molecular evidence.
+📌 考試提醒
+演化證據 (Evidence of evolution)：化石是古老的形態證據，而 DNA 和蛋白質序列則是現代最準確的生化證據。
+Evidence of evolution: Fossils are ancient morphological evidence, while DNA and protein sequences are the most accurate modern biochemical evidence.
+常見錯誤：學生有時會忽略蛋白質序列也能作為證據，其實蛋白質的氨基酸排列正是由 DNA 密碼子決定的。
+Common trap: Students sometimes overlook that protein sequences can also serve as evidence; in fact, the amino acid arrangement of proteins is determined by DNA codons.  ",
+2414,"📌 參考答案
+D. 牠們有不同的生態位以減低競爭。
+D. They have different ecological niches to reduce competition.
+📌 詳細解釋
+圖中顯示達爾文雀因應不同的食物來源（昆蟲、仙人掌、水果、種子），演化出不同形態的喙。
+The figure shows that Darwin's finches have evolved differently shaped beaks adapting to different food sources (insects, cactus, fruits, seeds).
+這現象屬於適應輻射，讓不同種的雀鳥佔據不同的生態位（食性）。
+This phenomenon is adaptive radiation, allowing different bird species to occupy different ecological niches (diets).
+不同的生態位能大幅減少牠們之間對食物資源的種間競爭，提高各物種的存活率。
+Different ecological niches greatly reduce interspecific competition for food resources among them, increasing the survival rate of each species.
+A錯誤，變異是自然選擇的基礎，而非為了「促進」自然選擇。
+A is incorrect; variation is the basis of natural selection, not meant to ""promote"" it.
+📌 考試提醒
+生態位 (Ecological niche)：生物在生態系統中的角色，包括牠的棲息地、食性及與其他生物的關係。
+Ecological niche: The role of an organism in an ecosystem, including its habitat, diet, and relationships with other organisms.
+常見錯誤：學生常誤以為變異的「目的」是為了適應，實際上變異是隨機發生的，環境只負責篩選有利的變異。
+Common trap: Students often think the ""purpose"" of variation is to adapt; actually, variation occurs randomly, and the environment only selects the favorable ones",
+2415,"📌 參考答案
+B. 物種的質量受環境的影響。
+B. The mass of the species is influenced by the environment.
+📌 詳細解釋
+圖中顯示相同植物物種在生境 I 和生境 II 的質量分佈呈現出兩個截然不同的分佈曲線。
+The graph shows the mass distribution of the same plant species in Habitat I and Habitat II presenting two distinct distribution curves.
+既然是相同物種，其基因庫應大致相同，但整體質量卻因生境不同而產生巨大差異（生境 I 較輕，生境 II 較重）。
+Since it is the same species, their gene pools should be roughly the same, but the overall mass shows a huge difference due to different habitats (lighter in Habitat I, heavier in Habitat II).
+這推論出植物的質量除了受基因控制外，還強烈受到環境因素影響。
+This infers that the plant's mass, besides being controlled by genes, is strongly influenced by environmental factors.
+C錯誤，質量呈現鐘形曲線，屬於連續變異。
+C is incorrect; mass shows a bell-shaped curve, which belongs to continuous variation.
+📌 考試提醒
+連續變異 (Continuous variation)：特徵沒有明顯的界線（如身高、體重），通常受多對基因及環境因素共同影響。
+Continuous variation: Characters without distinct categories (e.g., height, weight), usually affected by polygenes and environmental factors together.
+常見錯誤：學生容易過度解讀圖表，例如選 D 以為生境 II 的分佈較闊代表較受環境影響，其實兩者均受環境影響，無明顯比較基礎。
+Common trap: Students tend to over-interpret graphs, like choosing D thinking Habitat II's wider spread means stronger environmental effect; both are affected by the environment without a clear basis for comparison.",
+2416,"📌 參考答案
+C. 隱性 / 常染色體
+C. Recessive / Autosome
+📌 詳細解釋
+雜交2（紅雄 × 白雌）和雜交3（白雄 × 紅雌）是正反交實驗，兩者後代全為紅花。
+Cross 2 (Red male × White female) and Cross 3 (White male × Red female) are reciprocal crosses, both yielding all red offspring.
+正反交結果一致，證明控制花色的基因位於常染色體上，與性別無關。
+The identical reciprocal cross results prove that the gene controlling flower color is located on an autosome, unrelated to sex.
+此外，紅花與白花交配後代全為紅花，根據孟德爾遺傳定律，表現出來的紅花為顯性，被隱藏的白花為隱性。
+Furthermore, mating red and white flowers produces all red offspring; according to Mendelian genetics, the expressed red color is dominant, and the hidden white color is recessive.
+因此，白花等位基因是隱性，位於常染色體。
+Therefore, the white flower allele is recessive and located on an autosome.
+📌 考試提醒
+性連鎖遺傳 (Sex-linked inheritance)：如果基因在性染色體上，正反交的結果通常會不同（例如雄性特徵隨雌性親代）。
+Sex-linked inheritance: If a gene is on a sex chromosome, reciprocal crosses usually yield different results (e.g., male traits follow the female parent).
+常見錯誤：學生常忘記利用正反交（Reciprocal cross）的結果來判斷常染色體與性染色體遺傳。
+Common trap: Students often forget to use the results of reciprocal crosses to distinguish between autosomal and sex-linked inheritance.",
+2417,"📌 參考答案
+B. 48 : 46
+B. 48 : 46
+📌 詳細解釋
+在雜交4中，紅花雄性與白花雌性交配，產生了紅花和白花後代。
+In Cross 4, a red male mates with a white female, producing both red and white offspring.
+已知紅花為顯性（設為 R），白花為隱性（設為 r）。白花雌性的基因型必定是 rr。
+It is known that red is dominant (R) and white is recessive (r). The genotype of the white female must be rr.
+由於後代出現了白花（rr），紅花雄性必定提供了一個 r 等位基因，故其基因型為雜合子 Rr。
+Since white offspring (rr) appear, the red male must have provided an 'r' allele, so its genotype is heterozygous Rr.
+這是典型的測試交配（Rr × rr），預期的後代表型比例為 1 紅 : 1 白。
+This is a typical test cross (Rr × rr), and the expected phenotypic ratio of offspring is 1 Red : 1 White.
+選項 B 的 48:46 最接近 1:1 的理論比例。
+Option B's 48:46 is closest to the theoretical 1:1 ratio.
+📌 考試提醒
+測試交配 (Test cross)：用未知基因型的顯性個體與純合隱性個體交配，若後代比例為 1:1，則未知個體為雜合子。
+Test cross: Mating a dominant individual of unknown genotype with a homozygous recessive individual; if the offspring ratio is 1:1, the unknown is heterozygous.
+常見錯誤：學生算對了 1:1 的比例，卻在選項中尋找絕對相等的數字，忽略了實際生物實驗會存在隨機抽樣造成的統計偏差。
+Common trap: Students calculate the 1:1 ratio correctly but look for absolutely equal numbers in the options, ignoring that statistical deviations exist in actual biological experiments due to random sampling.  ",
+2418,"📌 參考答案
+C. 雄性親代可能是白花純合子。
+C. The male parent may be a white-flowered homozygote.
+📌 詳細解釋
+雜交5中，未知雄性與紅花雌性交配，產生了紅花和白花後代。
+In Cross 5, an unknown male mates with a red female, producing red and white offspring.
+既然有白花（rr）後代，代表雌雄親代雙方都必定至少擁有一個隱性的 r 等位基因。
+Since there are white offspring (rr), it means both parents must possess at least one recessive 'r' allele.
+因此，紅花雌性必定是雜合子 Rr（A錯誤）。
+Therefore, the red female must be a heterozygote Rr (A is incorrect).
+未知雄性的基因型可以是 Rr（紅花雜合子）或 rr（白花純合子），兩者皆能提供 r 基因給白花後代。
+The unknown male's genotype can be Rr (red heterozygote) or rr (white homozygote), as both can provide the 'r' allele to the white offspring.
+因此，雄性親代可能是白花純合子（C正確），絕不可能是紅花純合子 RR（B錯誤）。
+Therefore, the male parent may be a white homozygote (C is correct) and absolutely cannot be a red homozygote RR (B is incorrect).
+D錯誤，白花是隱性，只會是純合子，不存在所謂的「白花雜合子」。
+D is incorrect; white is recessive and can only be homozygous, so a so-called ""white heterozygote"" does not exist.
+📌 考試提醒
+隱性特徵 (Recessive traits)：隱性表型只有在純合子 (homozygous) 的狀態下才能表現出來。
+Recessive traits: Recessive phenotypes can only be expressed in a homozygous state.
+常見錯誤：部分學生被選項的字眼迷惑，沒有留意「隱性特徵必然是純合子」這個基本遺傳學常識。
+Common trap: Some students are confused by the wording of the options and overlook the basic genetic fact that ""recessive traits must be homozygous.""",
+2419,"📌 參考答案
+A. X是經由韌皮部運輸的主要碳水化合物形式。
+A. X is the main form of carbohydrate transported via the phloem.
+📌 詳細解釋
+圖中顯示單體 (X)、雙體 (Y) 和聚合物 (Z) 之間的轉換。在植物中，X為單糖（如葡萄糖），Y為雙糖（如蔗糖/麥芽糖），Z為多糖（如澱粉/纖維素）。
+The figure shows conversions among monomers (X), dimers (Y), and polymers (Z). In plants, X is a monosaccharide (e.g., glucose), Y is a disaccharide (e.g., sucrose/maltose), and Z is a polysaccharide (e.g., starch/cellulose).
+選項 A 的陳述不正確，植物在韌皮部作長途運輸的主要碳水化合物是蔗糖，即雙糖 Y，而非單糖 X。
+The statement in option A is incorrect; the main carbohydrate transported over long distances in the phloem of plants is sucrose, which is disaccharide Y, not monosaccharide X.
+B正確，萌發中的種子會將儲存的澱粉(Z)分解成葡萄糖(X)以供細胞呼吸之用。
+B is correct; germinating seeds break down stored starch (Z) into glucose (X) for cellular respiration.
+C正確，葡萄糖(X)是合成植物細胞壁（纖維素）的原料。
+C is correct; glucose (X) is the raw material for synthesizing the plant cell wall (cellulose).
+D正確，葉綠體會將光合作用產生的葡萄糖(X)轉化為澱粉(Z)暫存。
+D is correct; chloroplasts convert glucose (X) produced in photosynthesis into starch (Z) for temporary storage.
+📌 考試提醒
+光合產物運輸 (Transport of photosynthetic products)：葡萄糖反應性高，必須轉化為化學性質較穩定的蔗糖才能在韌皮部中作運輸。
+Transport of photosynthetic products: Glucose is highly reactive and must be converted into chemically stable sucrose for transport in the phloem.
+常見錯誤：學生常以為植物直接運輸光合作用的第一產物（葡萄糖），混淆了製造、運輸和儲存的三種不同碳水化合物形式。
+Common trap: Students often think plants directly transport the primary product of photosynthesis (glucose), confusing the three different carbohydrate forms for production, transport, and storage.",
+2420,"📌 參考答案
+C. 只有(2)和(3)
+C. (2) and (3) only
+📌 詳細解釋
+在人體中，單體 X 為葡萄糖，雙體 Y 為麥芽糖，聚合物 Z 為糖原。
+In the human body, monomer X is glucose, dimer Y is maltose, and polymer Z is glycogen.
+(1) 錯誤，將澱粉或糖原 (Z) 分解為麥芽糖 (Y) 需要澱粉酶，這消化過程發生在口腔和小腸，而胃部只會分泌蛋白酶，不負責消化碳水化合物。
+(1) is incorrect; breaking down starch or glycogen (Z) into maltose (Y) requires amylase, which occurs in the mouth and small intestine, while the stomach only secretes proteases and does not digest carbohydrates.
+(2) 正確，肝臟在胰島素的調節下，會將血液中過多的葡萄糖 (X) 合成為糖原 (Z) 儲存起來。
+(2) is correct; under the regulation of insulin, the liver synthesizes excess blood glucose (X) into glycogen (Z) for storage.
+(3) 正確，除了肝臟，骨骼肌細胞內同樣儲有糖原 (Z)，為肌肉收縮提供能量。
+(3) is correct; besides the liver, skeletal muscle cells also store glycogen (Z) to provide energy for muscle contraction.
+📌 考試提醒
+碳水化合物消化 (Carbohydrate digestion)：人類消化系統中，澱粉的消化只發生在中性至微鹼性的口腔和小腸，強酸性的胃液無法消化糖類。
+Carbohydrate digestion: In the human digestive system, starch digestion only occurs in the neutral to slightly alkaline mouth and small intestine; highly acidic gastric juice cannot digest sugars.
+常見錯誤：學生以為所有食物都在胃部被廣泛消化，忽略了不同消化酶具有嚴格的酸鹼度專一性。
+Common trap: Students assume all food is extensively digested in the stomach, overlooking that different digestive enzymes have strict pH specificities.",
+2421,"📌 參考答案
+A. 儲存膽汁。
+A. Store bile.
+📌 詳細解釋
+題目問及切除膽囊對病人消化能力的影響。
+The question asks about the impact of gallbladder removal on a patient's digestive ability.
+膽汁實際上是由肝臟生產的，膽囊的功能僅為儲存和濃縮膽汁。
+Bile is actually produced by the liver, and the function of the gallbladder is merely to store and concentrate bile.
+切除膽囊後，病人不能再儲存膽汁（A正確，C錯誤）。
+After gallbladder removal, the patient can no longer store bile (A is correct, C is incorrect).
+肝臟仍會持續分泌膽汁流入小腸，但無法在進食高脂食物時瞬間釋放大量膽汁來乳化脂肪，故需減少進食油膩食物。
+The liver still continuously secretes bile into the small intestine, but cannot instantly release a large amount of bile to emulsify fats when eating high-fat foods, hence the need to eat less oily food.
+脂酶由胰臟分泌，其生產與儲存均與膽囊無關（B、D錯誤）。
+Lipase is secreted by the pancreas, and its production and storage are unrelated to the gallbladder (B and D are incorrect).
+📌 考試提醒
+膽囊功能 (Gallbladder function)：膽囊只負責「儲存」肝臟製造的膽汁，它本身絕對不會「生產」任何消化液。
+Gallbladder function: The gallbladder is only responsible for ""storing"" bile produced by the liver; it absolutely does not ""produce"" any digestive juices itself.
+常見錯誤：受器官名稱誤導，學生極常錯誤以為膽汁是由膽囊製造的。
+Common trap: Misled by organ names, students very often mistakenly believe that bile is produced by the gallbladder.  ",
+2422,"📌 參考答案
+A. 只有(1)和(2)
+A. (1) and (2) only
+📌 詳細解釋
+題目要求比較植物向光性與人類瞳孔反射的各個組成部分。
+The question requires comparing the various components of plant phototropism and the human pupillary reflex.
+(1) 正確，向光性的刺激是單向光（光的方向），而瞳孔反射的刺激是光的強度（強光或弱光）。
+(1) is correct; the stimulus for phototropism is unidirectional light (light direction), while for pupillary reflex, it is light intensity (bright or dim light).
+(2) 正確，植物感受光線的部位是枝條頂端，人類則是眼球視網膜上的感光細胞。
+(2) is correct; the plant's light-receptive part is the shoot tip, and for humans, it is the photoreceptors on the retina.
+(3) 錯誤，植物產生彎曲反應的部位是枝條延長區（反應器正確），但人類瞳孔反射真正的反應器是虹膜內的肌肉（環狀肌和放射狀肌），瞳孔只是一個孔洞，不是反應器。
+(3) is incorrect; the plant part showing the bending response is the shoot elongation region (effector correct), but the true effector for the human pupillary reflex is the muscles in the iris (circular and radial muscles); the pupil is just a hole, not an effector.
+📌 考試提醒
+眼睛的反應器 (Effector of the eye)：虹膜肌肉（控制瞳孔大小）和睫狀肌（控制晶體厚度）才是真正的反應器，因為它們能產生收縮反應。
+Effector of the eye: The iris muscles (controlling pupil size) and ciliary muscles (controlling lens thickness) are the actual effectors because they can produce contractile responses.
+常見錯誤：很多考生直覺把「瞳孔」當作反應器，忘記了瞳孔本質上只是光線進入的通道，無法自行收縮。
+Common trap: Many candidates intuitively treat the ""pupil"" as the effector, forgetting that the pupil is essentially just a passageway for light and cannot contract itself.",
+2423,"📌 參考答案
+A. 1
+
+📌 詳細解釋
+題目描述一個探究人類不同部位皮膚兩點辨別感覺的實驗設計。
+The question describes an experimental design investigating the two-point discrimination sensation on different body parts of human skin.
+自變量（Independent Variable）是實驗者刻意改變以觀察其對結果影響的變數。
+The Independent Variable is the variable deliberately changed by the experimenter to observe its effect on the outcome.
+在這個探究中，唯一真正要比較（刻意改變）的是測試的「身體部位」（食指指尖、手心、手背、上臂）。
+In this investigation, the only thing truly being compared (deliberately changed) is the tested ""body part"" (fingertip, palm, back of hand, upper arm).
+卡尺兩尖端距離的調整，只是為了量度出每個身體部位能分辨兩點的「最短距離」，這最短距離是實驗的因變量（Dependent Variable）。
+Adjusting the distance between the caliper tips is only to measure the ""minimum distance"" each body part can discriminate as two points, which is the Dependent Variable of the experiment.
+因此，自變量只有 1 個。
+Therefore, there is only 1 independent variable.
+📌 考試提醒
+識別變量 (Identifying variables)：自變量是起因（我改變什麼來比較），因變量是結果（我最終量度什麼數據）。
+Identifying variables: The independent variable is the cause (what I change to compare), and the dependent variable is the effect (what data I ultimately measure).
+常見錯誤：學生看到步驟 3 寫著「逐漸減少距離」，就誤將「卡尺距離」當作自變量，忽略了這只是一種獲取因變量數據的實驗操作手法。
+Common trap: Seeing ""gradually reduce the distance"" in step 3, students mistakenly identify ""caliper distance"" as the independent variable, ignoring that this is just an experimental operational technique to obtain the dependent variable data.",
+2424,"📌 參考答案
+D. 兩點觸覺分別由兩個沒有重疊的觸覺感受器所產生。
+D. The two-point touch sensation is produced by two non-overlapping touch receptors respectively.
+📌 詳細解釋
+這個實驗透過量度兩點辨別的最短距離，來推論不同皮膚部位感受器的密度。
+This experiment infers the density of receptors in different skin areas by measuring the shortest distance for two-point discrimination.
+其核心假設是，只有當卡尺的兩個尖端分別刺激到兩個具有獨立（無重疊）接收區的觸覺感受器時，大腦才會接收到並分辨出「兩點」的感覺。
+The core assumption is that the brain only receives and discriminates a ""two-point"" sensation when the two tips of the caliper stimulate two separate touch receptors with independent (non-overlapping) receptive fields.
+如果兩個尖端落在同一個感受器的接收區內，大腦只會產生「一點」的觸覺。
+If both tips fall within the receptive field of a single receptor, the brain will only perceive a ""one-point"" sensation.
+選項 A、B、C 分別是實驗操作注意事項、可能得出的結論以及推論邏輯，而非實驗設計背後的生物學假設。
+Options A, B, and C are experimental precautions, possible conclusions, and logical inferences respectively, rather than the biological assumption behind the experimental design.
+📌 考試提醒
+感受器密度與靈敏度 (Receptor density and sensitivity)：皮膚感受器越密集，接收區越小，兩點辨別的最短距離就越短，觸覺越敏銳。
+Receptor density and sensitivity: The denser the skin receptors, the smaller the receptive fields, the shorter the minimum distance for two-point discrimination, and the more sensitive the touch.
+常見錯誤：學生容易把實驗的「推論」（距離近代表密度高）誤認為實驗的「假設」，忽略了假設是確立量度方法的根本前提。
+Common trap: Students easily mistake the ""inference"" of the experiment (shorter distance means higher density) for the ""assumption"", ignoring that the assumption is the fundamental premise establishing the measurement method.",
+2425,"📌 參考答案
+A. 它確保量度的有效性。
+A. It ensures the validity of the measurement.
+📌 詳細解釋
+在實驗過程中隨機將距離調至 0mm，是作為一個內部對照（Blank control）測試。
+Randomly setting the distance to 0mm during the experiment serves as an internal blank control test.
+這可以防止測試對象因習慣或心理預期而盲目猜測並回答「兩點」，確保他們是真切依賴觸覺感受器作答。
+This prevents the test subject from blindly guessing and answering ""two points"" due to habit or psychological expectation, ensuring they genuinely rely on touch receptors to answer.
+這樣能證明實驗真的在量度「皮膚的觸覺敏銳度」，而非「受試者的猜測能力」，這正是科學探究中「有效性」的定義。
+This proves the experiment is truly measuring ""skin tactile sensitivity"" rather than ""the subject's guessing ability,"" which aligns perfectly with the definition of ""validity"" in scientific investigations.
+可靠性（C）與重複測試有關，準確性（B）與儀器刻度有關，兩者皆不適用於解釋防作弊機制的用途。
+Reliability (C) relates to repeated testing, and accuracy (B) relates to instrument calibration; neither applies to explaining the purpose of an anti-cheating mechanism.
+📌 考試提醒
+有效性 (Validity)：實驗設計是否真正量度了它宣稱想要量度的自變量與因變量關係。
+Validity: Whether the experimental design truly measures the relationship between the independent and dependent variables it claims to measure.
+常見錯誤：學生經常混淆有效性（Validity）與可靠性（Reliability）；謹記加入空白對照/控制變數是為了有效性，而重複實驗/計算平均值是為了可靠性。
+Common trap: Students frequently confuse validity with reliability; remember that adding blank controls/controlled variables is for validity, while repeating experiments/calculating averages is for reliability.  ",
+2426,"📌 參考答案
+C. 只有(1)、(2)和(4)
+C. (1), (2) and (4) only
+📌 詳細解釋
+說話是一個複雜的隨意動作，需要腦部多個區域協同工作。
+Talking is a complex voluntary action that requires multiple brain regions working together.
+首先，大腦皮層的聯合區（4）負責思考、組織語言並產生說話的意欲。
+First, the association area (4) of the cerebral cortex is responsible for thinking, organizing language, and generating the intention to speak.
+接著，大腦皮層的運動區（2）會發出神經脈衝，傳遞至控制發音器官的骨骼肌。
+Next, the motor area (2) of the cerebral cortex sends nerve impulses to the skeletal muscles controlling the vocal organs.
+同時，小腦（1）負責協調唇、舌、聲帶等肌肉的精細收縮，確保發音準確流暢。
+Meanwhile, the cerebellum (1) coordinates the fine contractions of muscles in the lips, tongue, and vocal cords to ensure accurate and fluent pronunciation.
+感覺區（3）主要負責接收和處理來自感官（如聽覺、觸覺）的神經脈衝，並不直接負責產生說話的運動指令。
+The sensory area (3) is mainly responsible for receiving and processing nerve impulses from sensory organs (like hearing and touch) and is not directly responsible for generating the motor commands for speaking.
+📌 考試提醒
+小腦功能 (Function of cerebellum)：負責協調隨意肌的活動，維持身體平衡，確保動作（如寫字、說話、步履）平順及準確。
+Function of cerebellum: Responsible for coordinating voluntary muscle activities and maintaining body balance, ensuring actions (like writing, speaking, walking) are smooth and accurate.
+常見錯誤：考生常忽略小腦在「精細肌肉協調」中的關鍵角色，誤以為只要有大腦皮層運動區就能完成流暢的說話動作。
+Common trap: Candidates often overlook the critical role of the cerebellum in ""fine muscle coordination,"" mistakenly thinking the cerebral cortex motor area alone is enough to complete fluent speaking actions.",
+2427,"📌 參考答案
+A. 正在放鬆 / 變得較薄
+A. Relaxing / Becomes thinner
+📌 詳細解釋
+當眼睛觀察正在飛遠的物體（遠物）時，眼球需要進行視覺調節以減低晶體（Q）的折射力。
+When the eye observes an object flying away (distant object), visual accommodation is required to decrease the refractive power of the lens (Q).
+此時，睫狀肌（P）必須放鬆，這會擴大睫狀體的環狀直徑。
+At this time, the ciliary muscles (P) must relax, which increases the circular diameter of the ciliary body.
+這導致懸韌帶被拉緊，從而對晶體（Q）施加拉力。
+This causes the suspensory ligaments to be pulled taut, thereby exerting tension on the lens (Q).
+具有彈性的晶體（Q）因此被拉扯得較薄，使光線恰好聚焦在視網膜上。
+The elastic lens (Q) is therefore pulled thinner, allowing light rays to focus exactly on the retina.
+📌 考試提醒
+看遠物的調節 (Accommodation for distant objects)：睫狀肌放鬆 ➔ 懸韌帶拉緊 ➔ 晶體變薄 ➔ 折射力減弱。
+Accommodation for distant objects: Ciliary muscles relax ➔ suspensory ligaments pull taut ➔ lens becomes thinner ➔ refractive power decreases.
+常見錯誤：學生常錯誤以為「肌肉用力（收縮）」才能把晶體「拉薄」，事實上睫狀肌是環狀肌肉，收縮時反而會令懸韌帶鬆弛。
+Common trap: Students often mistakenly think ""muscle exertion (contraction)"" is needed to ""pull"" the lens thin; in fact, ciliary muscles are circular, and their contraction actually causes the suspensory ligaments to slacken.",
+2428,"📌 參考答案
+B. 太長 / 聚焦在視網膜的前面
+B. Too long / Focuses in front of the retina
+📌 詳細解釋
+美玲看不清楚遠處的小鳥，這屬於近視（短視）的典型症狀。
+Ling cannot clearly see the distant bird, which is a typical symptom of myopia (short-sightedness).
+近視的主要成因是眼球過長，或者晶體過厚導致折射力過強。
+The main causes of myopia are the eyeball being too long, or the lens being too thick, leading to excessive refractive power.
+這導致來自遠處物體的平行光線在到達視網膜之前就已經過早聚焦。
+This causes parallel light rays from distant objects to focus prematurely before reaching the retina.
+因此，影像聚焦在視網膜的前方，投射在視網膜上的只是一個模糊的影像。
+Therefore, the image focuses in front of the retina, and what is projected onto the retina is merely a blurred image.
+📌 考試提醒
+近視與遠視 (Myopia and Hypermetropia)：近視者眼球太長，遠物聚焦於視網膜前（需戴凹透鏡）；遠視者眼球太短，近物聚焦於視網膜後（需戴凸透鏡）。
+Myopia and Hypermetropia: In myopia, the eyeball is too long, focusing distant objects in front of the retina (requires concave lens); in hypermetropia, the eyeball is too short, focusing near objects behind the retina (requires convex lens).
+常見錯誤：考生極易混淆近視和遠視的影像聚焦位置，死記硬背容易出錯，建議畫出光線折射圖來輔助記憶。
+Common trap: Candidates easily confuse the image focus positions of myopia and hypermetropia; rote memorization is prone to errors, so drawing light refraction diagrams is recommended to aid memory.",
+2429,"📌 參考答案
+B. I和II均正確，但II不能解釋I。
+B. Both I and II are correct, but II cannot explain I.
+📌 詳細解釋
+陳述 I 絕對正確，因為性交時女性可能不在排卵期，或者精子數量不足等原因，導致未必懷孕。
+Statement I is absolutely correct because during sexual intercourse, the female might not be in her ovulatory phase, or the sperm count might be insufficient, meaning pregnancy is not guaranteed.
+陳述 II 同樣正確，人類的自然受精過程確實在輸卵管內發生，精子在此處進入卵子形成受精卵。
+Statement II is also correct; human natural fertilization indeed occurs in the oviduct, where the sperm enters the ovum to form a zygote.
+然而，陳述 II 只是描述受精的位置，完全無法作為解釋陳述 I（為何性交不一定懷孕）的原因。
+However, Statement II merely describes the location of fertilization and cannot in any way serve as the reason to explain Statement I (why intercourse does not guarantee pregnancy).
+要解釋陳述 I，必須引用排卵周期、精子存活率或輸卵管閉塞等因素。
+To explain Statement I, factors like the ovulation cycle, sperm survival rate, or blocked oviducts must be cited.
+📌 考試提醒
+科學邏輯 (Scientific logic)：MC 題型中常見評估兩句陳述關係的題目，即使兩句生物學知識皆無誤，也不代表存在必然的因果關係。
+Scientific logic: A common MC question type assesses the relationship between two statements; even if both are biologically sound, it does not mean a causal relationship exists.
+常見錯誤：學生一看到兩句都是課本上的正確事實，就想當然地認為它們一定有因果關係而選 A。
+Common trap: The moment students see both statements are correct facts from the textbook, they take it for granted that there must be a causal relationship and select A.",
+2430,"📌 參考答案
+C. 100 ppm
+C. 100 ppm
+📌 詳細解釋
+要判斷生長素是促進還是抑制生長，必須與濃度為 0 ppm 的對照組比較。
+To determine whether auxin promotes or inhibits growth, it must be compared with the control group at 0 ppm concentration.
+0 ppm 時，枝條長度約為 15.0 mm。
+At 0 ppm, the shoot length is approximately 15.0 mm.
+0.1 ppm、1 ppm 和 10 ppm 的枝條長度（約 24 至 37 mm）均大於 15.0 mm，顯示這些濃度促進了生長。
+The shoot lengths at 0.1 ppm, 1 ppm, and 10 ppm (around 24 to 37 mm) are all greater than 15.0 mm, indicating these concentrations promoted growth.
+在 100 ppm 時，枝條長度為 12.5 至 13.0 mm，短於對照組的 15.0 mm，這證明生長受到了抑制。
+At 100 ppm, the shoot lengths are 12.5 to 13.0 mm, shorter than the control's 15.0 mm, which proves growth was inhibited.
+雖然 1000 ppm 也有抑制作用，但 100 ppm 是圖表中能觀察到抑制效果的「最低」濃度。
+Although 1000 ppm also has an inhibitory effect, 100 ppm is the ""lowest"" concentration in the table where the inhibitory effect is observed.
+📌 考試提醒
+對照組的作用 (Role of control group)：在探究刺激物的影響時，沒有添加該刺激物的實驗組（0 ppm）是判斷其他結果屬促進或抑制的唯一基準線。
+Role of control group: When investigating the effect of a stimulus, the experimental group without the stimulus (0 ppm) is the only baseline for determining whether other results represent promotion or inhibition.
+常見錯誤：學生忘記與 0 ppm 的數據比較，只憑感覺認為 10 ppm 的生長量（24.0mm）比 1 ppm（37.1mm）少就當作是抑制。
+Common trap: Students forget to compare with the 0 ppm data and merely assume that because the growth at 10 ppm (24.0mm) is less than at 1 ppm (37.1mm), it is an inhibition.",
+2431,"📌 參考答案
+D. 這段枝條可能取自分化區。
+D. This shoot segment might be taken from the region of differentiation.
+📌 詳細解釋
+在 1 ppm 生長素濃度下，枝條 1 和 2 的長度激增至約 37 mm，證明這濃度強烈促進細胞延長。
+At 1 ppm auxin concentration, the lengths of shoots 1 and 2 surged to about 37 mm, proving this concentration strongly promotes cell elongation.
+然而，枝條 3 在相同環境下幾乎沒有生長（維持在 10.1 mm）。
+However, shoot 3 barely grew in the same environment (remaining at 10.1 mm).
+在植物解剖學中，延長區的細胞受生長素刺激會吸水伸長，但分化區（成熟區）的細胞已發育完成，細胞壁變得堅厚且缺乏彈性。
+In plant anatomy, cells in the region of elongation absorb water and elongate under auxin stimulation, but cells in the region of differentiation (maturation) have completed development, with cell walls becoming thick, rigid, and inelastic.
+因此，最合理的生物學解釋是這段枝條被錯誤地切取自分化區，喪失了對生長素作出生長反應的能力。
+Therefore, the most reasonable biological explanation is that this shoot segment was mistakenly excised from the region of differentiation, losing the ability to show a growth response to auxin.
+📌 考試提醒
+生長區分佈 (Distribution of growth regions)：植物的生長依序發生於細胞分裂區 ➔ 延長區（生長素作用位置） ➔ 分化區（細胞定型，停止生長）。
+Distribution of growth regions: Plant growth sequentially occurs in the region of cell division ➔ region of elongation (site of auxin action) ➔ region of differentiation (cells specialized, growth stops).
+常見錯誤：考生遇到異常數據就輕率選 A 或 B 當作實驗誤差，忽略了題目要求找出「最能解釋」現象背後的科學原理。
+Common trap: When encountering anomalous data, candidates hastily choose A or B dismissing it as experimental error, ignoring that the question asks for the scientific principle that ""best explains"" the phenomenon.",
+2432,"📌 參考答案
+B. 過程(2)是合成代謝。
+B. Process (2) is anabolism.
+📌 詳細解釋
+過程(2)顯示植物將吸收得來的無機硝酸鹽，轉化為有機的植物蛋白。
+Process (2) shows plants converting absorbed inorganic nitrates into organic plant proteins.
+這牽涉將簡單的小分子合成複雜的大分子（多肽），屬於需要消耗能量的合成代謝，B正確。
+This involves synthesizing simple small molecules into complex large molecules (polypeptides), which is an energy-consuming anabolic process, so B is correct.
+過程(1)是土壤中的有機物分解為銨化合物，這稱為腐化或氨化作用，由腐生細菌/真菌進行，而非固氮細菌（A錯誤）。
+Process (1) is the breakdown of organic matter in soil into ammonium compounds, known as putrefaction or ammonification, carried out by putrefying bacteria/fungi, not nitrogen-fixing bacteria (A is incorrect).
+過程(3)動物進食植物蛋白，經消化後吸收再轉化為動物蛋白，整體包含了同化作用（合成代謝），而非單純的分解代謝（C錯誤）。
+Process (3) involves animals eating plant proteins, digesting and absorbing them, then converting them into animal proteins; this overall includes assimilation (anabolism), not purely catabolism (C is incorrect).
+過程(4)是銨化合物轉化為硝酸鹽，這是硝化作用，由硝化細菌進行，而非反硝化細菌（D錯誤）。
+Process (4) is the conversion of ammonium compounds into nitrates, which is nitrification, carried out by nitrifying bacteria, not denitrifying bacteria (D is incorrect).
+📌 考試提醒
+氮循環的細菌 (Bacteria in the nitrogen cycle)：固氮細菌（氮氣➔氨）、硝化細菌（氨➔亞硝酸鹽➔硝酸鹽）、反硝化細菌（硝酸鹽➔氮氣）、腐生細菌（有機含氮物➔氨）。
+Bacteria in the nitrogen cycle: Nitrogen-fixing bacteria (N2➔ammonia), nitrifying bacteria (ammonia➔nitrite➔nitrate), denitrifying bacteria (nitrate➔N2), putrefying bacteria (organic nitrogenous matter➔ammonia).
+常見錯誤：學生對氮循環圖表的方向和對應細菌死記硬背，經常混淆氨化作用與固氮作用。
+Common trap: Students rote-memorize the directions and corresponding bacteria of the nitrogen cycle chart, frequently confusing ammonification with nitrogen fixation.",
+2433,"📌 參考答案
+D. 只有(2)和(3)
+D. (2) and (3) only
+📌 詳細解釋
+同化作用是指生物將吸收的養分轉化為自身組成的複雜物質的過程。
+Assimilation refers to the process where organisms convert absorbed nutrients into the complex substances that make up their own bodies.
+過程(2)中，植物將硝酸鹽同化成胺基酸，進而合成植物的結構蛋白或酶，這是典型的同化作用。
+In process (2), plants assimilate nitrates into amino acids, and subsequently synthesize structural proteins or enzymes of the plant, which is typical assimilation.
+過程(3)中，動物攝取植物蛋白並將其消化為胺基酸後，會在細胞內同化為動物自身的蛋白質（如肌肉纖維），這也涉及同化作用。
+In process (3), animals ingest plant proteins, digest them into amino acids, and then assimilate them within cells into their own animal proteins (like muscle fibers), which also involves assimilation.
+過程(1)只是真菌和細菌將遺體或排泄物分解成無機物的過程（腐化），並不屬於動植物構建自身的同化作用。
+Process (1) is merely fungi and bacteria breaking down dead bodies or excretions into inorganic matter (putrefaction), which does not belong to plants or animals building themselves up via assimilation.
+📌 考試提醒
+同化作用 (Assimilation)：不要將同化作用與吸收作用混淆；吸收是物質進入血液/細胞，同化是將其編織成身體的一部分。
+Assimilation: Do not confuse assimilation with absorption; absorption is substances entering the blood/cells, while assimilation is weaving them into part of the body.
+常見錯誤：學生容易忽略動物在攝食及消化後，最終會在體內利用這些胺基酸合成自身蛋白質，這亦是同化作用。
+Common trap: Students easily overlook that after animals ingest and digest food, they ultimately use these amino acids internally to synthesize their own proteins, which is also assimilation.",
+2434,"📌 參考答案
+B. 互惠共生 / 捕食
+B. Mutualism / Predation
+📌 詳細解釋
+植物物種 X 分泌糖溶液為螞蟻提供食物，而螞蟻在取食過程中會吃掉蝴蝶的卵，從而保護植物葉片免受毛蟲啃食。
+Plant species X secretes a sugar solution providing food for ants, and while feeding, ants eat the butterfly eggs, thus protecting the plant's leaves from being eaten by caterpillars.
+由於植物（得保護）和螞蟻（得食物）雙方都能從這段關係中獲益，兩者屬於互惠共生關係。
+Since both the plant (gets protection) and the ants (get food) benefit from this relationship, they share a mutualistic relationship.
+另一方面，螞蟻主動進食蝴蝶的卵，這是一種生物以另一種生物為食的行為，清晰地界定為捕食關係。
+On the other hand, ants actively eating the butterfly eggs is an act of one organism feeding on another, clearly defined as a predation relationship.
+📌 考試提醒
+共生關係 (Symbiotic relationships)：互惠共生（雙方得益 +/+）、偏利共生（一方得益、一方無影響 +/0）、寄生（一方得益、一方受害 +/-）。
+Symbiotic relationships: Mutualism (both benefit +/+), commensalism (one benefits, one unaffected +/0), parasitism (one benefits, one harmed +/-).
+常見錯誤：有些學生誤以為吃掉還沒孵化的卵屬於「破壞」或「競爭」，事實上把動物的卵當作食物來源就是標準的捕食行為。
+Common trap: Some students mistakenly think eating unhatched eggs falls under ""destruction"" or ""competition""; in fact, treating animal eggs as a food source is standard predatory behavior.",
+2435,"📌 參考答案
+C. 只有(2)和(3)
+C. (2) and (3) only
+📌 詳細解釋
+這是一道考核達爾文演化論機制的題目。
+This is a question assessing the mechanism of Darwinian evolution.
+(2) 正確，產生新表徵（分泌糖溶液構造）的源頭是基因突變，且突變必須發生在減數分裂（產生配子時），才能遺傳給後代。
+(2) is correct; the source of a new trait (sugar-secreting structure) is genetic mutation, and it must occur during meiosis (when gametes are formed) to be heritable to offspring.
+(1) 錯誤，如果突變只發生在葉細胞（體細胞），這變異會隨著該個體死亡而消失，無法遺傳，不能促成物種演化。
+(1) is incorrect; if the mutation only occurs in leaf cells (somatic cells), this variation will disappear when the individual dies, cannot be inherited, and cannot drive species evolution.
+(3) 正確，擁有這新構造的個體能吸引螞蟻保護，免受毛蟲啃食，這使其生存及繁殖機會更高（自然選擇），最終令這特徵在種群中普及。
+(3) is correct; individuals with this new structure attract ants for protection against caterpillars, giving them higher chances of survival and reproduction (natural selection), ultimately making the trait common in the population.
+📌 考試提醒
+演化的條件 (Conditions for evolution)：引發演化的變異必須是可遺傳的（Heritable），即發生在生殖細胞（配子）的突變。
+Conditions for evolution: Variations that trigger evolution must be heritable, meaning mutations that occur in reproductive cells (gametes).
+常見錯誤：學生忽略了體細胞突變（如皮膚曬黑、葉片受損）是不能傳遞給下一代的，只有牽涉生殖細胞的 DNA 改變才對演化有意義。
+Common trap: Students overlook that somatic cell mutations (like tanned skin or damaged leaves) cannot be passed to the next generation; only DNA changes involving reproductive cells are meaningful for evolution.",
+2436,"第 36 題
+📌 參考答案
+D. (1)、(2)和(3)
+D. (1), (2) and (3)
+📌 詳細解釋
+非特異性防禦是指人體對所有病原體一視同仁、不具針對性的天然防線。
+Non-specific defense refers to the body's natural defensive lines that treat all pathogens equally without targeting specific ones.
+(1) 淚腺分泌的淚液含有溶菌酶，能破壞多種細菌的細胞壁，屬於第一道防線的化學屏障。
+(1) Tears secreted by tear glands contain lysozyme, which can destroy the cell walls of various bacteria, belonging to the chemical barrier of the first line of defense.
+(3) 皮膚及黏膜的上皮組織緊密排列，有效阻擋任何病原體入侵，屬於第一道防線的物理屏障。
+(3) Epithelial tissues of the skin and mucous membranes are tightly packed, effectively blocking the invasion of any pathogens, belonging to the physical barrier of the first line of defense.
+(2) 吞噬細胞會包圍並吞噬任何入侵體內的異物或病原體，屬於第二道防線的非特異性細胞防禦。
+(2) Phagocytes surround and engulf any foreign bodies or pathogens invading the body, belonging to the non-specific cellular defense of the second line of defense.
+因此，三者全部屬於非特異性防禦。
+Therefore, all three belong to non-specific defenses.
+📌 考試提醒
+特異性 vs 非特異性 (Specific vs Non-specific)：只有淋巴細胞（B細胞產生抗體、T細胞殺死受感染細胞）參與的第三道防線才屬於特異性防禦。
+Specific vs Non-specific: Only the third line of defense involving lymphocytes (B cells producing antibodies, T cells killing infected cells) belongs to specific defense.
+常見錯誤：學生容易忘記吞噬作用也是非特異性的一環，誤以為所有涉及白血球的免疫反應都是特異性的。
+Common trap: Students easily forget that phagocytosis is also part of the non-specific defense, mistakenly thinking all immune responses involving white blood cells are specific.",
